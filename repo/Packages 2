@@ -1,0 +1,215 @@
+Package: com.eason.carplay
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: easonwu <admin@easonwu.org>
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>= 8.0)
+Conflicts: de.j-gessner.ccloader, com.eason.carplay
+Filename: deb/com.eason.carplay_1.1-1_iphoneos-arm.deb
+Size: 7014578
+MD5sum: 0b88d75eaf3769147b2a0ec327957f40
+SHA1: f2ccd9a2e0eace83aa0094cb0ca0e2d619f6c1a9
+SHA256: 076deb43b70cc02ee56b4d1f033b8a7ecfb99ef2c4eebb65f5edff019fe7eca5
+Section: Tweaks
+Priority: optional
+Homepage: http://www.easonwu.org
+Description: Let your carplay can run any app that you want!
+Depiction: http://www.easonwu.org
+Name: NGXPlay
+
+Package: com.eason.carplay.ios11
+Version: 2.0-25
+Architecture: iphoneos-arm
+Maintainer: easonwu <admin@easonwu.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5101), applist
+Conflicts: com.eason.carplay
+Filename: deb/com.eason.carplay.ios11_2.0-25_iphoneos-arm.deb
+Size: 3199930
+MD5sum: 361cf74f3fc142196162dd4ec1ddaee4
+SHA1: c9e6ea0ab56109767e1bd2312cd36e01ea994ec4
+SHA256: 070d8007ecd04b19340baa6607f44a5b8821f7c2c7f198f75481d18bad634535
+Section: Tweaks
+Priority: optional
+Homepage: http://www.easonwu.org
+Description: Let your iPhone can mirror to carplay.
+Depiction: http://www.easonwu.org
+Name: NGXPlay11
+
+Package: com.eason.carplay.ios11
+Version: 2.0-30
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Conflicts: com.eason.carplay
+Filename: deb/com.eason.carplay.ios11_2.0-30_iphoneos-arm.deb
+Size: 5944804
+MD5sum: 8c256c7a9a8cdc0f5b08da0c99aac085
+SHA1: 593a3423c463bac10c7dcc14d43b92e0698f2dfd
+SHA256: 152599bceb24d66472669a3cbd6e733112df6de97929cff6cceff9cd95e2e8ef
+Section: Tweaks
+Priority: optional
+Description: Let your iPhone run any app in carplay.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.carplay.ios11
+Name: NGXPlay11
+
+Package: com.eason.carplay.ios11
+Version: 2.0-31
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Conflicts: com.eason.carplay
+Filename: deb/com.eason.carplay.ios11_2.0-31_iphoneos-arm.deb
+Size: 5944872
+MD5sum: f531b38410375fa19b36284c8241ff80
+SHA1: 186b2d0d73fa6d3419766c6cfa714fabba1b23d9
+SHA256: e346faf5f9045aa14ccfc735cd9a1af659a9ac428c39a4f9c119772cbf471b03
+Section: Tweaks
+Priority: optional
+Description: Let your iPhone run any app in carplay.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.carplay.ios11
+Icon: file:///Applications/NGXPlay.app/AppIcon60x60@3x.png
+Name: NGXPlay11
+
+Package: com.eason.carplay.ios11
+Version: 2.0-32
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Conflicts: com.eason.carplay
+Filename: deb/com.eason.carplay.ios11_2.0-32_iphoneos-arm.deb
+Size: 5944854
+MD5sum: 04a06186fbd1ae94974102231f09da9f
+SHA1: 9c487c1088f2cbfd375a252bed4c9c7be333a1d3
+SHA256: 4856a04c6a6949bad3f6cbfc294ad77ba2636fbf3fb8b7f997a59d5fbac75e9c
+Section: Tweaks
+Priority: optional
+Description: Let your iPhone run any app in carplay.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.carplay.ios11
+Icon: file:///Applications/NGXPlay.app/AppIcon60x60@3x.png
+Name: NGXPlay11
+
+Package: com.eason.easimulatetower
+Version: 2.11-57
+Architecture: iphoneos-arm
+Maintainer: easonwu <admin@easonwu.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: de.j-gessner.ccloader
+Filename: deb/com.eason.easimulatetower_2.11-57_iphoneos-arm.deb
+Size: 8945630
+MD5sum: e78f6b684a8edc6943f081a59fb4052c
+SHA1: 14dc4007bc4a15e7395bced2055af6bd195d8aa1
+SHA256: 5e204bd496a0e2a255c82cb12387b2ac8ce62b400c6d6b7f9a60d08663dee3c1
+Section: Tweaks
+Priority: optional
+Homepage: http://www.easonwu.org
+Description: Puzzle & Dragons, Tower of Saviors, Reversal of the Three Kingdoms, Sango Puzzle .
+Depiction: http://www.easonwu.org
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.11-58
+Architecture: iphoneos-arm
+Maintainer: easonwu <admin@easonwu.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: de.j-gessner.ccloader
+Filename: deb/com.eason.easimulatetower_2.11-58_iphoneos-arm.deb
+Size: 8945642
+MD5sum: 228d67c3bf16bf1638f7ae406348802d
+SHA1: 9c5ae6ee44937c4410c965eddc8a3482604b39a7
+SHA256: c5123673b3c2ffc269981c2e445789deb98e20a5def0f649ab91782072711407
+Section: Tweaks
+Priority: optional
+Homepage: http://www.easonwu.org
+Description: Puzzle & Dragons, Tower of Saviors, Reversal of the Three Kingdoms, Sango Puzzle .
+Depiction: http://www.easonwu.org
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.11-59
+Architecture: iphoneos-arm
+Maintainer: easonwu <admin@easonwu.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: de.j-gessner.ccloader
+Filename: deb/com.eason.easimulatetower_2.11-59_iphoneos-arm.deb
+Size: 8947328
+MD5sum: d07c66fbf7047cac840d53ebb7356aa1
+SHA1: c73600412d058ae949726c84dd082483ffca82dc
+SHA256: a0b62401424c2e679d9c9d67fd839e5cf048b4ab7ca4668e6b6314bf6af79710
+Section: Tweaks
+Priority: optional
+Homepage: http://www.easonwu.org
+Description: Puzzle & Dragons, Tower of Saviors, Reversal of the Three Kingdoms, Sango Puzzle .
+Depiction: http://www.easonwu.org
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.11-60
+Architecture: iphoneos-arm
+Maintainer: easonwu <admin@easonwu.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: de.j-gessner.ccloader
+Filename: deb/com.eason.easimulatetower_2.11-60_iphoneos-arm.deb
+Size: 8947220
+MD5sum: 512d4eb96955750af214a3464e2ebe1e
+SHA1: d74a8d052c695b65fba1ae02b4593211d0d96397
+SHA256: bf7331778e7ee8d73c5a9faf76fdfb1c4c5df7602a0e095915db9a8d36c47a82
+Section: Tweaks
+Priority: optional
+Homepage: http://www.easonwu.org
+Description: Puzzle & Dragons, Tower of Saviors, Reversal of the Three Kingdoms, Sango Puzzle .
+Depiction: http://www.easonwu.org
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.11-61
+Architecture: iphoneos-arm
+Maintainer: easonwu <admin@easonwu.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: de.j-gessner.ccloader
+Filename: deb/com.eason.easimulatetower_2.11-61_iphoneos-arm.deb
+Size: 8947136
+MD5sum: 628a1174dbe4df87ad34861fa3f70c91
+SHA1: 8ad5a186301d97279dda4eedc0de6db6d8ece2c9
+SHA256: dd3f395323087ce0e5884c3c0d8e6aabfae73cff93dba77587cf54de40ca077d
+Section: Tweaks
+Priority: optional
+Homepage: http://www.easonwu.org
+Description: Puzzle & Dragons, Tower of Saviors, Reversal of the Three Kingdoms, Sango Puzzle .
+Depiction: http://www.easonwu.org
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.11-63
+Architecture: iphoneos-arm
+Maintainer: easonwu <admin@easonwu.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: de.j-gessner.ccloader
+Filename: deb/com.eason.easimulatetower_2.11-63_iphoneos-arm.deb
+Size: 8950448
+MD5sum: 0ff4120feea26da079fcadc6696ebb23
+SHA1: 078727042d0811b6acbcb2d13d65b4b2a243473f
+SHA256: 5d79b48462a5e18c45704d02675ff1239ba774bc92ecf15ba5762f5939512857
+Section: Tweaks
+Priority: optional
+Homepage: http://www.easonwu.org
+Description: Puzzle & Dragons, Tower of Saviors, Reversal of the Three Kingdoms, Sango Puzzle .
+Depiction: http://www.easonwu.org
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.11-64
+Architecture: iphoneos-arm
+Maintainer: easonwu <admin@easonwu.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: de.j-gessner.ccloader
+Filename: deb/com.eason.easimulatetower_2.11-64_iphoneos-arm.deb
+Size: 8949794
+MD5sum: 5711dab5559701c0571b6a4b404d1f83
+SHA1: 23c87477f3d63da02d4adfabf3e27e36fcfd20d8
+SHA256: 063aa37fcad651ba16e0a555d038034c9c4bd3381b92cfdd995ce3d53ad69db2
+Section: Tweaks
+Priority: optional
+Homepage: http://www.easonwu.org
+Description: Puzzle & Dragons, Tower of Saviors, Reversal of the Three Kingdoms, Sango Puzzle .
+Depiction: http://www.easonwu.org
+Name: EASimulateTower
+
