@@ -3,7 +3,14 @@
 		<link>
 			<name>Follow me on Facebook</name>
 			<url>https://www.facebook.com/Eas0wST/</url>
-			<iconclass>../img/icon-facebook.png</iconclass>
+			<iconclass>../../img/icon-facebook.png</iconclass>
 		</link>
+        <link>
+            <name>Donate</name>
+            <url>https://www.paypal.me/easimulatecar/</url>
+            <iconclass>https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-small.png</iconclass>
+        </link>
+
+        
 	</footerlinks>
 </repo>
