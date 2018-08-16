@@ -35,24 +35,6 @@ Depiction: http://www.easonwu.org
 Name: NGXPlay11
 
 Package: com.eason.carplay.ios11
-Version: 2.0-32
-Architecture: iphoneos-arm
-Maintainer: easonwu <easonwumac@gmail.com>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
-Conflicts: com.eason.carplay
-Filename: deb/com.eason.carplay.ios11_2.0-32_iphoneos-arm.deb
-Size: 5944890
-MD5sum: 1c907f4357185686f03d36da46fb5930
-SHA1: c3a347561bf5bfd1be06a94fc35e31857b79a5e1
-SHA256: 1367b0bb834cd909c2684c152d5e5543d19cabf1bb59c5ad17ea5a34f01e1c7b
-Section: Tweaks
-Priority: optional
-Description: Let your iPhone run any app in carplay.
-Depiction: https://repo.easonwu.org/depictions/?p=com.eason.carplay.ios11
-Icon: file:///Applications/NGXPlay.app/AppIcon60x60@3x.png
-Name: NGXPlay11
-
-Package: com.eason.carplay.ios11
 Version: 2.0-33
 Architecture: iphoneos-arm
 Maintainer: easonwu <easonwumac@gmail.com>
@@ -140,5 +122,21 @@ Priority: optional
 Homepage: http://www.easonwu.org
 Description: Puzzle & Dragons, Tower of Saviors, Reversal of the Three Kingdoms, Sango Puzzle .
 Depiction: http://www.easonwu.org
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
+Version: 2.11-65
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.11-65_iphoneos-arm.deb
+Size: 8676540
+MD5sum: 831ebf0252ad494647a99b3cde5f101e
+SHA1: 78033f67695408700c36b6e62580cec48e9d1b4d
+SHA256: 1ecadc3d9339708c6406456ad57ddca31eae325ee25a509a1053aa3afc0dc73f
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
 Name: EASimulateTower
 
