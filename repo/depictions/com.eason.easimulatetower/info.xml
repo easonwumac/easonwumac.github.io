@@ -1,17 +1,20 @@
 <package>
 	<id>com.eason.easimulatetower</id>
 	<name>EASimulateTower</name>
-	<version>2.11-64</version>
+	<version>version</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies />
 	<descriptionlist>
 		<description>Auto tool for tos and pad</description>
 	</descriptionlist>
-	<screenshots></screenshots>
-	<links></links>
+	<screenshots />
+	<changelog>
+		<change>Fix</change>
+	</changelog>
+	<links />
 </package>
