@@ -1,20 +1,20 @@
 <package>
 	<id>com.eason.carplay.ios11</id>
 	<name>NGXPlay11</name>
-	<version>2.0-33</version>
+	<version>2.0.35</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies />
 	<descriptionlist>
 		<description>Let your iPhone run any app in carplay.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots />
 	<changelog>
-		<change>Fix bug</change>
+		<change>123</change>
 	</changelog>
-	<links></links>
+	<links />
 </package>
