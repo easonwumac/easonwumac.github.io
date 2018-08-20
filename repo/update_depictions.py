@@ -6,6 +6,8 @@ bundle_name = sys.argv[1]
 version = sys.argv[2]
 message = sys.argv[3]
 
+print bundle_name version message
+
 dirpath = os.path.join('depictions', bundle_name) 
 
 print 'edit package ' + dirpath ;
