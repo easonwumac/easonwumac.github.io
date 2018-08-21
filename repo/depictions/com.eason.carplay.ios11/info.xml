@@ -1,7 +1,7 @@
 <package>
 	<id>com.eason.carplay.ios11</id>
 	<name>NGXPlay11</name>
-	<version>2.0.35</version>
+	<version>version</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
@@ -14,7 +14,7 @@
 	</descriptionlist>
 	<screenshots />
 	<changelog>
-		<change>123</change>
+		<change>update</change>
 	</changelog>
 	<links />
 </package>
