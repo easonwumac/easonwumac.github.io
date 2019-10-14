@@ -53,6 +53,24 @@ Icon: file:///Applications/NGXPlay.app/AppIcon60x60@3x.png
 Name: NGXPlay11
 
 Package: com.eason.carplay.ios11
+Version: 2.1-10
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Conflicts: com.eason.carplay
+Filename: deb/com.eason.carplay.ios11_2.1-10_iphoneos-arm.deb
+Size: 8271602
+MD5sum: 7f42bd37d275d7caba3b73b190e04782
+SHA1: eee92297b512bc499682a751d84990742105fe2a
+SHA256: 01a6629cc218d212b16603de372cb43f1127fb0d511107fe6983ec81b7f6d27c
+Section: Tweaks
+Priority: optional
+Description: Let your iPhone run any app in carplay.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.carplay.ios11
+Icon: file:///Applications/NGXPlay.app/AppIcon60x60@3x.png
+Name: NGXPlay11
+
+Package: com.eason.carplay.ios11
 Version: 2.1-3
 Architecture: iphoneos-arm
 Maintainer: easonwu <easonwumac@gmail.com>
