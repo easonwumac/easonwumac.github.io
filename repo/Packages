@@ -349,6 +349,22 @@ Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
 Name: EASimulateTower
 
 Package: com.eason.easimulatetower
+Version: 2.12-35
+Architecture: iphoneos-arm
+Maintainer: easonwu <easonwumac@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: deb/com.eason.easimulatetower_2.12-35_iphoneos-arm.deb
+Size: 9923076
+MD5sum: 96c44f975c2129d1db9fe6d4efbb9cb7
+SHA1: 5666c29f96935d15f31997f2c3a83e2ab772142c
+SHA256: 062bedf4ebb7083b1957717ae1877b0c47ff0f9ba2a0c8e123b74f4e2c9fa225
+Section: Tweaks
+Priority: optional
+Description: Auto tool for Puzzle & Dragons, Tower of Saviors.
+Depiction: https://repo.easonwu.org/depictions/?p=com.eason.easimulatetower
+Name: EASimulateTower
+
+Package: com.eason.easimulatetower
 Version: 2.12-5
 Architecture: iphoneos-arm
 Maintainer: easonwu <easonwumac@gmail.com>
