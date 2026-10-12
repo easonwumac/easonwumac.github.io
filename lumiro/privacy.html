@@ -25,7 +25,8 @@
       <p>實測紀錄包含精確位置、規劃路線、車速、相對感測量測與位移，以及里程辨識結果，不包含影像、聲音、藍牙裝置識別或原始裝置開機時間。分享前請確認位置資訊；匯出由使用者選擇接收者。</p>
       <p>相機僅在前景提供實景及無聲錄影；背景停止相機，導航仍可使用位置。麥克風由語音按鈕啟用，只使用裝置端辨識，不支援時可輸入文字。Apple Foundation Models 在支援裝置上本機處理指令，不可用時使用基本規則。BLE OBD 由使用者選擇連接，車速用於粗略隧道估算。</p>
       <h2>廣告與追蹤</h2>
-      <p>Lumiro 沒有廣告或追蹤 SDK。</p>
+      <p>Lumiro 使用 Google AdMob 顯示插頁廣告，只在停妥、沒有導航或錄影時出現，行車中與 CarPlay 上不會顯示。載入廣告前，App 透過 Google User Messaging Platform（UMP）處理適用的廣告同意流程。Lumiro 不請求 App 追蹤授權（ATT），也不把你的位置、路線或影像交給廣告服務。</p>
+      <p>AdMob 可能蒐集裝置識別碼、IP 位址、使用與廣告互動資料，以及效能與當機診斷資料，用於廣告投放、衡量與服務運作。詳見 <a href="https://policies.google.com/privacy">Google 隱私權政策</a>及 <a href="https://developers.google.com/admob/ios/privacy/data-disclosure">AdMob 資料使用說明</a>。</p>
       <h2>第三方服務</h2>
       <p>Apple MapKit 提供地圖、搜尋、路線及路況圖層；相關搜尋文字、起點及目的地會傳至 Apple。公開資料更新連線至資料來源。</p>
       <p>OSM 附近下載會依目前位置選擇固定 0.05° 區域格網，南北約 5.5 公里，並擴大至涵蓋附近資料後送至 Overpass；本機距離與方向判斷仍使用精確位置。Overpass 以網路位址管理流量，可能保存包含區域座標的查詢紀錄；格網查詢可推測你的大致所在區域。它不隱藏網路位址，也不保證連續查詢無法提高位置推論能力。</p>
@@ -46,7 +47,8 @@
       <p>Diagnostic logs contain precise locations, planned routes, speeds, relative sensor measurements and displacement, and mileage-recognition results. They contain no camera images, audio, Bluetooth device identifiers, or raw device uptime. Review location information before sharing; you choose the recipient when exporting.</p>
       <p>The camera provides a live view and silent recording only in the foreground. It stops in the background, while navigation may continue using location. The voice button activates the microphone; recognition is on device only, with typed input when unsupported. Apple Foundation Models processes commands locally on supported devices, with basic-rule fallbacks when unavailable. You choose whether to connect BLE OBD; vehicle speed is used for coarse tunnel estimates.</p>
       <h2>Ads and tracking</h2>
-      <p>Lumiro has no ads or tracking SDK.</p>
+      <p>Lumiro uses Google AdMob to show interstitial ads only while you are parked and not navigating or recording; no ads appear while driving or on CarPlay. Before loading ads, the app uses Google’s User Messaging Platform (UMP) for applicable advertising consent. Lumiro does not request App Tracking Transparency permission and does not share your location, routes or video with the ad service.</p>
+      <p>AdMob may collect device identifiers, IP addresses, usage and ad interaction data, and performance and crash diagnostics for ad delivery, measurement and service operation. See <a href="https://policies.google.com/privacy">Google’s Privacy Policy</a> and <a href="https://developers.google.com/admob/ios/privacy/data-disclosure">AdMob’s data disclosure</a>.</p>
       <h2>Third-party services</h2>
       <p>Apple MapKit provides maps, search, routes, and traffic layers. Relevant search text, starting points, and destinations are sent to Apple. Public-data updates connect to their data sources.</p>
       <p>Nearby OSM downloads use your current location to select fixed 0.05-degree grid bounds, spanning about 5.5 km north to south, and expand them to cover nearby data before sending them to Overpass. Precise location remains in use for local distance and direction checks. Overpass uses network addresses to manage traffic and may retain queries containing geographic bounds. Grid queries can reveal your approximate area. Gridding does not hide your network address or guarantee that repeated queries cannot improve location inference.</p>
