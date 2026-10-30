@@ -43,6 +43,10 @@
       <h2>匿名使用統計（提供此功能的更新版本）</h2>
       <p>更新版本可回報首次量測啟動、每日使用、首次功能開始／完成，以及次日與第七日回訪的日期與彙總次數；升級用戶也會納入首次量測，不代表新增下載。Inside 的功能完成指引可能包含使用者略過的項目；停車遊戲以第一關開始及完成計。這些統計不含檢查結果、備註、錄音、遊戲存檔、廣告識別碼或固定裝置／安裝識別碼。</p>
       <p>資料透過 agentmesh.uk 傳送，由 Cloudflare 提供網路與儲存服務。每個事件的獨立隨機收據僅用於避免重複計數，七日後清除；彙總次數保留 180 日。我們的統計資料庫不保存 IP 位址、來源網址或瀏覽器指紋；Cloudflare 會為提供服務處理網路請求。可在 App 設定關閉匿名使用統計，停止後續傳送並清空尚未送出的事件；已彙總的資料無法對應個人刪除。舊版未包含此回報功能。詳見 <a href="https://agentmesh.uk/metrics/privacy">使用統計與隱私</a>。</p>
+      <h2>Google Analytics for Firebase（1.6.0 起）</h2>
+      <p>1.6.0 起，Inside 在匿名使用統計之外也使用 Google Analytics for Firebase，了解哪些畫面與功能被使用。傳送的事件包括首次開啟、使用時段、App 內購買、分頁與充電時鐘的畫面瀏覽，以及完成了哪一項檢查（不含檢查結果、備註、錄音或報告內容），並附上 Firebase 產生的隨機 App 執行個體 ID。Inside 不讓 Firebase 讀取廣告識別碼或供應商識別碼（IDFV），廣告用途的同意一律拒絕；適用 GDPR 的地區依你在廣告隱私選項的選擇決定是否儲存分析資料。資料由 Google 處理，可能傳送至你所在地區以外的伺服器。設定 ›「隱私與資料」的匿名使用統計開關同時控制 Firebase，關閉後停止收集。</p>
+      <h2>Apple Watch（1.6.0 起）</h2>
+      <p>Apple Watch App 的檢查結果、手錶機型識別碼、watchOS 版本與電池狀態，只在手錶與配對的 iPhone 之間透過 Apple 的 Watch Connectivity 傳送，保存在 iPhone 的 Inside 資料中，不上傳到我們或第三方。iPhone 的電量與充電狀態也只傳到手錶與錶面複雜功能。手錶麥克風檢查只在你按下錄音時要求權限，錄音約三秒、只用來顯示音量，錄完立即刪除。Firebase 只記錄完成了哪一項手錶檢查，不含結果。</p>
       <h2>廣告與追蹤</h2>
       <p>Inside 免費使用，顯示橫幅廣告、完成引導驗機後的插頁廣告，以及由你自行選擇觀看、換取 24 小時風格試用的激勵廣告，透過 Google Mobile Ads 與 User Messaging Platform（UMP）管理適用的廣告同意。廣告請求為非個人化，Google 可能使用 App 內容或大致城市位置等情境資料；非個人化廣告仍可能涉及 IP 位址、裝置資訊、廣告互動與診斷資料處理。適用時可以從設定重新開啟廣告隱私選項。</p>
       <p>提供廣告識別碼顯示的更新版本可在「裝置與系統」顯示並複製本機的廣告識別碼，只有你點按時才會要求 App 追蹤透明度權限。允許後 Google Mobile Ads SDK 也能讀取這個識別碼，Inside 的廣告請求仍維持非個人化；不允許時識別碼為零。可隨時在 iOS 設定的「隱私權與安全性」›「追蹤」更改。舊版不要求追蹤權限。</p>
@@ -50,13 +54,13 @@
       <h2>購買</h2>
       <p>免費使用，提供去廣告買斷、充電時鐘風格包與「全部風格」的 App 內購買；沒有訂閱。價格與可用項目以 App 內 App Store 資訊為準，可在設定恢復購買。</p>
       <h2>第三方服務</h2>
-      <p>廣告資料處理請參閱 <a href="https://policies.google.com/technologies/partner-sites">Google 廣告資料說明</a>。接收你主動匯出內容的服務由你選擇，其處理方式依該服務政策。</p>
+      <p>廣告與 Firebase 分析資料處理請參閱 <a href="https://policies.google.com/technologies/partner-sites">Google 合作夥伴網站資料說明</a>與 <a href="https://firebase.google.com/support/privacy">Firebase 隱私權與安全性</a>。接收你主動匯出內容的服務由你選擇，其處理方式依該服務政策。</p>
       <h2>資料刪除</h2>
       <p>你可主動分享健檢文字報告、匯入分析摘要或觀察 CSV，也可從健檢重新一輪、紀錄頁清除觀察資料，或在硬體分析報告頁清除報告與匯入摘要。你也可以在硬體分析報告頁主動分享摘要。</p>
       <h2>聯絡我們</h2>
       <p>客服與隱私問題：<a href="mailto:easonwumac@gmail.com">easonwumac@gmail.com</a>。回報問題時，請提供 App 版本、iOS 版本、機型與重現步驟；不要附上整份診斷檔、私人錄音或敏感備註。</p>
       <h2>更新日期</h2>
-      <p class="meta">更新日期：<time datetime="2026-10-28">2026-10-28</time></p>
+      <p class="meta">更新日期：<time datetime="2026-10-30">2026-10-30</time></p>
     </section>
     <section id="en" lang="en" aria-label="English">
       <h2>Summary</h2>
@@ -69,6 +73,10 @@
       <h2>Anonymous usage counts (updates that include this feature)</h2>
       <p>Updated versions can report dates and counts for first measured opens, daily activity, first measured task starts and completions, and returns on day 1 and day 7. Existing users who upgrade are included in first measured opens; these are not new-download counts. Inside counts a finished guided check, which may include skipped steps; the parking game counts starting and completing level one. No check results, notes, recordings, game saves, advertising IDs, or persistent device or installation identifiers are included.</p>
       <p>Reports are sent to agentmesh.uk using Cloudflare for networking and storage. Independent random event receipts prevent duplicate delivery and are removed after seven days; aggregate counts are retained for 180 days. Our metrics database does not store IP addresses, referrers, or browser fingerprints; Cloudflare processes network requests to provide the service. Turn off anonymous usage counts in app settings to stop future reporting and clear unsent events. Aggregate data cannot be linked to a person for individual deletion. Older versions do not include this reporting. See <a href="https://agentmesh.uk/metrics/privacy">usage counts and privacy</a>.</p>
+      <h2>Google Analytics for Firebase (from 1.6.0)</h2>
+      <p>From version 1.6.0, Inside also uses Google Analytics for Firebase, beside the anonymous usage counts, to learn which screens and features are used. Events include first open, sessions, in-app purchases, views of the tabs and the charging clock, and which check was finished (never check results, notes, recordings or report content), together with a random app instance ID created by Firebase. Inside does not let Firebase read the advertising identifier or the identifier for vendors (IDFV), and advertising consent is always denied; where the GDPR applies, analytics storage follows your choice in the ad privacy options. Google processes the data, which may be sent to servers outside your region. The anonymous usage counts switch in Settings › Privacy and data also controls Firebase; turning it off stops collection.</p>
+      <h2>Apple Watch (from 1.6.0)</h2>
+      <p>The Apple Watch app’s check results, the watch’s model identifier, watchOS version and battery status move only between the watch and the paired iPhone through Apple’s Watch Connectivity and are kept in Inside’s data on the iPhone; they are not uploaded to us or third parties. The iPhone’s battery level and charging state go only to the watch and its complications. The watch microphone check asks for permission only when you tap Record; the recording lasts about three seconds, is used only to show the input level and is deleted at once. Firebase records only which watch check was finished, not its result.</p>
       <h2>Ads and tracking</h2>
       <p>Inside is free and shows banner ads, an interstitial ad after a finished guided check, and a rewarded ad you can choose to watch for a 24-hour style trial. Google Mobile Ads and the User Messaging Platform (UMP) manage applicable advertising consent. Ad requests are non-personalized; Google may use context such as the content of the app or your approximate, city-level location. Non-personalized ads may still involve processing IP addresses, device information, ad interactions, and diagnostic data. When applicable, you can reopen ad privacy options from Settings.</p>
       <p>Updates that offer it can show and copy this device’s advertising identifier in Device and system, and ask for App Tracking Transparency permission only when you tap. If you allow it, the Google Mobile Ads SDK can also read the identifier, and Inside’s ad requests stay non-personalized; if you do not, the identifier is all zeros. You can change this at any time in iOS Settings › Privacy &amp; Security › Tracking. Older versions do not ask for tracking permission.</p>
@@ -76,13 +84,13 @@
       <h2>Purchases</h2>
       <p>The app is free, with one-time in-app purchases for removing ads, charging-clock style packs and All Styles, and no subscription. Prices and availability come from the App Store in the app. Restore purchases in Settings.</p>
       <h2>Third-party services</h2>
-      <p>See <a href="https://policies.google.com/technologies/partner-sites">Google’s advertising data information</a> for advertising data practices. You choose the services that receive content you export; their handling of it follows their own policies.</p>
+      <p>See <a href="https://policies.google.com/technologies/partner-sites">how Google uses information from partner sites</a> and <a href="https://firebase.google.com/support/privacy">Firebase privacy and security</a> for advertising and Firebase analytics data practices. You choose the services that receive content you export; their handling of it follows their own policies.</p>
       <h2>Deleting your data</h2>
       <p>You can choose to share a checkup text report, imported analysis summary, or observation CSV. You can start a new checkup round, clear observation data on the records page, or clear the report and imported summary on the hardware analysis report page. You can also choose to share a summary from the hardware analysis report page.</p>
       <h2>Contact</h2>
       <p>For support and privacy questions, email <a href="mailto:easonwumac@gmail.com">easonwumac@gmail.com</a>. For an issue report, include the app version, iOS version, device model, and steps to reproduce. Do not attach complete diagnostic files, private recordings, or sensitive notes.</p>
       <h2>Last updated</h2>
-      <p class="meta">Last updated: <time datetime="2026-10-28">2026-10-28</time></p>
+      <p class="meta">Last updated: <time datetime="2026-10-30">2026-10-30</time></p>
     </section>
     <footer>
       <p>© 2026 easonwumac · <a href="mailto:easonwumac@gmail.com">easonwumac@gmail.com</a></p>
