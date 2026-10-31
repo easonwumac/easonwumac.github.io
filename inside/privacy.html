@@ -45,6 +45,8 @@
       <p>資料透過 agentmesh.uk 傳送，由 Cloudflare 提供網路與儲存服務。每個事件的獨立隨機收據僅用於避免重複計數，七日後清除；彙總次數保留 180 日。我們的統計資料庫不保存 IP 位址、來源網址或瀏覽器指紋；Cloudflare 會為提供服務處理網路請求。可在 App 設定關閉匿名使用統計，停止後續傳送並清空尚未送出的事件；已彙總的資料無法對應個人刪除。舊版未包含此回報功能。詳見 <a href="https://agentmesh.uk/metrics/privacy">使用統計與隱私</a>。</p>
       <h2>Google Analytics for Firebase（1.6.0 起）</h2>
       <p>1.6.0 起，Inside 在匿名使用統計之外也使用 Google Analytics for Firebase，了解哪些畫面與功能被使用。傳送的事件包括首次開啟、使用時段、App 內購買、分頁與充電時鐘的畫面瀏覽，以及完成了哪一項檢查（不含檢查結果、備註、錄音或報告內容），並附上 Firebase 產生的隨機 App 執行個體 ID。Inside 不讓 Firebase 讀取廣告識別碼或供應商識別碼（IDFV），廣告用途的同意一律拒絕；適用 GDPR 的地區依你在廣告隱私選項的選擇決定是否儲存分析資料。資料由 Google 處理，可能傳送至你所在地區以外的伺服器。設定 ›「隱私與資料」的匿名使用統計開關同時控制 Firebase，關閉後停止收集。</p>
+      <h2>Firebase Crashlytics（1.7.0 起）</h2>
+      <p>1.7.0 起，Inside 使用 Firebase Crashlytics 回報當機，以便修正問題。當機報告包含當機時的程式堆疊、App 版本、iOS 版本、裝置機型、可用記憶體與儲存空間，以及 Crashlytics 產生的隨機安裝識別碼；不含檢查結果、備註、錄音、報告內容或廣告識別碼。資料由 Google 處理，可能傳送至你所在地區以外的伺服器。設定 ›「隱私與資料」的匿名使用統計開關同時控制 Crashlytics，關閉後不再傳送。Apple 也可能依你在 iOS 的「分析與改進」設定提供當機報告給開發者。</p>
       <h2>Apple Watch（1.6.0 起）</h2>
       <p>Apple Watch App 的檢查結果、手錶機型識別碼、watchOS 版本與電池狀態，只在手錶與配對的 iPhone 之間透過 Apple 的 Watch Connectivity 傳送，保存在 iPhone 的 Inside 資料中，不上傳到我們或第三方。iPhone 的電量與充電狀態也只傳到手錶與錶面複雜功能。手錶麥克風檢查只在你按下錄音時要求權限，錄音約三秒、只用來顯示音量，錄完立即刪除。Firebase 只記錄完成了哪一項手錶檢查，不含結果。</p>
       <h2>廣告與追蹤</h2>
@@ -60,7 +62,7 @@
       <h2>聯絡我們</h2>
       <p>客服與隱私問題：<a href="mailto:easonwumac@gmail.com">easonwumac@gmail.com</a>。回報問題時，請提供 App 版本、iOS 版本、機型與重現步驟；不要附上整份診斷檔、私人錄音或敏感備註。</p>
       <h2>更新日期</h2>
-      <p class="meta">更新日期：<time datetime="2026-10-30">2026-10-30</time></p>
+      <p class="meta">更新日期：<time datetime="2026-10-31">2026-10-31</time></p>
     </section>
     <section id="en" lang="en" aria-label="English">
       <h2>Summary</h2>
@@ -75,6 +77,8 @@
       <p>Reports are sent to agentmesh.uk using Cloudflare for networking and storage. Independent random event receipts prevent duplicate delivery and are removed after seven days; aggregate counts are retained for 180 days. Our metrics database does not store IP addresses, referrers, or browser fingerprints; Cloudflare processes network requests to provide the service. Turn off anonymous usage counts in app settings to stop future reporting and clear unsent events. Aggregate data cannot be linked to a person for individual deletion. Older versions do not include this reporting. See <a href="https://agentmesh.uk/metrics/privacy">usage counts and privacy</a>.</p>
       <h2>Google Analytics for Firebase (from 1.6.0)</h2>
       <p>From version 1.6.0, Inside also uses Google Analytics for Firebase, beside the anonymous usage counts, to learn which screens and features are used. Events include first open, sessions, in-app purchases, views of the tabs and the charging clock, and which check was finished (never check results, notes, recordings or report content), together with a random app instance ID created by Firebase. Inside does not let Firebase read the advertising identifier or the identifier for vendors (IDFV), and advertising consent is always denied; where the GDPR applies, analytics storage follows your choice in the ad privacy options. Google processes the data, which may be sent to servers outside your region. The anonymous usage counts switch in Settings › Privacy and data also controls Firebase; turning it off stops collection.</p>
+      <h2>Firebase Crashlytics (from 1.7.0)</h2>
+      <p>From version 1.7.0, Inside uses Firebase Crashlytics to report crashes so we can fix them. A crash report contains the stack trace, app and iOS versions, device model, free memory and storage, and a random installation ID created by Crashlytics; never check results, notes, recordings, report content or the advertising identifier. Google processes the data, which may be sent to servers outside your region. The anonymous usage counts switch in Settings › Privacy and data also controls Crashlytics; turning it off stops sending. Apple may also share crash reports with developers according to your Analytics &amp; Improvements setting in iOS.</p>
       <h2>Apple Watch (from 1.6.0)</h2>
       <p>The Apple Watch app’s check results, the watch’s model identifier, watchOS version and battery status move only between the watch and the paired iPhone through Apple’s Watch Connectivity and are kept in Inside’s data on the iPhone; they are not uploaded to us or third parties. The iPhone’s battery level and charging state go only to the watch and its complications. The watch microphone check asks for permission only when you tap Record; the recording lasts about three seconds, is used only to show the input level and is deleted at once. Firebase records only which watch check was finished, not its result.</p>
       <h2>Ads and tracking</h2>
@@ -90,7 +94,7 @@
       <h2>Contact</h2>
       <p>For support and privacy questions, email <a href="mailto:easonwumac@gmail.com">easonwumac@gmail.com</a>. For an issue report, include the app version, iOS version, device model, and steps to reproduce. Do not attach complete diagnostic files, private recordings, or sensitive notes.</p>
       <h2>Last updated</h2>
-      <p class="meta">Last updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p class="meta">Last updated: <time datetime="2026-10-31">2026-10-31</time></p>
     </section>
     <footer>
       <p>© 2026 easonwumac · <a href="mailto:easonwumac@gmail.com">easonwumac@gmail.com</a></p>
