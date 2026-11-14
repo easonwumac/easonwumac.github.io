@@ -14,7 +14,7 @@
     .tag { color: #74675b; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 10px; }
     .qr { text-align: center; margin-top: 14px; }
     .qr svg { width: 200px; height: 200px; }
-    nav { display: flex; gap: 10px; justify-content: center; }
+    nav { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
     nav a { padding: 8px 14px; border-radius: 18px; background: #fff; color: #9a4a2c; text-decoration: none; font-weight: 600; }
     nav a.on { background: #9a4a2c; color: #fff; }
     .card[hidden] { display: none; }
@@ -23,6 +23,48 @@
 </head>
 <body>
 <main>
+  <section class="card" id="a">
+    <h2>Harbour Lantern House</h2>
+    <p>Booking DEMO-HK-2048</p>
+    <p>Hong Kong</p>
+    <p>Check-in 18 Jan 2027 15:00</p>
+    <p>Total: HKD 2,160</p>
+  </section>
+
+  <section class="card" id="b">
+    <h2>Cloudbank Air E-ticket</h2>
+    <p>Flight CB 118 Taipei TPE → Hong Kong HKG</p>
+    <p>Departs 18 Jan 2027 08:45</p>
+    <p>Total: TWD 6,480</p>
+  </section>
+
+  <section class="card" id="c">
+    <h2>Morning Glow Café</h2>
+    <p>Receipt</p>
+    <p>25 Oct 2026</p>
+    <p>Total: TWD 472</p>
+  </section>
+
+  <section class="card" id="d">
+    <h2>DEMO Passport</h2>
+    <p>Expiry 15 Jan 2027</p>
+  </section>
+
+  <section class="card" id="e">
+    <h2>Cloudbank Air E-ticket</h2>
+    <p>Flight CB 119 Hong Kong HKG → Taipei TPE</p>
+    <p>Departs 20 Jan 2027 18:30</p>
+    <p>Total: TWD 5,900</p>
+  </section>
+
+  <section class="card" id="f">
+    <h2>Riverlight Hall</h2>
+    <p>Concert ticket</p>
+    <p>Order DEMO-77</p>
+    <p>12 Sep 2026 19:30</p>
+    <p>Total: TWD 1,800</p>
+  </section>
+
   <section class="card" id="h">
     <h2>Riverlight Hall</h2>
     <p>Concert ticket</p>
@@ -60,11 +102,12 @@
     <p>Total: TWD 8,200</p>
   </section>
   <nav>
+    <a href="?c=a">A</a><a href="?c=b">B</a><a href="?c=c">C</a><a href="?c=d">D</a><a href="?c=e">E</a><a href="?c=f">F</a>
     <a href="?c=h">H</a><a href="?c=i">I</a><a href="?c=j">J</a><a href="?c=k">K</a><a href="?c=l">L</a>
   </nav>
 </main>
 <script>
-  const pick = new URLSearchParams(location.search).get("c") || "h";
+  const pick = new URLSearchParams(location.search).get("c") || "a";
   for (const c of document.querySelectorAll(".card")) c.hidden = c.id !== pick;
   for (const a of document.querySelectorAll("nav a")) a.classList.toggle("on", a.getAttribute("href") === "?c=" + pick);
   const two = n => String(n).padStart(2, "0");
