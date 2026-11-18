@@ -1,0 +1,66 @@
+# Eason Wu Apps
+
+> Independent iOS apps by Eason Wu. Each page below describes what the app does, in Traditional Chinese and English.
+
+## Inside: Phone Check / 機況 Inside－手機健檢
+- Page: https://easonwumac.github.io/inside/
+- App Store: https://apps.apple.com/app/id6816782363
+- Support and FAQ: https://easonwumac.github.io/inside/support.html
+- A warm, clear look at your whole phone: checks, hardware, battery, performance, charging.
+- 用溫暖、清楚的方式看看手機現在的狀態；從功能、硬體、電池到效能，一次全面檢查。
+
+## Daikon: Period Tracker / 蘿蔔日記 Daikon－經期紀錄
+- Page: https://easonwumac.github.io/daikon/
+- App Store: https://apps.apple.com/app/id6822485511
+- Support and FAQ: https://easonwumac.github.io/daikon/support.html
+- A little care, every day.
+- 每天一點，溫柔照顧。
+
+## Tuck: AI Screenshot Organizer / 收好 Tuck－AI 截圖整理
+- Page: https://easonwumac.github.io/tuck/
+- App Store: https://apps.apple.com/app/id6821961896
+- Support and FAQ: https://easonwumac.github.io/tuck/support.html
+- Screenshots piling up? Tuck's AI reads every screenshot and file you save: bookings, receipts and warranties, and the restaurants, recipes and things to buy you screenshot. It files each one and finds it again from a few words. Reading happens on your device, with Apple Intelligence where available; Advanced reading by Claude is optional.
+- 截圖越存越多、要用時找不到？收好的 AI 會讀懂你存下的每張截圖與檔案：訂位、收據、保固，還有截下來的餐廳、食譜和想買的東西。自動分好類，之後搜幾個字就找回。辨識在手機上完成，支援 Apple Intelligence；也可以選用 Claude 高階辨識。
+
+## ZaiRi: Plant Watering Reminder / 栽日 ZaiRi－植物澆水提醒
+- Page: https://easonwumac.github.io/zairi/
+- App Store: https://apps.apple.com/app/id6816606160
+- Support and FAQ: https://easonwumac.github.io/zairi/support.html
+- Give every plant day a place to grow.
+- 把植物的每一天，好好留住。
+
+## Roomory: Floor Plans / 居圖 Roomory－平面圖
+- Page: https://easonwumac.github.io/roomory/
+- App Store: https://apps.apple.com/app/id6825348801
+- Support and FAQ: https://easonwumac.github.io/roomory/support.html
+- From moving a sofa to planning a renovation, Roomory helps you turn the space you have into the layout you want. Scan a room or start by hand, then edit your floor plans and preview your ideas in 3D.
+- 從重新擺放家具，到準備整戶裝潢，居圖陪你把現有的空間，整理成心中的配置。掃描房間或手動開始，在平面圖上調整，再用 3D 預覽看看想法。
+
+## Nightvane: Star Guide / 尋星 Nightvane－星空導覽
+- Page: https://easonwumac.github.io/starplace/
+- App Store: https://apps.apple.com/app/id6826494660
+- Support and FAQ: https://easonwumac.github.io/starplace/support.html
+- Hold your iPhone or iPad up to the night and Nightvane shows what you are looking at: stars, planets, constellations, the Moon and the Milky Way, right where they are.
+- 舉起 iPhone 或 iPad 對著夜空，尋星就告訴你眼前是什麼：恆星、行星、星座、月亮與銀河，都在它們真正的位置上。
+
+## Lockwater: Canal Puzzle / 水閘 Lockwater－運河解謎
+- Page: https://easonwumac.github.io/lockwater/
+- App Store: https://apps.apple.com/app/id6826767889
+- Support and FAQ: https://easonwumac.github.io/lockwater/support.html
+- Lockwater is a canal puzzle made of soft clay: a row of stone chambers, a few wooden gates, and boats that must reach the flag of their color.
+- 《水閘》是一款黏土質感的運河解謎：一排石砌閘室、幾道木閘門，還有要回到同色旗子旁的小船。
+
+## Prawnlight: Prawn Hall Tycoon / 夜釣蝦場 Prawnlight－釣蝦場大亨
+- Page: https://easonwumac.github.io/prawnlight/
+- App Store: https://apps.apple.com/app/id6828219014
+- Support and FAQ: https://easonwumac.github.io/prawnlight/support.html
+- Prawnlight is a management game set in a Taiwanese indoor prawn-fishing hall that stays open late into the night. You are the boss, not the angler: order stock, release prawns, lay out the floor, hire staff and keep the guests fishing until closing time.
+- 夜釣蝦場是一款台灣室內釣蝦場的經營遊戲。你是老闆，不用自己下竿：叫貨、放蝦、擺設場地、請人顧店，讓客人一路釣到深夜。
+
+## Precision Parking 3D / 極限停車場：都市挑戰
+- Page: https://easonwumac.github.io/precision-parking-3d/
+- App Store: https://apps.apple.com/app/id6816430472
+- Support and FAQ: https://easonwumac.github.io/precision-parking-3d/support.html
+- Slow down. Find your angle. Make every space count.
+- 在都市停車場裡，慢一點，停得更漂亮。
