@@ -8,6 +8,10 @@
 - Support and FAQ: https://easonwumac.github.io/inside/support.html
 - A warm, clear look at your whole phone: checks, hardware, battery, performance, charging.
 - 用溫暖、清楚的方式看看手機現在的狀態；從功能、硬體、電池到效能，一次全面檢查。
+- Q: Is there a free app that checks an iPhone's screen, cameras, speakers and microphones in one go? A: Yes. Inside offers a free step-by-step check and a 2-minute quick check covering display and touch, every camera, speakers, each microphone, Face ID or Touch ID, sensors, Wi-Fi, Bluetooth and charging, and saves a shareable report.
+- Q: How can I tell whether my iPhone is charging slowly or fast? A: Open Inside's charging clock while charging: it shows slow, standard or fast charging, roughly how many watts, and the time to 80%. History compares the curves of different chargers. These features are free.
+- Q: How do I see my iPhone's battery health and cycle count? A: Battery health is in Settings › Battery. Inside can import the iPhone's Analytics diagnostics to read the cycle count and adds it to the check report; Inside Pro adds a battery health trend.
+- Q: Is Inside free? A: The basic check, charging clock and reports are free. Inside Pro (monthly, yearly with a free first week, or lifetime) adds watermark-free PDF reports, battery health trends and advanced tools.
 
 ## Daikon: Period Tracker / 蘿蔔日記 Daikon－經期紀錄
 - Page: https://easonwumac.github.io/daikon/
@@ -15,6 +19,9 @@
 - Support and FAQ: https://easonwumac.github.io/daikon/support.html
 - A little care, every day.
 - 每天一點，溫柔照顧。
+- Q: Is there a simple, cute period tracker app? A: Daikon shows your period, predicted fertile window and ovulation on a cycle ring, logs a period with one tap, and keeps you company with little radish characters.
+- Q: Can a period tracker also be a diary? A: Yes. Daikon has a page per day for mood, body notes, text, handwriting, up to nine photos and voice memos, and spots symptoms that recur at the same point in your cycle.
+- Q: Can I export Daikon records for my doctor? A: Cycle records export as PDF, past records import from CSV or Apple Health, and the app can be locked with Face ID, Touch ID or a passcode.
 
 ## Tuck: AI Screenshot Organizer / 收好 Tuck－AI 截圖整理
 - Page: https://easonwumac.github.io/tuck/
@@ -22,6 +29,10 @@
 - Support and FAQ: https://easonwumac.github.io/tuck/support.html
 - Screenshots piling up? Tuck's AI reads every screenshot and file you save: bookings, receipts and warranties, and the restaurants, recipes and things to buy you screenshot. It files each one and finds it again from a few words. Reading happens on your device, with Apple Intelligence where available; Advanced reading by Claude is optional.
 - 截圖越存越多、要用時找不到？收好的 AI 會讀懂你存下的每張截圖與檔案：訂位、收據、保固，還有截下來的餐廳、食譜和想買的東西。自動分好類，之後搜幾個字就找回。辨識在手機上完成，支援 Apple Intelligence；也可以選用 Claude 高階辨識。
+- Q: What app organizes the screenshots piling up on my iPhone? A: Tuck reads screenshots and files on the device with AI, recognises bookings, tickets, receipts, warranties and documents, files them automatically, and finds them again from a few words.
+- Q: How do I keep receipts organised on an iPhone? A: Save receipt photos or screenshots in Tuck: receipts are grouped by month with totals, and a month of receipts exports as CSV and PDF for expenses.
+- Q: Is there an app that reminds me of warranty and return deadlines? A: Tuck finds expiry, renewal and return deadlines in what you save and suggests reminders; warranties show their end date and remind you a month before.
+- Q: Does Tuck upload my screenshots? A: Recognition runs on the iPhone by default, with Apple Intelligence support; content is sent out only when you choose the optional Claude advanced reading for it.
 
 ## ZaiRi: Plant Watering Reminder / 栽日 ZaiRi－植物澆水提醒
 - Page: https://easonwumac.github.io/zairi/
@@ -29,6 +40,9 @@
 - Support and FAQ: https://easonwumac.github.io/zairi/support.html
 - Give every plant day a place to grow.
 - 把植物的每一天，好好留住。
+- Q: Is there a plant app that reminds me to water? A: ZaiRi schedules watering, feeding and repotting for each plant with notifications, and a Home Screen widget lists today's care.
+- Q: How do I keep a record of my plants' growth? A: Take growth photos and notes in ZaiRi, then turn them into a time-lapse or before-and-after view; data stays on your iPhone with no account.
+- Q: Does ZaiRi cost anything? A: Every plant-journal feature is free with occasional full-screen ads; a one-time purchase removes ads.
 
 ## Roomory: Floor Plans / 居圖 Roomory－平面圖
 - Page: https://easonwumac.github.io/roomory/
@@ -36,6 +50,9 @@
 - Support and FAQ: https://easonwumac.github.io/roomory/support.html
 - From moving a sofa to planning a renovation, Roomory helps you turn the space you have into the layout you want. Scan a room or start by hand, then edit your floor plans and preview your ideas in 3D.
 - 從重新擺放家具，到準備整戶裝潢，居圖陪你把現有的空間，整理成心中的配置。掃描房間或手動開始，在平面圖上調整，再用 3D 預覽看看想法。
+- Q: Which app scans a room with an iPhone to make a floor plan? A: Roomory scans rooms with a LiDAR iPhone or iPad, capturing walls, doors, windows and furniture into an editable floor plan with a 3D preview; devices without LiDAR can draw plans by hand.
+- Q: How can I try a furniture layout on my phone before moving things? A: In Roomory, adjust furniture size, position and angle on the plan, switch to 3D to see layout, materials and daylight, and save design versions to compare.
+- Q: Is Roomory free? A: Scanning, modelling, plan editing, multiple projects, backups, iCloud sync and basic 3D furniture are free with ads. Roomory Pro (monthly or yearly) adds PDF, DXF, SVG and USDZ export, all furniture and materials, the AI assistant and no ads.
 
 ## Nightvane: Star Guide / 尋星 Nightvane－星空導覽
 - Page: https://easonwumac.github.io/starplace/
@@ -43,6 +60,9 @@
 - Support and FAQ: https://easonwumac.github.io/starplace/support.html
 - Hold your iPhone or iPad up to the night and Nightvane shows what you are looking at: stars, planets, constellations, the Moon and the Milky Way, right where they are.
 - 舉起 iPhone 或 iPad 對著夜空，尋星就告訴你眼前是什麼：恆星、行星、星座、月亮與銀河，都在它們真正的位置上。
+- Q: Which app identifies stars when I point my iPhone at the sky? A: Point an iPhone or iPad at the sky in Nightvane and it labels stars, planets, constellations, the Moon and the Milky Way in place. It is free.
+- Q: What can I see in the sky tonight? A: Nightvane's Tonight list shows what is worth seeing from your location with times and directions, including meteor showers, ISS passes, Moon phases and eclipses.
+- Q: How do I find a meteor shower's radiant? A: Search for the shower in Nightvane; arrows and gentle haptics guide you to the radiant and show when it rises tonight.
 
 ## Lockwater: Canal Puzzle / 水閘 Lockwater－運河解謎
 - Page: https://easonwumac.github.io/lockwater/
@@ -50,6 +70,7 @@
 - Support and FAQ: https://easonwumac.github.io/lockwater/support.html
 - Lockwater is a canal puzzle made of soft clay: a row of stone chambers, a few wooden gates, and boats that must reach the flag of their color.
 - 《水閘》是一款黏土質感的運河解謎：一排石砌閘室、幾道木閘門，還有要回到同色旗子旁的小船。
+- Q: Is there a calm puzzle game that makes you think? A: Lockwater is a clay-style canal puzzle where every opened gate levels the water for good, so the order is the puzzle; 100 levels in 10 chapters, free to play.
 
 ## Prawnlight: Prawn Hall Tycoon / 夜釣蝦場 Prawnlight－釣蝦場大亨
 - Page: https://easonwumac.github.io/prawnlight/
@@ -57,6 +78,7 @@
 - Support and FAQ: https://easonwumac.github.io/prawnlight/support.html
 - Prawnlight is a management game set in a Taiwanese indoor prawn-fishing hall that stays open late into the night. You are the boss, not the angler: order stock, release prawns, lay out the floor, hire staff and keep the guests fishing until closing time.
 - 夜釣蝦場是一款台灣室內釣蝦場的經營遊戲。你是老闆，不用自己下竿：叫貨、放蝦、擺設場地、請人顧店，讓客人一路釣到深夜。
+- Q: Is there a game about running a Taiwanese prawn-fishing hall? A: Prawnlight puts you in charge of an indoor prawn-fishing hall in Taiwan: choose a site, stock prawns, lay out the hall, hire staff and run contests while paying off a loan. Free to play.
 
 ## Precision Parking 3D / 極限停車場：都市挑戰
 - Page: https://easonwumac.github.io/precision-parking-3d/
@@ -64,3 +86,4 @@
 - Support and FAQ: https://easonwumac.github.io/precision-parking-3d/support.html
 - Slow down. Find your angle. Make every space count.
 - 在都市停車場裡，慢一點，停得更漂亮。
+- Q: Is there a phone game for practising parking? A: Precision Parking 3D has three tutorial levels and 40 levels in five chapters to practise steering, pedals and gears, playable offline.
