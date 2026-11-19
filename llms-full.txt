@@ -1,0 +1,511 @@
+# Eason Wu Apps in other languages
+
+### 机况 Inside－手机检测 (简体中文)
+- Page: https://agentmesh.uk/inside/zh-Hans/
+- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- 用温暖、清晰的方式看看手机现在的状态；从功能、硬件、电池到性能，一次全面检查。
+- Q: iPhone 有没有免费的 App 可以一次检查屏幕、摄像头、扬声器和麦克风？ A: 有。机况 Inside 免费提供逐项检查和 2 分钟快速检查：屏幕显示与触控、每颗摄像头、扬声器、每个麦克风、面容 ID 或触控 ID、传感器、Wi-Fi、蓝牙和充电，完成后生成可保存、可分享的报告。
+- Q: 怎么知道 iPhone 现在是慢充还是快充？ A: 充电时打开机况 Inside 的充电时钟，会显示当前是慢充、标准充电还是快充、大约多少瓦，以及充到 80% 所需的时间；在历史记录中可以比较不同充电器的曲线。这些功能免费。
+- Q: iPhone 的电池健康度和循环次数要怎么看？ A: 电池健康度在“设置 › 电池”中查看。机况 Inside 可以导入 iPhone 的 Analytics 诊断记录，读取电池循环次数，并将结果放入检查报告；机况 Pro 另外提供电池健康趋势。
+- Q: 机况 Inside 要付费吗？ A: 基本检查、充电时钟和报告都免费。机况 Pro 提供月付、年付（首周免费）或终身买断，包含无水印 PDF 报告、电池健康趋势和进阶工具。
+- Q: iPhone 扬声器声音变小或麦克风收音不清楚，怎么自己检查？ A: 机况 Inside 的逐项检查会用四段测试音检查扬声器和每个麦克风，指出偏弱的频段，也会检查左右声道；结果存入报告，可与上一轮对照。这只记录本次操作和你的判断，不是维修诊断。
+- Q: iPhone 屏幕触控好像有些地方失灵，怎么测？ A: 机况 Inside 的逐项检查包含显示、触控和多点触控，由你实际操作并记录结果；2 分钟检查也会依次检查屏幕和触控。基本检查免费。
+- Q: iPhone 存储空间不足，怎么找出可以删除的照片？ A: 机况 Inside 的“释放空间”会找出重复、相似、模糊和连拍照片、截图以及大视频，并建议保留哪一张，只删除你确认的项目；免费版扫描最新 300 张照片。
+
+### Inside: スマホチェック (日本語)
+- Page: https://agentmesh.uk/inside/ja/
+- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- スマホの今の状態を、やさしく、わかりやすく。動作チェックから性能テストまで、ステップごとに進められます。
+- Q: iPhoneで画面、カメラ、スピーカー、マイクをまとめてチェックできる無料のアプリはありますか？ A: はい。機況 Inside では、無料で項目ごとのチェックと2分のクイックチェックができます。画面の表示とタッチ、すべてのカメラ、スピーカー、各マイク、Face ID または Touch ID、センサー、Wi-Fi、Bluetooth、充電を確認し、保存や共有ができるレポートを作成します。
+- Q: iPhoneが今、低速充電か高速充電かはどうすればわかりますか？ A: 充電中に機況 Inside の充電時計を開くと、低速、標準、高速のいずれで充電されているか、おおよそのワット数、80％までの時間が表示されます。履歴では充電器ごとの充電曲線を比べられます。これらの機能は無料です。
+- Q: 「Inside: スマホチェック」は有料ですか？ A: 基本チェック、充電時計、レポートは無料です。「Inside Pro」（月額、最初の1週間無料の年額、買い切り）を利用すると、透かしなしのPDFレポート、バッテリー状態の推移、高度なツールが使えます。
+- Q: iPhoneのスピーカーの音が小さくなった、またはマイクの音が聞き取りにくい場合、自分で確認するにはどうすればよいですか？ A: 「Inside: スマホチェック」の項目ごとのチェックでは、4種類のテスト音でスピーカーと各マイクを確認し、音が弱い周波数帯を示すほか、左右のチャンネルもチェックします。結果はレポートに保存され、前回の結果と比較できます。これは今回の操作と利用者の判断を記録するもので、修理診断ではありません。
+- Q: iPhoneの画面のタッチが一部効かないようです。どうやって確認すればよいですか？ A: 「Inside: スマホチェック」の項目ごとのチェックでは、ディスプレイ、タッチ、マルチタッチを確認できます。操作は利用者ご自身で行い、結果を記録します。2分間のクイックチェックでも、画面とタッチを順に確認します。基本のチェックは無料です。
+- Q: iPhoneのストレージがいっぱいです。削除できる写真はどうやって見つければよいですか？ A: 「Inside: スマホチェック」の「空き容量を増やす」機能では、重複写真、似た写真、ぼやけた写真、連写、スクリーンショット、大きな動画を見つけ、残す写真を提案します。削除は確認した項目のみです。無料版は最新の300枚をスキャンします。
+
+### Inside: 휴대폰 점검 (한국어)
+- Page: https://agentmesh.uk/inside/ko/
+- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- 지금 내 휴대폰 상태를 따뜻하고 알기 쉽게. 점검부터 성능 테스트까지 단계별로 진행할 수 있습니다.
+- Q: 아이폰에 화면, 카메라, 스피커, 마이크를 한 번에 점검할 수 있는 무료 앱이 있나요? A: 네. 기기 상태 Inside는 단계별 점검과 2분 빠른 점검을 무료로 제공하며, 디스플레이와 터치, 모든 카메라, 스피커, 각 마이크, Face ID 또는 Touch ID, 센서, Wi-Fi, 블루투스, 충전을 확인하고 공유할 수 있는 보고서를 저장합니다.
+- Q: 아이폰이 지금 느린 충전인지 빠른 충전인지 어떻게 알 수 있나요? A: 충전하는 동안 기기 상태 Inside의 충전 시계를 열면 느린 충전, 표준 충전 또는 빠른 충전 중 어떤 상태인지, 대략적인 와트 수, 80%까지 걸리는 시간을 보여 줍니다. 기록에서는 여러 충전기의 곡선을 비교할 수 있습니다. 이 기능들은 모두 무료입니다.
+- Q: 아이폰의 배터리 상태와 사이클 횟수는 어디서 확인하나요? A: 배터리 상태는 '설정 › 배터리'에서 확인할 수 있습니다. 기기 상태 Inside는 아이폰의 Analytics 진단 기록을 가져와 사이클 횟수를 읽고 점검 보고서에 포함할 수 있으며, 기기 상태 Pro에서는 배터리 상태 추이도 볼 수 있습니다.
+- Q: 기기 상태 Inside는 유료인가요? A: 기본 점검, 충전 시계, 보고서는 무료입니다. 기기 상태 Pro(월간, 첫 주 무료 연간 또는 평생 구매)를 이용하면 워터마크 없는 PDF 보고서, 배터리 상태 추이, 고급 도구를 사용할 수 있습니다.
+- Q: 아이폰 스피커 소리가 작아지거나 마이크 수음이 불명확한데, 직접 어떻게 점검하나요? A: 기기 상태 Inside의 단계별 점검은 네 가지 테스트음으로 스피커와 각 마이크를 점검하고, 약한 주파수 대역을 알려 주며, 왼쪽과 오른쪽 채널도 확인합니다. 결과는 보고서에 저장되어 이전 결과와 비교할 수 있습니다. 이는 이번 점검 과정과 사용자의 판단만 기록하는 것이며, 수리 진단이 아닙니다.
+- Q: 아이폰 화면 터치가 일부 작동하지 않는 것 같은데 어떻게 테스트하나요? A: 기기 상태 Inside의 단계별 점검에는 디스플레이, 터치, 멀티터치 항목이 포함되어 있으며, 사용자가 직접 조작하고 결과를 기록합니다. 2분 점검에서도 화면과 터치를 순서대로 확인합니다. 기본 점검은 무료입니다.
+- Q: 아이폰 저장 공간이 부족한데 삭제할 사진은 어떻게 찾나요? A: 기기 상태 Inside의 '공간 확보' 기능은 중복, 유사, 흐린 사진과 연사, 스크린샷, 큰 동영상을 찾아 보존할 사진을 제안하며, 사용자가 확인한 항목만 삭제합니다. 무료 버전은 최근 사진 300장을 검사합니다.
+
+### Inside: Revisa tu celular (Español)
+- Page: https://agentmesh.uk/inside/es/
+- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- Una forma cálida y clara de revisar todo tu celular: pruebas, hardware, batería, rendimiento y reloj de carga.
+- Q: ¿Hay alguna app gratuita que revise de una sola vez la pantalla, las cámaras, las bocinas y los micrófonos de un iPhone? A: Sí. Inside ofrece una revisión paso a paso gratuita y una revisión rápida de 2 minutos que cubre pantalla y táctil, cada cámara, las bocinas, cada micrófono, Face ID o Touch ID, sensores, Wi-Fi, Bluetooth y carga, y guarda un informe que puedes conservar y compartir.
+- Q: ¿Cómo puedo saber si mi iPhone está cargando lento o rápido? A: Mientras cargas, abre el reloj de carga de Inside: muestra si la carga es lenta, estándar o rápida, aproximadamente cuántos watts, y el tiempo hasta llegar al 80 %. En el historial puedes comparar las curvas de distintos cargadores. Estas funciones son gratuitas.
+- Q: ¿Cómo puedo ver el estado de la batería y el número de ciclos de carga de mi iPhone? A: El estado de la batería se consulta en Ajustes › Batería. Inside puede importar el registro de diagnóstico Analytics del iPhone para leer el número de ciclos de carga y lo añade al informe de revisión; Inside Pro además muestra una tendencia de la salud de la batería.
+- Q: ¿Inside tiene costo? A: La revisión básica, el reloj de carga y los informes son gratuitos. Inside Pro (mensual, anual con la primera semana gratis, o de por vida) agrega informes PDF sin marca de agua, tendencias de la batería y herramientas avanzadas.
+- Q: El altavoz de mi iPhone suena bajo o el micrófono se escucha poco claro. ¿Cómo puedo revisarlo yo mismo? A: La revisión paso a paso de Inside prueba el altavoz y cada micrófono con cuatro tonos de prueba, indica las bandas de frecuencia más débiles y también revisa los canales izquierdo y derecho. Los resultados se guardan en un informe que puedes comparar con la revisión anterior. Solo registra esta prueba y tu propio juicio; no es un diagnóstico de reparación.
+- Q: Parte de la pantalla táctil de mi iPhone parece no responder. ¿Cómo puedo probarla? A: La revisión paso a paso de Inside incluye pantalla, táctil y multitáctil, que tú operas y registras; la revisión rápida de 2 minutos también recorre la pantalla y el táctil. La revisión básica es gratuita.
+- Q: Se me llenó el almacenamiento de mi iPhone. ¿Cómo encuentro fotos que pueda borrar? A: La herramienta de liberar espacio de Inside encuentra fotos duplicadas, parecidas, borrosas y en ráfaga, capturas de pantalla y videos grandes, sugiere cuál conservar y solo borra lo que tú confirmes; la versión gratuita analiza las últimas 300 fotos.
+
+### Inside: Test du téléphone (Français)
+- Page: https://agentmesh.uk/inside/fr/
+- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- Un regard clair sur tout votre téléphone : vérifications, matériel, batterie, performances, horloge de charge.
+- Q: Y a-t-il une application gratuite qui vérifie l'écran, les caméras, les haut-parleurs et les microphones de mon iPhone en une seule fois? A: Oui. Inside offre gratuitement une vérification étape par étape et une vérification rapide de 2 minutes couvrant l'affichage et le tactile, chaque caméra, les haut-parleurs, chaque microphone, Face ID ou Touch ID, les capteurs, le Wi-Fi, le Bluetooth et la charge, et enregistre un rapport que vous pouvez sauvegarder et partager.
+- Q: Comment savoir si mon iPhone se charge lentement ou rapidement? A: Pendant la charge, ouvrez l'horloge de charge d'Inside : elle affiche si la charge est lente, standard ou rapide, une puissance approximative en watts, ainsi que le temps pour atteindre 80 %. L'historique permet de comparer les courbes de différents chargeurs. Ces fonctions sont gratuites.
+- Q: Comment consulter l'état de santé de la batterie et le nombre de cycles de mon iPhone? A: L'état de la batterie se trouve dans Réglages › Batterie. Inside peut importer les journaux de diagnostic Analytics de l'iPhone pour lire le nombre de cycles et l'ajouter au rapport de vérification; Inside Pro ajoute en plus une tendance de l'état de la batterie.
+- Q: Inside est-il payant? A: La vérification de base, l'horloge de charge et les rapports sont gratuits. Inside Pro (mensuel, annuel avec une première semaine gratuite, ou à vie) ajoute des rapports PDF sans filigrane, des tendances de l'état de la batterie et des outils avancés.
+- Q: Le haut-parleur de mon iPhone est devenu faible ou le microphone est étouffé. Comment vérifier moi-même? A: La vérification étape par étape d'Inside teste les haut-parleurs et chaque microphone avec quatre tonalités, signale les plages de fréquences faibles et vérifie les canaux gauche et droit; les résultats sont enregistrés dans un rapport que vous pouvez comparer au précédent. Cela consigne seulement cette vérification et votre jugement, ce n'est pas un diagnostic de réparation.
+- Q: Une partie de l'écran tactile de mon iPhone semble ne pas répondre. Comment le tester? A: La vérification étape par étape d'Inside couvre l'affichage, le tactile et le multitouch, que vous testez vous-même en enregistrant les résultats; la vérification de 2 minutes parcourt aussi l'écran et le tactile. La vérification de base est gratuite.
+- Q: Le stockage de mon iPhone est plein. Comment trouver les photos que je peux supprimer? A: L'outil « Libérer de l'espace » d'Inside repère les photos en double, similaires, floues et en rafale, les captures d'écran et les grandes vidéos, suggère celle à conserver et ne supprime que ce que vous confirmez; la version gratuite analyse les 300 photos les plus récentes.
+
+### Inside: Handy-Check (Deutsch)
+- Page: https://agentmesh.uk/inside/de/
+- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- Ein klarer, freundlicher Blick auf dein ganzes Handy: Checks, Hardware, Akku, Leistung, Ladeuhr.
+- Q: Gibt es eine kostenlose App, die Display, Kameras, Lautsprecher und Mikrofone des iPhones auf einmal prüft? A: Ja. Inside bietet eine kostenlose Schritt-für-Schritt-Prüfung und einen 2-Minuten-Schnellcheck, der Display und Touch, jede Kamera, die Lautsprecher, jedes Mikrofon, Face ID oder Touch ID, Sensoren, WLAN, Bluetooth und das Laden abdeckt. Anschließend wird ein speicher- und teilbarer Bericht erstellt.
+- Q: Wie erkenne ich, ob mein iPhone langsam oder schnell lädt? A: Öffne beim Laden die Ladeuhr von Inside: Sie zeigt an, ob langsam, standard oder schnell geladen wird, ungefähr wie viele Watt anliegen und wie lange es bis 80 % dauert. Im Verlauf kannst du die Kurven verschiedener Ladegeräte vergleichen. Diese Funktionen sind kostenlos.
+- Q: Wo finde ich den Akkuzustand und die Anzahl der Ladezyklen meines iPhones? A: Den Akkuzustand findest du unter „Einstellungen › Batterie“. Inside kann die Analytics-Diagnosedaten des iPhones importieren, daraus die Ladezyklen auslesen und in den Prüfbericht aufnehmen; Inside Pro zeigt zusätzlich einen Verlauf des Akkuzustands.
+- Q: Kostet Inside etwas? A: Die Grundprüfung, die Ladeuhr und die Berichte sind kostenlos. Inside Pro gibt es monatlich, jährlich (mit einer kostenlosen ersten Woche) oder als Einmalkauf und bietet PDF-Berichte ohne Wasserzeichen, Verläufe des Akkuzustands und erweiterte Werkzeuge.
+- Q: Meine Lautsprecher des iPhones klingen leise oder das Mikrofon ist undeutlich. Wie kann ich das selbst prüfen? A: Die Schritt-für-Schritt-Prüfung von Inside testet die Lautsprecher und jedes Mikrofon mit vier Testtönen, zeigt schwache Frequenzbereiche an und prüft auch den linken und rechten Kanal. Die Ergebnisse landen in einem Bericht, den du mit der letzten Runde vergleichen kannst. Dabei wird nur dieser Durchlauf und deine Einschätzung festgehalten, es handelt sich nicht um eine Reparaturdiagnose.
+- Q: Ein Teil des Touchscreens meines iPhones scheint nicht zu reagieren. Wie kann ich das testen? A: Die Schritt-für-Schritt-Prüfung von Inside umfasst Display, Touch und Multi-Touch, die du selbst bedienst und deren Ergebnis du einträgst; der 2-Minuten-Check durchläuft Bildschirm und Touch ebenfalls. Die Grundprüfung ist kostenlos.
+- Q: Der Speicher meines iPhones ist voll. Wie finde ich Fotos, die ich löschen kann? A: Das Werkzeug „Speicher freigeben“ von Inside findet doppelte, ähnliche, unscharfe und Serienfotos, Screenshots und große Videos, schlägt vor, welches Foto behalten werden sollte, und löscht nur, was du bestätigst. Die kostenlose Version durchsucht die neuesten 300 Fotos.
+
+### 萝卜日记 Daikon－经期记录 (简体中文)
+- Page: https://agentmesh.uk/daikon/zh-Hans/
+- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- 每天一点，温柔照顾。
+- Q: 有没有简单、可爱的经期记录 App？ A: 萝卜日记 Daikon 用周期圆环标示经期、预测受孕期与排卵日，点一下“月经来了”就能记录，还有萝卜宝宝陪你。
+- Q: 经期记录 App 可以写日记吗？ A: 可以。萝卜日记每天一页，可以记录心情、身体感觉、文字、手写、最多九张照片和语音备忘录，并找出总是在周期同一时间出现的症状。
+- Q: 萝卜日记可以导出给医生看吗？ A: 可以将周期记录导出为 PDF，也可以从 CSV 或 Apple 健康导入过往记录，并可使用 Face ID、Touch ID 或密码为应用上锁。
+- Q: 经期类 App 会上传我的数据吗？ A: 萝卜日记不需要账号，没有社区功能或订阅。记录与日记（包括照片和语音）都保存在设备上；在 iCloud 可用时，仅通过你的私人 iCloud 进行同步。健康数据绝不会发送给广告 SDK，也不会用于投放广告。
+- Q: 经期记录可以和 Apple 健康同步吗？ A: 可以。在萝卜日记的设置中开启“同步至 Apple 健康”，每个经期日都会以月经流量的形式写入“健康”App；该功能默认关闭。也可以从“健康”或 CSV 文件导入过去的经期记录。
+- Q: 忘记记录经期，预测还会继续吗？ A: 会。萝卜日记最多参考最近六次周期，也可以使用你设定的周期长度；没有记录新的经期时，预测仍会继续往后推算，并温柔地提醒你补记。预测仅供参考，不是医疗建议，也不能用于避孕。
+
+### Daikon: 生理と周期の記録 (日本語)
+- Page: https://agentmesh.uk/daikon/ja/
+- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- 毎日ちょっとずつ、やさしくケア。
+- Q: 簡単でかわいい生理記録アプリはありますか？ A: Daikon（蘿蔔日記）は、周期リングで生理日・妊娠しやすい時期の予測・排卵日を表示し、「生理が来た」をワンタップで記録できます。小さな大根のキャラクターたちも一緒にいてくれます。
+- Q: 生理記録アプリで日記も書けますか？ A: はい。蘿蔔日記は1日1ページの日記機能があり、気分、体の感覚、テキスト、手書き、最大9枚の写真、音声メモを残せます。また、周期のなかで毎回同じタイミングに現れる症状も見つけられます。
+- Q: Daikonの記録を医師に見せるために書き出せますか？ A: はい。周期の記録はPDFで書き出せます。CSVやApple ヘルスケアから過去の記録を読み込むこともできます。さらに、Face ID、Touch ID、パスコードでアプリをロックできます。
+- Q: 生理記録アプリは私のデータをアップロードしますか？ A: 蘿蔔日記はアカウント不要で、SNS機能やサブスクリプションもありません。記録と日記（写真や音声メモを含む）は端末内に保存され、iCloud が利用できる場合にのみご自身のプライベートな iCloud を通じて同期されます。健康データが広告 SDK に送信されたり、広告に利用されたりすることはありません。
+- Q: 生理の記録はApple ヘルスケアと同期できますか？ A: はい。Daikonの設定で「Appleヘルスケアに同期」をオンにすると、生理の日が月経の流れとしてヘルスケアAppに保存されます。初期設定ではオフです。過去の生理記録はヘルスケアやCSVファイルから読み込むこともできます。
+- Q: 生理の記録を忘れた場合も予測は続きますか？ A: はい。Daikonは直近6回までの周期、またはご自身で設定した周期の長さをもとに予測します。新しい記録がなくても予測は先へ進み、記録を更新するよう穏やかにお知らせします。予測は参考情報であり、医療上のアドバイスではなく、避妊には使えません。
+
+### Daikon: 생리 주기 기록 (한국어)
+- Page: https://agentmesh.uk/daikon/ko/
+- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- 매일 조금씩, 다정하게 돌보기.
+- Q: 간단하고 귀여운 생리 기록 앱이 있나요? A: Daikon: 생리 주기 기록은 주기 링으로 생리일, 예상 가임기, 배란일을 표시하고, 「생리 시작」 버튼 한 번으로 기록할 수 있으며, 작은 무 캐릭터가 함께해 줍니다.
+- Q: 생리 기록 앱으로 일기도 쓸 수 있나요? A: 네. Daikon은 하루에 한 페이지씩 기분, 몸 상태, 글, 손글씨, 최대 9장의 사진과 음성 메모를 남길 수 있고, 주기의 같은 시점에 반복되는 증상을 찾아 보여 줍니다.
+- Q: Daikon 기록을 의사에게 보여 줄 수 있나요? A: 네. 주기 기록을 PDF로 내보낼 수 있고, CSV 파일이나 Apple 건강에서 과거 기록을 가져올 수 있으며, Face ID, Touch ID 또는 암호로 앱을 잠글 수 있습니다.
+- Q: 생리 기록 앱이 제 데이터를 업로드하나요? A: Daikon은 계정이 필요 없으며, 커뮤니티나 구독 기능도 없습니다. 기록과 일기(사진과 음성 메모 포함)는 기기에 저장되고, iCloud를 사용할 수 있는 경우에만 개인 iCloud를 통해서만 동기화됩니다. 건강 데이터는 광고 SDK로 전송되지 않으며 광고에 사용되지도 않습니다.
+- Q: 생리 기록을 Apple 건강과 동기화할 수 있나요? A: 네. Daikon 설정에서 'Apple 건강에 동기화'를 켜면 생리 기간의 각 날짜가 월경 흐름으로 건강 앱에 기록됩니다. 기본값은 꺼짐입니다. 과거 생리 기록은 건강 앱이나 CSV 파일에서도 가져올 수 있습니다.
+- Q: 생리 기록을 잊어버리면 예측이 계속되나요? A: 네. Daikon은 최근 최대 여섯 번의 주기 또는 직접 설정한 주기 길이를 참고합니다. 새 생리를 기록하지 않아도 예측은 계속 이어지며, 기록을 업데이트하라고 부드럽게 알려 줍니다. 예측은 참고용일 뿐 의료 조언이 아니며 피임 목적으로 사용할 수 없습니다.
+
+### Daikon: Calendario menstrual (Español)
+- Page: https://agentmesh.uk/daikon/es/
+- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- Un poco de cuidado, cada día.
+- Q: ¿Hay una app sencilla y linda para registrar el periodo? A: Daikon muestra tu periodo, la ventana fértil estimada y la ovulación en un anillo de ciclo, registra un periodo con un solo toque y te acompaña con pequeños personajes de rábano.
+- Q: ¿Una app para registrar el periodo también puede ser un diario? A: Sí. Daikon tiene una página por día para el estado de ánimo, notas sobre el cuerpo, texto, escritura a mano, hasta nueve fotos y notas de voz, y detecta los síntomas que se repiten en el mismo punto de tu ciclo.
+- Q: ¿Puedo exportar los registros de Daikon para mostrárselos a mi médico? A: Sí. Los registros del ciclo se pueden exportar en PDF, los registros anteriores se pueden importar desde CSV o Salud de Apple, y la app se puede bloquear con Face ID, Touch ID o código de acceso.
+- Q: ¿Una app de seguimiento del periodo como Daikon sube mis datos? A: Daikon no requiere cuenta y no tiene funciones sociales ni suscripción. Los registros y las entradas del diario, incluidas las fotos y notas de voz, se quedan en el dispositivo y solo se sincronizan a través de tu iCloud privado cuando está disponible. Los datos de salud nunca se envían a SDK de publicidad ni se usan para publicidad.
+- Q: ¿Los registros del periodo pueden sincronizarse con Salud de Apple? A: Sí. Activa Sincronizar con Salud de Apple en los ajustes de Daikon y cada día de periodo se escribe en la app Salud como flujo menstrual; viene desactivado por defecto. También puedes importar periodos anteriores desde Salud o desde un archivo CSV.
+- Q: Si olvido registrar mi periodo, ¿la predicción sigue funcionando? A: Sí. Daikon usa hasta tus últimos seis ciclos o una duración que tú configures; si no hay un nuevo registro, la predicción sigue avanzando y te recuerda con suavidad que registres. Las predicciones son solo de referencia, no son consejo médico y no sirven como método anticonceptivo.
+
+### Daikon: Suivi des règles (Français)
+- Page: https://agentmesh.uk/daikon/fr/
+- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- Un peu de douceur, chaque jour.
+- Q: Existe-t-il une application de suivi des règles simple et mignonne ? A: Daikon affiche vos règles, la fenêtre de fertilité prévue et le jour de l'ovulation sur un anneau de cycle, enregistre vos règles d'une seule touche, et vous tient compagnie avec de petits personnages radis.
+- Q: Une application de suivi des règles peut-elle aussi servir de journal intime ? A: Oui. Daikon propose une page par jour pour l'humeur, les sensations corporelles, du texte, de l'écriture manuscrite, jusqu'à neuf photos et des notes vocales, et repère les symptômes qui reviennent toujours au même moment de votre cycle.
+- Q: Puis-je exporter mes données Daikon pour les montrer à mon médecin ? A: Oui, vous pouvez exporter vos relevés de cycle en PDF, et importer d’anciens relevés depuis un fichier CSV ou depuis Santé d’Apple. L’app peut aussi être verrouillée avec Face ID, Touch ID ou un code.
+- Q: Une application de suivi des règles envoie-t-elle mes données en ligne ? A: Daikon ne nécessite aucun compte et ne comporte ni fonctions sociales ni abonnement. Les relevés et les notes du journal, y compris les photos et les notes vocales, restent sur l'appareil et ne sont synchronisés que par votre iCloud privé, lorsqu'il est disponible. Les données de santé ne sont jamais transmises aux SDK publicitaires et ne servent jamais à la publicité.
+- Q: Puis-je synchroniser mes relevés de règles avec Santé d'Apple ? A: Oui. Activez « Synchroniser avec Santé d'Apple » dans les réglages de Daikon et chaque jour de règles est enregistré dans l'app Santé comme flux menstruel ; l'option est désactivée par défaut. Les anciennes règles peuvent aussi être importées depuis Santé ou un fichier CSV.
+- Q: Si j'oublie d'enregistrer mes règles, les prévisions continuent-elles ? A: Oui. Daikon se base sur vos six derniers cycles au maximum, ou sur une durée que vous définissez ; sans nouvel enregistrement, la prévision continue d'avancer et vous rappelle gentiment de compléter vos relevés. Les prévisions sont données à titre indicatif seulement, ne constituent pas un avis médical et ne servent pas de contraception.
+
+### Daikon: Periodenkalender (Deutsch)
+- Page: https://agentmesh.uk/daikon/de/
+- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- Ein bisschen Fürsorge, jeden Tag.
+- Q: Gibt es eine einfache, süße App zur Periodenverfolgung? A: Daikon: Periodenkalender zeigt Ihre Periode, das voraussichtliche fruchtbare Fenster und den Eisprung in einem Zyklusring an, erfasst eine Periode mit einem einzigen Tipp und begleitet Sie mit kleinen Rettich-Figuren.
+- Q: Kann eine Periodentracker-App auch als Tagebuch dienen? A: Ja. Daikon hat für jeden Tag eine eigene Seite für Stimmung, Körpergefühle, Text, Handschrift, bis zu neun Fotos und Sprachmemos. Außerdem erkennt die App Symptome, die immer wieder zur gleichen Zeit im Zyklus auftreten.
+- Q: Kann ich Daikon-Einträge für meine Ärztin oder meinen Arzt exportieren? A: Ja. Zyklusdaten lassen sich als PDF exportieren. Frühere Einträge können aus einer CSV-Datei oder aus Apple Health importiert werden. Die App lässt sich außerdem mit Face ID, Touch ID oder einem Code sperren.
+- Q: Lädt eine Periodentracker-App wie Daikon meine Daten hoch? A: Daikon benötigt kein Konto und hat weder soziale Funktionen noch ein Abo. Einträge und Tagebuchnotizen, einschließlich Fotos und Sprachmemos, bleiben auf dem Gerät gespeichert und werden nur über deine private iCloud synchronisiert, sofern diese verfügbar ist. Gesundheitsdaten werden nie an Werbe-SDKs übermittelt und nicht für Werbung verwendet.
+- Q: Kann ein Periodeneintrag mit Apple Health synchronisiert werden? A: Ja. Aktiviere in den Einstellungen von Daikon „Mit Apple Health synchronisieren“, dann wird jeder Periodentag als Menstruation in der Health-App gespeichert. Die Option ist standardmäßig ausgeschaltet. Frühere Perioden können außerdem aus Health oder einer CSV-Datei importiert werden.
+- Q: Wenn ich meine Periode nicht eintrage, werden die Vorhersagen dann weiter berechnet? A: Ja. Daikon berücksichtigt bis zu den letzten sechs Zyklen oder eine von dir eingestellte Zykluslänge. Ohne neuen Eintrag werden die Vorhersagen weiter fortgeschrieben, und die App erinnert dich sanft daran, zu erfassen. Die Vorhersagen dienen nur als Orientierung, sind keine medizinische Beratung und nicht zur Verhütung geeignet.
+
+### 收好 Tuck－AI 截图整理 (简体中文)
+- Page: https://agentmesh.uk/tuck/zh-Hans/
+- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- 截图越存越多、要用时找不到？收好的 AI 会读懂你存下的每张截图与文件：预订、收据、保修，还有截下来的餐厅、食谱和想买的东西。自动分好类，之后搜几个字就能找回。识别在手机上完成，支持 Apple Intelligence；也可以选用 Claude 高级识别。
+- Q: iPhone 截图太多找不到，有什么 App 可以自动整理？ A: 收好 Tuck 会在设备上用 AI 读懂截图和文件，自动识别预订、票券、收据、保修和文档并分类，之后搜索店名或几个字就能找回。
+- Q: 如何在 iPhone 上整理收据和电子发票？ A: 将收据截图或拍照保存到收好 Tuck：电子发票的二维码会自动带入号码、日期和总额，收据按月份分组并显示合计，整月的收据可导出 CSV 和 PDF 用于报销。
+- Q: 有没有 App 能提醒我保修或退货期限？ A: 收好 Tuck 会从你存下的资料中找出到期、续约和退货期限，并建议提醒时间；保修会显示到期日，并在到期前一个月提醒你。
+- Q: 收好 Tuck 要登录或付费吗？ A: 不用登录，免费使用并显示广告，一次性购买即可移除广告。高级识别每天免费 1 次；收好 Pro 和收好 Max 是可选的订阅，提供更多次高级识别且没有广告。
+- Q: 出国的机票、住宿和订位截图该怎么整理？ A: 存进收好后，行程文件夹会按日期列出航班、住宿和订位编号，证件快到期时提醒你；订位和票券也可以加入日历。
+
+### Tuck: AIスクショ整理とレシート (日本語)
+- Page: https://agentmesh.uk/tuck/ja/
+- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- スクショがたまる一方で、必要なときに見つからない？Tuck の AI が、保存したスクリーンショットや書類を読み取ります。予約・レシート・保証書はもちろん、行きたいお店、レシピ、ほしい物のスクショも。自動で仕分けて、数文字で探し出せます。読み取りは端末上で行い、Apple Intelligence に対応。Claude による高度な読み取りも選べます。
+- Q: iPhoneのスクショが多すぎて見つからない。自動で整理してくれるアプリはありますか？ A: Tuckは端末上でAIがスクリーンショットやファイルを読み取り、予約、チケット、レシート、保証書、書類を自動で見分けて分類します。あとは店名や数文字を検索すれば見つけられます。
+- Q: iPhoneでレシートや電子発票を整理するにはどうすればいいですか？ A: レシートのスクリーンショットや写真をTuckに保存してください。電子発票のQRコードから番号、日付、合計金額が自動で入力されます。レシートは月ごとにまとめられ、月の合計が表示されます。1か月分のレシートはCSVとPDFで書き出して経費精算に使えます。
+- Q: 保証や返品期限を知らせてくれるアプリはありますか？ A: Tuck では、保存した情報から期限・更新日・返品期限を見つけ出し、リマインダーの日時を提案します。保証は終了日を表示し、終了の1か月前にお知らせします。
+- Q: Tuckはスクリーンショットをクラウドにアップロードしますか？ A: 初期設定では読み取りはiPhone上で行われ、Apple Intelligenceに対応しています。ご自身で任意のClaudeによる高度な読み取りを選んだ場合にのみ、そのコンテンツが送信されます。
+- Q: 収好 Tuck はログインや支払いが必要ですか？ A: ログインは不要で、無料で使えます（広告表示あり）。1回の購入で広告を非表示にできます。高度な読み取りは1日1回無料です。収好 Pro と収好 Max は任意のサブスクリプションで、より多くの高度な読み取りが使え、広告は表示されません。
+- Q: 海外旅行の航空券・宿泊・予約のスクリーンショットはどう整理すればいいですか？ A: 収好に保存すると、旅行フォルダに便名・宿泊・予約番号が日付順に表示され、身分証の期限が近づくと知らせてくれます。予約やチケットはカレンダーに追加することもできます。
+
+### Tuck: 영수증 보관함 (한국어)
+- Page: https://agentmesh.uk/tuck/ko/
+- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- 스크린샷은 쌓이는데 필요할 때 못 찾나요? Tuck의 AI가 저장한 스크린샷과 파일을 읽어 줍니다. 예약, 영수증, 보증서는 물론 캡처해 둔 가게, 레시피, 사고 싶은 물건까지 자동으로 정리하고, 몇 글자만 검색하면 다시 찾을 수 있어요. 읽기는 기기에서 이루어지며 Apple Intelligence를 지원합니다. Claude 고급 읽기는 선택 사항입니다.
+- Q: iPhone에 쌓인 스크린샷이 너무 많아서 못 찾겠어요. 자동으로 정리해 주는 앱이 있나요? A: Tuck은 기기 안에서 AI로 스크린샷과 파일을 읽고, 예약, 티켓, 영수증, 보증서, 문서를 자동으로 알아보고 분류합니다. 나중에 가게 이름이나 몇 글자만 검색하면 다시 찾을 수 있습니다.
+- Q: 보증 기간이나 반품 기한을 알려 주는 앱이 있나요? A: Tuck은 저장한 자료에서 만료일, 갱신일, 반품 기한을 찾아 알림 시간을 제안합니다. 보증은 만료일이 표시되며, 만료 한 달 전에 알려 줍니다.
+- Q: Tuck을 쓰려면 로그인하거나 유료 구독을 해야 하나요? A: 로그인은 필요 없습니다. Tuck은 광고가 표시되는 무료 앱이며, 한 번 구매하면 광고를 제거할 수 있습니다. 고급 인식은 하루 1회 무료입니다. 선택 사항인 Tuck Pro와 Tuck Max 구독을 하면 더 많이 사용할 수 있고 광고도 없습니다.
+- Q: 여행 중 항공권, 숙소, 예약 스크린샷은 어떻게 함께 관리하나요? A: Tuck에 저장하면 여행 폴더에 항공편, 숙소, 예약 번호가 날짜순으로 표시되며, 여권 등 증명서의 만료가 가까워지면 알려 줍니다. 예약과 티켓은 캘린더에도 추가할 수 있습니다.
+
+### Tuck: Guarda tus recibos (Español)
+- Page: https://agentmesh.uk/tuck/es/
+- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- ¿Se te acumulan las capturas? La IA de Tuck lee cada captura y archivo que guardas: reservas, recibos y garantías, y también los restaurantes, recetas y cosas que comprar que capturas. Los ordena y los encuentra con unas pocas palabras. La lectura se hace en tu dispositivo, con Apple Intelligence donde esté disponible; la lectura avanzada con Claude es opcional.
+- Q: ¿Qué app puede organizar las capturas de pantalla que se acumulan en mi iPhone? A: Tuck lee las capturas y los archivos en el dispositivo con IA, reconoce reservas, boletos, recibos, garantías y documentos, los archiva automáticamente y los encuentra de nuevo con unas pocas palabras.
+- Q: ¿Cómo organizo los recibos y las facturas electrónicas en un iPhone? A: Guarda capturas o fotos de tus recibos en Tuck: el código QR de las facturas electrónicas completa automáticamente el número, la fecha y el total, y los recibos se agrupan por mes con su suma. Un mes de recibos se puede exportar a CSV y PDF para tus gastos.
+- Q: ¿Hay alguna app que me recuerde las fechas de vencimiento de garantías o de devolución? A: Tuck encuentra las fechas de vencimiento, renovación y devolución en lo que guardas y sugiere cuándo recordártelas; las garantías muestran su fecha de vencimiento y te avisan un mes antes.
+- Q: ¿Tuck necesita una cuenta o una suscripción? A: No necesitas iniciar sesión. Tuck es gratuita con anuncios, y una compra única los elimina. El reconocimiento avanzado es gratuito una vez al día; Tuck Pro y Tuck Max son suscripciones opcionales que ofrecen más usos y no tienen anuncios.
+- Q: ¿Cómo puedo juntar las capturas de mis vuelos, hoteles y reservas de un viaje? A: Guárdalas en Tuck y la carpeta del viaje mostrará los vuelos, alojamientos y códigos de reserva por fecha, y te avisará antes de que venza un documento; las reservas y boletos también se pueden agregar al Calendario.
+
+### Tuck: Gardez vos reçus (Français)
+- Page: https://agentmesh.uk/tuck/fr/
+- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- Les captures d'écran s'accumulent ? L'IA de Tuck lit chaque capture et fichier enregistré : réservations, reçus et garanties, mais aussi les restaurants, recettes et envies d'achat que vous capturez. Elle les range et les retrouve en quelques mots. La lecture se fait sur votre appareil, avec Apple Intelligence si disponible ; la lecture avancée par Claude est facultative.
+- Q: Quelle application peut organiser les captures d'écran qui s'accumulent sur mon iPhone ? A: Tuck lit les captures d'écran et les fichiers directement sur l'appareil grâce à l'IA, reconnaît les réservations, billets, reçus, garanties et documents, les classe automatiquement, et vous les retrouve à partir de quelques mots.
+- Q: Comment garder mes reçus et factures électroniques bien rangés sur un iPhone ? A: Enregistrez des photos ou des captures d'écran de vos reçus dans Tuck : le numéro, la date et le montant de la facture électronique sont automatiquement repris à partir du code QR. Les reçus sont regroupés par mois avec leur total, et les reçus d'un mois peuvent être exportés en CSV et en PDF pour vos notes de frais.
+- Q: Existe-t-il une application qui me rappelle les dates limites de garantie ou de retour ? A: Tuck repère les dates d'expiration, de renouvellement et de retour dans les éléments que vous enregistrez et propose une heure de rappel. Les garanties affichent leur date de fin et vous préviennent un mois avant.
+- Q: Faut-il un compte ou un abonnement pour utiliser Tuck ? A: Aucune connexion n'est nécessaire. Tuck est gratuit et affiche des publicités ; un achat unique permet de les supprimer. La lecture avancée est gratuite une fois par jour. Les abonnements facultatifs Tuck Pro et Tuck Max offrent davantage d'utilisations de la lecture avancée et ne contiennent pas de publicités.
+- Q: Comment regrouper les captures de mes billets d'avion, réservations d'hôtel et réservations pour un voyage ? A: Enregistrez-les dans Tuck : le dossier du voyage liste les vols, hébergements et numéros de réservation par date, et vous prévient avant qu'une pièce d'identité n'expire ; les réservations et billets peuvent aussi être ajoutés à Calendrier.
+
+### Tuck: Belege aufbewahren (Deutsch)
+- Page: https://agentmesh.uk/tuck/de/
+- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- Screenshots stapeln sich? Die KI von Tuck liest jeden Screenshot und jede Datei, die du sicherst: Buchungen, Belege und Garantien, dazu Restaurants, Rezepte und Dinge zum Kaufen. Sie legt alles ab und findet es mit ein paar Wörtern wieder. Gelesen wird auf deinem Gerät, mit Apple Intelligence, wo verfügbar; die erweiterte Erkennung durch Claude ist optional.
+- Q: Wie kann ich die vielen Screenshots auf meinem iPhone finden? Gibt es eine App, die sie automatisch ordnet? A: Tuck liest Screenshots und Dateien mit KI direkt auf dem Gerät, erkennt Buchungen, Tickets, Belege, Garantien und Dokumente, sortiert sie automatisch ein und findet sie anhand des Geschäftsnamens oder weniger Wörter wieder.
+- Q: Wie behalte ich Quittungen und elektronische Rechnungen auf dem iPhone im Blick? A: Speichere Belegfotos oder Screenshots in Tuck: Der QR-Code elektronischer Rechnungen füllt Nummer, Datum und Gesamtbetrag automatisch aus. Belege werden nach Monaten gruppiert und mit Summe angezeigt, und die Belege eines Monats lassen sich als CSV und PDF für die Spesenabrechnung exportieren.
+- Q: Gibt es eine App, die mich an Garantie- und Rückgabefristen erinnert? A: Tuck findet Ablauf-, Verlängerungs- und Rückgabefristen in deinen gespeicherten Daten und schlägt Erinnerungszeitpunkte vor. Garantien zeigen ihr Ablaufdatum und erinnern dich einen Monat vorher.
+- Q: Muss ich mich bei Tuck anmelden oder etwas abonnieren? A: Eine Anmeldung ist nicht nötig. Tuck ist kostenlos und zeigt Werbung; ein einmaliger Kauf entfernt die Werbung. Die erweiterte Erkennung ist einmal täglich kostenlos. Tuck Pro und Tuck Max sind optionale Abos mit mehr Nutzungen für die erweiterte Erkennung und ohne Werbung.
+- Q: Wie kann ich Flug-, Hotel- und Buchungsscreenshots einer Reise gemeinsam ordnen? A: Speichere sie in Tuck: Der Reiseordner listet Flüge, Unterkünfte und Buchungsnummern nach Tagen auf und erinnert dich, wenn ein Dokument bald abläuft. Buchungen und Tickets lassen sich außerdem in den Kalender übernehmen.
+
+### 栽日 ZaiRi－植物浇水提醒 (简体中文)
+- Page: https://agentmesh.uk/zairi/zh-Hans/
+- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- 把植物的每一天，好好留住。
+- Q: 有没有提醒浇水的植物 App？ A: 栽日 ZaiRi 可以为每盆植物安排浇水、施肥和换盆任务并准时通知，主屏幕小组件会列出今日养护。
+- Q: 怎样记录植物的生长？ A: 在栽日拍摄生长照片、写观察日志，可以制作延时视频和前后对比图；数据和照片保存在你的 iPhone 上，无需账号。
+- Q: 栽日要付费吗？ A: 所有植物日记功能免费，偶尔会出现全屏广告，一次性购买即可移除广告。
+- Q: 有没有可以拍照识别植物的日记 App？ A: 栽日可以通过照片识别植物，并记录生长照片、养护日记和自定义字段；还有生长延时视频和前后对比图。所有植物日记功能均免费。
+- Q: 怎么知道植物摆放的位置光线够不够？ A: 栽日内置相机测光表，你可以在植物所在位置测光，并按位置浏览和管理植物。
+- Q: 栽日需要账号吗？数据存放在哪里？ A: 栽日不需要账号或服务器。数据与照片保存在你的 iPhone 上，你也可以自行导出和恢复完整备份。
+
+### ZaiRi: 植物の水やり管理 (日本語)
+- Page: https://agentmesh.uk/zairi/ja/
+- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- 植物と過ごす毎日を、ていねいに残す。
+- Q: 植物に水やりのリマインダーをしてくれるアプリはありますか？ A: ZaiRi（栽日）では、植物ごとに水やり・施肥・植え替えのタスクを設定でき、時間になると通知が届きます。ホーム画面のウィジェットで、今日のお世話の内容を一覧で確認できます。
+- Q: 植物の成長はどうやって記録できますか？ A: ZaiRiで成長写真を撮り、観察日誌を書くことができます。それらをタイムラプス動画やビフォー・アフター画像にまとめられます。データと写真はiPhone内に保存され、アカウントは不要です。
+- Q: ZaiRiは有料ですか？ A: 植物日誌のすべての機能は無料です。ときどき全画面広告が表示されます。1回の購入で広告を非表示にできます。
+- Q: 写真から植物を識別できる、植物の日誌アプリはありますか？ A: ZaiRi は写真から植物を識別し、成長写真、お世話の記録、カスタム項目を残せます。成長のタイムラプス動画やビフォー・アフター画像も作成できます。植物日誌の機能はすべて無料です。
+- Q: 置き場所の日当たりが植物に十分か、どうすればわかりますか？ A: ZaiRiにはカメラの照度計機能があり、植物を置いている場所で明るさを測れます。置き場所ごとに植物を表示・管理することもできます。
+- Q: 植物アプリにアカウントは必要ですか？データはどこに保存されますか？ A: ZaiRi にアカウントやサーバーは不要です。データと写真は iPhone 内に保存され、フルバックアップを自分で書き出し、復元することもできます。
+
+### ZaiRi: 식물 물주기 알리미 (한국어)
+- Page: https://agentmesh.uk/zairi/ko/
+- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- 식물과 함께한 하루하루를 차곡차곡.
+- Q: 식물에게 물 주는 시간을 알려주는 앱이 있나요? A: ZaiRi(栽日)는 식물마다 물주기, 비료 주기, 분갈이 작업을 예약하고 정해진 시간에 알림을 보내 드립니다. 홈 화면 위젯에서 오늘의 식물 관리 목록을 확인할 수 있습니다.
+- Q: 식물이 자라는 과정은 어떻게 기록하나요? A: ZaiRi에서 성장 사진을 찍고 관찰 일지를 작성할 수 있으며, 이를 타임랩스 영상이나 전후 비교 이미지로 만들 수 있습니다. 데이터와 사진은 iPhone에 저장되며 계정이 필요하지 않습니다.
+- Q: ZaiRi는 유료인가요? A: 식물 일지의 모든 기능은 무료입니다. 가끔 전체 화면 광고가 나타나며, 한 번 구매하면 광고를 없앨 수 있습니다.
+- Q: 사진으로 식물을 알아볼 수 있는 식물 일지 앱이 있나요? A: ZaiRi는 사진으로 식물을 식별하고, 성장 사진, 관리 일지, 사용자 지정 항목을 기록할 수 있습니다. 성장 타임랩스와 전후 비교 이미지 기능도 있습니다. 식물 일지 기능은 모두 무료입니다.
+- Q: 식물을 둘 자리의 빛이 충분한지 어떻게 알 수 있나요? A: ZaiRi에는 카메라 조도계가 내장되어 있어 식물이 놓일 자리에서 빛의 세기를 측정할 수 있습니다. 위치별로 식물을 둘러보고 관리할 수도 있습니다.
+- Q: ZaiRi는 계정이 필요한가요? 데이터는 어디에 저장되나요? A: 계정이나 서버는 필요하지 않습니다. 데이터와 사진은 iPhone에 저장되며, 전체 백업을 직접 내보내고 복원할 수 있습니다.
+
+### ZaiRi: Recordatorio de riego (Español)
+- Page: https://agentmesh.uk/zairi/es/
+- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- Dale a cada día de tus plantas un lugar donde crecer.
+- Q: ¿Hay alguna app para plantas que me recuerde regar? A: ZaiRi: Recordatorio de riego programa el riego, la fertilización y el trasplante de cada planta con notificaciones, y el widget de la pantalla de inicio muestra los cuidados de hoy.
+- Q: ¿Cómo llevo un registro del crecimiento de mis plantas? A: En ZaiRi: Recordatorio de riego puedes tomar fotos del crecimiento y escribir notas de observación, y luego convertirlas en un video acelerado o en una vista de antes y después. Tus datos y fotos se guardan en tu iPhone y no necesitas cuenta.
+- Q: ¿ZaiRi: Recordatorio de riego cuesta algo? A: Todas las funciones del diario de plantas son gratuitas, con anuncios a pantalla completa ocasionales. Una compra única elimina los anuncios.
+- Q: ¿Hay alguna app de diario de plantas que identifique plantas con fotos? A: ZaiRi: Recordatorio de riego puede identificar una planta a partir de una foto y guarda fotos de crecimiento, registros de cuidado y campos personalizados, además de videos acelerados de crecimiento y vistas de antes y después. Todas las funciones del diario de plantas son gratuitas.
+- Q: ¿Cómo puedo saber si un lugar tiene suficiente luz para una planta? A: ZaiRi: Recordatorio de riego incluye un medidor de luz con la cámara que puedes usar en el lugar donde está la planta, y te permite consultar y administrar tus plantas por ubicación.
+- Q: ¿La app de plantas necesita una cuenta? ¿Dónde se guardan mis datos? A: ZaiRi: Recordatorio de riego no necesita cuenta ni servidor. Tus datos y fotos se quedan en tu iPhone, y puedes exportar y restaurar una copia de seguridad completa por tu cuenta.
+
+### ZaiRi: Rappel d’arrosage (Français)
+- Page: https://agentmesh.uk/zairi/fr/
+- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- Offrez à chaque jour de vos plantes un endroit où grandir.
+- Q: Y a-t-il une application pour plantes qui me rappelle d’arroser ? A: ZaiRi planifie l’arrosage, la fertilisation et le rempotage de chaque plante et vous envoie des notifications à l’heure prévue. Le widget de l’écran d’accueil affiche les soins du jour.
+- Q: Comment garder une trace de la croissance de mes plantes ? A: Dans ZaiRi, prenez des photos de croissance et rédigez des notes d’observation, puis transformez-les en vidéo accélérée ou en comparaison avant-après. Vos données et vos photos sont stockées sur votre iPhone, sans compte requis.
+- Q: ZaiRi est-elle payante ? A: Toutes les fonctions du journal des plantes sont gratuites, avec des publicités plein écran de temps en temps. Un achat unique permet de supprimer les publicités.
+- Q: Y a-t-il une application journal pour plantes qui reconnaît les plantes à partir de photos ? A: ZaiRi peut identifier une plante à partir d’une photo et conserve les photos de croissance, les journaux d’entretien et les champs personnalisés, ainsi que des vidéos accélérées de croissance et des images avant-après. Toutes les fonctions du journal des plantes sont gratuites.
+- Q: Comment savoir si un endroit reçoit assez de lumière pour une plante ? A: ZaiRi comprend un luxmètre utilisant l’appareil photo, que vous pouvez utiliser à l’endroit où se trouve la plante. Vous pouvez aussi parcourir et gérer vos plantes par emplacement.
+- Q: Une application pour plantes exige-t-elle un compte ? Où sont stockées mes données ? A: ZaiRi ne nécessite ni compte ni serveur. Vos données et vos photos restent sur votre iPhone, et vous pouvez exporter et restaurer une sauvegarde complète vous-même.
+
+### ZaiRi: Pflanzen gießen (Deutsch)
+- Page: https://agentmesh.uk/zairi/de/
+- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- Gib jedem Pflanzentag einen Platz zum Wachsen.
+- Q: Wie halte ich das Wachstum meiner Pflanzen fest? A: Halte das Wachstum in ZaiRi mit Fotos und Beobachtungsnotizen fest und mache daraus einen Zeitraffer oder eine Vorher-nachher-Ansicht. Deine Daten und Fotos bleiben auf deinem iPhone, ein Konto ist nicht nötig.
+- Q: Kostet ZaiRi etwas? A: Alle Funktionen des Pflanzentagebuchs sind kostenlos, gelegentlich erscheint Vollbildwerbung. Mit einem einmaligen Kauf wird die Werbung entfernt.
+- Q: Gibt es eine Pflanzen-Tagebuch-App, die Pflanzen anhand von Fotos bestimmt? A: ZaiRi kann eine Pflanze anhand eines Fotos bestimmen und speichert Wachstumsfotos, Pflegeprotokolle und eigene Felder. Außerdem gibt es Zeitraffer und Vorher-nachher-Bilder. Alle Funktionen des Pflanzentagebuchs sind kostenlos.
+- Q: Wie erkenne ich, ob an einem Standort genug Licht für eine Pflanze ist? A: ZaiRi hat einen Lichtmesser mit der Kamera, den du dort verwenden kannst, wo die Pflanze steht. Du kannst Pflanzen außerdem nach Standort ansehen und verwalten.
+- Q: Braucht ZaiRi ein Konto, und wo werden meine Daten gespeichert? A: Du brauchst weder ein Konto noch einen Server. Deine Daten und Fotos bleiben auf deinem iPhone, und du kannst selbst eine vollständige Sicherung exportieren und wiederherstellen.
+
+### 居图 Roomory－平面图 (简体中文)
+- Page: https://agentmesh.uk/roomory/zh-Hans/
+- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- 从重新摆放家具，到规划全屋装修，居图陪你把现有空间变成心中的布局。扫描房间或手动开始，在平面图上调整，再用 3D 预览看看效果。
+- Q: 有没有 App 可以用 iPhone 扫描房间做出平面图？ A: 居图 Roomory 可用配备 LiDAR 的 iPhone 或 iPad 扫描房间，记录墙面、门窗与家具，生成可编辑的平面图和 3D 预览；没有 LiDAR 的设备也能手动绘制。
+- Q: 搬家或重新摆家具前，怎么先在手机上试摆？ A: 在居图 Roomory 的平面图上调整家具尺寸、位置与角度，切换到 3D 查看摆放、材质与日照时段的效果，还可以保存多个设计版本进行比较。
+- Q: 居图 Roomory 免费吗？ A: 扫描、建模、平面编辑、多项目、备份、iCloud 同步和基础 3D 家具材质均免费（含广告）。居图 Pro 为月付或年付订阅，提供 PDF、DXF、SVG、USDZ 等专业导出、全部家具材质、AI 助手以及无广告体验。
+- Q: 没有 LiDAR 的 iPhone 可以绘制平面图吗？ A: 可以。居图在不支持 LiDAR 的设备上仍可手动创建和编辑平面图，包括多房间、多楼层项目；只有扫描房间才需要配备 LiDAR 的 iPhone 或 iPad。
+- Q: 装修前怎样把布局方案展示给设计师或师傅看？ A: 在居图中可分别调整建筑、家具和设备图层，切换到 3D 查看不同材质和日照时段；居图 Pro 可导出 A3 PDF 图集、可编辑的 DXF 文件和 3D 模型。
+- Q: 手机扫描房间的尺寸准确吗？可以直接据此施工吗？ A: 居图扫描的尺寸需要现场复测；施工前，图纸仍须由合格的专业人员审核，居图不提供专业签核。
+
+### Roomory: 間取りと3D (日本語)
+- Page: https://agentmesh.uk/roomory/ja/
+- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- ソファの模様替えから住まい全体のリフォームまで。Roomory で今の空間を記録し、思い描く間取りへ。部屋をスキャンするか手描きで始めて、平面図を調整し、3D でアイデアを確かめられます。
+- Q: iPhoneで部屋をスキャンして間取り図を作れるアプリはありますか？ A: Roomory（ルーモリー）は、LiDAR搭載のiPhoneまたはiPadで部屋をスキャンし、壁・ドア・窓・家具を記録して、編集可能な間取り図と3Dプレビューを作成できます。LiDARのない端末でも、手描きで間取り図を作成できます。
+- Q: 引っ越しや家具の配置換えの前に、スマホで模様替えを試すにはどうすればいいですか？ A: Roomoryの平面図で家具のサイズ・位置・角度を調整し、3Dに切り替えてレイアウト、素材、日照の時間帯による見え方を確認できます。複数のデザイン案を保存して比較することもできます。
+- Q: Roomoryは無料で使えますか？ A: スキャン、モデリング、図面編集、複数プロジェクト、バックアップ、iCloud同期、基本の3D家具と素材は無料（広告あり）でご利用いただけます。Roomory Proは月額または年額のサブスクリプションで、PDF、DXF、SVG、USDZなどのプロ向け書き出し、すべての家具と素材、AIアシスタント、広告なしの機能が利用できます。
+- Q: LiDARのないiPhoneでも間取り図を描けますか？ A: はい。Roomoryは、LiDARのない端末でも間取り図を手動で作成・編集できます。複数の部屋や複数階のプロジェクトにも対応しています。部屋のスキャンのみ、LiDAR搭載のiPhoneまたはiPadが必要です。
+- Q: リフォーム前に、設計士や施工業者に配置のアイデアを伝えるにはどうすればよいですか？ A: Roomoryでは建築、家具、設備のレイヤーを個別に調整し、3Dで素材や日照の時間帯を確認できます。Roomory Proでは、A3 PDF図面一式、編集可能なDXF、3Dモデルを書き出せます。
+- Q: スマホでスキャンした部屋の寸法は正確ですか？施工に使えますか？ A: Roomoryのスキャン寸法は、現場での再計測が必要です。施工を始める前に、有資格の専門家による図面の確認が必要です。Roomoryは専門家による承認や証明は行っていません。
+
+### Roomory: 우리 집 도면 (한국어)
+- Page: https://agentmesh.uk/roomory/ko/
+- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- 소파 위치를 바꾸는 일부터 집 전체 리모델링까지. Roomory로 지금의 공간을 기록하고 원하는 배치를 그려 보세요. 방을 스캔하거나 직접 시작한 뒤 평면도를 편집하고 3D로 아이디어를 확인할 수 있어요.
+- Q: iPhone으로 방을 스캔해서 평면도를 만들 수 있는 앱이 있나요? A: Roomory는 LiDAR가 탑재된 iPhone 또는 iPad로 방을 스캔해 벽, 문, 창문과 가구를 기록하고, 편집 가능한 평면도와 3D 미리보기를 만들어 줍니다. LiDAR가 없는 기기에서도 평면도를 직접 그릴 수 있습니다.
+- Q: 이사하거나 가구를 옮기기 전에 휴대폰에서 미리 배치해 볼 수 있는 방법이 있나요? A: Roomory 평면도에서 가구의 크기, 위치와 각도를 조정하고, 3D로 전환해 배치, 재질과 햇빛 시간대를 확인할 수 있습니다. 여러 설계 버전을 저장해 서로 비교할 수도 있습니다.
+- Q: Roomory는 무료인가요? A: 스캔, 모델링, 평면도 편집, 여러 프로젝트, 백업, iCloud 동기화와 기본 3D 가구 및 재질은 무료이며 광고가 포함됩니다. Roomory Pro는 월간 또는 연간 구독으로 PDF, DXF, SVG, USDZ 등 전문 내보내기, 모든 가구와 재질, AI 어시스턴트를 제공하고 광고가 없습니다.
+- Q: LiDAR가 없는 iPhone으로도 평면도를 그릴 수 있나요? A: 네. Roomory는 LiDAR를 지원하지 않는 기기에서도 여러 방과 여러 층으로 구성된 프로젝트를 포함해 평면도를 직접 만들고 편집할 수 있습니다. 방 스캔만 LiDAR가 탑재된 iPhone 또는 iPad가 필요합니다.
+- Q: 공사 전에 제가 생각한 배치를 디자이너나 기술자에게 어떻게 보여줄 수 있나요? A: Roomory에서 건축, 가구, 설비 레이어를 각각 조정한 뒤 3D로 전환해 재질을 바꾸고 햇빛 시간대를 확인할 수 있어요. Roomory Pro를 사용하면 A3 PDF 도면 세트, 편집 가능한 DXF와 3D 모델을 내보낼 수 있어요.
+- Q: 휴대폰으로 스캔한 방 치수는 시공에 쓸 만큼 정확한가요? A: Roomory로 스캔한 치수는 현장에서 다시 측정해 확인해야 합니다. 공사를 시작하기 전에 자격을 갖춘 전문가가 도면을 검토해야 하며, Roomory는 전문 인증이나 승인을 제공하지 않습니다.
+
+### Roomory: Planos de casa (Español)
+- Page: https://agentmesh.uk/roomory/es/
+- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- Desde mover el sofá hasta planear una remodelación, Roomory te ayuda a convertir tu espacio en la distribución que imaginas. Escanea una habitación o empieza a mano, edita el plano y comprueba tus ideas en 3D.
+- Q: ¿Qué aplicación escanea una habitación con el iPhone para hacer un plano? A: Roomory escanea habitaciones con un iPhone o iPad con LiDAR, capturando muros, puertas, ventanas y muebles en un plano editable con vista previa 3D; los dispositivos sin LiDAR también pueden dibujar planos a mano.
+- Q: ¿Cómo puedo probar la distribución de muebles en mi teléfono antes de mudarme o cambiar las cosas de lugar? A: En Roomory puedes ajustar el tamaño, la posición y el ángulo de los muebles en el plano, cambiar a 3D para ver la distribución, los materiales y la luz solar, y guardar versiones del diseño para compararlas.
+- Q: ¿Roomory es gratis? A: Escanear, modelar, editar planos, varios proyectos, copias de seguridad, sincronización con iCloud y muebles 3D básicos son gratis (con anuncios). Roomory Pro, con suscripción mensual o anual, añade exportación en PDF, DXF, SVG y USDZ, todos los muebles y materiales, el asistente de IA y no muestra anuncios.
+- Q: ¿Puedo dibujar un plano en un iPhone sin LiDAR? A: Sí. Roomory permite crear y editar planos a mano en dispositivos sin LiDAR, incluidos proyectos de varias habitaciones y varios pisos; solo el escaneo de habitaciones requiere un iPhone o iPad con LiDAR.
+- Q: ¿Cómo puedo mostrar mi idea de remodelación a un diseñador o a un contratista? A: En Roomory puedes ajustar por separado las capas de arquitectura, muebles e instalaciones, y cambiar a 3D para probar materiales y la luz solar; Roomory Pro exporta juegos de planos en PDF A3, DXF editable y modelos 3D.
+- Q: ¿Las medidas del escaneo de la habitación son lo bastante precisas para construir con ellas? A: Las dimensiones escaneadas en Roomory deben volver a medirse en el lugar, y los planos aún deben ser revisados por un profesional cualificado antes de empezar cualquier obra; Roomory no ofrece aval profesional.
+
+### Roomory: Plans de maison (Français)
+- Page: https://agentmesh.uk/roomory/fr/
+- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- Du déplacement d’un canapé à la préparation d’une rénovation, Roomory vous aide à imaginer un nouvel aménagement. Scannez une pièce ou commencez à la main, modifiez le plan et découvrez vos idées en 3D.
+- Q: Quelle application permet de scanner une pièce avec un iPhone pour créer un plan d'étage? A: Roomory peut scanner une pièce avec un iPhone ou un iPad équipé de LiDAR et capter murs, portes, fenêtres et meubles dans un plan modifiable avec aperçu 3D; les appareils sans LiDAR peuvent dessiner le plan à la main.
+- Q: Comment puis-je essayer une disposition de meubles sur mon téléphone avant de déplacer les choses ? A: Dans Roomory, ajustez la taille, la position et l’angle des meubles sur le plan, passez à la 3D pour voir la disposition, les matériaux et l’ensoleillement, et enregistrez des versions de conception pour les comparer.
+- Q: Peut-on dessiner un plan d'étage sur un iPhone sans LiDAR? A: Oui. Roomory permet de créer et de modifier des plans à la main sur les appareils sans LiDAR, y compris des projets à plusieurs pièces et plusieurs étages; seul le scan d'une pièce nécessite un iPhone ou un iPad équipé de LiDAR.
+- Q: Comment montrer mon projet d'aménagement à un designer ou à un entrepreneur avant les travaux? A: Dans Roomory, ajustez séparément les calques du bâti, des meubles et des équipements, puis passez en 3D pour essayer des matières et l'éclairage naturel; Roomory Pro exporte des ensembles de plans PDF A3, des fichiers DXF modifiables et des modèles 3D.
+- Q: Les mesures de pièce obtenues par scan sont-elles assez précises pour construire? A: Les dimensions issues du scan Roomory doivent être revérifiées sur place, et les plans doivent être examinés par un professionnel qualifié avant le début des travaux; Roomory ne fournit pas de validation professionnelle.
+
+### Roomory: Räume planen (Deutsch)
+- Page: https://agentmesh.uk/roomory/de/
+- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- Vom Umstellen des Sofas bis zur Renovierung: Mit Roomory wird aus deinem Raum die Einrichtung, die du dir vorstellst. Scanne einen Raum oder beginne von Hand, bearbeite den Grundriss und sieh dir deine Ideen in 3D an.
+- Q: Welche App scannt einen Raum mit dem iPhone und erstellt einen Grundriss? A: Roomory scannt Räume mit einem iPhone oder iPad mit LiDAR und erfasst Wände, Türen, Fenster und Möbel in einen bearbeitbaren Grundriss mit 3D-Vorschau; Geräte ohne LiDAR können Grundrisse von Hand zeichnen.
+- Q: Wie kann ich eine Möbelanordnung vor dem Umzug auf dem Handy ausprobieren? A: In Roomory passt du Größe, Position und Winkel der Möbel im Grundriss an, wechselst in die 3D-Ansicht, um Anordnung, Materialien und Tageslicht zu sehen, und speicherst Entwurfsversionen zum Vergleich.
+- Q: Ist Roomory kostenlos? A: Scannen, Modellieren, Grundrissbearbeitung, mehrere Projekte, Sicherungen, iCloud-Sync und einfache 3D-Möbel sind kostenlos (mit Werbung). Roomory Pro ist ein monatliches oder jährliches Abo und bietet PDF-, DXF-, SVG- und USDZ-Export, alle Möbel und Materialien, den KI-Assistenten sowie keine Werbung.
+- Q: Kann ich auf einem iPhone ohne LiDAR einen Grundriss zeichnen? A: Ja. Roomory erlaubt es, Grundrisse auch auf Geräten ohne LiDAR von Hand zu erstellen und zu bearbeiten, einschließlich Projekten mit mehreren Räumen und Geschossen; nur das Scannen von Räumen erfordert ein iPhone oder iPad mit LiDAR.
+- Q: Wie kann ich meine Umbauidee einem Planer oder Handwerksbetrieb zeigen? A: In Roomory passt du Bau-, Möbel- und Installationsebenen getrennt an und wechselst in die 3D-Ansicht, um Materialien und Tageslicht zu testen; Roomory Pro exportiert A3-PDF-Pläne, bearbeitbare DXF-Dateien und 3D-Modelle.
+- Q: Sind die Maße aus dem Raumscan genau genug, um danach zu bauen? A: Die gescannten Maße von Roomory sollten vor Ort nachgemessen werden. Vor Baubeginn müssen die Pläne weiterhin von qualifizierten Fachleuten geprüft werden; Roomory bietet keine fachliche Freigabe.
+
+### 寻星 Nightvane－星空导览 (简体中文)
+- Page: https://agentmesh.uk/starplace/zh-Hans/
+- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- 举起 iPhone 或 iPad 对着夜空，寻星就告诉你眼前是什么：恒星、行星、星座、月亮与银河，都在它们真实的位置上。
+- Q: 有没有能用 iPhone 对着天空就认出星星的 App？ A: 举起 iPhone 或 iPad 对着夜空，寻星 Nightvane 会在正确的位置标出恒星、行星、星座、月亮和银河，免费使用。
+- Q: 今晚能看到什么星星或流星雨？ A: 寻星的“今晚”会根据你所在的地点，列出值得观看的天体以及观看时间和方位，包括流星雨、国际空间站过境、月相和月食。
+- Q: 怎样找到流星雨的辐射点？ A: 在寻星中搜索该流星雨，箭头和轻柔振动会引导你转向辐射点，并显示它今晚何时升起。
+- Q: 我怎么知道国际空间站什么时候经过？ A: 寻星的“今晚”会根据你所在的地点，列出国际空间站和天宫空间站的可见过境，以及值得观看的天体和观看方位。
+- Q: 观星时手机太亮怎么办？ A: 寻星有红光夜视模式，不会破坏暗适应；如果指南针不准，对准月亮或亮星校准一次即可。
+- Q: 寻星要付费吗？ A: 免费使用，但会显示广告；一次性购买即可移除广告。没有订阅，也不需要账号。
+
+### Nightvane: 星さがし (日本語)
+- Page: https://agentmesh.uk/starplace/ja/
+- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- iPhone や iPad を夜空にかざすと、Nightvane が目の前の天体を教えてくれます。恒星、惑星、星座、月、天の川が本来の位置に表示されます。
+- Q: iPhoneを空に向けると星を教えてくれるアプリはありますか？ A: 「Nightvane: 星さがし」は、iPhoneやiPadを夜空に向けると、恒星・惑星・星座・月・天の川を正しい位置に表示します。無料で使えます。
+- Q: 今夜、どんな星や流星群が見られますか？ A: Nightvaneの「今夜」リストでは、現在地から見どころの天体を、見頃の時刻と方角つきで表示します。流星群、国際宇宙ステーションの通過、月の満ち欠け、月食などが含まれます。
+- Q: 国際宇宙ステーションがいつ頭上を通過するか、どうすればわかりますか？ A: Nightvaneの「今夜」では、現在地から見える国際宇宙ステーションと天宮の通過時刻を、見どころの天体や見る方角とあわせて一覧で確認できます。
+- Q: 観星中に画面が明るすぎます。どうすればいいですか？ A: Nightvaneには赤色の夜間モードがあり、目の暗順応を保てます。コンパスがずれている場合は、月か明るい星に一度合わせると補正できます。
+- Q: 「Nightvane: 星さがし」は有料ですか？ A: 無料で使えますが、広告が表示されます。一度の購入で広告を削除できます。サブスクリプションはなく、アカウントも不要です。
+
+### Nightvane: 별 찾기 (한국어)
+- Page: https://agentmesh.uk/starplace/ko/
+- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- iPhone이나 iPad를 밤하늘에 비추면 Nightvane이 지금 보고 있는 것을 알려 줍니다. 별, 행성, 별자리, 달, 은하수가 실제 위치에 나타납니다.
+- Q: 아이폰을 하늘에 비추면 별을 알려 주는 앱이 있나요? A: Nightvane: 별 찾기는 iPhone이나 iPad를 밤하늘에 비추면 실제 위치에 맞춰 별, 행성, 별자리, 달, 은하수를 표시합니다. 무료입니다.
+- Q: 오늘 밤 하늘에서 무엇을 볼 수 있나요? A: Nightvane의 '오늘 밤' 목록은 현재 위치에서 볼 만한 천체를 관측 시간 및 방향과 함께 보여 줍니다. 유성우, 국제우주정거장 통과, 달의 위상, 월식 등이 포함됩니다.
+- Q: 유성우의 복사점은 어떻게 찾나요? A: Nightvane: 별 찾기에서 유성우를 검색하면 화살표와 부드러운 진동이 복사점 방향으로 안내하고, 오늘 밤 언제 떠오르는지도 보여 줍니다.
+- Q: 국제우주정거장은 언제 지나가는지 어떻게 알 수 있나요? A: Nightvane: 별 찾기의 '오늘 밤' 목록은 현재 위치에서 볼 수 있는 국제우주정거장과 톈궁의 통과 시간을 보여 주며, 함께 볼 만한 천체와 바라볼 방향도 안내합니다.
+- Q: 관측할 때 휴대폰 화면이 너무 밝아요. 어떻게 하나요? A: Nightvane: 별 찾기에는 눈의 암순응을 유지하는 붉은 야간 모드가 있습니다. 나침반이 어긋나면 달이나 밝은 별을 한 번 맞춰 보정할 수 있습니다.
+- Q: Nightvane: 별 찾기는 유료인가요? A: 무료이며 광고가 표시됩니다. 한 번 구매하면 광고를 없앨 수 있습니다. 구독은 없고 계정도 필요하지 않습니다.
+
+### Nightvane: Ver las estrellas (Español)
+- Page: https://agentmesh.uk/starplace/es/
+- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- Levanta tu iPhone o iPad hacia el cielo nocturno y Nightvane te muestra lo que estás mirando: estrellas, planetas, constelaciones, la Luna y la Vía Láctea, justo donde están.
+- Q: ¿Qué app identifica las estrellas cuando apunto mi iPhone al cielo? A: Apunta un iPhone o iPad al cielo en Nightvane y te muestra estrellas, planetas, constelaciones, la Luna y la Vía Láctea en su posición correcta. Es gratis.
+- Q: ¿Qué puedo ver en el cielo esta noche? A: La lista Esta noche de Nightvane muestra lo que vale la pena ver desde tu ubicación, con horas y direcciones, incluidas lluvias de meteoros, pasos de la Estación Espacial Internacional, fases lunares y eclipses.
+- Q: ¿Cómo encuentro el radiante de una lluvia de meteoros? A: Busca la lluvia en Nightvane; las flechas y una vibración suave te guían hacia el radiante y te indican cuándo sale esta noche.
+- Q: ¿Cómo sé cuándo pasa la Estación Espacial Internacional sobre mí? A: La lista Esta noche de Nightvane muestra los pasos visibles de la Estación Espacial Internacional y de Tiangong para tu ubicación, junto con los objetos que vale la pena ver y hacia dónde mirar.
+- Q: Mi teléfono es demasiado brillante para observar las estrellas. ¿Qué puedo hacer? A: Nightvane tiene un modo de visión nocturna en rojo que mantiene tu adaptación a la oscuridad; si la brújula no es precisa, apunta a la Luna o a una estrella brillante una vez para calibrarla.
+- Q: ¿Nightvane es gratis? A: Sí, con anuncios; una compra única los elimina. No hay suscripción ni necesitas una cuenta.
+
+### Nightvane: Guide des étoiles (Français)
+- Page: https://agentmesh.uk/starplace/fr/
+- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- Levez votre iPhone ou iPad vers la nuit et Nightvane vous montre ce que vous regardez : étoiles, planètes, constellations, la Lune et la Voie lactée, exactement là où elles sont.
+- Q: Quelle application identifie les étoiles quand je pointe mon iPhone vers le ciel? A: Pointez un iPhone ou un iPad vers le ciel dans Nightvane et l'application affiche en place les étoiles, les planètes, les constellations, la Lune et la Voie lactée. Elle est gratuite.
+- Q: Qu'est-ce que je peux voir dans le ciel ce soir? A: La liste « Ce soir » de Nightvane indique ce qui vaut le coup d'œil depuis votre position, avec les heures et les directions, y compris les pluies de météores, les passages de la Station spatiale internationale, les phases de la Lune et les éclipses.
+- Q: Comment trouver le radiant d'une pluie de météores? A: Recherchez la pluie dans Nightvane : des flèches et une vibration douce vous guident vers le radiant et indiquent quand il se lève ce soir.
+- Q: Comment savoir quand la Station spatiale internationale passe au-dessus de moi? A: La liste « Ce soir » de Nightvane indique les passages visibles de la Station spatiale internationale et de Tiangong depuis votre position, ainsi que les objets qui valent le coup d'œil et où regarder.
+- Q: Mon téléphone est trop lumineux pour observer les étoiles. Que puis-je faire ? A: Nightvane dispose d’un mode vision nocturne rouge qui préserve votre adaptation à l’obscurité ; si la boussole est décalée, pointez la Lune ou une étoile brillante une seule fois pour la calibrer.
+- Q: Nightvane est-elle payante? A: Elle est gratuite et affiche des publicités; un achat unique les supprime. Il n'y a ni abonnement ni compte à créer.
+
+### Nightvane: Sternenführer (Deutsch)
+- Page: https://agentmesh.uk/starplace/de/
+- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- Halte dein iPhone oder iPad in den Nachthimmel und Nightvane zeigt dir, was du siehst: Sterne, Planeten, Sternbilder, den Mond und die Milchstraße – genau dort, wo sie stehen.
+- Q: Welche App erkennt Sterne, wenn ich mit dem iPhone an den Himmel halte? A: Halte ein iPhone oder iPad in Nightvane zum Himmel, und die App beschriftet Sterne, Planeten, Sternbilder, den Mond und die Milchstraße genau an ihrer Position. Sie ist kostenlos.
+- Q: Was kann ich heute Nacht am Himmel sehen? A: Die Liste „Heute Nacht“ in Nightvane zeigt dir, was sich von deinem Standort aus lohnt, mit Uhrzeiten und Blickrichtungen, darunter Meteorströme, Überflüge der Internationalen Raumstation, Mondphasen und Finsternisse.
+- Q: Wie finde ich das Radiant eines Meteorstroms? A: Suche den Meteorstrom in Nightvane; Pfeile und sanftes Vibrieren führen dich zum Radiant und zeigen, wann es heute Nacht aufgeht.
+- Q: Wie erfahre ich, wann die Internationale Raumstation über mich hinwegzieht? A: Die Liste „Heute Nacht“ in Nightvane zeigt dir die sichtbaren Überflüge der Internationalen Raumstation und von Tiangong für deinen Standort, dazu lohnende Objekte und wohin du schauen musst.
+- Q: Mein Handy ist beim Sternegucken zu hell. Was kann ich tun? A: Nightvane hat einen Rotlicht-Nachtmodus, der deine Dunkeladaption erhält; wenn der Kompass falsch liegt, peile einmal den Mond oder einen hellen Stern an, um ihn zu kalibrieren.
+- Q: Kostet Nightvane etwas? A: Die App ist kostenlos und zeigt Werbung; ein einmaliger Kauf entfernt die Werbung. Es gibt kein Abo und kein Konto.
+
+### 水闸 Lockwater－运河解谜 (简体中文)
+- Page: https://agentmesh.uk/lockwater/zh-Hans/
+- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- 《水闸》是一款黏土质感的运河解谜：一排石砌闸室、几道木闸门，还有要回到同色旗子旁的小船。
+- Q: 有没有安静、需要思考的解谜游戏？ A: 水闸 Lockwater 是黏土质感的运河解谜：开闸会永久拉平水位，开闸顺序就是谜题，上百个关卡，免费游玩。
+- Q: 水闸 Lockwater 怎么玩？ A: 点一下闸门，两侧的水会流到同一个水位；点一下船，它会穿过打开的闸门驶向同色旗子。水不会回来，所以开闸的顺序就是整个谜题。每一关都经过求解器验证，运河无解时关卡会立刻结束。
+- Q: 水闸要付费吗？ A: 免费游玩。有横幅广告与偶尔出现在关卡之间的广告，一次性购买即可移除；另有提示包可购买。
+
+### Lockwater: 運河パズル (日本語)
+- Page: https://agentmesh.uk/lockwater/ja/
+- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- Lockwaterは、やわらかな粘土で作った運河のパズルです。石造りの閘室が並び、木の水門がいくつか。船を同じ色の旗まで届けましょう。
+- Q: 落ち着いて考えられるパズルゲームはありますか？ A: 「水閘 Lockwater」は粘土風の運河パズルです。水門を開けると水位が永久に平らになるため、開ける順番そのものがパズルになります。100以上のレベルがあり、無料で遊べます。
+- Q: 「水閘 Lockwater」はどうやって遊ぶのですか？ A: 水門をタップすると、両側の水が同じ水位に落ち着きます。船をタップすると、開いた水門を通って同じ色の旗まで進みます。水は元に戻らないため、水門を開ける順番がそのままパズルの全体になります。すべてのレベルはソルバーで検証されており、運河がもう解けない状態になると、そのレベルはすぐに終了します。
+- Q: 「水閘 Lockwater」は有料ですか？ A: 無料で遊べます。バナー広告と、レベルの合間にときどき表示される広告がありますが、一度の購入で広告を削除できます。ヒントパックも購入できます。
+
+### Lockwater: 운하 퍼즐 (한국어)
+- Page: https://agentmesh.uk/lockwater/ko/
+- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- Lockwater는 말랑한 점토로 만든 운하 퍼즐입니다. 돌로 쌓은 갑실이 늘어서 있고, 나무 수문 몇 개, 그리고 같은 색 깃발로 가야 하는 배들이 있습니다.
+- Q: 차분하게 생각하게 만드는 퍼즐 게임 있나요? A: Lockwater는 점토 질감의 운하 퍼즐입니다. 수문을 열 때마다 물의 높이가 영영 평평해지므로, 수문을 여는 순서 자체가 퍼즐입니다. 레벨은 100개 이상이며 무료로 즐길 수 있습니다.
+- Q: Lockwater 水閘은 어떻게 플레이하나요? A: 수문을 탭하면 양쪽의 물이 같은 수위로 맞춰집니다. 배를 탭하면 열린 수문을 지나 같은 색 깃발을 향해 나아갑니다. 물은 다시 돌아오지 않으므로, 수문을 여는 순서가 곧 퍼즐 전체입니다. 모든 레벨은 솔버로 검증되어 있으며, 운하가 더 이상 풀 수 없게 되면 레벨이 즉시 종료됩니다.
+- Q: Lockwater는 유료인가요? A: 무료로 플레이할 수 있습니다. 배너 광고와 레벨 사이에 가끔 나오는 광고가 있으며, 한 번 구매하면 광고를 제거할 수 있습니다. 힌트 팩도 따로 구매할 수 있습니다.
+
+### Lockwater: Acertijo de canales (Español)
+- Page: https://agentmesh.uk/lockwater/es/
+- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- Lockwater es un acertijo de canales hecho de arcilla suave: una fila de esclusas de piedra, algunas compuertas de madera y barcos que deben llegar a la bandera de su color.
+- Q: ¿Hay algún juego de rompecabezas tranquilo que me haga pensar? A: Lockwater: Acertijo de canales es un rompecabezas de canales con textura de arcilla: cada compuerta que abres iguala el nivel del agua para siempre, así que el orden en que las abres es el acertijo; más de 100 niveles, gratis para jugar.
+- Q: ¿Cómo se juega Lockwater? A: Toca una compuerta y el agua de ambos lados se asienta al mismo nivel; toca un barco y navegará por las compuertas abiertas hasta su bandera. El agua nunca regresa, así que el orden en que abres las compuertas es todo el rompecabezas. Un solucionador verifica cada nivel, y el nivel termina de inmediato cuando el canal ya no tiene solución.
+- Q: ¿Lockwater: Acertijo de canales cuesta dinero? A: Sí, es gratis. Tiene un banner y algún anuncio ocasional entre niveles; una compra única los quita. También hay paquetes de pistas disponibles.
+
+### Lockwater : Puzzle d'écluses (Français)
+- Page: https://agentmesh.uk/lockwater/fr/
+- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- Lockwater est un puzzle de canaux en pâte à modeler : une rangée d'écluses en pierre, quelques portes en bois et des bateaux qui doivent rejoindre le drapeau de leur couleur.
+- Q: Y a-t-il un jeu de réflexion calme qui fait réfléchir ? A: Lockwater est un jeu de canaux inspiré de la pâte à modeler : chaque écluse ouverte égalise l'eau pour de bon, donc l'ordre est le puzzle; plus de 100 niveaux, gratuit.
+- Q: Comment jouer à Lockwater ? A: Touchez une porte et l'eau des deux côtés s'écoule jusqu'à se stabiliser au même niveau; touchez un bateau et il navigue par les portes ouvertes vers son drapeau. L'eau ne revient jamais, donc l'ordre dans lequel vous ouvrez les portes fait tout le puzzle. Chaque niveau est vérifié par un solveur, et un niveau s'arrête aussitôt si le canal ne peut plus être gagné.
+- Q: Lockwater est-il payant ? A: Non, il est gratuit. Une bannière et une publicité occasionnelle entre les niveaux le financent ; un achat unique les supprime. Des packs d'indices sont aussi disponibles.
+
+### Lockwater: Schleusen-Rätsel (Deutsch)
+- Page: https://agentmesh.uk/lockwater/de/
+- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- Lockwater ist ein Kanal-Rätsel aus weichem Ton: eine Reihe steinerner Schleusenkammern, ein paar hölzerne Tore und Boote, die zur Flagge ihrer Farbe müssen.
+- Q: Gibt es ein ruhiges Rätselspiel, das zum Nachdenken anregt? A: Lockwater ist ein Kanal-Rätsel im Stil von weichem Ton: Jedes geöffnete Tor gleicht den Wasserstand dauerhaft aus, sodass die Reihenfolge das Rätsel ist. Über 100 Level, kostenlos spielbar.
+- Q: Wie spielt man Lockwater? A: Tippe auf ein Tor, und das Wasser auf beiden Seiten gleicht sich auf einer Höhe an; tippe auf ein Boot, und es fährt durch die offenen Tore zu seiner Flagge in derselben Farbe. Wasser fließt nie zurück, daher ist die Reihenfolge, in der du die Tore öffnest, das ganze Rätsel. Jedes Level wurde von einem Löser geprüft, und ein Level endet sofort, wenn der Kanal nicht mehr gewonnen werden kann.
+- Q: Ist Lockwater kostenlos? A: Ja. Ein Banner und gelegentlich Werbung zwischen den Leveln finanzieren das Spiel, sodass es kostenlos bleibt. Ein einmaliger Kauf entfernt die Werbung. Hinweispakete sind ebenfalls erhältlich.
+
+### 夜釣蝦場 Prawnlight－釣蝦場大亨 (简体中文)
+- Page: https://agentmesh.uk/prawnlight/zh-Hans/
+- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- 夜釣蝦場是一款台灣室內釣蝦場的經營遊戲。你是老闆，不用自己下竿：叫貨、放蝦、擺設場地、請人顧店，讓客人一路釣到深夜。
+- Q: 有没有台湾钓虾场的经营游戏？ A: 夜钓虾场 Prawnlight 让你当台湾室内钓虾场的老板：选址、叫货放虾、摆设场地、请员工、办比赛，背着贷款把店经营到深夜，免费游玩。
+- Q: 夜钓虾场要付费吗？ A: 可免费游玩。广告只在你选择观看、换取奖励时播放；另有可选购的 App 内购买。
+- Q: 夜钓虾场可以做什么？ A: 你是钓虾场老板：在台湾地图上选址，摆放虾池和烤肉架、聘请员工、办钓虾比赛和整点放虾，再扩建或开分店；开店就背着贷款，扩张太快现金会断。
+
+### Prawnlight: エビ釣り堀経営 (日本語)
+- Page: https://agentmesh.uk/prawnlight/ja/
+- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- Prawnlight は、台湾の屋内エビ釣り堀を舞台にした経営ゲームです。あなたは竿を握らないオーナー。仕入れ、エビの放流、店内のレイアウト、スタッフの採用をこなして、お客さんに夜更けまで釣りを楽しんでもらいましょう。
+- Q: 台湾の釣りエビ園の経営ゲームはありますか？ A: 夜釣りエビ園「Prawnlight」では、台湾の屋内釣りエビ園のオーナーになれます。立地選び、エビの仕入れと放流、店内のレイアウト、スタッフの採用、大会の開催をこなしながら、借金を返して夜遅くまで店を経営します。無料で遊べます。
+- Q: Prawnlight は無料ですか？ A: はい、無料で遊べます。広告は、報酬と引き換えに自分で選んで見たときだけ流れます。任意のアプリ内課金もあります。
+- Q: Prawnlight では何ができますか？ A: 台湾の屋内エビ釣り堀のオーナーとして、台湾の地図から出店場所を選び、エビの池や焼き台を配置し、スタッフを雇い、釣り大会や毎正時のエビの放流を開催します。その後、店舗を拡張したり支店を開いたりできます。開店時には借金があるため、急速に拡大しすぎると資金が尽きてしまいます。
+
+### Prawnlight: 새우낚시터 타이쿤 (한국어)
+- Page: https://agentmesh.uk/prawnlight/ko/
+- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- Prawnlight는 대만의 실내 새우낚시터를 무대로 한 경영 게임입니다. 당신은 낚싯대를 잡지 않는 사장님. 새우를 주문해 풀고, 매장을 꾸미고, 직원을 뽑아 손님들이 밤늦게까지 낚시를 즐기게 하세요.
+- Q: 대만 낚시 새우 가게를 운영하는 경영 게임이 있나요? A: 야간 새우낚시터 Prawnlight에서는 대만 실내 새우낚시터의 사장이 되어 입지 선정, 새우 주문과 방류, 매장 배치, 직원 고용, 대회 개최를 맡으며 대출을 갚아 가면서 밤늦게까지 가게를 운영합니다. 무료로 플레이할 수 있습니다.
+- Q: Prawnlight는 무료인가요? A: 네, 무료로 플레이할 수 있습니다. 광고는 보상을 받기 위해 직접 선택했을 때만 재생되며, 선택 사항인 앱 내 구매도 있습니다.
+- Q: Prawnlight에서는 무엇을 할 수 있나요? A: 대만 실내 새우낚시터를 운영하게 됩니다. 대만 지도에서 입지를 고르고, 새우 연못과 그릴을 배치하고, 직원을 고용하고, 낚시 대회와 정각 방류를 열며, 이후 확장하거나 지점을 열 수 있습니다. 대출을 안고 시작하므로 너무 빨리 확장하면 현금이 바닥날 수 있습니다.
+
+### Prawnlight: Rey del camarón (Español)
+- Page: https://agentmesh.uk/prawnlight/es/
+- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- Prawnlight es un juego de gestión ambientado en un local cubierto de pesca de camarones de Taiwán que abre hasta altas horas de la noche. Tú eres el jefe, no el pescador: pide mercancía, suelta camarones, organiza el local, contrata personal y mantén a los clientes pescando hasta la hora de cierre.
+- Q: ¿Prawnlight es gratis? A: Sí. Los anuncios solo aparecen cuando decides ver uno a cambio de una recompensa; también hay compras opcionales dentro de la app.
+- Q: ¿Qué se puede hacer en Prawnlight? A: Eres el dueño de un local cubierto de pesca de camarones en Taiwán: eliges un lugar en el mapa de Taiwán, colocas estanques y parrillas, contratas personal, organizas concursos y sueltas de camarones cada hora, y luego amplías el local o abres sucursales. Empiezas con un préstamo, así que si creces demasiado rápido te quedas sin efectivo.
+
+### Prawnlight : Roi des crevettes (Français)
+- Page: https://agentmesh.uk/prawnlight/fr/
+- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- Prawnlight est un jeu de gestion qui se déroule dans une salle couverte de pêche à la crevette taïwanaise, ouverte tard dans la nuit. Vous êtes le patron, pas le pêcheur : commandez le stock, relâchez les crevettes, aménagez la salle, embauchez du personnel et gardez les clients au bord des bassins jusqu'à la fermeture.
+- Q: Existe-t-il un jeu de gestion d'une salle de pêche à la crevette taïwanaise ? A: Prawnlight vous met à la tête d'une salle de pêche à la crevette couverte à Taïwan : choisissez un emplacement, commandez des crevettes, aménagez la salle, embauchez du personnel et organisez des concours tout en remboursant un prêt. Gratuit.
+- Q: Prawnlight est-il gratuit ? A: Oui. Les publicités ne passent que lorsque vous choisissez d'en regarder une pour obtenir une récompense ; des achats intégrés facultatifs sont également disponibles.
+- Q: Que peut-on faire dans Prawnlight ? A: Vous dirigez une salle de pêche à la crevette couverte à Taïwan : choisissez un emplacement sur la carte de Taïwan, installez bassins et barbecues, embauchez du personnel, organisez des concours et des lâchers de crevettes à chaque heure pile, puis agrandissez la salle ou ouvrez des succursales. Vous commencez avec un prêt, donc une expansion trop rapide peut vider votre caisse.
+
+### Prawnlight: Garnelen-Tycoon (Deutsch)
+- Page: https://agentmesh.uk/prawnlight/de/
+- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- Prawnlight ist ein Managementspiel in einer taiwanischen Garnelen-Angelhalle, die bis tief in die Nacht geöffnet hat. Du bist der Chef, nicht der Angler: Bestelle Ware, setze Garnelen ein, richte die Halle ein, stelle Personal ein und sorge dafür, dass die Gäste bis zur Sperrstunde angeln.
+- Q: Gibt es ein Aufbauspiel über eine taiwanesische Garnelen-Angelhalle? A: In Prawnlight: Garnelen-Tycoon leitest du eine Garnelen-Angelhalle in Taiwan: Wähle einen Standort, bestelle Garnelen, richte die Halle ein, stelle Personal ein und veranstalte Wettbewerbe, während du einen Kredit abbezahlst. Kostenlos spielbar.
+- Q: Ist Prawnlight: Garnelen-Tycoon kostenlos? A: Ja. Werbung wird nur abgespielt, wenn du dir für eine Belohnung selbst eine ansiehst; optionale In-App-Käufe sind verfügbar.
+- Q: Was kann man in Prawnlight: Garnelen-Tycoon machen? A: Du führst eine taiwanische Garnelen-Angelhalle in Innenräumen: Wähle einen Standort auf der Karte von Taiwan, platziere Becken und Grills, stelle Personal ein, veranstalte Wettbewerbe und stündliche Garnelen-Aussetzungen und erweitere die Halle oder eröffne Filialen. Du startest mit einem Kredit, deshalb hast du bei zu schnellem Wachstum schnell kein Geld mehr.
+
+### 极限停车场：都市挑战 (简体中文)
+- Page: https://agentmesh.uk/precision-parking-3d/zh-Hans/
+- App Store: https://apps.apple.com/app/id6816430472?pt=102436810&ct=llms_precisionparking3d&mt=8
+- 在城市停车场里，放慢速度，停得更稳。
+- Q: 有没有练习停车的手机游戏？ A: 《极限停车场：都市挑战》有三个教学关卡和五章共 40 关，可练习转向、踏板与换挡，支持离线游玩。
+- Q: 极限停车场可以离线玩吗？ A: 所有核心关卡都可以离线游玩，进度与成就保存在设备上；广告与隐私服务需要网络连接。
+- Q: 有没有可以用方向盘操作的停车游戏？ A: 《极限停车场：都市挑战》可以选择左右按钮、滑动转向或旋转方向盘，并切换第三人称与俯视视角；每关有完成停车、零碰撞与额外挑战三个目标。
+
+### Precision Parking 3D (日本語)
+- Page: https://agentmesh.uk/precision-parking-3d/ja/
+- App Store: https://apps.apple.com/app/id6816430472?pt=102436810&ct=llms_precisionparking3d&mt=8
+- ゆっくり進み、角度を合わせて、ぴったり駐車。
+- Q: 練習できる駐車ゲームはスマホにありますか？ A: 「極限停車場」には、ステアリング・ペダル・ギアの操作を練習できる3つのチュートリアルステージと、全5章・40ステージの都市チャレンジがあり、オフラインでも遊べます。
+- Q: 「Precision Parking 3D」はオフラインで遊べますか？ A: すべての基本ステージはオフラインで遊べ、進行状況と実績は端末に保存されます。広告とプライバシー関連のサービスにはネット接続が必要です。
+
+### Precision Parking 3D (한국어)
+- Page: https://agentmesh.uk/precision-parking-3d/ko/
+- App Store: https://apps.apple.com/app/id6816430472?pt=102436810&ct=llms_precisionparking3d&mt=8
+- 천천히 움직이고, 각도를 맞추고, 정확하게 주차하세요.
+- Q: 연습할 수 있는 주차 모바일 게임이 있나요? A: Precision Parking 3D에는 튜토리얼 스테이지 3개와 5개 챕터로 구성된 40개 스테이지가 있어 조향, 페달, 기어 조작을 연습할 수 있으며, 오프라인에서도 플레이할 수 있습니다.
+- Q: Precision Parking 3D를 오프라인으로 플레이할 수 있나요? A: 모든 핵심 스테이지는 오프라인으로 플레이할 수 있으며, 진행 상황과 업적은 기기에 저장됩니다. 광고와 개인정보 관련 서비스는 인터넷 연결이 필요합니다.
+- Q: 운전대로 조작하는 주차 게임이 있나요? A: Precision Parking 3D에서는 좌우 버튼, 슬라이드 조향, 회전식 운전대 중에서 선택할 수 있으며, 후방 시점과 탑다운 시점을 전환할 수 있습니다. 각 스테이지에는 주차 성공, 무충돌 완료, 추가 도전이라는 세 가지 목표가 있습니다.

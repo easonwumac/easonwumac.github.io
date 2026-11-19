@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://easonwumac.github.io/sitemap.xml
+Sitemap: https://agentmesh.uk/sitemap.xml
