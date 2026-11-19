@@ -70,7 +70,7 @@
 - Support and FAQ: https://easonwumac.github.io/lockwater/support.html
 - Lockwater is a canal puzzle made of soft clay: a row of stone chambers, a few wooden gates, and boats that must reach the flag of their color.
 - 《水閘》是一款黏土質感的運河解謎：一排石砌閘室、幾道木閘門，還有要回到同色旗子旁的小船。
-- Q: Is there a calm puzzle game that makes you think? A: Lockwater is a clay-style canal puzzle where every opened gate levels the water for good, so the order is the puzzle; 100 levels in 10 chapters, free to play.
+- Q: Is there a calm puzzle game that makes you think? A: Lockwater is a clay-style canal puzzle where every opened gate levels the water for good, so the order is the puzzle; over 100 levels, free to play.
 
 ## Prawnlight: Prawn Hall Tycoon / 夜釣蝦場 Prawnlight－釣蝦場大亨
 - Page: https://easonwumac.github.io/prawnlight/
