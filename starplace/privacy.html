@@ -24,8 +24,16 @@
       <p>位置只用來決定要畫哪一片天空。你可以選擇「使用我的位置」（僅在使用 App 時取得，並四捨五入到約 1 公里），或用「選擇城市」手動搜尋城市而不開啟定位。取得位置時，App 會請 Apple 地圖服務把位置轉成城市名稱；搜尋城市時，你輸入的文字會交由 Apple 地圖服務提供建議。四捨五入後的座標與城市名稱只存在裝置上。</p>
       <h2>動作感測器</h2>
       <p>陀螺儀、加速度計與磁力計（指南針）的資料只在裝置上即時使用，用來判斷手機指向的方向，不會儲存或傳送。</p>
+      <h2>相機</h2>
+      <p>只有在你點星空畫面上方的相機按鈕時，App 才會請求相機權限，並把後鏡頭的即時畫面放在星星後面。畫面只在裝置上顯示，不會拍照、錄影、儲存或傳送。</p>
+      <h2>雲量預報</h2>
+      <p>「今晚」的雲量來自 Apple 天氣（WeatherKit）：App 會把四捨五入到約 1 公里的座標傳給 Apple 天氣以取得逐時預報，同一地點最多每小時一次。我們不會收到這些資料。</p>
+      <h2>觀測紀錄與 Game Center</h2>
+      <p>觀測紀錄（看過、找到的天體與日期）只儲存在裝置上。排行榜使用 Apple Game Center：只有在你點「排行榜」後才會登入 Game Center，之後 App 會把「對準實際天空找到的天體數量」上傳到 Game Center 排行榜，並依 Game Center 的設定顯示你的暱稱。分享卡片只有在你點「分享」並選擇對象時才會送出。</p>
+      <h2>鎖定畫面倒數與天空提醒</h2>
+      <p>鎖定畫面倒數（即時動態）與天空提醒都在裝置上排程，不經過我們的伺服器。</p>
       <h2>儲存在裝置上的資料</h2>
-      <p>所選地點、圖層與夜視模式設定、指南針校正值，以及人造衛星軌道資料的快取都儲存在裝置上。刪除 App 即會一併刪除。</p>
+      <p>所選地點、圖層與夜視模式設定、指南針校正值、觀測紀錄，以及人造衛星軌道資料、雲量預報與「更多 App」清單的快取都儲存在裝置上。刪除 App 即會一併刪除。</p>
       <h2>人造衛星軌道資料</h2>
       <p>為顯示國際太空站等人造衛星的位置，App 會向 CelesTrak（celestrak.org）下載公開的軌道根數，最多每 2 小時一次。請求不包含你的位置或任何個人資料，但與任何網路連線一樣，對方伺服器會看到你的 IP 位址。</p>
       <h2>廣告與追蹤</h2>
@@ -34,7 +42,7 @@
       <h2>購買</h2>
       <p>所有功能都可免費使用（含廣告）。一次性內購「移除廣告」可永久移除廣告；沒有訂閱，價格以 App Store 購買畫面為準。購買由 Apple App Store 處理，App 使用 StoreKit 確認購買權益，我們不會取得你的付款資訊。退款依 Apple 的政策處理。要還原購買，請到「設定」點「還原購買」，並使用原購買的 Apple 帳號。</p>
       <h2>第三方服務</h2>
-      <p>Apple 地圖服務處理城市名稱與搜尋，Apple App Store 處理購買，Google AdMob 與 UMP 處理廣告與廣告同意，CelesTrak 提供人造衛星軌道資料。各服務受其自身的條款與隱私權政策約束。</p>
+      <p>Apple 地圖服務處理城市名稱與搜尋，Apple 天氣提供雲量預報，Apple Game Center 處理排行榜，Apple App Store 處理購買；設定中的「更多 App」會從我們的網站（agentmesh.uk）與 Apple 的 iTunes 查詢服務讀取我們其他 App 的公開清單（不含個人資料，對方會看到你的 IP 位址）。Google AdMob 與 UMP 處理廣告與廣告同意，CelesTrak 提供人造衛星軌道資料。各服務受其自身的條款與隱私權政策約束。</p>
       <h2>兒童</h2>
       <p>本 App 並非專為兒童設計，我們不會刻意蒐集兒童的個人資料。</p>
       <h2>資料刪除</h2>
@@ -42,7 +50,7 @@
       <h2>聯絡我們</h2>
       <p>隱私或服務問題請寄信至 <a href="mailto:easonwumac@gmail.com">easonwumac@gmail.com</a>。若你寄送客服電子郵件，我們會使用你提供的信箱及內容回覆與處理問題。</p>
       <h2>更新日期</h2>
-      <p class="meta">更新日期：<time datetime="2026-10-25">2026-10-25</time></p>
+      <p class="meta">更新日期：<time datetime="2026-11-19">2026-11-19</time></p>
       <p>我們會在資料處理方式改變時更新本政策。</p>
     </section>
     <section id="en" lang="en" aria-label="English">
@@ -52,8 +60,16 @@
       <p>Location only decides which sky to draw. Choose Use My Location (read only while you use the app and rounded to about 1 km), or Choose a City to search for a city without turning on location. When it reads your location, the app asks Apple’s map service for the city name; when you search for a city, what you type goes to Apple’s map service for suggestions. The rounded coordinates and the city name stay on your device.</p>
       <h2>Motion sensors</h2>
       <p>Gyroscope, accelerometer and magnetometer (compass) readings are used live on the device to tell where the phone points. They are not stored or sent anywhere.</p>
+      <h2>Camera</h2>
+      <p>The app asks for the camera only when you tap the camera button above the sky, and then shows the back camera’s live picture behind the stars. The picture is only shown on your device; nothing is photographed, recorded, stored or sent.</p>
+      <h2>Cloud forecast</h2>
+      <p>Tonight’s cloud cover comes from Apple Weather (WeatherKit): the app sends coordinates rounded to about 1 km to Apple Weather for an hourly forecast, at most once an hour per place. We do not receive this data.</p>
+      <h2>Observation log and Game Center</h2>
+      <p>The observation log (objects you have seen or found, with dates) stays on your device. The leaderboard uses Apple Game Center: the app signs in to Game Center only after you tap Leaderboard, then reports the number of objects you found by pointing at the real sky to the Game Center leaderboard, where your nickname appears as your Game Center settings allow. A share card leaves the app only when you tap Share and pick where it goes.</p>
+      <h2>Lock-screen countdown and sky alerts</h2>
+      <p>The lock-screen countdown (Live Activity) and sky alerts are scheduled on your device, without our servers.</p>
       <h2>Data stored on your device</h2>
-      <p>The chosen place, layer and night-vision settings, the compass correction and a cache of satellite orbital data are stored on your device and are removed when you delete the app.</p>
+      <p>The chosen place, layer and night-vision settings, the compass correction, the observation log, and caches of satellite orbital data, the cloud forecast and the More Apps list are stored on your device and are removed when you delete the app.</p>
       <h2>Satellite orbital data</h2>
       <p>To show satellites such as the International Space Station, the app downloads public orbital elements from CelesTrak (celestrak.org), at most once every two hours. The request carries no location or personal data, but like any internet connection it shows your IP address to that server.</p>
       <h2>Ads and tracking</h2>
@@ -62,7 +78,7 @@
       <h2>Purchases</h2>
       <p>Every feature is free, with ads. The one-time Remove Ads purchase removes ads permanently; there are no subscriptions, and the App Store purchase screen shows local prices. Apple App Store processes purchases; the app uses StoreKit to verify them and never receives your payment details. Apple handles refunds under its policies. To restore a purchase, open Settings and tap Restore Purchases with the Apple Account that made it.</p>
       <h2>Third-party services</h2>
-      <p>Apple’s map service handles city names and search, Apple App Store handles purchases, Google AdMob and UMP handle ads and ad consent, and CelesTrak provides satellite orbital data. Each service is governed by its own terms and privacy policy.</p>
+      <p>Apple’s map service handles city names and search, Apple Weather provides the cloud forecast, Apple Game Center runs the leaderboard, Apple App Store handles purchases; More Apps in Settings reads the public list of our other apps from our site (agentmesh.uk) and Apple’s iTunes lookup service (no personal data; they see your IP address); Google AdMob and UMP handle ads and ad consent, and CelesTrak provides satellite orbital data. Each service is governed by its own terms and privacy policy.</p>
       <h2>Children</h2>
       <p>The app is not directed at children, and we do not knowingly collect personal information from children.</p>
       <h2>Deleting your data</h2>
@@ -70,7 +86,7 @@
       <h2>Contact</h2>
       <p>For privacy or service questions, email <a href="mailto:easonwumac@gmail.com">easonwumac@gmail.com</a>. If you email support, we use the email address and content you provide to reply and resolve the issue.</p>
       <h2>Last updated</h2>
-      <p class="meta">Last updated: <time datetime="2026-10-25">2026-10-25</time></p>
+      <p class="meta">Last updated: <time datetime="2026-11-19">2026-11-19</time></p>
       <p>We will update this policy if data practices change.</p>
     </section>
     <footer>
