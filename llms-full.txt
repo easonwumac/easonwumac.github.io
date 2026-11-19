@@ -509,3 +509,63 @@
 - Q: 연습할 수 있는 주차 모바일 게임이 있나요? A: Precision Parking 3D에는 튜토리얼 스테이지 3개와 5개 챕터로 구성된 40개 스테이지가 있어 조향, 페달, 기어 조작을 연습할 수 있으며, 오프라인에서도 플레이할 수 있습니다.
 - Q: Precision Parking 3D를 오프라인으로 플레이할 수 있나요? A: 모든 핵심 스테이지는 오프라인으로 플레이할 수 있으며, 진행 상황과 업적은 기기에 저장됩니다. 광고와 개인정보 관련 서비스는 인터넷 연결이 필요합니다.
 - Q: 운전대로 조작하는 주차 게임이 있나요? A: Precision Parking 3D에서는 좌우 버튼, 슬라이드 조향, 회전식 운전대 중에서 선택할 수 있으며, 후방 시점과 탑다운 시점을 전환할 수 있습니다. 각 스테이지에는 주차 성공, 무충돌 완료, 추가 도전이라는 세 가지 목표가 있습니다.
+
+## Guides
+- 简体中文: 买二手 iPhone 要检查什么？当面验机清单 https://agentmesh.uk/guides/used-iphone-checklist/zh-Hans/
+- 日本語: 中古のiPhoneを買うときに確認すべきこと：対面チェックリスト https://agentmesh.uk/guides/used-iphone-checklist/ja/
+- 한국어: 중고 iPhone을 살 때 무엇을 확인해야 할까요? 현장 기기 점검 체크리스트 https://agentmesh.uk/guides/used-iphone-checklist/ko/
+- Español: ¿Qué revisar al comprar un iPhone usado? Lista de verificación en persona https://agentmesh.uk/guides/used-iphone-checklist/es/
+- Français: Quoi vérifier avant d'acheter un iPhone d'occasion ? Liste de contrôle en personne https://agentmesh.uk/guides/used-iphone-checklist/fr/
+- Deutsch: Was ist beim Kauf eines gebrauchten iPhones zu prüfen? Eine persönliche Prüfliste für das Treffen vor Ort https://agentmesh.uk/guides/used-iphone-checklist/de/
+- 简体中文: iPhone 电池健康度怎么看？什么时候该换电池 https://agentmesh.uk/guides/iphone-battery-health/zh-Hans/
+- 日本語: iPhoneのバッテリー健康度の確認方法と、電池交換の目安 https://agentmesh.uk/guides/iphone-battery-health/ja/
+- 한국어: iPhone 배터리 건강 상태 확인 방법과 배터리를 교체해야 할 때 https://agentmesh.uk/guides/iphone-battery-health/ko/
+- Español: ¿Cómo revisar la salud de la batería del iPhone y cuándo cambiarla? https://agentmesh.uk/guides/iphone-battery-health/es/
+- Français: Comment vérifier la santé de la batterie de l'iPhone et quand la remplacer https://agentmesh.uk/guides/iphone-battery-health/fr/
+- Deutsch: Wie prüfe ich die Akkugesundheit des iPhones und wann sollte ich den Akku ersetzen? https://agentmesh.uk/guides/iphone-battery-health/de/
+- 简体中文: iPhone 充电很慢？怎么确认充电器和线材够不够快 https://agentmesh.uk/guides/iphone-charging-speed/zh-Hans/
+- 日本語: iPhoneの充電が遅い？充電器とケーブルが十分に速いか確認する方法 https://agentmesh.uk/guides/iphone-charging-speed/ja/
+- 한국어: iPhone 충전이 느린가요? 충전기와 케이블이 충분히 빠른지 확인하는 방법 https://agentmesh.uk/guides/iphone-charging-speed/ko/
+- Español: ¿Tu iPhone carga lento? Cómo comprobar si tu cargador y cable son lo suficientemente rápidos https://agentmesh.uk/guides/iphone-charging-speed/es/
+- Français: Le iPhone charge lentement? Comment vérifier si votre chargeur et votre câble sont assez rapides https://agentmesh.uk/guides/iphone-charging-speed/fr/
+- Deutsch: iPhone lädt langsam? So prüfst du, ob Ladegerät und Kabel schnell genug sind https://agentmesh.uk/guides/iphone-charging-speed/de/
+- 简体中文: iPhone 截图太多怎么整理？订位、收据、食谱一次分好类 https://agentmesh.uk/guides/organize-screenshots/zh-Hans/
+- 日本語: iPhoneのスクショが多すぎる？予約、レシート、レシピを一度に分類 https://agentmesh.uk/guides/organize-screenshots/ja/
+- 한국어: iPhone 스크린샷이 너무 많나요? 예약, 영수증, 레시피를 한 번에 분류하세요 https://agentmesh.uk/guides/organize-screenshots/ko/
+- Español: ¿Demasiadas capturas de pantalla en tu iPhone? Organiza reservas, recibos y recetas de una vez https://agentmesh.uk/guides/organize-screenshots/es/
+- Français: Trop de captures d'écran sur iPhone ? Triez les réservations, reçus et recettes d'un coup https://agentmesh.uk/guides/organize-screenshots/fr/
+- Deutsch: Zu viele iPhone-Screenshots? Buchungen, Belege und Rezepte auf einmal sortieren https://agentmesh.uk/guides/organize-screenshots/de/
+- 简体中文: 收据和电子发票怎么保存，月底报销不手忙脚乱 https://agentmesh.uk/guides/receipts-for-expenses/zh-Hans/
+- 日本語: 領収書と電子インボイスの保存方法で、月末の経費精算も慌てない https://agentmesh.uk/guides/receipts-for-expenses/ja/
+- 한국어: 영수증과 전자 세금계산서를 어떻게 보관하면 월말 경비 정산이 수월한지 https://agentmesh.uk/guides/receipts-for-expenses/ko/
+- Español: Cómo guardar recibos y facturas electrónicas para que los gastos del fin de mes sean fáciles https://agentmesh.uk/guides/receipts-for-expenses/es/
+- Français: Comment conserver reçus et factures électroniques pour que les notes de frais de fin de mois soient faciles https://agentmesh.uk/guides/receipts-for-expenses/fr/
+- Deutsch: Belege und E-Rechnungen richtig aufbewahren, damit die Monatsabrechnung nicht zur Hektik wird https://agentmesh.uk/guides/receipts-for-expenses/de/
+- 简体中文: 用 iPhone 量房间、画平面图：LiDAR 扫描与手动绘制 https://agentmesh.uk/guides/iphone-floor-plan/zh-Hans/
+- 日本語: iPhoneで部屋を測り、間取り図を作成：LiDARスキャンと手動描画 https://agentmesh.uk/guides/iphone-floor-plan/ja/
+- 한국어: iPhone으로 방 측정하고 평면도 그리기: LiDAR 스캔 또는 직접 그리기 https://agentmesh.uk/guides/iphone-floor-plan/ko/
+- Español: Mide una habitación y dibuja un plano con tu iPhone: escaneo LiDAR o a mano https://agentmesh.uk/guides/iphone-floor-plan/es/
+- Français: Mesurer une pièce et dessiner un plan avec l’iPhone : numérisation LiDAR ou tracé à la main https://agentmesh.uk/guides/iphone-floor-plan/fr/
+- Deutsch: Raum vermessen und Grundriss zeichnen mit dem iPhone: LiDAR-Scan oder von Hand https://agentmesh.uk/guides/iphone-floor-plan/de/
+- 简体中文: 怎么用肉眼看到国际空间站？时间、方位与观看技巧 https://agentmesh.uk/guides/see-the-iss/zh-Hans/
+- 日本語: どうすれば国際宇宙ステーションを肉眼で見られるか？時刻、方位、観察のコツ https://agentmesh.uk/guides/see-the-iss/ja/
+- 한국어: 육안으로 국제우주정거장을 보는 방법: 시간, 방위, 관측 요령 https://agentmesh.uk/guides/see-the-iss/ko/
+- Español: ¿Cómo ver la Estación Espacial Internacional con tus propios ojos? Horarios, dirección y consejos de observación https://agentmesh.uk/guides/see-the-iss/es/
+- Deutsch: Wie man die Internationale Raumstation mit bloßem Auge sieht: Uhrzeit, Richtung und Beobachtungstipps https://agentmesh.uk/guides/see-the-iss/de/
+- 简体中文: 用手机认星星：新手观星的四个步骤 https://agentmesh.uk/guides/stargazing-with-phone/zh-Hans/
+- 日本語: スマホで星を見分ける：初心者のための4つのステップ https://agentmesh.uk/guides/stargazing-with-phone/ja/
+- 한국어: 휴대폰으로 별 찾기: 초보 관측자를 위한 네 단계 https://agentmesh.uk/guides/stargazing-with-phone/ko/
+- Español: Identifica estrellas con tu teléfono: cuatro pasos para principiantes en la observación de estrellas https://agentmesh.uk/guides/stargazing-with-phone/es/
+- Deutsch: Sterne mit dem Telefon erkennen: vier Schritte für Einsteiger https://agentmesh.uk/guides/stargazing-with-phone/de/
+- 简体中文: 选择经期记录应用要注意什么？隐私、预测与导出 https://agentmesh.uk/guides/period-tracker-privacy/zh-Hans/
+- 日本語: 生理記録アプリを選ぶときの注意点：プライバシー、予測、エクスポート https://agentmesh.uk/guides/period-tracker-privacy/ja/
+- 한국어: 생리 기록 앱을 고를 때 주의할 점: 개인정보, 예측, 내보내기 https://agentmesh.uk/guides/period-tracker-privacy/ko/
+- Español: ¿Qué debes tener en cuenta al elegir una app de seguimiento menstrual? Privacidad, predicciones y exportación https://agentmesh.uk/guides/period-tracker-privacy/es/
+- Français: Choisir une appli de suivi des règles : confidentialité, prévisions et exportation https://agentmesh.uk/guides/period-tracker-privacy/fr/
+- Deutsch: Periodenkalender-App wählen: Datenschutz, Vorhersagen und Export https://agentmesh.uk/guides/period-tracker-privacy/de/
+- 简体中文: 如何用照片日志记录植物生长？用照片日记养好每一盆植物 https://agentmesh.uk/guides/plant-care-journal/zh-Hans/
+- 日本語: 植物の写真日誌をつける方法：写真で一鉢ずつ大切に育てる https://agentmesh.uk/guides/plant-care-journal/ja/
+- 한국어: 식물 성장을 어떻게 기록할까요? 사진 일지로 화분 하나하나를 잘 가꾸세요 https://agentmesh.uk/guides/plant-care-journal/ko/
+- Español: ¿Cómo llevar un diario de plantas con fotos? https://agentmesh.uk/guides/plant-care-journal/es/
+- Français: Comment tenir un journal de plantes avec des photos ? Prenez soin de chacune de vos plantes grâce à un journal photo. https://agentmesh.uk/guides/plant-care-journal/fr/
+- Deutsch: Wie führt man ein Pflanzentagebuch mit Fotos? https://agentmesh.uk/guides/plant-care-journal/de/

@@ -163,3 +163,15 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - 简体中文: 极限停车场：都市挑战 https://agentmesh.uk/precision-parking-3d/zh-Hans/
 - 日本語: Precision Parking 3D https://agentmesh.uk/precision-parking-3d/ja/
 - 한국어: Precision Parking 3D https://agentmesh.uk/precision-parking-3d/ko/
+
+## Guides
+- What to check when buying a used iPhone: an in-person checklist / 買二手 iPhone 要檢查什麼？當面驗機清單: https://agentmesh.uk/guides/used-iphone-checklist/
+- How to check iPhone battery health and when to replace the battery / iPhone 電池健康度怎麼看？什麼時候該換電池: https://agentmesh.uk/guides/iphone-battery-health/
+- iPhone charging slowly? How to check your charger and cable / iPhone 充電很慢？怎麼確認充電器和線材夠不夠快: https://agentmesh.uk/guides/iphone-charging-speed/
+- Too many iPhone screenshots? Sort bookings, receipts and recipes / iPhone 截圖太多怎麼整理？訂位、收據、食譜一次分好類: https://agentmesh.uk/guides/organize-screenshots/
+- How to keep receipts and e-invoices so month-end expenses are easy / 收據和電子發票怎麼保存，月底報帳不手忙腳亂: https://agentmesh.uk/guides/receipts-for-expenses/
+- Measure a room and draw a floor plan with iPhone: LiDAR scan or by hand / 用 iPhone 量房間、畫平面圖：LiDAR 掃描與手動繪製: https://agentmesh.uk/guides/iphone-floor-plan/
+- How to see the International Space Station with your own eyes / 怎麼用肉眼看到國際太空站？時間、方位與觀看技巧: https://agentmesh.uk/guides/see-the-iss/
+- Identify stars with your phone: four steps for beginners / 用手機認星星：新手觀星的四個步驟: https://agentmesh.uk/guides/stargazing-with-phone/
+- Choosing a period tracker: privacy, predictions and export / 選經期紀錄 App 要注意什麼？隱私、預測與匯出: https://agentmesh.uk/guides/period-tracker-privacy/
+- How to keep a plant journal with photos / 怎麼記錄植物生長？用照片日誌養好每一盆: https://agentmesh.uk/guides/plant-care-journal/
