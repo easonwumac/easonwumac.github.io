@@ -12,6 +12,9 @@
 - Q: How can I tell whether my iPhone is charging slowly or fast? A: Open Inside's charging clock while charging: it shows slow, standard or fast charging, roughly how many watts, and the time to 80%. History compares the curves of different chargers. These features are free.
 - Q: How do I see my iPhone's battery health and cycle count? A: Battery health is in Settings › Battery. Inside can import the iPhone's Analytics diagnostics to read the cycle count and adds it to the check report; Inside Pro adds a battery health trend.
 - Q: Is Inside free? A: The basic check, charging clock and reports are free. Inside Pro (monthly, yearly with a free first week, or lifetime) adds watermark-free PDF reports, battery health trends and advanced tools.
+- Q: My iPhone speaker sounds quiet or the microphone is muffled. How can I check it myself? A: Inside's step-by-step check tests the speakers and each microphone with four test tones, points out the weak bands and checks left and right channels; results go into a report you can compare with the last round. It records this run and your judgement only, not a repair diagnosis.
+- Q: Part of my iPhone's touchscreen seems unresponsive. How can I test it? A: Inside's step-by-step check covers the display, touch and multi-touch, which you operate and record yourself; the 2-minute check also runs through the screen and touch. The basic check is free.
+- Q: My iPhone storage is full. How do I find photos I can delete? A: Inside's free-up-space tool finds duplicate, similar, blurry and burst photos, screenshots and large videos, suggests which one to keep and deletes only what you confirm; the free version scans the latest 300 photos.
 
 ## Daikon: Period Tracker / 蘿蔔日記 Daikon－經期紀錄
 - Page: https://easonwumac.github.io/daikon/
@@ -71,6 +74,8 @@
 - Lockwater is a canal puzzle made of soft clay: a row of stone chambers, a few wooden gates, and boats that must reach the flag of their color.
 - 《水閘》是一款黏土質感的運河解謎：一排石砌閘室、幾道木閘門，還有要回到同色旗子旁的小船。
 - Q: Is there a calm puzzle game that makes you think? A: Lockwater is a clay-style canal puzzle where every opened gate levels the water for good, so the order is the puzzle; over 100 levels, free to play.
+- Q: How do you play Lockwater? A: Tap a gate and the water on both sides settles at one level; tap a boat and it sails through the open gates to its flag. Water never comes back, so the order you open the gates in is the whole puzzle. A solver checks every level, and a level ends at once when the canal can no longer be won.
+- Q: Is Lockwater free? A: Yes. A banner and an occasional ad between levels keep it free; a one-time purchase removes them. Hint packs are also available.
 
 ## Prawnlight: Prawn Hall Tycoon / 夜釣蝦場 Prawnlight－釣蝦場大亨
 - Page: https://easonwumac.github.io/prawnlight/
@@ -79,6 +84,8 @@
 - Prawnlight is a management game set in a Taiwanese indoor prawn-fishing hall that stays open late into the night. You are the boss, not the angler: order stock, release prawns, lay out the floor, hire staff and keep the guests fishing until closing time.
 - 夜釣蝦場是一款台灣室內釣蝦場的經營遊戲。你是老闆，不用自己下竿：叫貨、放蝦、擺設場地、請人顧店，讓客人一路釣到深夜。
 - Q: Is there a game about running a Taiwanese prawn-fishing hall? A: Prawnlight puts you in charge of an indoor prawn-fishing hall in Taiwan: choose a site, stock prawns, lay out the hall, hire staff and run contests while paying off a loan. Free to play.
+- Q: Is Prawnlight free? A: Yes. Ads play only when you choose to watch one for a reward; optional in-app purchases are available.
+- Q: What do you do in Prawnlight? A: You run a Taiwanese indoor prawn-fishing hall: pick a site on the map of Taiwan, place pools and grills, hire staff, hold contests and hourly prawn releases, then expand or open branches. You start with a loan, so growing too fast runs you out of cash.
 
 ## Precision Parking 3D / 極限停車場：都市挑戰
 - Page: https://easonwumac.github.io/precision-parking-3d/
@@ -87,3 +94,5 @@
 - Slow down. Find your angle. Make every space count.
 - 在都市停車場裡，慢一點，停得更漂亮。
 - Q: Is there a phone game for practising parking? A: Precision Parking 3D has three tutorial levels and 40 levels in five chapters to practise steering, pedals and gears, playable offline.
+- Q: Can Precision Parking 3D be played offline? A: All core levels work offline, and progress and achievements stay on your device; advertising and privacy services need a connection.
+- Q: Is there a parking game with a steering wheel control? A: Precision Parking 3D lets you choose left/right buttons, sliding steering or a rotating wheel, and switch between third-person and overhead views; each level has three objectives: park, avoid collisions and an extra challenge.
