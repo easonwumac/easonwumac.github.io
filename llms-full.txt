@@ -648,3 +648,85 @@
 - Español: Mide habitaciones y muebles con el iPhone: cómo usar la app Medidor https://agentmesh.uk/guides/measure-room-iphone/es/
 - Français: Mesurer pièces et meubles avec l’iPhone : comment utiliser l’app Mesure https://agentmesh.uk/guides/measure-room-iphone/fr/
 - Deutsch: Räume und Möbel mit dem iPhone messen: So verwendest du die App „Measure“ https://agentmesh.uk/guides/measure-room-iphone/de/
+- 简体中文: iPhone 屏幕触控失灵、乱跳怎么办？ https://agentmesh.uk/guides/iphone-touchscreen-not-working/zh-Hans/
+- 한국어: iPhone 터치스크린이 반응하지 않거나 너무 민감한가요? https://agentmesh.uk/guides/iphone-touchscreen-not-working/ko/
+- Español: ¿La pantalla táctil del iPhone no responde o es demasiado sensible? https://agentmesh.uk/guides/iphone-touchscreen-not-working/es/
+- Français: iPhone : l’écran tactile ne répond pas ou est trop sensible ? https://agentmesh.uk/guides/iphone-touchscreen-not-working/fr/
+- Deutsch: iPhone-Touchscreen reagiert nicht oder ist zu empfindlich? https://agentmesh.uk/guides/iphone-touchscreen-not-working/de/
+- 简体中文: iPhone 扬声器没声音或有杂音？先检查这几件事 https://agentmesh.uk/guides/iphone-speaker-no-sound/zh-Hans/
+- 日本語: iPhoneのスピーカーから音が出ない、または雑音がする場合は、まず以下の点を確認してください https://agentmesh.uk/guides/iphone-speaker-no-sound/ja/
+- 한국어: 아이폰 스피커에서 소리가 나지 않거나 소리가 찌그러지나요? 먼저 이것들을 확인하세요 https://agentmesh.uk/guides/iphone-speaker-no-sound/ko/
+- Français: Le haut-parleur de votre iPhone ne produit aucun son ou un son déformé ? Vérifiez d'abord ces points https://agentmesh.uk/guides/iphone-speaker-no-sound/fr/
+- Deutsch: iPhone-Lautsprecher ohne Ton oder mit Störgeräuschen? Prüfe zuerst diese Punkte https://agentmesh.uk/guides/iphone-speaker-no-sound/de/
+- 简体中文: iPhone 无法充电或充到 80% 就停止？ https://agentmesh.uk/guides/iphone-wont-charge/zh-Hans/
+- 日本語: iPhoneが充電できない、または80%で止まりますか？ https://agentmesh.uk/guides/iphone-wont-charge/ja/
+- 한국어: iPhone이 충전되지 않거나 80%에서 멈추나요? https://agentmesh.uk/guides/iphone-wont-charge/ko/
+- Español: ¿El iPhone no carga o se detiene en 80%? https://agentmesh.uk/guides/iphone-wont-charge/es/
+- Français: L'iPhone ne se recharge pas, ou s'arrête à 80 % ? https://agentmesh.uk/guides/iphone-wont-charge/fr/
+- Deutsch: iPhone lädt nicht oder stoppt bei 80 %? https://agentmesh.uk/guides/iphone-wont-charge/de/
+- 简体中文: iPhone 发烫正常吗？什么时候该担心 https://agentmesh.uk/guides/iphone-too-hot/zh-Hans/
+- 日本語: iPhoneが熱くなるのは正常？注意が必要な場合 https://agentmesh.uk/guides/iphone-too-hot/ja/
+- 한국어: iPhone이 뜨거워지는 것은 정상인가요? 언제 걱정해야 할까요? https://agentmesh.uk/guides/iphone-too-hot/ko/
+- Español: ¿Es normal que un iPhone se caliente? Cuándo preocuparse https://agentmesh.uk/guides/iphone-too-hot/es/
+- Français: Est-il normal qu’un iPhone chauffe ? Quand s’en inquiéter https://agentmesh.uk/guides/iphone-too-hot/fr/
+- 简体中文: 换新 iPhone 怎么转移数据？“快速开始”步骤 https://agentmesh.uk/guides/transfer-to-new-iphone/zh-Hans/
+- 日本語: iPhoneを買い替えたらデータはどう移す？「クイックスタート」の手順 https://agentmesh.uk/guides/transfer-to-new-iphone/ja/
+- 한국어: iPhone을 새로 바꿀 때 데이터는 어떻게 옮기나요? '빠른 시작' 단계별 안내 https://agentmesh.uk/guides/transfer-to-new-iphone/ko/
+- Español: Cambiar a un nuevo iPhone: cómo transferir tus datos con «Inicio rápido» paso a paso https://agentmesh.uk/guides/transfer-to-new-iphone/es/
+- Français: Passer à un nouvel iPhone : comment transférer vos données avec « Démarrage rapide » https://agentmesh.uk/guides/transfer-to-new-iphone/fr/
+- Deutsch: Wechsel zu einem neuen iPhone: Schritt für Schritt mit „Schnellstart“ https://agentmesh.uk/guides/transfer-to-new-iphone/de/
+- 简体中文: 怎么知道自己的 iPhone 是哪一款？用型号查 https://agentmesh.uk/guides/identify-iphone-model/zh-Hans/
+- 日本語: iPhoneの機種はどうやって確認する？型番で調べる https://agentmesh.uk/guides/identify-iphone-model/ja/
+- 한국어: 내가 가진 iPhone은 어떤 모델일까? 모델 번호로 찾아보기 https://agentmesh.uk/guides/identify-iphone-model/ko/
+- Español: ¿Qué iPhone tengo? Búscalo por número de modelo https://agentmesh.uk/guides/identify-iphone-model/es/
+- Français: Quel iPhone ai-je? Recherchez-le par numéro de modèle https://agentmesh.uk/guides/identify-iphone-model/fr/
+- Deutsch: Welches iPhone habe ich? Anhand der Modellnummer nachschlagen https://agentmesh.uk/guides/identify-iphone-model/de/
+- 简体中文: iPhone耗电很快？先看“电池”设置中的这几项 https://agentmesh.uk/guides/iphone-battery-drains-fast/zh-Hans/
+- 한국어: iPhone 배터리가 빨리 닳나요? 배터리 설정에서 다음 항목을 확인하세요 https://agentmesh.uk/guides/iphone-battery-drains-fast/ko/
+- Español: ¿Tu iPhone se descarga muy rápido? Revisa estos ajustes en la configuración de Batería https://agentmesh.uk/guides/iphone-battery-drains-fast/es/
+- Français: Votre iPhone consomme-t-il trop vite sa batterie? Vérifiez ces éléments dans les réglages de la batterie https://agentmesh.uk/guides/iphone-battery-drains-fast/fr/
+- Deutsch: iPhone-Akku entlädt sich schnell? Diese Punkte in den Akku-Einstellungen prüfen https://agentmesh.uk/guides/iphone-battery-drains-fast/de/
+- 简体中文: Face ID 无法使用怎么办？按顺序排查 https://agentmesh.uk/guides/face-id-not-working/zh-Hans/
+- 日本語: Face ID が使えない？順番に確認しましょう https://agentmesh.uk/guides/face-id-not-working/ja/
+- 한국어: Face ID가 작동하지 않나요? 순서대로 문제를 해결하세요 https://agentmesh.uk/guides/face-id-not-working/ko/
+- Español: ¿Face ID no funciona? Resuélvelo siguiendo el orden https://agentmesh.uk/guides/face-id-not-working/es/
+- Français: Face ID ne fonctionne pas ? Dépannage étape par étape https://agentmesh.uk/guides/face-id-not-working/fr/
+- 简体中文: iPhone显示“无服务”或“SOS”？修复蜂窝网络问题 https://agentmesh.uk/guides/iphone-no-cellular/zh-Hans/
+- 日本語: iPhoneに「圏外」や「SOS」と表示されますか？モバイル通信の問題を解決 https://agentmesh.uk/guides/iphone-no-cellular/ja/
+- 한국어: iPhone에 '서비스 없음' 또는 'SOS'가 표시되나요? 셀룰러 문제 해결하기 https://agentmesh.uk/guides/iphone-no-cellular/ko/
+- Español: ¿El iPhone muestra «Sin servicio» o «SOS»? Solución de problemas de señal celular https://agentmesh.uk/guides/iphone-no-cellular/es/
+- Français: iPhone affiche « Pas de service » ou « SOS » ? Résoudre les problèmes cellulaires https://agentmesh.uk/guides/iphone-no-cellular/fr/
+- Deutsch: Zeigt dein iPhone „Kein Dienst“ oder „SOS“? Mobilfunkprobleme beheben https://agentmesh.uk/guides/iphone-no-cellular/de/
+- 简体中文: 用 iPhone 扫描文件：备忘录和文件 App 都可以 https://agentmesh.uk/guides/scan-documents-iphone/zh-Hans/
+- 日本語: iPhoneで書類をスキャン：メモとファイルのAppで可能 https://agentmesh.uk/guides/scan-documents-iphone/ja/
+- 한국어: iPhone으로 문서 스캔하기: 메모 앱과 파일 앱 모두 가능 https://agentmesh.uk/guides/scan-documents-iphone/ko/
+- Español: Escanea documentos con el iPhone: en la app Notas o Archivos https://agentmesh.uk/guides/scan-documents-iphone/es/
+- Deutsch: Dokumente mit dem iPhone scannen: in Notizen oder Dateien https://agentmesh.uk/guides/scan-documents-iphone/de/
+- 简体中文: 在 iPhone「照片」里找旧截图：用文字和日期搜索 https://agentmesh.uk/guides/find-old-screenshots/zh-Hans/
+- 日本語: iPhoneの「写真」で古いスクリーンショットを探す：テキストと日付で検索 https://agentmesh.uk/guides/find-old-screenshots/ja/
+- 한국어: iPhone 사진에서 예전 스크린샷 찾기: 텍스트와 날짜로 검색 https://agentmesh.uk/guides/find-old-screenshots/ko/
+- Español: Encuentra capturas antiguas en Fotos del iPhone: busca por texto y fecha https://agentmesh.uk/guides/find-old-screenshots/es/
+- Français: Retrouver d'anciennes captures d'écran dans Photos de l'iPhone : rechercher par texte et par date https://agentmesh.uk/guides/find-old-screenshots/fr/
+- Deutsch: So finden Sie alte Screenshots in der iPhone-App „Fotos“: Suche nach Text und Datum https://agentmesh.uk/guides/find-old-screenshots/de/
+- 简体中文: 怎样把票券、登机牌加到 Apple 钱包？ https://agentmesh.uk/guides/wallet-passes/zh-Hans/
+- 日本語: Apple ウォレットにチケットや搭乗券を追加するには？ https://agentmesh.uk/guides/wallet-passes/ja/
+- 한국어: Apple 월렛에 티켓과 탑승권을 추가하는 방법은? https://agentmesh.uk/guides/wallet-passes/ko/
+- Español: ¿Cómo agregar boletos y pases de abordar a Apple Wallet? https://agentmesh.uk/guides/wallet-passes/es/
+- Français: Comment ajouter des billets et cartes d'embarquement à Apple Wallet ? https://agentmesh.uk/guides/wallet-passes/fr/
+- Deutsch: Wie füge ich Tickets und Bordkarten zu Apple Wallet hinzu? https://agentmesh.uk/guides/wallet-passes/de/
+- 简体中文: 挂画怕挂歪？用 iPhone「测距仪」的水平仪 https://agentmesh.uk/guides/iphone-level-hang-picture/zh-Hans/
+- 日本語: 壁掛けの絵が傾かないように？iPhoneの「計測」の水平器を使う https://agentmesh.uk/guides/iphone-level-hang-picture/ja/
+- 한국어: 벽에 그림을 걸 때 삐뚤어질까 걱정되나요? iPhone의 '측정' 앱에 있는 수평계를 사용하세요. https://agentmesh.uk/guides/iphone-level-hang-picture/ko/
+- Español: ¿Te preocupa que el cuadro quede torcido? Usa el nivel de burbuja de la app Medidor del iPhone https://agentmesh.uk/guides/iphone-level-hang-picture/es/
+- Français: Accrochage de tableau bien droit ? Utilisez le niveau à bulle de l'app Mesure de l'iPhone https://agentmesh.uk/guides/iphone-level-hang-picture/fr/
+- Deutsch: Hängt das Bild schief? Mit der Wasserwaage der Measure-App auf dem iPhone https://agentmesh.uk/guides/iphone-level-hang-picture/de/
+- 简体中文: 用 iPhone「健康」App 记录经期：经期追踪怎么开 https://agentmesh.uk/guides/health-cycle-tracking/zh-Hans/
+- 日本語: iPhoneの「ヘルスケア」Appで生理を記録する：周期の記録を始める方法 https://agentmesh.uk/guides/health-cycle-tracking/ja/
+- 한국어: iPhone 건강 앱으로 생리 기록하기: 생리 주기 추적 설정 방법 https://agentmesh.uk/guides/health-cycle-tracking/ko/
+- Deutsch: Verfolge deine Periode in der iPhone-Health-App https://agentmesh.uk/guides/health-cycle-tracking/de/
+- 简体中文: 能否拍照识别植物名称？iPhone「视觉查询」的使用方法 https://agentmesh.uk/guides/identify-plants-visual-look-up/zh-Hans/
+- 日本語: 写真で植物の名前がわかる？iPhoneの「ビジュアルルックアップ」の使い方 https://agentmesh.uk/guides/identify-plants-visual-look-up/ja/
+- 한국어: 사진만 찍으면 식물 이름을 알 수 있을까요? iPhone '시각적 검색'을 사용하는 방법 https://agentmesh.uk/guides/identify-plants-visual-look-up/ko/
+- Español: ¿Identificar una planta con una foto? Cómo usar «Búsqueda visual» en iPhone https://agentmesh.uk/guides/identify-plants-visual-look-up/es/
+- Français: Identifier une plante à partir d’une photo avec la fonction Recherche visuelle de l’iPhone https://agentmesh.uk/guides/identify-plants-visual-look-up/fr/
+- Deutsch: Pflanzen mit dem Foto bestimmen? So nutzt du die „Visuelle Suche“ am iPhone https://agentmesh.uk/guides/identify-plants-visual-look-up/de/
