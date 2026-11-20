@@ -55,7 +55,7 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - Q: Does Tuck upload my screenshots? A: Recognition runs on the iPhone by default, with Apple Intelligence support; content is sent out only when you choose the optional Claude advanced reading for it.
 - Q: Does Tuck need an account or a subscription? A: No sign-in is needed. Tuck is free with ads, and a one-time purchase removes them. Advanced recognition is free once a day; the optional Tuck Pro and Tuck Max subscriptions add more uses and no ads.
 - Q: How can I keep flight, hotel and booking screenshots for a trip together? A: Save them to Tuck and the trip folder lists flights, stays and booking codes by date, and reminds you before a document expires; bookings and tickets can also be added to Calendar.
-- 简体中文: 收好 Tuck－AI 截图整理 https://agentmesh.uk/tuck/zh-Hans/
+- 简体中文: 收好 Tuck－截图整理 https://agentmesh.uk/tuck/zh-Hans/
 - 日本語: Tuck: AIスクショ整理とレシート https://agentmesh.uk/tuck/ja/
 - 한국어: Tuck: 영수증 보관함 https://agentmesh.uk/tuck/ko/
 - Español: Tuck: Guarda tus recibos https://agentmesh.uk/tuck/es/
@@ -184,3 +184,6 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - How to keep warranties and receipts: snap them, note the expiry, get reminded / 保固卡和發票怎麼保存？拍下來、記到期日、到期前提醒: https://agentmesh.uk/guides/warranty-receipts-reminder/
 - iPhone microphone or speaker acting up? Test them yourself first / iPhone 麥克風或喇叭怪怪的？自己先測一輪: https://agentmesh.uk/guides/iphone-microphone-speaker-test/
 - How to watch a meteor shower: no telescope, just the right place and time / 流星雨怎麼看？不用望遠鏡，選對地點和時間: https://agentmesh.uk/guides/watch-meteor-shower/
+- iPhone storage almost full? First see what is using it / iPhone 儲存空間不足怎麼辦？先看是誰佔掉空間: https://agentmesh.uk/guides/iphone-storage-full/
+- What to do before you sell or give away your iPhone: back up, sign out, erase / 賣掉或轉送 iPhone 前要做什麼？備份、登出、清除: https://agentmesh.uk/guides/before-selling-iphone/
+- Measure rooms and furniture with iPhone: how to use the Measure app / 用 iPhone 量房間和家具尺寸：「測距儀」怎麼用: https://agentmesh.uk/guides/measure-room-iphone/

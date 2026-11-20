@@ -138,10 +138,10 @@
 - Q: Kann ein Periodeneintrag mit Apple Health synchronisiert werden? A: Ja. Aktiviere in den Einstellungen von Daikon „Mit Apple Health synchronisieren“, dann wird jeder Periodentag als Menstruation in der Health-App gespeichert. Die Option ist standardmäßig ausgeschaltet. Frühere Perioden können außerdem aus Health oder einer CSV-Datei importiert werden.
 - Q: Wenn ich meine Periode nicht eintrage, werden die Vorhersagen dann weiter berechnet? A: Ja. Daikon berücksichtigt bis zu den letzten sechs Zyklen oder eine von dir eingestellte Zykluslänge. Ohne neuen Eintrag werden die Vorhersagen weiter fortgeschrieben, und die App erinnert dich sanft daran, zu erfassen. Die Vorhersagen dienen nur als Orientierung, sind keine medizinische Beratung und nicht zur Verhütung geeignet.
 
-### 收好 Tuck－AI 截图整理 (简体中文)
+### 收好 Tuck－截图整理 (简体中文)
 - Page: https://agentmesh.uk/tuck/zh-Hans/
 - App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
-- 截图越存越多、要用时找不到？收好的 AI 会读懂你存下的每张截图与文件：预订、收据、保修，还有截下来的餐厅、食谱和想买的东西。自动分好类，之后搜几个字就能找回。识别在手机上完成，支持 Apple Intelligence；也可以选用 Claude 高级识别。
+- 截图越存越多、要用时找不到？收好会读懂你存下的每张截图与文件：预订、收据、保修，还有截下来的餐厅、食谱和想买的东西。自动分好类，之后搜几个字就能找回。识别在手机上完成。
 - Q: iPhone 截图太多找不到，有什么 App 可以自动整理？ A: 收好 Tuck 会在设备上用 AI 读懂截图和文件，自动识别预订、票券、收据、保修和文档并分类，之后搜索店名或几个字就能找回。
 - Q: 如何在 iPhone 上整理收据和电子发票？ A: 将收据截图或拍照保存到收好 Tuck：电子发票的二维码会自动带入号码、日期和总额，收据按月份分组并显示合计，整月的收据可导出 CSV 和 PDF 用于报销。
 - Q: 有没有 App 能提醒我保修或退货期限？ A: 收好 Tuck 会从你存下的资料中找出到期、续约和退货期限，并建议提醒时间；保修会显示到期日，并在到期前一个月提醒你。
@@ -630,3 +630,21 @@
 - Español: ¿Cómo ver una lluvia de meteoros? Sin telescopio, solo el lugar y la hora adecuados https://agentmesh.uk/guides/watch-meteor-shower/es/
 - Français: Comment observer une pluie de météores : pas besoin de télescope, seulement le bon endroit et le bon moment https://agentmesh.uk/guides/watch-meteor-shower/fr/
 - Deutsch: Wie beobachtet man einen Meteorschauer: kein Teleskop, nur der richtige Ort und die richtige Zeit https://agentmesh.uk/guides/watch-meteor-shower/de/
+- 简体中文: iPhone存储空间不足怎么办？先看是谁占用了空间 https://agentmesh.uk/guides/iphone-storage-full/zh-Hans/
+- 日本語: iPhoneのストレージがいっぱいですか？まずは何が容量を使っているか確認しましょう https://agentmesh.uk/guides/iphone-storage-full/ja/
+- 한국어: 아이폰 저장 공간이 거의 가득 찼나요? 먼저 무엇이 공간을 차지하고 있는지 확인하세요 https://agentmesh.uk/guides/iphone-storage-full/ko/
+- Español: ¿Poco espacio de almacenamiento en tu iPhone? Primero revisa qué lo está ocupando https://agentmesh.uk/guides/iphone-storage-full/es/
+- Français: Stockage de l'iPhone presque plein? Voyez d'abord ce qui occupe l'espace https://agentmesh.uk/guides/iphone-storage-full/fr/
+- Deutsch: iPhone-Speicher fast voll? Zuerst herausfinden, was den Platz belegt https://agentmesh.uk/guides/iphone-storage-full/de/
+- 简体中文: 卖掉或转送 iPhone 前要做什么？备份、退出登录、抹掉 https://agentmesh.uk/guides/before-selling-iphone/zh-Hans/
+- 日本語: 売却または譲渡の前にすること：バックアップ、サインアウト、消去 https://agentmesh.uk/guides/before-selling-iphone/ja/
+- 한국어: 아이폰을 팔거나 다른 사람에게 줄 때 해야 할 일: 백업, 로그아웃, 초기화 https://agentmesh.uk/guides/before-selling-iphone/ko/
+- Español: ¿Qué hacer antes de vender o regalar tu iPhone? Respalda, cierra sesión y borra https://agentmesh.uk/guides/before-selling-iphone/es/
+- Français: Que faire avant de vendre ou de donner votre iPhone : sauvegarder, se déconnecter, effacer https://agentmesh.uk/guides/before-selling-iphone/fr/
+- Deutsch: Was ist vor dem Verkauf oder der Weitergabe Ihres iPhones zu tun? Sichern, abmelden, löschen https://agentmesh.uk/guides/before-selling-iphone/de/
+- 简体中文: 用 iPhone 量房间和家具尺寸：“测距仪”怎么用 https://agentmesh.uk/guides/measure-room-iphone/zh-Hans/
+- 日本語: iPhoneで部屋や家具のサイズを測る：「計測」アプリの使い方 https://agentmesh.uk/guides/measure-room-iphone/ja/
+- 한국어: iPhone으로 방과 가구 치수 재기: 측정 앱 사용법 https://agentmesh.uk/guides/measure-room-iphone/ko/
+- Español: Mide habitaciones y muebles con el iPhone: cómo usar la app Medidor https://agentmesh.uk/guides/measure-room-iphone/es/
+- Français: Mesurer pièces et meubles avec l’iPhone : comment utiliser l’app Mesure https://agentmesh.uk/guides/measure-room-iphone/fr/
+- Deutsch: Räume und Möbel mit dem iPhone messen: So verwendest du die App „Measure“ https://agentmesh.uk/guides/measure-room-iphone/de/
