@@ -1,6 +1,17 @@
 {
  "name": "Eason Wu Apps",
  "type": "iOS apps",
+ "capabilities": [
+  "Inside: Phone Check: A warm, clear look at your whole phone: checks, hardware, battery, performance, charging.",
+  "Daikon: Period Tracker: A little care, every day.",
+  "Tuck: AI Screenshot Organizer: Screenshots piling up? Tuck's AI reads every screenshot and file you save: bookings, receipts and warranties, and the restaurants, recipes and things to buy you screenshot. It files each one and finds it again from a few words. Reading happens on your device, with Apple Intelligence where available; Advanced reading by Claude is optional.",
+  "ZaiRi: Plant Watering Reminder: Give every plant day a place to grow.",
+  "Roomory: Floor Plans: From moving a sofa to planning a renovation, Roomory helps you turn the space you have into the layout you want. Scan a room or start by hand, then edit your floor plans and preview your ideas in 3D.",
+  "Nightvane: Star Guide: Hold your iPhone or iPad up to the night and Nightvane shows what you are looking at: stars, planets, constellations, the Moon and the Milky Way, right where they are.",
+  "Lockwater: Canal Puzzle: Lockwater is a canal puzzle made of soft clay: a row of stone chambers, a few wooden gates, and boats that must reach the flag of their color.",
+  "Prawnlight: Prawn Hall Tycoon: Prawnlight is a management game set in a Taiwanese indoor prawn-fishing hall that stays open late into the night. You are the boss, not the angler: order stock, release prawns, lay out the floor, hire staff and keep the guests fishing until closing time.",
+  "Precision Parking 3D: Slow down. Find your angle. Make every space count."
+ ],
  "services": [
   {
    "name": "Inside: Phone Check",
