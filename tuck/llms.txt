@@ -1,0 +1,47 @@
+# Tuck: AI Screenshot Organizer / 收好 Tuck－AI 截圖整理
+
+> Screenshots piling up? Tuck's AI reads every screenshot and file you save: bookings, receipts and warranties, and the restaurants, recipes and things to buy you screenshot. It files each one and finds it again from a few words. Reading happens on your device, with Apple Intelligence where available; Advanced reading by Claude is optional.
+
+截圖越存越多、要用時找不到？收好的 AI 會讀懂你存下的每張截圖與檔案：訂位、收據、保固，還有截下來的餐廳、食譜和想買的東西。自動分好類，之後搜幾個字就找回。辨識在手機上完成，支援 Apple Intelligence；也可以選用 Claude 高階辨識。
+
+- iOS 18.0+ · v3.3.2 · 2026-11-20 · 15.0 MB
+- [App Store](https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8)
+- [Support](https://agentmesh.uk/tuck/support.html)
+
+## FAQ
+
+### What app organizes the screenshots piling up on my iPhone?
+Tuck reads screenshots and files on the device with AI, recognises bookings, tickets, receipts, warranties and documents, files them automatically, and finds them again from a few words.
+
+### iPhone 截圖太多找不到，有什麼 App 可以自動整理？
+收好 Tuck 會在裝置上用 AI 讀懂截圖與檔案，自動辨識訂位、票券、收據、保固與文件並分類，之後搜尋店名或幾個字就能找回。
+
+### How do I keep receipts organised on an iPhone?
+Save receipt photos or screenshots in Tuck: receipts are grouped by month with totals, and a month of receipts exports as CSV and PDF for expenses.
+
+### 怎麼在 iPhone 上整理收據和電子發票？
+把收據截圖或拍照存進收好 Tuck：電子發票的 QR Code 會自動帶入號碼、日期與總額，收據依月份分組並顯示合計，整月收據可匯出 CSV 與 PDF 報帳。
+
+### Is there an app that reminds me of warranty and return deadlines?
+Tuck finds expiry, renewal and return deadlines in what you save and suggests reminders; warranties show their end date and remind you a month before.
+
+### 有沒有 App 會提醒保固或退貨期限？
+收好 Tuck 會從存下的資料找出到期、續約與退貨期限並建議提醒時間；保固會顯示到期日並在到期前一個月提醒。
+
+### Does Tuck upload my screenshots?
+Recognition runs on the iPhone by default, with Apple Intelligence support; content is sent out only when you choose the optional Claude advanced reading for it.
+
+### 收好 Tuck 會把截圖上傳到雲端嗎？
+辨識預設在 iPhone 上完成，支援 Apple Intelligence；只有你自己選用 Claude 高階辨識時，才會把該張內容送去辨識。
+
+### Does Tuck need an account or a subscription?
+No sign-in is needed. Tuck is free with ads, and a one-time purchase removes them. Advanced recognition is free once a day; the optional Tuck Pro and Tuck Max subscriptions add more uses and no ads.
+
+### 收好 Tuck 要登入或付費嗎？
+不用登入，免費使用並顯示廣告，一次購買即可移除廣告。高階辨識每天免費 1 次；收好 Pro 與收好 Max 是可選的訂閱，提供更多次高階辨識且沒有廣告。
+
+### How can I keep flight, hotel and booking screenshots for a trip together?
+Save them to Tuck and the trip folder lists flights, stays and booking codes by date, and reminds you before a document expires; bookings and tickets can also be added to Calendar.
+
+### 出國的機票、住宿和訂位截圖怎麼整理？
+存進收好後，行程資料夾會依日期列出班機、住宿與訂位代號，證件快到期時提醒你；訂位與票券也能加入行事曆。

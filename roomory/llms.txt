@@ -1,0 +1,47 @@
+# Roomory: Floor Plans / 居圖 Roomory－平面圖
+
+> From moving a sofa to planning a renovation, Roomory helps you turn the space you have into the layout you want. Scan a room or start by hand, then edit your floor plans and preview your ideas in 3D.
+
+從重新擺放家具，到準備整戶裝潢，居圖陪你把現有的空間，整理成心中的配置。掃描房間或手動開始，在平面圖上調整，再用 3D 預覽看看想法。
+
+- iOS 17.0+ · v2.3.1 · 2026-11-20 · 198.6 MB
+- [App Store](https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8)
+- [Support](https://agentmesh.uk/roomory/support.html)
+
+## FAQ
+
+### Which app scans a room with an iPhone to make a floor plan?
+Roomory scans rooms with a LiDAR iPhone or iPad, capturing walls, doors, windows and furniture into an editable floor plan with a 3D preview; devices without LiDAR can draw plans by hand.
+
+### 有沒有 App 可以用 iPhone 掃描房間做出平面圖？
+居圖 Roomory 可用配備 LiDAR 的 iPhone 或 iPad 掃描房間，記錄牆面、門窗與家具，產生可編修的平面圖與 3D 預覽；沒有 LiDAR 的裝置也能手動繪製。
+
+### How can I try a furniture layout on my phone before moving things?
+In Roomory, adjust furniture size, position and angle on the plan, switch to 3D to see layout, materials and daylight, and save design versions to compare.
+
+### 搬家或重新擺家具前，怎麼先在手機上試擺？
+在居圖 Roomory 的平面圖上調整家具尺寸、位置與角度，切到 3D 看擺放、材質與日照時段的效果，也能保存多個設計版本比較。
+
+### Is Roomory free?
+Scanning, modelling, plan editing, multiple projects, backups, iCloud sync and basic 3D furniture are free with ads. Roomory Pro (monthly or yearly) adds PDF, DXF, SVG and USDZ export, all furniture and materials, the AI assistant and no ads.
+
+### 居圖 Roomory 免費嗎？
+掃描、建模、平面編修、多專案、備份、iCloud 同步與基本 3D 家具材質都免費（含廣告）。居圖 Pro 為月繳或年繳訂閱，提供 PDF、DXF、SVG、USDZ 等專業匯出、全部家具材質、AI 助理與無廣告。
+
+### Can I draw a floor plan on an iPhone without LiDAR?
+Yes. Roomory lets you create and edit floor plans by hand on devices without LiDAR, including multi-room and multi-floor projects; only room scanning needs an iPhone or iPad with LiDAR.
+
+### 沒有 LiDAR 的 iPhone 可以畫平面圖嗎？
+可以。居圖在不支援 LiDAR 的裝置上仍可手動建立與編修平面圖，包括多房間、多樓層專案；掃描房間才需要配備 LiDAR 的 iPhone 或 iPad。
+
+### How can I show my renovation layout to a designer or contractor?
+In Roomory you adjust building, furniture and fixture layers, then switch to 3D to try materials and daylight; Roomory Pro exports A3 PDF sets, editable DXF and 3D models.
+
+### 裝潢前怎麼把配置想法給設計師或師傅看？
+在居圖分開調整建築、家具與設備圖層，切換 3D 配置換材質、看日照時段；居圖 Pro 可匯出 A3 PDF 圖組、可編修 DXF 與 3D 模型。
+
+### Are room scan measurements accurate enough to build from?
+Roomory's scanned dimensions should be re-measured on site, and drawings still need review by a qualified professional before work starts; Roomory does not provide professional sign-off.
+
+### 手機掃描房間的尺寸準嗎？
+居圖的掃描尺寸需要現場複測；施工前，圖面仍須由合格專業人員審核，居圖不提供專業簽核。

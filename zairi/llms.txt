@@ -1,0 +1,47 @@
+# ZaiRi: Plant Watering Reminder / 栽日 ZaiRi－植物澆水提醒
+
+> Give every plant day a place to grow.
+
+把植物的每一天，好好留住。
+
+- iOS 26.0+ · v1.3.1 · 2026-11-18 · 12.7 MB
+- [App Store](https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8)
+- [Support](https://agentmesh.uk/zairi/support.html)
+
+## FAQ
+
+### Is there a plant app that reminds me to water?
+ZaiRi schedules watering, feeding and repotting for each plant with notifications, and a Home Screen widget lists today's care.
+
+### 有沒有提醒澆水的植物 App？
+栽日 ZaiRi 可以為每盆植物安排澆水、施肥與換盆任務並準時通知，主畫面小工具會列出今日照護。
+
+### How do I keep a record of my plants' growth?
+Take growth photos and notes in ZaiRi, then turn them into a time-lapse or before-and-after view; data stays on your iPhone with no account.
+
+### 怎麼記錄植物的成長？
+在栽日拍成長照、寫觀察日誌，可做成縮時影片與前後對照圖；資料與照片存在你的 iPhone，不需要帳號。
+
+### Does ZaiRi cost anything?
+Every plant-journal feature is free with occasional full-screen ads; a one-time purchase removes ads.
+
+### 栽日要付費嗎？
+所有植物日誌功能免費，偶爾有全螢幕廣告，一次購買即可移除廣告。
+
+### Is there a plant journal app that identifies plants from photos?
+ZaiRi can identify a plant from a photo and keeps growth photos, care logs and custom fields, plus growth time-lapses and before-and-after images. All plant journal features are free.
+
+### 有沒有可以拍照辨識植物的日誌 App？
+栽日可以從照片辨識植物，並記錄成長照片、照護日誌與自訂欄位；還有成長縮時影片與前後對照圖。植物日誌功能都免費。
+
+### How can I tell if a spot has enough light for a plant?
+ZaiRi has a camera light meter you can use where the plant sits, and lets you browse and manage plants by location.
+
+### 怎麼知道植物擺的位置光線夠不夠？
+栽日內建相機光度計，可以在植物擺放的位置測一下光線，並依位置瀏覽與管理植物。
+
+### Does ZaiRi need an account, and where is my data stored?
+No account or server is needed. Data and photos stay on your iPhone, and you can export and restore a full backup yourself.
+
+### 植物 App 需要帳號嗎？資料存在哪裡？
+栽日不需要帳號或伺服器，資料與照片存在你的 iPhone，完整備份可以自行匯出與還原。

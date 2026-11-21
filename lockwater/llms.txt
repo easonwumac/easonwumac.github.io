@@ -1,0 +1,29 @@
+# Lockwater: Canal Puzzle / 水閘 Lockwater－運河解謎
+
+> Lockwater is a canal puzzle made of soft clay: a row of stone chambers, a few wooden gates, and boats that must reach the flag of their color.
+
+《水閘》是一款黏土質感的運河解謎：一排石砌閘室、幾道木閘門，還有要回到同色旗子旁的小船。
+
+- iOS 16.0+ · v1.1.0 · 2026-11-19 · 139.2 MB
+- [App Store](https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8)
+- [Support](https://agentmesh.uk/lockwater/support.html)
+
+## FAQ
+
+### Is there a calm puzzle game that makes you think?
+Lockwater is a clay-style canal puzzle where every opened gate levels the water for good, so the order is the puzzle; over 100 levels, free to play.
+
+### 有沒有安靜、需要思考的解謎遊戲？
+水閘 Lockwater 是黏土質感的運河解謎：開閘會永久拉平水位，開閘順序就是謎題，上百個關卡，免費遊玩。
+
+### How do you play Lockwater?
+Tap a gate and the water on both sides settles at one level; tap a boat and it sails through the open gates to its flag. Water never comes back, so the order you open the gates in is the whole puzzle. A solver checks every level, and a level ends at once when the canal can no longer be won.
+
+### 水閘 Lockwater 怎麼玩？
+點一下閘門，兩側的水會流到同一個水位；點一下船，它會穿過打開的閘門駛向同色旗子。水不會回來，所以開閘的順序就是整個謎題。每一關都經過求解器驗證，運河無解時關卡會立刻結束。
+
+### Is Lockwater free?
+Yes. A banner and an occasional ad between levels keep it free; a one-time purchase removes them. Hint packs are also available.
+
+### 水閘要付費嗎？
+免費遊玩。有橫幅廣告與偶爾出現在關卡之間的廣告，一次性購買即可移除；另有提示包可購買。
