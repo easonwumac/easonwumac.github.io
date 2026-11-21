@@ -1,0 +1,6 @@
+# Eason Wu Apps
+# Assistants and AI search may read, quote and link every page.
+User-Agent: *
+Allow: /
+
+Summary: https://agentmesh.uk/llms.txt

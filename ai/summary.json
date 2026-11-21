@@ -1,0 +1,80 @@
+{
+ "name": "Eason Wu Apps",
+ "description": "Independent iOS apps by Eason Wu: utilities and games on the App Store.",
+ "url": "https://agentmesh.uk/",
+ "llms": "https://agentmesh.uk/llms.txt",
+ "apps": [
+  {
+   "name": "Inside: Phone Check",
+   "alternateName": "機況 Inside－手機健檢",
+   "url": "https://agentmesh.uk/inside/",
+   "appStore": "https://apps.apple.com/app/id6816782363",
+   "category": "Utilities",
+   "description": "A warm, clear look at your whole phone: checks, hardware, battery, performance, charging."
+  },
+  {
+   "name": "Daikon: Period Tracker",
+   "alternateName": "蘿蔔日記 Daikon－經期紀錄",
+   "url": "https://agentmesh.uk/daikon/",
+   "appStore": "https://apps.apple.com/app/id6822485511",
+   "category": "Health & Fitness",
+   "description": "A little care, every day."
+  },
+  {
+   "name": "Tuck: AI Screenshot Organizer",
+   "alternateName": "收好 Tuck－AI 截圖整理",
+   "url": "https://agentmesh.uk/tuck/",
+   "appStore": "https://apps.apple.com/app/id6821961896",
+   "category": "Productivity",
+   "description": "Screenshots piling up? Tuck's AI reads every screenshot and file you save: bookings, receipts and warranties, and the restaurants, recipes and things to buy you screenshot. It files each one and finds it again from a few words. Reading happens on your device, with Apple Intelligence where available; Advanced reading by Claude is optional."
+  },
+  {
+   "name": "ZaiRi: Plant Watering Reminder",
+   "alternateName": "栽日 ZaiRi－植物澆水提醒",
+   "url": "https://agentmesh.uk/zairi/",
+   "appStore": "https://apps.apple.com/app/id6816606160",
+   "category": "Lifestyle",
+   "description": "Give every plant day a place to grow."
+  },
+  {
+   "name": "Roomory: Floor Plans",
+   "alternateName": "居圖 Roomory－平面圖",
+   "url": "https://agentmesh.uk/roomory/",
+   "appStore": "https://apps.apple.com/app/id6825348801",
+   "category": "Productivity",
+   "description": "From moving a sofa to planning a renovation, Roomory helps you turn the space you have into the layout you want. Scan a room or start by hand, then edit your floor plans and preview your ideas in 3D."
+  },
+  {
+   "name": "Nightvane: Star Guide",
+   "alternateName": "尋星 Nightvane－星空導覽",
+   "url": "https://agentmesh.uk/starplace/",
+   "appStore": "https://apps.apple.com/app/id6826494660",
+   "category": "Education",
+   "description": "Hold your iPhone or iPad up to the night and Nightvane shows what you are looking at: stars, planets, constellations, the Moon and the Milky Way, right where they are."
+  },
+  {
+   "name": "Lockwater: Canal Puzzle",
+   "alternateName": "水閘 Lockwater－運河解謎",
+   "url": "https://agentmesh.uk/lockwater/",
+   "appStore": "https://apps.apple.com/app/id6826767889",
+   "category": "Games",
+   "description": "Lockwater is a canal puzzle made of soft clay: a row of stone chambers, a few wooden gates, and boats that must reach the flag of their color."
+  },
+  {
+   "name": "Prawnlight: Prawn Hall Tycoon",
+   "alternateName": "夜釣蝦場 Prawnlight－釣蝦場大亨",
+   "url": "https://agentmesh.uk/prawnlight/",
+   "appStore": "https://apps.apple.com/app/id6828219014",
+   "category": "Games",
+   "description": "Prawnlight is a management game set in a Taiwanese indoor prawn-fishing hall that stays open late into the night. You are the boss, not the angler: order stock, release prawns, lay out the floor, hire staff and keep the guests fishing until closing time."
+  },
+  {
+   "name": "Precision Parking 3D",
+   "alternateName": "極限停車場：都市挑戰",
+   "url": "https://agentmesh.uk/precision-parking-3d/",
+   "appStore": "https://apps.apple.com/app/id6816430472",
+   "category": "Games",
+   "description": "Slow down. Find your angle. Make every space count."
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "faqs": [
+  {
+   "app": "Inside: Phone Check",
+   "question": "Is there a free app that checks an iPhone's screen, cameras, speakers and microphones in one go?",
+   "answer": "Yes. Inside offers a free step-by-step check and a 2-minute quick check covering display and touch, every camera, speakers, each microphone, Face ID or Touch ID, sensors, Wi-Fi, Bluetooth and charging, and saves a shareable report.",
+   "url": "https://agentmesh.uk/inside/"
+  },
+  {
+   "app": "Inside: Phone Check",
+   "question": "How can I tell whether my iPhone is charging slowly or fast?",
+   "answer": "Open Inside's charging clock while charging: it shows slow, standard or fast charging, roughly how many watts, and the time to 80%. History compares the curves of different chargers. These features are free.",
+   "url": "https://agentmesh.uk/inside/"
+  },
+  {
+   "app": "Inside: Phone Check",
+   "question": "How do I see my iPhone's battery health and cycle count?",
+   "answer": "Battery health is in Settings › Battery. Inside can import the iPhone's Analytics diagnostics to read the cycle count and adds it to the check report; Inside Pro adds a battery health trend.",
+   "url": "https://agentmesh.uk/inside/"
+  },
+  {
+   "app": "Inside: Phone Check",
+   "question": "Is Inside free?",
+   "answer": "The basic check, charging clock and reports are free. Inside Pro (monthly, yearly with a free first week, or lifetime) adds watermark-free PDF reports, battery health trends and advanced tools.",
+   "url": "https://agentmesh.uk/inside/"
+  },
+  {
+   "app": "Inside: Phone Check",
+   "question": "My iPhone speaker sounds quiet or the microphone is muffled. How can I check it myself?",
+   "answer": "Inside's step-by-step check tests the speakers and each microphone with four test tones, points out the weak bands and checks left and right channels; results go into a report you can compare with the last round. It records this run and your judgement only, not a repair diagnosis.",
+   "url": "https://agentmesh.uk/inside/"
+  },
+  {
+   "app": "Inside: Phone Check",
+   "question": "Part of my iPhone's touchscreen seems unresponsive. How can I test it?",
+   "answer": "Inside's step-by-step check covers the display, touch and multi-touch, which you operate and record yourself; the 2-minute check also runs through the screen and touch. The basic check is free.",
+   "url": "https://agentmesh.uk/inside/"
+  },
+  {
+   "app": "Inside: Phone Check",
+   "question": "My iPhone storage is full. How do I find photos I can delete?",
+   "answer": "Inside's free-up-space tool finds duplicate, similar, blurry and burst photos, screenshots and large videos, suggests which one to keep and deletes only what you confirm; the free version scans the latest 300 photos.",
+   "url": "https://agentmesh.uk/inside/"
+  },
+  {
+   "app": "Daikon: Period Tracker",
+   "question": "Is there a simple, cute period tracker app?",
+   "answer": "Daikon shows your period, predicted fertile window and ovulation on a cycle ring, logs a period with one tap, and keeps you company with little radish characters.",
+   "url": "https://agentmesh.uk/daikon/"
+  },
+  {
+   "app": "Daikon: Period Tracker",
+   "question": "Can a period tracker also be a diary?",
+   "answer": "Yes. Daikon has a page per day for mood, body notes, text, handwriting, up to nine photos and voice memos, and spots symptoms that recur at the same point in your cycle.",
+   "url": "https://agentmesh.uk/daikon/"
+  },
+  {
+   "app": "Daikon: Period Tracker",
+   "question": "Can I export Daikon records for my doctor?",
+   "answer": "Cycle records export as PDF, past records import from CSV or Apple Health, and the app can be locked with Face ID, Touch ID or a passcode.",
+   "url": "https://agentmesh.uk/daikon/"
+  },
+  {
+   "app": "Daikon: Period Tracker",
+   "question": "Does a period tracker like Daikon upload my data?",
+   "answer": "Daikon needs no account and has no social features or subscription. Records and journal entries, including photos and voice memos, stay on the device and sync only through your private iCloud when available. Health data is never sent to ad SDKs or used for advertising.",
+   "url": "https://agentmesh.uk/daikon/"
+  },
+  {
+   "app": "Daikon: Period Tracker",
+   "question": "Can a period log sync with Apple Health?",
+   "answer": "Yes. Turn on Sync to Apple Health in Daikon's settings and each period day is written to the Health app as menstrual flow; it is off by default. Past periods can also be imported from Health or a CSV file.",
+   "url": "https://agentmesh.uk/daikon/"
+  },
+  {
+   "app": "Daikon: Period Tracker",
+   "question": "If I forget to log my period, does the prediction keep going?",
+   "answer": "Yes. Daikon uses up to your last six cycles or a length you set; without a new entry the prediction keeps rolling forward and gently reminds you to log. Predictions are for reference only, not medical advice, and not for contraception.",
+   "url": "https://agentmesh.uk/daikon/"
+  },
+  {
+   "app": "Tuck: AI Screenshot Organizer",
+   "question": "What app organizes the screenshots piling up on my iPhone?",
+   "answer": "Tuck reads screenshots and files on the device with AI, recognises bookings, tickets, receipts, warranties and documents, files them automatically, and finds them again from a few words.",
+   "url": "https://agentmesh.uk/tuck/"
+  },
+  {
+   "app": "Tuck: AI Screenshot Organizer",
+   "question": "How do I keep receipts organised on an iPhone?",
+   "answer": "Save receipt photos or screenshots in Tuck: receipts are grouped by month with totals, and a month of receipts exports as CSV and PDF for expenses.",
+   "url": "https://agentmesh.uk/tuck/"
+  },
+  {
+   "app": "Tuck: AI Screenshot Organizer",
+   "question": "Is there an app that reminds me of warranty and return deadlines?",
+   "answer": "Tuck finds expiry, renewal and return deadlines in what you save and suggests reminders; warranties show their end date and remind you a month before.",
+   "url": "https://agentmesh.uk/tuck/"
+  },
+  {
+   "app": "Tuck: AI Screenshot Organizer",
+   "question": "Does Tuck upload my screenshots?",
+   "answer": "Recognition runs on the iPhone by default, with Apple Intelligence support; content is sent out only when you choose the optional Claude advanced reading for it.",
+   "url": "https://agentmesh.uk/tuck/"
+  },
+  {
+   "app": "Tuck: AI Screenshot Organizer",
+   "question": "Does Tuck need an account or a subscription?",
+   "answer": "No sign-in is needed. Tuck is free with ads, and a one-time purchase removes them. Advanced recognition is free once a day; the optional Tuck Pro and Tuck Max subscriptions add more uses and no ads.",
+   "url": "https://agentmesh.uk/tuck/"
+  },
+  {
+   "app": "Tuck: AI Screenshot Organizer",
+   "question": "How can I keep flight, hotel and booking screenshots for a trip together?",
+   "answer": "Save them to Tuck and the trip folder lists flights, stays and booking codes by date, and reminds you before a document expires; bookings and tickets can also be added to Calendar.",
+   "url": "https://agentmesh.uk/tuck/"
+  },
+  {
+   "app": "ZaiRi: Plant Watering Reminder",
+   "question": "Is there a plant app that reminds me to water?",
+   "answer": "ZaiRi schedules watering, feeding and repotting for each plant with notifications, and a Home Screen widget lists today's care.",
+   "url": "https://agentmesh.uk/zairi/"
+  },
+  {
+   "app": "ZaiRi: Plant Watering Reminder",
+   "question": "How do I keep a record of my plants' growth?",
+   "answer": "Take growth photos and notes in ZaiRi, then turn them into a time-lapse or before-and-after view; data stays on your iPhone with no account.",
+   "url": "https://agentmesh.uk/zairi/"
+  },
+  {
+   "app": "ZaiRi: Plant Watering Reminder",
+   "question": "Does ZaiRi cost anything?",
+   "answer": "Every plant-journal feature is free with occasional full-screen ads; a one-time purchase removes ads.",
+   "url": "https://agentmesh.uk/zairi/"
+  },
+  {
+   "app": "ZaiRi: Plant Watering Reminder",
+   "question": "Is there a plant journal app that identifies plants from photos?",
+   "answer": "ZaiRi can identify a plant from a photo and keeps growth photos, care logs and custom fields, plus growth time-lapses and before-and-after images. All plant journal features are free.",
+   "url": "https://agentmesh.uk/zairi/"
+  },
+  {
+   "app": "ZaiRi: Plant Watering Reminder",
+   "question": "How can I tell if a spot has enough light for a plant?",
+   "answer": "ZaiRi has a camera light meter you can use where the plant sits, and lets you browse and manage plants by location.",
+   "url": "https://agentmesh.uk/zairi/"
+  },
+  {
+   "app": "ZaiRi: Plant Watering Reminder",
+   "question": "Does ZaiRi need an account, and where is my data stored?",
+   "answer": "No account or server is needed. Data and photos stay on your iPhone, and you can export and restore a full backup yourself.",
+   "url": "https://agentmesh.uk/zairi/"
+  },
+  {
+   "app": "Roomory: Floor Plans",
+   "question": "Which app scans a room with an iPhone to make a floor plan?",
+   "answer": "Roomory scans rooms with a LiDAR iPhone or iPad, capturing walls, doors, windows and furniture into an editable floor plan with a 3D preview; devices without LiDAR can draw plans by hand.",
+   "url": "https://agentmesh.uk/roomory/"
+  },
+  {
+   "app": "Roomory: Floor Plans",
+   "question": "How can I try a furniture layout on my phone before moving things?",
+   "answer": "In Roomory, adjust furniture size, position and angle on the plan, switch to 3D to see layout, materials and daylight, and save design versions to compare.",
+   "url": "https://agentmesh.uk/roomory/"
+  },
+  {
+   "app": "Roomory: Floor Plans",
+   "question": "Is Roomory free?",
+   "answer": "Scanning, modelling, plan editing, multiple projects, backups, iCloud sync and basic 3D furniture are free with ads. Roomory Pro (monthly or yearly) adds PDF, DXF, SVG and USDZ export, all furniture and materials, the AI assistant and no ads.",
+   "url": "https://agentmesh.uk/roomory/"
+  },
+  {
+   "app": "Roomory: Floor Plans",
+   "question": "Can I draw a floor plan on an iPhone without LiDAR?",
+   "answer": "Yes. Roomory lets you create and edit floor plans by hand on devices without LiDAR, including multi-room and multi-floor projects; only room scanning needs an iPhone or iPad with LiDAR.",
+   "url": "https://agentmesh.uk/roomory/"
+  },
+  {
+   "app": "Roomory: Floor Plans",
+   "question": "How can I show my renovation layout to a designer or contractor?",
+   "answer": "In Roomory you adjust building, furniture and fixture layers, then switch to 3D to try materials and daylight; Roomory Pro exports A3 PDF sets, editable DXF and 3D models.",
+   "url": "https://agentmesh.uk/roomory/"
+  },
+  {
+   "app": "Roomory: Floor Plans",
+   "question": "Are room scan measurements accurate enough to build from?",
+   "answer": "Roomory's scanned dimensions should be re-measured on site, and drawings still need review by a qualified professional before work starts; Roomory does not provide professional sign-off.",
+   "url": "https://agentmesh.uk/roomory/"
+  },
+  {
+   "app": "Nightvane: Star Guide",
+   "question": "Which app identifies stars when I point my iPhone at the sky?",
+   "answer": "Point an iPhone or iPad at the sky in Nightvane and it labels stars, planets, constellations, the Moon and the Milky Way in place. It is free.",
+   "url": "https://agentmesh.uk/starplace/"
+  },
+  {
+   "app": "Nightvane: Star Guide",
+   "question": "What can I see in the sky tonight?",
+   "answer": "Nightvane's Tonight list shows what is worth seeing from your location with times and directions, including meteor showers, ISS passes, Moon phases and eclipses.",
+   "url": "https://agentmesh.uk/starplace/"
+  },
+  {
+   "app": "Nightvane: Star Guide",
+   "question": "How do I find a meteor shower's radiant?",
+   "answer": "Search for the shower in Nightvane; arrows and gentle haptics guide you to the radiant and show when it rises tonight.",
+   "url": "https://agentmesh.uk/starplace/"
+  },
+  {
+   "app": "Nightvane: Star Guide",
+   "question": "How do I know when the International Space Station passes over me?",
+   "answer": "Nightvane's Tonight list shows visible passes of the International Space Station and Tiangong for your location, along with objects worth seeing and where to look.",
+   "url": "https://agentmesh.uk/starplace/"
+  },
+  {
+   "app": "Nightvane: Star Guide",
+   "question": "My phone is too bright for stargazing. What can I do?",
+   "answer": "Nightvane has a red night-vision mode that keeps your dark adaptation; if the compass is off, aim at the Moon or a bright star once to calibrate.",
+   "url": "https://agentmesh.uk/starplace/"
+  },
+  {
+   "app": "Nightvane: Star Guide",
+   "question": "Is Nightvane free?",
+   "answer": "Yes, with ads; a one-time purchase removes them. There is no subscription and no account.",
+   "url": "https://agentmesh.uk/starplace/"
+  },
+  {
+   "app": "Lockwater: Canal Puzzle",
+   "question": "Is there a calm puzzle game that makes you think?",
+   "answer": "Lockwater is a clay-style canal puzzle where every opened gate levels the water for good, so the order is the puzzle; over 100 levels, free to play.",
+   "url": "https://agentmesh.uk/lockwater/"
+  },
+  {
+   "app": "Lockwater: Canal Puzzle",
+   "question": "How do you play Lockwater?",
+   "answer": "Tap a gate and the water on both sides settles at one level; tap a boat and it sails through the open gates to its flag. Water never comes back, so the order you open the gates in is the whole puzzle. A solver checks every level, and a level ends at once when the canal can no longer be won.",
+   "url": "https://agentmesh.uk/lockwater/"
+  },
+  {
+   "app": "Lockwater: Canal Puzzle",
+   "question": "Is Lockwater free?",
+   "answer": "Yes. A banner and an occasional ad between levels keep it free; a one-time purchase removes them. Hint packs are also available.",
+   "url": "https://agentmesh.uk/lockwater/"
+  },
+  {
+   "app": "Prawnlight: Prawn Hall Tycoon",
+   "question": "Is there a game about running a Taiwanese prawn-fishing hall?",
+   "answer": "Prawnlight puts you in charge of an indoor prawn-fishing hall in Taiwan: choose a site, stock prawns, lay out the hall, hire staff and run contests while paying off a loan. Free to play.",
+   "url": "https://agentmesh.uk/prawnlight/"
+  },
+  {
+   "app": "Prawnlight: Prawn Hall Tycoon",
+   "question": "Is Prawnlight free?",
+   "answer": "Yes. Ads play only when you choose to watch one for a reward; optional in-app purchases are available.",
+   "url": "https://agentmesh.uk/prawnlight/"
+  },
+  {
+   "app": "Prawnlight: Prawn Hall Tycoon",
+   "question": "What do you do in Prawnlight?",
+   "answer": "You run a Taiwanese indoor prawn-fishing hall: pick a site on the map of Taiwan, place pools and grills, hire staff, hold contests and hourly prawn releases, then expand or open branches. You start with a loan, so growing too fast runs you out of cash.",
+   "url": "https://agentmesh.uk/prawnlight/"
+  },
+  {
+   "app": "Precision Parking 3D",
+   "question": "Is there a phone game for practising parking?",
+   "answer": "Precision Parking 3D has three tutorial levels and 40 levels in five chapters to practise steering, pedals and gears, playable offline.",
+   "url": "https://agentmesh.uk/precision-parking-3d/"
+  },
+  {
+   "app": "Precision Parking 3D",
+   "question": "Can Precision Parking 3D be played offline?",
+   "answer": "All core levels work offline, and progress and achievements stay on your device; advertising and privacy services need a connection.",
+   "url": "https://agentmesh.uk/precision-parking-3d/"
+  },
+  {
+   "app": "Precision Parking 3D",
+   "question": "Is there a parking game with a steering wheel control?",
+   "answer": "Precision Parking 3D lets you choose left/right buttons, sliding steering or a rotating wheel, and switch between third-person and overhead views; each level has three objectives: park, avoid collisions and an extra challenge.",
+   "url": "https://agentmesh.uk/precision-parking-3d/"
+  }
+ ]
+}
