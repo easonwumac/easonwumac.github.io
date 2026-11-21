@@ -1,8 +1,8 @@
 # Eason Wu Apps in other languages
 
 ### 机况 Inside－手机检测 (简体中文)
-- Page: https://agentmesh.uk/inside/zh-Hans/
-- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- [Page](https://agentmesh.uk/inside/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8)
 - 用温暖、清晰的方式看看手机现在的状态；从功能、硬件、电池到性能，一次全面检查。
 - Q: iPhone 有没有免费的 App 可以一次检查屏幕、摄像头、扬声器和麦克风？ A: 有。机况 Inside 免费提供逐项检查和 2 分钟快速检查：屏幕显示与触控、每颗摄像头、扬声器、每个麦克风、面容 ID 或触控 ID、传感器、Wi-Fi、蓝牙和充电，完成后生成可保存、可分享的报告。
 - Q: 怎么知道 iPhone 现在是慢充还是快充？ A: 充电时打开机况 Inside 的充电时钟，会显示当前是慢充、标准充电还是快充、大约多少瓦，以及充到 80% 所需的时间；在历史记录中可以比较不同充电器的曲线。这些功能免费。
@@ -13,8 +13,8 @@
 - Q: iPhone 存储空间不足，怎么找出可以删除的照片？ A: 机况 Inside 的“释放空间”会找出重复、相似、模糊和连拍照片、截图以及大视频，并建议保留哪一张，只删除你确认的项目；免费版扫描最新 300 张照片。
 
 ### Inside: スマホチェック (日本語)
-- Page: https://agentmesh.uk/inside/ja/
-- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- [Page](https://agentmesh.uk/inside/ja/)
+- [App Store](https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8)
 - スマホの今の状態を、やさしく、わかりやすく。動作チェックから性能テストまで、ステップごとに進められます。
 - Q: iPhoneで画面、カメラ、スピーカー、マイクをまとめてチェックできる無料のアプリはありますか？ A: はい。機況 Inside では、無料で項目ごとのチェックと2分のクイックチェックができます。画面の表示とタッチ、すべてのカメラ、スピーカー、各マイク、Face ID または Touch ID、センサー、Wi-Fi、Bluetooth、充電を確認し、保存や共有ができるレポートを作成します。
 - Q: iPhoneが今、低速充電か高速充電かはどうすればわかりますか？ A: 充電中に機況 Inside の充電時計を開くと、低速、標準、高速のいずれで充電されているか、おおよそのワット数、80％までの時間が表示されます。履歴では充電器ごとの充電曲線を比べられます。これらの機能は無料です。
@@ -25,8 +25,8 @@
 - Q: iPhoneのストレージがいっぱいです。削除できる写真はどうやって見つければよいですか？ A: 「Inside: スマホチェック」の「空き容量を増やす」機能では、重複写真、似た写真、ぼやけた写真、連写、スクリーンショット、大きな動画を見つけ、残す写真を提案します。削除は確認した項目のみです。無料版は最新の300枚をスキャンします。
 
 ### Inside: 휴대폰 점검 (한국어)
-- Page: https://agentmesh.uk/inside/ko/
-- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- [Page](https://agentmesh.uk/inside/ko/)
+- [App Store](https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8)
 - 지금 내 휴대폰 상태를 따뜻하고 알기 쉽게. 점검부터 성능 테스트까지 단계별로 진행할 수 있습니다.
 - Q: 아이폰에 화면, 카메라, 스피커, 마이크를 한 번에 점검할 수 있는 무료 앱이 있나요? A: 네. 기기 상태 Inside는 단계별 점검과 2분 빠른 점검을 무료로 제공하며, 디스플레이와 터치, 모든 카메라, 스피커, 각 마이크, Face ID 또는 Touch ID, 센서, Wi-Fi, 블루투스, 충전을 확인하고 공유할 수 있는 보고서를 저장합니다.
 - Q: 아이폰이 지금 느린 충전인지 빠른 충전인지 어떻게 알 수 있나요? A: 충전하는 동안 기기 상태 Inside의 충전 시계를 열면 느린 충전, 표준 충전 또는 빠른 충전 중 어떤 상태인지, 대략적인 와트 수, 80%까지 걸리는 시간을 보여 줍니다. 기록에서는 여러 충전기의 곡선을 비교할 수 있습니다. 이 기능들은 모두 무료입니다.
@@ -37,8 +37,8 @@
 - Q: 아이폰 저장 공간이 부족한데 삭제할 사진은 어떻게 찾나요? A: 기기 상태 Inside의 '공간 확보' 기능은 중복, 유사, 흐린 사진과 연사, 스크린샷, 큰 동영상을 찾아 보존할 사진을 제안하며, 사용자가 확인한 항목만 삭제합니다. 무료 버전은 최근 사진 300장을 검사합니다.
 
 ### Inside: Revisa tu celular (Español)
-- Page: https://agentmesh.uk/inside/es/
-- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- [Page](https://agentmesh.uk/inside/es/)
+- [App Store](https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8)
 - Una forma cálida y clara de revisar todo tu celular: pruebas, hardware, batería, rendimiento y reloj de carga.
 - Q: ¿Hay alguna app gratuita que revise de una sola vez la pantalla, las cámaras, las bocinas y los micrófonos de un iPhone? A: Sí. Inside ofrece una revisión paso a paso gratuita y una revisión rápida de 2 minutos que cubre pantalla y táctil, cada cámara, las bocinas, cada micrófono, Face ID o Touch ID, sensores, Wi-Fi, Bluetooth y carga, y guarda un informe que puedes conservar y compartir.
 - Q: ¿Cómo puedo saber si mi iPhone está cargando lento o rápido? A: Mientras cargas, abre el reloj de carga de Inside: muestra si la carga es lenta, estándar o rápida, aproximadamente cuántos watts, y el tiempo hasta llegar al 80 %. En el historial puedes comparar las curvas de distintos cargadores. Estas funciones son gratuitas.
@@ -49,8 +49,8 @@
 - Q: Se me llenó el almacenamiento de mi iPhone. ¿Cómo encuentro fotos que pueda borrar? A: La herramienta de liberar espacio de Inside encuentra fotos duplicadas, parecidas, borrosas y en ráfaga, capturas de pantalla y videos grandes, sugiere cuál conservar y solo borra lo que tú confirmes; la versión gratuita analiza las últimas 300 fotos.
 
 ### Inside: Test du téléphone (Français)
-- Page: https://agentmesh.uk/inside/fr/
-- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- [Page](https://agentmesh.uk/inside/fr/)
+- [App Store](https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8)
 - Un regard clair sur tout votre téléphone : vérifications, matériel, batterie, performances, horloge de charge.
 - Q: Y a-t-il une application gratuite qui vérifie l'écran, les caméras, les haut-parleurs et les microphones de mon iPhone en une seule fois? A: Oui. Inside offre gratuitement une vérification étape par étape et une vérification rapide de 2 minutes couvrant l'affichage et le tactile, chaque caméra, les haut-parleurs, chaque microphone, Face ID ou Touch ID, les capteurs, le Wi-Fi, le Bluetooth et la charge, et enregistre un rapport que vous pouvez sauvegarder et partager.
 - Q: Comment savoir si mon iPhone se charge lentement ou rapidement? A: Pendant la charge, ouvrez l'horloge de charge d'Inside : elle affiche si la charge est lente, standard ou rapide, une puissance approximative en watts, ainsi que le temps pour atteindre 80 %. L'historique permet de comparer les courbes de différents chargeurs. Ces fonctions sont gratuites.
@@ -61,8 +61,8 @@
 - Q: Le stockage de mon iPhone est plein. Comment trouver les photos que je peux supprimer? A: L'outil « Libérer de l'espace » d'Inside repère les photos en double, similaires, floues et en rafale, les captures d'écran et les grandes vidéos, suggère celle à conserver et ne supprime que ce que vous confirmez; la version gratuite analyse les 300 photos les plus récentes.
 
 ### Inside: Handy-Check (Deutsch)
-- Page: https://agentmesh.uk/inside/de/
-- App Store: https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8
+- [Page](https://agentmesh.uk/inside/de/)
+- [App Store](https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8)
 - Ein klarer, freundlicher Blick auf dein ganzes Handy: Checks, Hardware, Akku, Leistung, Ladeuhr.
 - Q: Gibt es eine kostenlose App, die Display, Kameras, Lautsprecher und Mikrofone des iPhones auf einmal prüft? A: Ja. Inside bietet eine kostenlose Schritt-für-Schritt-Prüfung und einen 2-Minuten-Schnellcheck, der Display und Touch, jede Kamera, die Lautsprecher, jedes Mikrofon, Face ID oder Touch ID, Sensoren, WLAN, Bluetooth und das Laden abdeckt. Anschließend wird ein speicher- und teilbarer Bericht erstellt.
 - Q: Wie erkenne ich, ob mein iPhone langsam oder schnell lädt? A: Öffne beim Laden die Ladeuhr von Inside: Sie zeigt an, ob langsam, standard oder schnell geladen wird, ungefähr wie viele Watt anliegen und wie lange es bis 80 % dauert. Im Verlauf kannst du die Kurven verschiedener Ladegeräte vergleichen. Diese Funktionen sind kostenlos.
@@ -73,8 +73,8 @@
 - Q: Der Speicher meines iPhones ist voll. Wie finde ich Fotos, die ich löschen kann? A: Das Werkzeug „Speicher freigeben“ von Inside findet doppelte, ähnliche, unscharfe und Serienfotos, Screenshots und große Videos, schlägt vor, welches Foto behalten werden sollte, und löscht nur, was du bestätigst. Die kostenlose Version durchsucht die neuesten 300 Fotos.
 
 ### 萝卜日记 Daikon－经期记录 (简体中文)
-- Page: https://agentmesh.uk/daikon/zh-Hans/
-- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- [Page](https://agentmesh.uk/daikon/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - 每天一点，温柔照顾。
 - Q: 有没有简单、可爱的经期记录 App？ A: 萝卜日记 Daikon 用周期圆环标示经期、预测受孕期与排卵日，点一下“月经来了”就能记录，还有萝卜宝宝陪你。
 - Q: 经期记录 App 可以写日记吗？ A: 可以。萝卜日记每天一页，可以记录心情、身体感觉、文字、手写、最多九张照片和语音备忘录，并找出总是在周期同一时间出现的症状。
@@ -84,8 +84,8 @@
 - Q: 忘记记录经期，预测还会继续吗？ A: 会。萝卜日记最多参考最近六次周期，也可以使用你设定的周期长度；没有记录新的经期时，预测仍会继续往后推算，并温柔地提醒你补记。预测仅供参考，不是医疗建议，也不能用于避孕。
 
 ### Daikon: 生理と周期の記録 (日本語)
-- Page: https://agentmesh.uk/daikon/ja/
-- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- [Page](https://agentmesh.uk/daikon/ja/)
+- [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - 毎日ちょっとずつ、やさしくケア。
 - Q: 簡単でかわいい生理記録アプリはありますか？ A: Daikon（蘿蔔日記）は、周期リングで生理日・妊娠しやすい時期の予測・排卵日を表示し、「生理が来た」をワンタップで記録できます。小さな大根のキャラクターたちも一緒にいてくれます。
 - Q: 生理記録アプリで日記も書けますか？ A: はい。蘿蔔日記は1日1ページの日記機能があり、気分、体の感覚、テキスト、手書き、最大9枚の写真、音声メモを残せます。また、周期のなかで毎回同じタイミングに現れる症状も見つけられます。
@@ -95,8 +95,8 @@
 - Q: 生理の記録を忘れた場合も予測は続きますか？ A: はい。Daikonは直近6回までの周期、またはご自身で設定した周期の長さをもとに予測します。新しい記録がなくても予測は先へ進み、記録を更新するよう穏やかにお知らせします。予測は参考情報であり、医療上のアドバイスではなく、避妊には使えません。
 
 ### Daikon: 생리 주기 기록 (한국어)
-- Page: https://agentmesh.uk/daikon/ko/
-- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- [Page](https://agentmesh.uk/daikon/ko/)
+- [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - 매일 조금씩, 다정하게 돌보기.
 - Q: 간단하고 귀여운 생리 기록 앱이 있나요? A: Daikon: 생리 주기 기록은 주기 링으로 생리일, 예상 가임기, 배란일을 표시하고, 「생리 시작」 버튼 한 번으로 기록할 수 있으며, 작은 무 캐릭터가 함께해 줍니다.
 - Q: 생리 기록 앱으로 일기도 쓸 수 있나요? A: 네. Daikon은 하루에 한 페이지씩 기분, 몸 상태, 글, 손글씨, 최대 9장의 사진과 음성 메모를 남길 수 있고, 주기의 같은 시점에 반복되는 증상을 찾아 보여 줍니다.
@@ -106,8 +106,8 @@
 - Q: 생리 기록을 잊어버리면 예측이 계속되나요? A: 네. Daikon은 최근 최대 여섯 번의 주기 또는 직접 설정한 주기 길이를 참고합니다. 새 생리를 기록하지 않아도 예측은 계속 이어지며, 기록을 업데이트하라고 부드럽게 알려 줍니다. 예측은 참고용일 뿐 의료 조언이 아니며 피임 목적으로 사용할 수 없습니다.
 
 ### Daikon: Calendario menstrual (Español)
-- Page: https://agentmesh.uk/daikon/es/
-- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- [Page](https://agentmesh.uk/daikon/es/)
+- [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - Un poco de cuidado, cada día.
 - Q: ¿Hay una app sencilla y linda para registrar el periodo? A: Daikon muestra tu periodo, la ventana fértil estimada y la ovulación en un anillo de ciclo, registra un periodo con un solo toque y te acompaña con pequeños personajes de rábano.
 - Q: ¿Una app para registrar el periodo también puede ser un diario? A: Sí. Daikon tiene una página por día para el estado de ánimo, notas sobre el cuerpo, texto, escritura a mano, hasta nueve fotos y notas de voz, y detecta los síntomas que se repiten en el mismo punto de tu ciclo.
@@ -117,8 +117,8 @@
 - Q: Si olvido registrar mi periodo, ¿la predicción sigue funcionando? A: Sí. Daikon usa hasta tus últimos seis ciclos o una duración que tú configures; si no hay un nuevo registro, la predicción sigue avanzando y te recuerda con suavidad que registres. Las predicciones son solo de referencia, no son consejo médico y no sirven como método anticonceptivo.
 
 ### Daikon: Suivi des règles (Français)
-- Page: https://agentmesh.uk/daikon/fr/
-- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- [Page](https://agentmesh.uk/daikon/fr/)
+- [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - Un peu de douceur, chaque jour.
 - Q: Existe-t-il une application de suivi des règles simple et mignonne ? A: Daikon affiche vos règles, la fenêtre de fertilité prévue et le jour de l'ovulation sur un anneau de cycle, enregistre vos règles d'une seule touche, et vous tient compagnie avec de petits personnages radis.
 - Q: Une application de suivi des règles peut-elle aussi servir de journal intime ? A: Oui. Daikon propose une page par jour pour l'humeur, les sensations corporelles, du texte, de l'écriture manuscrite, jusqu'à neuf photos et des notes vocales, et repère les symptômes qui reviennent toujours au même moment de votre cycle.
@@ -128,8 +128,8 @@
 - Q: Si j'oublie d'enregistrer mes règles, les prévisions continuent-elles ? A: Oui. Daikon se base sur vos six derniers cycles au maximum, ou sur une durée que vous définissez ; sans nouvel enregistrement, la prévision continue d'avancer et vous rappelle gentiment de compléter vos relevés. Les prévisions sont données à titre indicatif seulement, ne constituent pas un avis médical et ne servent pas de contraception.
 
 ### Daikon: Periodenkalender (Deutsch)
-- Page: https://agentmesh.uk/daikon/de/
-- App Store: https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8
+- [Page](https://agentmesh.uk/daikon/de/)
+- [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - Ein bisschen Fürsorge, jeden Tag.
 - Q: Gibt es eine einfache, süße App zur Periodenverfolgung? A: Daikon: Periodenkalender zeigt Ihre Periode, das voraussichtliche fruchtbare Fenster und den Eisprung in einem Zyklusring an, erfasst eine Periode mit einem einzigen Tipp und begleitet Sie mit kleinen Rettich-Figuren.
 - Q: Kann eine Periodentracker-App auch als Tagebuch dienen? A: Ja. Daikon hat für jeden Tag eine eigene Seite für Stimmung, Körpergefühle, Text, Handschrift, bis zu neun Fotos und Sprachmemos. Außerdem erkennt die App Symptome, die immer wieder zur gleichen Zeit im Zyklus auftreten.
@@ -139,8 +139,8 @@
 - Q: Wenn ich meine Periode nicht eintrage, werden die Vorhersagen dann weiter berechnet? A: Ja. Daikon berücksichtigt bis zu den letzten sechs Zyklen oder eine von dir eingestellte Zykluslänge. Ohne neuen Eintrag werden die Vorhersagen weiter fortgeschrieben, und die App erinnert dich sanft daran, zu erfassen. Die Vorhersagen dienen nur als Orientierung, sind keine medizinische Beratung und nicht zur Verhütung geeignet.
 
 ### 收好 Tuck－截图整理 (简体中文)
-- Page: https://agentmesh.uk/tuck/zh-Hans/
-- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- [Page](https://agentmesh.uk/tuck/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8)
 - 截图越存越多、要用时找不到？收好会读懂你存下的每张截图与文件：预订、收据、保修，还有截下来的餐厅、食谱和想买的东西。自动分好类，之后搜几个字就能找回。识别在手机上完成。
 - Q: iPhone 截图太多找不到，有什么 App 可以自动整理？ A: 收好 Tuck 会在设备上用 AI 读懂截图和文件，自动识别预订、票券、收据、保修和文档并分类，之后搜索店名或几个字就能找回。
 - Q: 如何在 iPhone 上整理收据和电子发票？ A: 将收据截图或拍照保存到收好 Tuck：电子发票的二维码会自动带入号码、日期和总额，收据按月份分组并显示合计，整月的收据可导出 CSV 和 PDF 用于报销。
@@ -149,8 +149,8 @@
 - Q: 出国的机票、住宿和订位截图该怎么整理？ A: 存进收好后，行程文件夹会按日期列出航班、住宿和订位编号，证件快到期时提醒你；订位和票券也可以加入日历。
 
 ### Tuck: AIスクショ整理とレシート (日本語)
-- Page: https://agentmesh.uk/tuck/ja/
-- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- [Page](https://agentmesh.uk/tuck/ja/)
+- [App Store](https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8)
 - スクショがたまる一方で、必要なときに見つからない？Tuck の AI が、保存したスクリーンショットや書類を読み取ります。予約・レシート・保証書はもちろん、行きたいお店、レシピ、ほしい物のスクショも。自動で仕分けて、数文字で探し出せます。読み取りは端末上で行い、Apple Intelligence に対応。Claude による高度な読み取りも選べます。
 - Q: iPhoneのスクショが多すぎて見つからない。自動で整理してくれるアプリはありますか？ A: Tuckは端末上でAIがスクリーンショットやファイルを読み取り、予約、チケット、レシート、保証書、書類を自動で見分けて分類します。あとは店名や数文字を検索すれば見つけられます。
 - Q: iPhoneでレシートや電子発票を整理するにはどうすればいいですか？ A: レシートのスクリーンショットや写真をTuckに保存してください。電子発票のQRコードから番号、日付、合計金額が自動で入力されます。レシートは月ごとにまとめられ、月の合計が表示されます。1か月分のレシートはCSVとPDFで書き出して経費精算に使えます。
@@ -160,8 +160,8 @@
 - Q: 海外旅行の航空券・宿泊・予約のスクリーンショットはどう整理すればいいですか？ A: 収好に保存すると、旅行フォルダに便名・宿泊・予約番号が日付順に表示され、身分証の期限が近づくと知らせてくれます。予約やチケットはカレンダーに追加することもできます。
 
 ### Tuck: 영수증 보관함 (한국어)
-- Page: https://agentmesh.uk/tuck/ko/
-- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- [Page](https://agentmesh.uk/tuck/ko/)
+- [App Store](https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8)
 - 스크린샷은 쌓이는데 필요할 때 못 찾나요? Tuck의 AI가 저장한 스크린샷과 파일을 읽어 줍니다. 예약, 영수증, 보증서는 물론 캡처해 둔 가게, 레시피, 사고 싶은 물건까지 자동으로 정리하고, 몇 글자만 검색하면 다시 찾을 수 있어요. 읽기는 기기에서 이루어지며 Apple Intelligence를 지원합니다. Claude 고급 읽기는 선택 사항입니다.
 - Q: iPhone에 쌓인 스크린샷이 너무 많아서 못 찾겠어요. 자동으로 정리해 주는 앱이 있나요? A: Tuck은 기기 안에서 AI로 스크린샷과 파일을 읽고, 예약, 티켓, 영수증, 보증서, 문서를 자동으로 알아보고 분류합니다. 나중에 가게 이름이나 몇 글자만 검색하면 다시 찾을 수 있습니다.
 - Q: iPhone에서 영수증과 전자 영수증을 어떻게 정리하나요? A: 영수증 사진이나 스크린샷을 Tuck에 저장하세요. 영수증은 월별로 묶여 합계가 표시되며, 한 달치 영수증은 경비 청구용 CSV와 PDF로 내보낼 수 있습니다. 전자 영수증의 QR 코드는 번호, 날짜, 총액을 자동으로 채워 줍니다.
@@ -170,8 +170,8 @@
 - Q: 여행 중 항공권, 숙소, 예약 스크린샷은 어떻게 함께 관리하나요? A: Tuck에 저장하면 여행 폴더에 항공편, 숙소, 예약 번호가 날짜순으로 표시되며, 여권 등 증명서의 만료가 가까워지면 알려 줍니다. 예약과 티켓은 캘린더에도 추가할 수 있습니다.
 
 ### Tuck: Guarda tus recibos (Español)
-- Page: https://agentmesh.uk/tuck/es/
-- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- [Page](https://agentmesh.uk/tuck/es/)
+- [App Store](https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8)
 - ¿Se te acumulan las capturas? La IA de Tuck lee cada captura y archivo que guardas: reservas, recibos y garantías, y también los restaurantes, recetas y cosas que comprar que capturas. Los ordena y los encuentra con unas pocas palabras. La lectura se hace en tu dispositivo, con Apple Intelligence donde esté disponible; la lectura avanzada con Claude es opcional.
 - Q: ¿Qué app puede organizar las capturas de pantalla que se acumulan en mi iPhone? A: Tuck lee las capturas y los archivos en el dispositivo con IA, reconoce reservas, boletos, recibos, garantías y documentos, los archiva automáticamente y los encuentra de nuevo con unas pocas palabras.
 - Q: ¿Cómo organizo los recibos y las facturas electrónicas en un iPhone? A: Guarda capturas o fotos de tus recibos en Tuck: el código QR de las facturas electrónicas completa automáticamente el número, la fecha y el total, y los recibos se agrupan por mes con su suma. Un mes de recibos se puede exportar a CSV y PDF para tus gastos.
@@ -180,8 +180,8 @@
 - Q: ¿Cómo puedo juntar las capturas de mis vuelos, hoteles y reservas de un viaje? A: Guárdalas en Tuck y la carpeta del viaje mostrará los vuelos, alojamientos y códigos de reserva por fecha, y te avisará antes de que venza un documento; las reservas y boletos también se pueden agregar al Calendario.
 
 ### Tuck: Gardez vos reçus (Français)
-- Page: https://agentmesh.uk/tuck/fr/
-- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- [Page](https://agentmesh.uk/tuck/fr/)
+- [App Store](https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8)
 - Les captures d'écran s'accumulent ? L'IA de Tuck lit chaque capture et fichier enregistré : réservations, reçus et garanties, mais aussi les restaurants, recettes et envies d'achat que vous capturez. Elle les range et les retrouve en quelques mots. La lecture se fait sur votre appareil, avec Apple Intelligence si disponible ; la lecture avancée par Claude est facultative.
 - Q: Quelle application peut organiser les captures d'écran qui s'accumulent sur mon iPhone ? A: Tuck lit les captures d'écran et les fichiers directement sur l'appareil grâce à l'IA, reconnaît les réservations, billets, reçus, garanties et documents, les classe automatiquement, et vous les retrouve à partir de quelques mots.
 - Q: Comment garder mes reçus et factures électroniques bien rangés sur un iPhone ? A: Enregistrez des photos ou des captures d'écran de vos reçus dans Tuck : le numéro, la date et le montant de la facture électronique sont automatiquement repris à partir du code QR. Les reçus sont regroupés par mois avec leur total, et les reçus d'un mois peuvent être exportés en CSV et en PDF pour vos notes de frais.
@@ -190,8 +190,8 @@
 - Q: Comment regrouper les captures de mes billets d'avion, réservations d'hôtel et réservations pour un voyage ? A: Enregistrez-les dans Tuck : le dossier du voyage liste les vols, hébergements et numéros de réservation par date, et vous prévient avant qu'une pièce d'identité n'expire ; les réservations et billets peuvent aussi être ajoutés à Calendrier.
 
 ### Tuck: Belege aufbewahren (Deutsch)
-- Page: https://agentmesh.uk/tuck/de/
-- App Store: https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8
+- [Page](https://agentmesh.uk/tuck/de/)
+- [App Store](https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8)
 - Screenshots stapeln sich? Die KI von Tuck liest jeden Screenshot und jede Datei, die du sicherst: Buchungen, Belege und Garantien, dazu Restaurants, Rezepte und Dinge zum Kaufen. Sie legt alles ab und findet es mit ein paar Wörtern wieder. Gelesen wird auf deinem Gerät, mit Apple Intelligence, wo verfügbar; die erweiterte Erkennung durch Claude ist optional.
 - Q: Wie kann ich die vielen Screenshots auf meinem iPhone finden? Gibt es eine App, die sie automatisch ordnet? A: Tuck liest Screenshots und Dateien mit KI direkt auf dem Gerät, erkennt Buchungen, Tickets, Belege, Garantien und Dokumente, sortiert sie automatisch ein und findet sie anhand des Geschäftsnamens oder weniger Wörter wieder.
 - Q: Wie behalte ich Quittungen und elektronische Rechnungen auf dem iPhone im Blick? A: Speichere Belegfotos oder Screenshots in Tuck: Der QR-Code elektronischer Rechnungen füllt Nummer, Datum und Gesamtbetrag automatisch aus. Belege werden nach Monaten gruppiert und mit Summe angezeigt, und die Belege eines Monats lassen sich als CSV und PDF für die Spesenabrechnung exportieren.
@@ -200,8 +200,8 @@
 - Q: Wie kann ich Flug-, Hotel- und Buchungsscreenshots einer Reise gemeinsam ordnen? A: Speichere sie in Tuck: Der Reiseordner listet Flüge, Unterkünfte und Buchungsnummern nach Tagen auf und erinnert dich, wenn ein Dokument bald abläuft. Buchungen und Tickets lassen sich außerdem in den Kalender übernehmen.
 
 ### 栽日 ZaiRi－植物浇水提醒 (简体中文)
-- Page: https://agentmesh.uk/zairi/zh-Hans/
-- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- [Page](https://agentmesh.uk/zairi/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8)
 - 把植物的每一天，好好留住。
 - Q: 有没有提醒浇水的植物 App？ A: 栽日 ZaiRi 可以为每盆植物安排浇水、施肥和换盆任务并准时通知，主屏幕小组件会列出今日养护。
 - Q: 怎样记录植物的生长？ A: 在栽日拍摄生长照片、写观察日志，可以制作延时视频和前后对比图；数据和照片保存在你的 iPhone 上，无需账号。
@@ -211,8 +211,8 @@
 - Q: 栽日需要账号吗？数据存放在哪里？ A: 栽日不需要账号或服务器。数据与照片保存在你的 iPhone 上，你也可以自行导出和恢复完整备份。
 
 ### ZaiRi: 植物の水やり管理 (日本語)
-- Page: https://agentmesh.uk/zairi/ja/
-- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- [Page](https://agentmesh.uk/zairi/ja/)
+- [App Store](https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8)
 - 植物と過ごす毎日を、ていねいに残す。
 - Q: 植物に水やりのリマインダーをしてくれるアプリはありますか？ A: ZaiRi（栽日）では、植物ごとに水やり・施肥・植え替えのタスクを設定でき、時間になると通知が届きます。ホーム画面のウィジェットで、今日のお世話の内容を一覧で確認できます。
 - Q: 植物の成長はどうやって記録できますか？ A: ZaiRiで成長写真を撮り、観察日誌を書くことができます。それらをタイムラプス動画やビフォー・アフター画像にまとめられます。データと写真はiPhone内に保存され、アカウントは不要です。
@@ -222,8 +222,8 @@
 - Q: 植物アプリにアカウントは必要ですか？データはどこに保存されますか？ A: ZaiRi にアカウントやサーバーは不要です。データと写真は iPhone 内に保存され、フルバックアップを自分で書き出し、復元することもできます。
 
 ### ZaiRi: 식물 물주기 알리미 (한국어)
-- Page: https://agentmesh.uk/zairi/ko/
-- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- [Page](https://agentmesh.uk/zairi/ko/)
+- [App Store](https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8)
 - 식물과 함께한 하루하루를 차곡차곡.
 - Q: 식물에 물 주는 것을 알려주는 앱이 있나요? A: ZaiRi(栽日)는 식물마다 물주기, 비료 주기, 분갈이 작업을 예약하고 알림으로 제때 알려드립니다. 홈 화면 위젯에서 오늘의 식물 관리 내용을 한눈에 볼 수 있습니다.
 - Q: 식물이 자라는 과정은 어떻게 기록하나요? A: ZaiRi에서 성장 사진을 찍고 관찰 일지를 작성할 수 있으며, 이를 타임랩스 영상이나 전후 비교 이미지로 만들 수 있습니다. 데이터와 사진은 iPhone에 저장되며 계정이 필요하지 않습니다.
@@ -233,8 +233,8 @@
 - Q: ZaiRi는 계정이 필요한가요? 데이터는 어디에 저장되나요? A: 계정이나 서버는 필요하지 않습니다. 데이터와 사진은 iPhone에 저장되며, 전체 백업을 직접 내보내고 복원할 수 있습니다.
 
 ### ZaiRi: Recordatorio de riego (Español)
-- Page: https://agentmesh.uk/zairi/es/
-- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- [Page](https://agentmesh.uk/zairi/es/)
+- [App Store](https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8)
 - Dale a cada día de tus plantas un lugar donde crecer.
 - Q: ¿Hay alguna app para plantas que me recuerde regar? A: ZaiRi: Recordatorio de riego programa el riego, la fertilización y el trasplante de cada planta con notificaciones, y el widget de la pantalla de inicio muestra los cuidados de hoy.
 - Q: ¿Cómo llevo un registro del crecimiento de mis plantas? A: En ZaiRi: Recordatorio de riego puedes tomar fotos del crecimiento y escribir notas de observación, y luego convertirlas en un video acelerado o en una vista de antes y después. Tus datos y fotos se guardan en tu iPhone y no necesitas cuenta.
@@ -244,8 +244,8 @@
 - Q: ¿La app de plantas necesita una cuenta? ¿Dónde se guardan mis datos? A: ZaiRi: Recordatorio de riego no necesita cuenta ni servidor. Tus datos y fotos se quedan en tu iPhone, y puedes exportar y restaurar una copia de seguridad completa por tu cuenta.
 
 ### ZaiRi: Rappel d’arrosage (Français)
-- Page: https://agentmesh.uk/zairi/fr/
-- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- [Page](https://agentmesh.uk/zairi/fr/)
+- [App Store](https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8)
 - Offrez à chaque jour de vos plantes un endroit où grandir.
 - Q: Y a-t-il une application pour plantes qui me rappelle d’arroser ? A: ZaiRi planifie l’arrosage, la fertilisation et le rempotage de chaque plante et vous envoie des notifications à l’heure prévue. Le widget de l’écran d’accueil affiche les soins du jour.
 - Q: Comment garder une trace de la croissance de mes plantes ? A: Dans ZaiRi, prenez des photos de croissance et rédigez des notes d’observation, puis transformez-les en vidéo accélérée ou en comparaison avant-après. Vos données et vos photos sont stockées sur votre iPhone, sans compte requis.
@@ -255,8 +255,8 @@
 - Q: Une application pour plantes exige-t-elle un compte ? Où sont stockées mes données ? A: ZaiRi ne nécessite ni compte ni serveur. Vos données et vos photos restent sur votre iPhone, et vous pouvez exporter et restaurer une sauvegarde complète vous-même.
 
 ### ZaiRi: Pflanzen gießen (Deutsch)
-- Page: https://agentmesh.uk/zairi/de/
-- App Store: https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8
+- [Page](https://agentmesh.uk/zairi/de/)
+- [App Store](https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8)
 - Gib jedem Pflanzentag einen Platz zum Wachsen.
 - Q: Gibt es eine Pflanzen-App, die mich ans Gießen erinnert? A: ZaiRi: Pflanzen gießen plant das Gießen, Düngen und Umtopfen für jede Pflanze und erinnert pünktlich mit Benachrichtigungen. Ein Widget auf dem Home-Bildschirm zeigt die heutige Pflege.
 - Q: Wie halte ich das Wachstum meiner Pflanzen fest? A: Halte das Wachstum in ZaiRi mit Fotos und Beobachtungsnotizen fest und mache daraus einen Zeitraffer oder eine Vorher-nachher-Ansicht. Deine Daten und Fotos bleiben auf deinem iPhone, ein Konto ist nicht nötig.
@@ -266,8 +266,8 @@
 - Q: Braucht ZaiRi ein Konto, und wo werden meine Daten gespeichert? A: Du brauchst weder ein Konto noch einen Server. Deine Daten und Fotos bleiben auf deinem iPhone, und du kannst selbst eine vollständige Sicherung exportieren und wiederherstellen.
 
 ### 居图 Roomory－平面图 (简体中文)
-- Page: https://agentmesh.uk/roomory/zh-Hans/
-- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- [Page](https://agentmesh.uk/roomory/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8)
 - 从重新摆放家具，到规划全屋装修，居图陪你把现有空间变成心中的布局。扫描房间或手动开始，在平面图上调整，再用 3D 预览看看效果。
 - Q: 有没有 App 可以用 iPhone 扫描房间做出平面图？ A: 居图 Roomory 可用配备 LiDAR 的 iPhone 或 iPad 扫描房间，记录墙面、门窗与家具，生成可编辑的平面图和 3D 预览；没有 LiDAR 的设备也能手动绘制。
 - Q: 搬家或重新摆家具前，怎么先在手机上试摆？ A: 在居图 Roomory 的平面图上调整家具尺寸、位置与角度，切换到 3D 查看摆放、材质与日照时段的效果，还可以保存多个设计版本进行比较。
@@ -277,8 +277,8 @@
 - Q: 手机扫描房间的尺寸准确吗？可以直接据此施工吗？ A: 居图扫描的尺寸需要现场复测；施工前，图纸仍须由合格的专业人员审核，居图不提供专业签核。
 
 ### Roomory: 間取りと3D (日本語)
-- Page: https://agentmesh.uk/roomory/ja/
-- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- [Page](https://agentmesh.uk/roomory/ja/)
+- [App Store](https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8)
 - ソファの模様替えから住まい全体のリフォームまで。Roomory で今の空間を記録し、思い描く間取りへ。部屋をスキャンするか手描きで始めて、平面図を調整し、3D でアイデアを確かめられます。
 - Q: iPhoneで部屋をスキャンして間取り図を作れるアプリはありますか？ A: Roomory（ルーモリー）は、LiDAR搭載のiPhoneまたはiPadで部屋をスキャンし、壁・ドア・窓・家具を記録して、編集可能な間取り図と3Dプレビューを作成できます。LiDARのない端末でも、手描きで間取り図を作成できます。
 - Q: 引っ越しや家具の配置換えの前に、スマホで模様替えを試すにはどうすればいいですか？ A: Roomoryの平面図で家具のサイズ・位置・角度を調整し、3Dに切り替えてレイアウト、素材、日照の時間帯による見え方を確認できます。複数のデザイン案を保存して比較することもできます。
@@ -288,8 +288,8 @@
 - Q: スマホでスキャンした部屋の寸法は正確ですか？施工に使えますか？ A: Roomoryのスキャン寸法は、現場での再計測が必要です。施工を始める前に、有資格の専門家による図面の確認が必要です。Roomoryは専門家による承認や証明は行っていません。
 
 ### Roomory: 우리 집 도면 (한국어)
-- Page: https://agentmesh.uk/roomory/ko/
-- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- [Page](https://agentmesh.uk/roomory/ko/)
+- [App Store](https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8)
 - 소파 위치를 바꾸는 일부터 집 전체 리모델링까지. Roomory로 지금의 공간을 기록하고 원하는 배치를 그려 보세요. 방을 스캔하거나 직접 시작한 뒤 평면도를 편집하고 3D로 아이디어를 확인할 수 있어요.
 - Q: iPhone으로 방을 스캔해서 평면도를 만들 수 있는 앱이 있나요? A: Roomory는 LiDAR가 탑재된 iPhone 또는 iPad로 방을 스캔해 벽, 문, 창문과 가구를 기록하고, 편집 가능한 평면도와 3D 미리보기를 만들어 줍니다. LiDAR가 없는 기기에서도 평면도를 직접 그릴 수 있습니다.
 - Q: 이사하거나 가구를 옮기기 전에 휴대폰에서 미리 배치해 볼 수 있는 방법이 있나요? A: Roomory 평면도에서 가구의 크기, 위치와 각도를 조정하고, 3D로 전환해 배치, 재질과 햇빛 시간대를 확인할 수 있습니다. 여러 설계 버전을 저장해 서로 비교할 수도 있습니다.
@@ -299,8 +299,8 @@
 - Q: 휴대폰으로 스캔한 방 치수는 시공에 쓸 만큼 정확한가요? A: Roomory로 스캔한 치수는 현장에서 다시 측정해 확인해야 합니다. 공사를 시작하기 전에 자격을 갖춘 전문가가 도면을 검토해야 하며, Roomory는 전문 인증이나 승인을 제공하지 않습니다.
 
 ### Roomory: Planos de casa (Español)
-- Page: https://agentmesh.uk/roomory/es/
-- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- [Page](https://agentmesh.uk/roomory/es/)
+- [App Store](https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8)
 - Desde mover el sofá hasta planear una remodelación, Roomory te ayuda a convertir tu espacio en la distribución que imaginas. Escanea una habitación o empieza a mano, edita el plano y comprueba tus ideas en 3D.
 - Q: ¿Qué aplicación escanea una habitación con el iPhone para hacer un plano? A: Roomory escanea habitaciones con un iPhone o iPad con LiDAR, capturando muros, puertas, ventanas y muebles en un plano editable con vista previa 3D; los dispositivos sin LiDAR también pueden dibujar planos a mano.
 - Q: ¿Cómo puedo probar la distribución de muebles en mi teléfono antes de mudarme o cambiar las cosas de lugar? A: En Roomory puedes ajustar el tamaño, la posición y el ángulo de los muebles en el plano, cambiar a 3D para ver la distribución, los materiales y la luz solar, y guardar versiones del diseño para compararlas.
@@ -310,8 +310,8 @@
 - Q: ¿Las medidas del escaneo de la habitación son lo bastante precisas para construir con ellas? A: Las dimensiones escaneadas en Roomory deben volver a medirse en el lugar, y los planos aún deben ser revisados por un profesional cualificado antes de empezar cualquier obra; Roomory no ofrece aval profesional.
 
 ### Roomory: Plans de maison (Français)
-- Page: https://agentmesh.uk/roomory/fr/
-- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- [Page](https://agentmesh.uk/roomory/fr/)
+- [App Store](https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8)
 - Du déplacement d’un canapé à la préparation d’une rénovation, Roomory vous aide à imaginer un nouvel aménagement. Scannez une pièce ou commencez à la main, modifiez le plan et découvrez vos idées en 3D.
 - Q: Quelle application permet de scanner une pièce avec un iPhone pour créer un plan d'étage? A: Roomory peut scanner une pièce avec un iPhone ou un iPad équipé de LiDAR et capter murs, portes, fenêtres et meubles dans un plan modifiable avec aperçu 3D; les appareils sans LiDAR peuvent dessiner le plan à la main.
 - Q: Comment puis-je essayer une disposition de meubles sur mon téléphone avant de déplacer les choses ? A: Dans Roomory, ajustez la taille, la position et l’angle des meubles sur le plan, passez à la 3D pour voir la disposition, les matériaux et l’ensoleillement, et enregistrez des versions de conception pour les comparer.
@@ -320,8 +320,8 @@
 - Q: Les mesures de pièce obtenues par scan sont-elles assez précises pour construire? A: Les dimensions issues du scan Roomory doivent être revérifiées sur place, et les plans doivent être examinés par un professionnel qualifié avant le début des travaux; Roomory ne fournit pas de validation professionnelle.
 
 ### Roomory: Räume planen (Deutsch)
-- Page: https://agentmesh.uk/roomory/de/
-- App Store: https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8
+- [Page](https://agentmesh.uk/roomory/de/)
+- [App Store](https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8)
 - Vom Umstellen des Sofas bis zur Renovierung: Mit Roomory wird aus deinem Raum die Einrichtung, die du dir vorstellst. Scanne einen Raum oder beginne von Hand, bearbeite den Grundriss und sieh dir deine Ideen in 3D an.
 - Q: Welche App scannt einen Raum mit dem iPhone und erstellt einen Grundriss? A: Roomory scannt Räume mit einem iPhone oder iPad mit LiDAR und erfasst Wände, Türen, Fenster und Möbel in einen bearbeitbaren Grundriss mit 3D-Vorschau; Geräte ohne LiDAR können Grundrisse von Hand zeichnen.
 - Q: Wie kann ich eine Möbelanordnung vor dem Umzug auf dem Handy ausprobieren? A: In Roomory passt du Größe, Position und Winkel der Möbel im Grundriss an, wechselst in die 3D-Ansicht, um Anordnung, Materialien und Tageslicht zu sehen, und speicherst Entwurfsversionen zum Vergleich.
@@ -331,8 +331,8 @@
 - Q: Sind die Maße aus dem Raumscan genau genug, um danach zu bauen? A: Die gescannten Maße von Roomory sollten vor Ort nachgemessen werden. Vor Baubeginn müssen die Pläne weiterhin von qualifizierten Fachleuten geprüft werden; Roomory bietet keine fachliche Freigabe.
 
 ### 寻星 Nightvane－星空导览 (简体中文)
-- Page: https://agentmesh.uk/starplace/zh-Hans/
-- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- [Page](https://agentmesh.uk/starplace/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8)
 - 举起 iPhone 或 iPad 对着夜空，寻星就告诉你眼前是什么：恒星、行星、星座、月亮与银河，都在它们真实的位置上。
 - Q: 有没有能用 iPhone 对着天空就认出星星的 App？ A: 举起 iPhone 或 iPad 对着夜空，寻星 Nightvane 会在正确的位置标出恒星、行星、星座、月亮和银河，免费使用。
 - Q: 今晚能看到什么星星或流星雨？ A: 寻星的“今晚”会根据你所在的地点，列出值得观看的天体以及观看时间和方位，包括流星雨、国际空间站过境、月相和月食。
@@ -342,8 +342,8 @@
 - Q: 寻星要付费吗？ A: 免费使用，但会显示广告；一次性购买即可移除广告。没有订阅，也不需要账号。
 
 ### Nightvane: 星さがし (日本語)
-- Page: https://agentmesh.uk/starplace/ja/
-- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- [Page](https://agentmesh.uk/starplace/ja/)
+- [App Store](https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8)
 - iPhone や iPad を夜空にかざすと、Nightvane が目の前の天体を教えてくれます。恒星、惑星、星座、月、天の川が本来の位置に表示されます。
 - Q: iPhoneを空に向けると星を教えてくれるアプリはありますか？ A: 「Nightvane: 星さがし」は、iPhoneやiPadを夜空に向けると、恒星・惑星・星座・月・天の川を正しい位置に表示します。無料で使えます。
 - Q: 今夜、どんな星や流星群が見られますか？ A: Nightvaneの「今夜」リストでは、現在地から見どころの天体を、見頃の時刻と方角つきで表示します。流星群、国際宇宙ステーションの通過、月の満ち欠け、月食などが含まれます。
@@ -353,8 +353,8 @@
 - Q: 「Nightvane: 星さがし」は有料ですか？ A: 無料で使えますが、広告が表示されます。一度の購入で広告を削除できます。サブスクリプションはなく、アカウントも不要です。
 
 ### Nightvane: 별 찾기 (한국어)
-- Page: https://agentmesh.uk/starplace/ko/
-- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- [Page](https://agentmesh.uk/starplace/ko/)
+- [App Store](https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8)
 - iPhone이나 iPad를 밤하늘에 비추면 Nightvane이 지금 보고 있는 것을 알려 줍니다. 별, 행성, 별자리, 달, 은하수가 실제 위치에 나타납니다.
 - Q: 아이폰을 하늘에 비추면 별을 알려 주는 앱이 있나요? A: Nightvane: 별 찾기는 iPhone이나 iPad를 밤하늘에 비추면 실제 위치에 맞춰 별, 행성, 별자리, 달, 은하수를 표시합니다. 무료입니다.
 - Q: 오늘 밤 하늘에서 무엇을 볼 수 있나요? A: Nightvane의 '오늘 밤' 목록은 현재 위치에서 볼 만한 천체를 관측 시간 및 방향과 함께 보여 줍니다. 유성우, 국제우주정거장 통과, 달의 위상, 월식 등이 포함됩니다.
@@ -364,8 +364,8 @@
 - Q: Nightvane: 별 찾기는 유료인가요? A: 무료이며 광고가 표시됩니다. 한 번 구매하면 광고를 없앨 수 있습니다. 구독은 없고 계정도 필요하지 않습니다.
 
 ### Nightvane: Ver las estrellas (Español)
-- Page: https://agentmesh.uk/starplace/es/
-- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- [Page](https://agentmesh.uk/starplace/es/)
+- [App Store](https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8)
 - Levanta tu iPhone o iPad hacia el cielo nocturno y Nightvane te muestra lo que estás mirando: estrellas, planetas, constelaciones, la Luna y la Vía Láctea, justo donde están.
 - Q: ¿Qué app identifica las estrellas cuando apunto mi iPhone al cielo? A: Apunta un iPhone o iPad al cielo en Nightvane y te muestra estrellas, planetas, constelaciones, la Luna y la Vía Láctea en su posición correcta. Es gratis.
 - Q: ¿Qué puedo ver en el cielo esta noche? A: La lista Esta noche de Nightvane muestra lo que vale la pena ver desde tu ubicación, con horas y direcciones, incluidas lluvias de meteoros, pasos de la Estación Espacial Internacional, fases lunares y eclipses.
@@ -375,8 +375,8 @@
 - Q: ¿Nightvane es gratis? A: Sí, con anuncios; una compra única los elimina. No hay suscripción ni necesitas una cuenta.
 
 ### Nightvane: Guide des étoiles (Français)
-- Page: https://agentmesh.uk/starplace/fr/
-- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- [Page](https://agentmesh.uk/starplace/fr/)
+- [App Store](https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8)
 - Levez votre iPhone ou iPad vers la nuit et Nightvane vous montre ce que vous regardez : étoiles, planètes, constellations, la Lune et la Voie lactée, exactement là où elles sont.
 - Q: Quelle application identifie les étoiles quand je pointe mon iPhone vers le ciel? A: Pointez un iPhone ou un iPad vers le ciel dans Nightvane et l'application affiche en place les étoiles, les planètes, les constellations, la Lune et la Voie lactée. Elle est gratuite.
 - Q: Qu'est-ce que je peux voir dans le ciel ce soir? A: La liste « Ce soir » de Nightvane indique ce qui vaut le coup d'œil depuis votre position, avec les heures et les directions, y compris les pluies de météores, les passages de la Station spatiale internationale, les phases de la Lune et les éclipses.
@@ -386,8 +386,8 @@
 - Q: Nightvane est-elle payante? A: Elle est gratuite et affiche des publicités; un achat unique les supprime. Il n'y a ni abonnement ni compte à créer.
 
 ### Nightvane: Sternenführer (Deutsch)
-- Page: https://agentmesh.uk/starplace/de/
-- App Store: https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8
+- [Page](https://agentmesh.uk/starplace/de/)
+- [App Store](https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8)
 - Halte dein iPhone oder iPad in den Nachthimmel und Nightvane zeigt dir, was du siehst: Sterne, Planeten, Sternbilder, den Mond und die Milchstraße – genau dort, wo sie stehen.
 - Q: Welche App erkennt Sterne, wenn ich mit dem iPhone an den Himmel halte? A: Halte ein iPhone oder iPad in Nightvane zum Himmel, und die App beschriftet Sterne, Planeten, Sternbilder, den Mond und die Milchstraße genau an ihrer Position. Sie ist kostenlos.
 - Q: Was kann ich heute Nacht am Himmel sehen? A: Die Liste „Heute Nacht“ in Nightvane zeigt dir, was sich von deinem Standort aus lohnt, mit Uhrzeiten und Blickrichtungen, darunter Meteorströme, Überflüge der Internationalen Raumstation, Mondphasen und Finsternisse.
@@ -397,336 +397,336 @@
 - Q: Kostet Nightvane etwas? A: Die App ist kostenlos und zeigt Werbung; ein einmaliger Kauf entfernt die Werbung. Es gibt kein Abo und kein Konto.
 
 ### 水闸 Lockwater－运河解谜 (简体中文)
-- Page: https://agentmesh.uk/lockwater/zh-Hans/
-- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- [Page](https://agentmesh.uk/lockwater/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8)
 - 《水闸》是一款黏土质感的运河解谜：一排石砌闸室、几道木闸门，还有要回到同色旗子旁的小船。
 - Q: 有没有安静、需要思考的解谜游戏？ A: 水闸 Lockwater 是黏土质感的运河解谜：开闸会永久拉平水位，开闸顺序就是谜题，上百个关卡，免费游玩。
 - Q: 水闸 Lockwater 怎么玩？ A: 点一下闸门，两侧的水会流到同一个水位；点一下船，它会穿过打开的闸门驶向同色旗子。水不会回来，所以开闸的顺序就是整个谜题。每一关都经过求解器验证，运河无解时关卡会立刻结束。
 - Q: 水闸要付费吗？ A: 免费游玩。有横幅广告与偶尔出现在关卡之间的广告，一次性购买即可移除；另有提示包可购买。
 
 ### Lockwater: 運河パズル (日本語)
-- Page: https://agentmesh.uk/lockwater/ja/
-- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- [Page](https://agentmesh.uk/lockwater/ja/)
+- [App Store](https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8)
 - Lockwaterは、やわらかな粘土で作った運河のパズルです。石造りの閘室が並び、木の水門がいくつか。船を同じ色の旗まで届けましょう。
 - Q: 落ち着いて考えられるパズルゲームはありますか？ A: 「水閘 Lockwater」は粘土風の運河パズルです。水門を開けると水位が永久に平らになるため、開ける順番そのものがパズルになります。100以上のレベルがあり、無料で遊べます。
 - Q: 「水閘 Lockwater」はどうやって遊ぶのですか？ A: 水門をタップすると、両側の水が同じ水位に落ち着きます。船をタップすると、開いた水門を通って同じ色の旗まで進みます。水は元に戻らないため、水門を開ける順番がそのままパズルの全体になります。すべてのレベルはソルバーで検証されており、運河がもう解けない状態になると、そのレベルはすぐに終了します。
 - Q: 「水閘 Lockwater」は有料ですか？ A: 無料で遊べます。バナー広告と、レベルの合間にときどき表示される広告がありますが、一度の購入で広告を削除できます。ヒントパックも購入できます。
 
 ### Lockwater: 운하 퍼즐 (한국어)
-- Page: https://agentmesh.uk/lockwater/ko/
-- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- [Page](https://agentmesh.uk/lockwater/ko/)
+- [App Store](https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8)
 - Lockwater는 말랑한 점토로 만든 운하 퍼즐입니다. 돌로 쌓은 갑실이 늘어서 있고, 나무 수문 몇 개, 그리고 같은 색 깃발로 가야 하는 배들이 있습니다.
 - Q: 차분하게 생각하게 만드는 퍼즐 게임 있나요? A: Lockwater는 점토 질감의 운하 퍼즐입니다. 수문을 열 때마다 물의 높이가 영영 평평해지므로, 수문을 여는 순서 자체가 퍼즐입니다. 레벨은 100개 이상이며 무료로 즐길 수 있습니다.
 - Q: Lockwater 수문 퍼즐은 어떻게 플레이하나요? A: 수문을 탭하면 양쪽의 물이 같은 수위에서 멈춥니다. 배를 탭하면 열린 수문을 지나 같은 색 깃발로 나아갑니다. 물은 다시 돌아오지 않으므로, 수문을 여는 순서가 곧 퍼즐입니다. 모든 레벨은 솔버로 검증되었으며, 운하를 더 이상 풀 수 없게 되면 레벨이 즉시 끝납니다.
 - Q: Lockwater는 유료인가요? A: 무료로 플레이할 수 있습니다. 배너 광고와 레벨 사이에 가끔 나오는 광고가 있으며, 한 번 구매하면 광고를 제거할 수 있습니다. 힌트 팩도 따로 구매할 수 있습니다.
 
 ### Lockwater: Acertijo de canales (Español)
-- Page: https://agentmesh.uk/lockwater/es/
-- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- [Page](https://agentmesh.uk/lockwater/es/)
+- [App Store](https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8)
 - Lockwater es un acertijo de canales hecho de arcilla suave: una fila de esclusas de piedra, algunas compuertas de madera y barcos que deben llegar a la bandera de su color.
 - Q: ¿Hay algún juego de rompecabezas tranquilo que me haga pensar? A: Lockwater: Acertijo de canales es un rompecabezas de canales con textura de arcilla: cada compuerta que abres iguala el nivel del agua para siempre, así que el orden en que las abres es el acertijo; más de 100 niveles, gratis para jugar.
 - Q: ¿Cómo se juega Lockwater? A: Toca una compuerta y el agua de ambos lados se asienta al mismo nivel; toca un barco y navegará por las compuertas abiertas hasta su bandera. El agua nunca regresa, así que el orden en que abres las compuertas es todo el rompecabezas. Un solucionador verifica cada nivel, y el nivel termina de inmediato cuando el canal ya no tiene solución.
 - Q: ¿Lockwater: Acertijo de canales cuesta dinero? A: Sí, es gratis. Tiene un banner y algún anuncio ocasional entre niveles; una compra única los quita. También hay paquetes de pistas disponibles.
 
 ### Lockwater : Puzzle d'écluses (Français)
-- Page: https://agentmesh.uk/lockwater/fr/
-- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- [Page](https://agentmesh.uk/lockwater/fr/)
+- [App Store](https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8)
 - Lockwater est un puzzle de canaux en pâte à modeler : une rangée d'écluses en pierre, quelques portes en bois et des bateaux qui doivent rejoindre le drapeau de leur couleur.
 - Q: Y a-t-il un jeu de réflexion calme qui fait réfléchir ? A: Lockwater est un jeu de canaux inspiré de la pâte à modeler : chaque écluse ouverte égalise l'eau pour de bon, donc l'ordre est le puzzle; plus de 100 niveaux, gratuit.
 - Q: Comment jouer à Lockwater ? A: Touchez une porte et l'eau des deux côtés s'écoule jusqu'à se stabiliser au même niveau; touchez un bateau et il navigue par les portes ouvertes vers son drapeau. L'eau ne revient jamais, donc l'ordre dans lequel vous ouvrez les portes fait tout le puzzle. Chaque niveau est vérifié par un solveur, et un niveau s'arrête aussitôt si le canal ne peut plus être gagné.
 - Q: Lockwater est-il payant ? A: Non, il est gratuit. Une bannière et une publicité occasionnelle entre les niveaux le financent ; un achat unique les supprime. Des packs d'indices sont aussi disponibles.
 
 ### Lockwater: Schleusen-Rätsel (Deutsch)
-- Page: https://agentmesh.uk/lockwater/de/
-- App Store: https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8
+- [Page](https://agentmesh.uk/lockwater/de/)
+- [App Store](https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8)
 - Lockwater ist ein Kanal-Rätsel aus weichem Ton: eine Reihe steinerner Schleusenkammern, ein paar hölzerne Tore und Boote, die zur Flagge ihrer Farbe müssen.
 - Q: Gibt es ein ruhiges Rätselspiel, das zum Nachdenken anregt? A: Lockwater ist ein Kanal-Rätsel im Stil von weichem Ton: Jedes geöffnete Tor gleicht den Wasserstand dauerhaft aus, sodass die Reihenfolge das Rätsel ist. Über 100 Level, kostenlos spielbar.
 - Q: Wie spielt man Lockwater? A: Tippe auf ein Tor, und das Wasser auf beiden Seiten gleicht sich auf einer Höhe an; tippe auf ein Boot, und es fährt durch die offenen Tore zu seiner Flagge in derselben Farbe. Wasser fließt nie zurück, daher ist die Reihenfolge, in der du die Tore öffnest, das ganze Rätsel. Jedes Level wurde von einem Löser geprüft, und ein Level endet sofort, wenn der Kanal nicht mehr gewonnen werden kann.
 - Q: Ist Lockwater kostenlos? A: Ja. Ein Banner und gelegentlich Werbung zwischen den Leveln finanzieren das Spiel, sodass es kostenlos bleibt. Ein einmaliger Kauf entfernt die Werbung. Hinweispakete sind ebenfalls erhältlich.
 
 ### 夜釣蝦場 Prawnlight－釣蝦場大亨 (简体中文)
-- Page: https://agentmesh.uk/prawnlight/zh-Hans/
-- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- [Page](https://agentmesh.uk/prawnlight/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8)
 - 夜釣蝦場是一款台灣室內釣蝦場的經營遊戲。你是老闆，不用自己下竿：叫貨、放蝦、擺設場地、請人顧店，讓客人一路釣到深夜。
 - Q: 有没有台湾钓虾场的经营游戏？ A: 夜钓虾场 Prawnlight 让你当台湾室内钓虾场的老板：选址、叫货放虾、摆设场地、请员工、办比赛，背着贷款把店经营到深夜，免费游玩。
 - Q: 夜钓虾场要付费吗？ A: 可免费游玩。广告只在你选择观看、换取奖励时播放；另有可选购的 App 内购买。
 - Q: 夜钓虾场可以做什么？ A: 你是钓虾场老板：在台湾地图上选址，摆放虾池和烤肉架、聘请员工、办钓虾比赛和整点放虾，再扩建或开分店；开店就背着贷款，扩张太快现金会断。
 
 ### Prawnlight: エビ釣り堀経営 (日本語)
-- Page: https://agentmesh.uk/prawnlight/ja/
-- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- [Page](https://agentmesh.uk/prawnlight/ja/)
+- [App Store](https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8)
 - Prawnlight は、台湾の屋内エビ釣り堀を舞台にした経営ゲームです。あなたは竿を握らないオーナー。仕入れ、エビの放流、店内のレイアウト、スタッフの採用をこなして、お客さんに夜更けまで釣りを楽しんでもらいましょう。
 - Q: 台湾の釣りエビ園の経営ゲームはありますか？ A: 夜釣りエビ園「Prawnlight」では、台湾の屋内釣りエビ園のオーナーになれます。立地選び、エビの仕入れと放流、店内のレイアウト、スタッフの採用、大会の開催をこなしながら、借金を返して夜遅くまで店を経営します。無料で遊べます。
 - Q: Prawnlight は無料ですか？ A: はい、無料で遊べます。広告は、報酬と引き換えに自分で選んで見たときだけ流れます。任意のアプリ内課金もあります。
 - Q: Prawnlight では何ができますか？ A: 台湾の屋内エビ釣り堀のオーナーとして、台湾の地図から出店場所を選び、エビの池や焼き台を配置し、スタッフを雇い、釣り大会や毎正時のエビの放流を開催します。その後、店舗を拡張したり支店を開いたりできます。開店時には借金があるため、急速に拡大しすぎると資金が尽きてしまいます。
 
 ### Prawnlight: 새우낚시터 타이쿤 (한국어)
-- Page: https://agentmesh.uk/prawnlight/ko/
-- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- [Page](https://agentmesh.uk/prawnlight/ko/)
+- [App Store](https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8)
 - Prawnlight는 대만의 실내 새우낚시터를 무대로 한 경영 게임입니다. 당신은 낚싯대를 잡지 않는 사장님. 새우를 주문해 풀고, 매장을 꾸미고, 직원을 뽑아 손님들이 밤늦게까지 낚시를 즐기게 하세요.
 - Q: 대만 낚시 새우 가게를 운영하는 경영 게임이 있나요? A: 야간 새우낚시터 Prawnlight에서는 대만 실내 새우낚시터의 사장이 되어 입지 선정, 새우 주문과 방류, 매장 배치, 직원 고용, 대회 개최를 맡으며 대출을 갚아 가면서 밤늦게까지 가게를 운영합니다. 무료로 플레이할 수 있습니다.
 - Q: Prawnlight는 무료인가요? A: 네, 무료로 플레이할 수 있습니다. 광고는 보상을 받기 위해 직접 선택했을 때만 재생되며, 선택 사항인 앱 내 구매도 있습니다.
 - Q: Prawnlight에서는 무엇을 할 수 있나요? A: 대만 실내 새우낚시터를 운영하게 됩니다. 대만 지도에서 입지를 고르고, 새우 연못과 그릴을 배치하고, 직원을 고용하고, 낚시 대회와 정각 방류를 열며, 이후 확장하거나 지점을 열 수 있습니다. 대출을 안고 시작하므로 너무 빨리 확장하면 현금이 바닥날 수 있습니다.
 
 ### Prawnlight: Rey del camarón (Español)
-- Page: https://agentmesh.uk/prawnlight/es/
-- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- [Page](https://agentmesh.uk/prawnlight/es/)
+- [App Store](https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8)
 - Prawnlight es un juego de gestión ambientado en un local cubierto de pesca de camarones de Taiwán que abre hasta altas horas de la noche. Tú eres el jefe, no el pescador: pide mercancía, suelta camarones, organiza el local, contrata personal y mantén a los clientes pescando hasta la hora de cierre.
 - Q: ¿Prawnlight es gratis? A: Sí. Los anuncios solo aparecen cuando decides ver uno a cambio de una recompensa; también hay compras opcionales dentro de la app.
 - Q: ¿Qué se puede hacer en Prawnlight? A: Eres el dueño de un local cubierto de pesca de camarones en Taiwán: eliges un lugar en el mapa de Taiwán, colocas estanques y parrillas, contratas personal, organizas concursos y sueltas de camarones cada hora, y luego amplías el local o abres sucursales. Empiezas con un préstamo, así que si creces demasiado rápido te quedas sin efectivo.
 
 ### Prawnlight : Roi des crevettes (Français)
-- Page: https://agentmesh.uk/prawnlight/fr/
-- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- [Page](https://agentmesh.uk/prawnlight/fr/)
+- [App Store](https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8)
 - Prawnlight est un jeu de gestion qui se déroule dans une salle couverte de pêche à la crevette taïwanaise, ouverte tard dans la nuit. Vous êtes le patron, pas le pêcheur : commandez le stock, relâchez les crevettes, aménagez la salle, embauchez du personnel et gardez les clients au bord des bassins jusqu'à la fermeture.
 - Q: Existe-t-il un jeu de gestion d'une salle de pêche à la crevette taïwanaise ? A: Prawnlight vous met à la tête d'une salle de pêche à la crevette couverte à Taïwan : choisissez un emplacement, commandez des crevettes, aménagez la salle, embauchez du personnel et organisez des concours tout en remboursant un prêt. Gratuit.
 - Q: Prawnlight est-il gratuit ? A: Oui. Les publicités ne passent que lorsque vous choisissez d'en regarder une pour obtenir une récompense ; des achats intégrés facultatifs sont également disponibles.
 - Q: Que peut-on faire dans Prawnlight ? A: Vous dirigez une salle de pêche à la crevette couverte à Taïwan : choisissez un emplacement sur la carte de Taïwan, installez bassins et barbecues, embauchez du personnel, organisez des concours et des lâchers de crevettes à chaque heure pile, puis agrandissez la salle ou ouvrez des succursales. Vous commencez avec un prêt, donc une expansion trop rapide peut vider votre caisse.
 
 ### Prawnlight: Garnelen-Tycoon (Deutsch)
-- Page: https://agentmesh.uk/prawnlight/de/
-- App Store: https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8
+- [Page](https://agentmesh.uk/prawnlight/de/)
+- [App Store](https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8)
 - Prawnlight ist ein Managementspiel in einer taiwanischen Garnelen-Angelhalle, die bis tief in die Nacht geöffnet hat. Du bist der Chef, nicht der Angler: Bestelle Ware, setze Garnelen ein, richte die Halle ein, stelle Personal ein und sorge dafür, dass die Gäste bis zur Sperrstunde angeln.
 - Q: Gibt es ein Aufbauspiel über eine taiwanesische Garnelen-Angelhalle? A: In Prawnlight: Garnelen-Tycoon leitest du eine Garnelen-Angelhalle in Taiwan: Wähle einen Standort, bestelle Garnelen, richte die Halle ein, stelle Personal ein und veranstalte Wettbewerbe, während du einen Kredit abbezahlst. Kostenlos spielbar.
 - Q: Ist Prawnlight: Garnelen-Tycoon kostenlos? A: Ja. Werbung wird nur abgespielt, wenn du dir für eine Belohnung selbst eine ansiehst; optionale In-App-Käufe sind verfügbar.
 - Q: Was kann man in Prawnlight: Garnelen-Tycoon machen? A: Du führst eine taiwanische Garnelen-Angelhalle in Innenräumen: Wähle einen Standort auf der Karte von Taiwan, platziere Becken und Grills, stelle Personal ein, veranstalte Wettbewerbe und stündliche Garnelen-Aussetzungen und erweitere die Halle oder eröffne Filialen. Du startest mit einem Kredit, deshalb hast du bei zu schnellem Wachstum schnell kein Geld mehr.
 
 ### 极限停车场：都市挑战 (简体中文)
-- Page: https://agentmesh.uk/precision-parking-3d/zh-Hans/
-- App Store: https://apps.apple.com/app/id6816430472?pt=102436810&ct=llms_precisionparking3d&mt=8
+- [Page](https://agentmesh.uk/precision-parking-3d/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id6816430472?pt=102436810&ct=llms_precisionparking3d&mt=8)
 - 在城市停车场里，放慢速度，停得更稳。
 - Q: 有没有练习停车的手机游戏？ A: 《极限停车场：都市挑战》有三个教学关卡和五章共 40 关，可练习转向、踏板与换挡，支持离线游玩。
 - Q: 极限停车场可以离线玩吗？ A: 所有核心关卡都可以离线游玩，进度与成就保存在设备上；广告与隐私服务需要网络连接。
 - Q: 有没有可以用方向盘操作的停车游戏？ A: 《极限停车场：都市挑战》可以选择左右按钮、滑动转向或旋转方向盘，并切换第三人称与俯视视角；每关有完成停车、零碰撞与额外挑战三个目标。
 
 ### Precision Parking 3D (日本語)
-- Page: https://agentmesh.uk/precision-parking-3d/ja/
-- App Store: https://apps.apple.com/app/id6816430472?pt=102436810&ct=llms_precisionparking3d&mt=8
+- [Page](https://agentmesh.uk/precision-parking-3d/ja/)
+- [App Store](https://apps.apple.com/app/id6816430472?pt=102436810&ct=llms_precisionparking3d&mt=8)
 - ゆっくり進み、角度を合わせて、ぴったり駐車。
 - Q: 練習できる駐車ゲームはスマホにありますか？ A: 「極限停車場」には、ステアリング・ペダル・ギアの操作を練習できる3つのチュートリアルステージと、全5章・40ステージの都市チャレンジがあり、オフラインでも遊べます。
 - Q: 「Precision Parking 3D」はオフラインで遊べますか？ A: すべての基本ステージはオフラインで遊べ、進行状況と実績は端末に保存されます。広告とプライバシー関連のサービスにはネット接続が必要です。
 - Q: ステアリングホイールで操作できる駐車ゲームはありますか？ A: Precision Parking 3Dでは、左右ボタン、スライド式ステアリング、回転するハンドルから操作方法を選べ、三人称視点と俯瞰視点も切り替えられます。各ステージには、駐車の成功、無接触でのクリア、追加チャレンジの3つの目標があります。
 
 ### Precision Parking 3D (한국어)
-- Page: https://agentmesh.uk/precision-parking-3d/ko/
-- App Store: https://apps.apple.com/app/id6816430472?pt=102436810&ct=llms_precisionparking3d&mt=8
+- [Page](https://agentmesh.uk/precision-parking-3d/ko/)
+- [App Store](https://apps.apple.com/app/id6816430472?pt=102436810&ct=llms_precisionparking3d&mt=8)
 - 천천히 움직이고, 각도를 맞추고, 정확하게 주차하세요.
 - Q: 연습할 수 있는 주차 모바일 게임이 있나요? A: Precision Parking 3D에는 튜토리얼 스테이지 3개와 5개 챕터로 구성된 40개 스테이지가 있어 조향, 페달, 기어 조작을 연습할 수 있으며, 오프라인에서도 플레이할 수 있습니다.
 - Q: Precision Parking 3D를 오프라인으로 플레이할 수 있나요? A: 모든 핵심 스테이지는 오프라인으로 플레이할 수 있으며, 진행 상황과 업적은 기기에 저장됩니다. 광고와 개인정보 관련 서비스는 인터넷 연결이 필요합니다.
 - Q: 운전대로 조작하는 주차 게임이 있나요? A: Precision Parking 3D에서는 좌우 버튼, 슬라이드 조향, 회전식 운전대 중에서 선택할 수 있으며, 후방 시점과 탑다운 시점을 전환할 수 있습니다. 각 스테이지에는 주차 성공, 무충돌 완료, 추가 도전이라는 세 가지 목표가 있습니다.
 
 ## Guides
-- 简体中文: 买二手 iPhone 要检查什么？当面验机清单 https://agentmesh.uk/guides/used-iphone-checklist/zh-Hans/
-- 日本語: 中古のiPhoneを買うときに確認すべきこと：対面チェックリスト https://agentmesh.uk/guides/used-iphone-checklist/ja/
-- 한국어: 중고 iPhone을 살 때 무엇을 확인해야 할까요? 현장 기기 점검 체크리스트 https://agentmesh.uk/guides/used-iphone-checklist/ko/
-- Español: ¿Qué revisar al comprar un iPhone usado? Lista de verificación en persona https://agentmesh.uk/guides/used-iphone-checklist/es/
-- Français: Quoi vérifier avant d'acheter un iPhone d'occasion ? Liste de contrôle en personne https://agentmesh.uk/guides/used-iphone-checklist/fr/
-- Deutsch: Was ist beim Kauf eines gebrauchten iPhones zu prüfen? Eine persönliche Prüfliste für das Treffen vor Ort https://agentmesh.uk/guides/used-iphone-checklist/de/
-- 简体中文: iPhone 电池健康度怎么看？什么时候该换电池 https://agentmesh.uk/guides/iphone-battery-health/zh-Hans/
-- 日本語: iPhoneのバッテリー健康度の確認方法と、電池交換の目安 https://agentmesh.uk/guides/iphone-battery-health/ja/
-- 한국어: iPhone 배터리 건강 상태 확인 방법과 배터리를 교체해야 할 때 https://agentmesh.uk/guides/iphone-battery-health/ko/
-- Español: ¿Cómo revisar la salud de la batería del iPhone y cuándo cambiarla? https://agentmesh.uk/guides/iphone-battery-health/es/
-- Français: Comment vérifier la santé de la batterie de l'iPhone et quand la remplacer https://agentmesh.uk/guides/iphone-battery-health/fr/
-- Deutsch: Wie prüfe ich die Akkugesundheit des iPhones und wann sollte ich den Akku ersetzen? https://agentmesh.uk/guides/iphone-battery-health/de/
-- 简体中文: iPhone 充电很慢？怎么确认充电器和线材够不够快 https://agentmesh.uk/guides/iphone-charging-speed/zh-Hans/
-- 日本語: iPhoneの充電が遅い？充電器とケーブルが十分に速いか確認する方法 https://agentmesh.uk/guides/iphone-charging-speed/ja/
-- 한국어: iPhone 충전이 느린가요? 충전기와 케이블이 충분히 빠른지 확인하는 방법 https://agentmesh.uk/guides/iphone-charging-speed/ko/
-- Español: ¿Tu iPhone carga lento? Cómo comprobar si tu cargador y cable son lo suficientemente rápidos https://agentmesh.uk/guides/iphone-charging-speed/es/
-- Français: Le iPhone charge lentement? Comment vérifier si votre chargeur et votre câble sont assez rapides https://agentmesh.uk/guides/iphone-charging-speed/fr/
-- Deutsch: iPhone lädt langsam? So prüfst du, ob Ladegerät und Kabel schnell genug sind https://agentmesh.uk/guides/iphone-charging-speed/de/
-- 简体中文: iPhone 截图太多怎么整理？订位、收据、食谱一次分好类 https://agentmesh.uk/guides/organize-screenshots/zh-Hans/
-- 日本語: iPhoneのスクショが多すぎる？予約、レシート、レシピを一度に分類 https://agentmesh.uk/guides/organize-screenshots/ja/
-- 한국어: iPhone 스크린샷이 너무 많나요? 예약, 영수증, 레시피를 한 번에 분류하세요 https://agentmesh.uk/guides/organize-screenshots/ko/
-- Español: ¿Demasiadas capturas de pantalla en tu iPhone? Organiza reservas, recibos y recetas de una vez https://agentmesh.uk/guides/organize-screenshots/es/
-- Français: Trop de captures d'écran sur iPhone ? Triez les réservations, reçus et recettes d'un coup https://agentmesh.uk/guides/organize-screenshots/fr/
-- Deutsch: Zu viele iPhone-Screenshots? Buchungen, Belege und Rezepte auf einmal sortieren https://agentmesh.uk/guides/organize-screenshots/de/
-- 简体中文: 收据和电子发票怎么保存，月底报销不手忙脚乱 https://agentmesh.uk/guides/receipts-for-expenses/zh-Hans/
-- 日本語: 領収書と電子インボイスの保存方法で、月末の経費精算も慌てない https://agentmesh.uk/guides/receipts-for-expenses/ja/
-- 한국어: 영수증과 전자 세금계산서를 어떻게 보관하면 월말 경비 정산이 수월한지 https://agentmesh.uk/guides/receipts-for-expenses/ko/
-- Español: Cómo guardar recibos y facturas electrónicas para que los gastos del fin de mes sean fáciles https://agentmesh.uk/guides/receipts-for-expenses/es/
-- Français: Comment conserver reçus et factures électroniques pour que les notes de frais de fin de mois soient faciles https://agentmesh.uk/guides/receipts-for-expenses/fr/
-- Deutsch: Belege und E-Rechnungen richtig aufbewahren, damit die Monatsabrechnung nicht zur Hektik wird https://agentmesh.uk/guides/receipts-for-expenses/de/
-- 简体中文: 用 iPhone 量房间、画平面图：LiDAR 扫描与手动绘制 https://agentmesh.uk/guides/iphone-floor-plan/zh-Hans/
-- 日本語: iPhoneで部屋を測り、間取り図を作成：LiDARスキャンと手動描画 https://agentmesh.uk/guides/iphone-floor-plan/ja/
-- 한국어: iPhone으로 방 측정하고 평면도 그리기: LiDAR 스캔 또는 직접 그리기 https://agentmesh.uk/guides/iphone-floor-plan/ko/
-- Español: Mide una habitación y dibuja un plano con tu iPhone: escaneo LiDAR o a mano https://agentmesh.uk/guides/iphone-floor-plan/es/
-- Français: Mesurer une pièce et dessiner un plan avec l’iPhone : numérisation LiDAR ou tracé à la main https://agentmesh.uk/guides/iphone-floor-plan/fr/
-- Deutsch: Raum vermessen und Grundriss zeichnen mit dem iPhone: LiDAR-Scan oder von Hand https://agentmesh.uk/guides/iphone-floor-plan/de/
-- 简体中文: 怎么用肉眼看到国际空间站？时间、方位与观看技巧 https://agentmesh.uk/guides/see-the-iss/zh-Hans/
-- 日本語: どうすれば国際宇宙ステーションを肉眼で見られるか？時刻、方位、観察のコツ https://agentmesh.uk/guides/see-the-iss/ja/
-- 한국어: 육안으로 국제우주정거장을 보는 방법: 시간, 방위, 관측 요령 https://agentmesh.uk/guides/see-the-iss/ko/
-- Español: ¿Cómo ver la Estación Espacial Internacional con tus propios ojos? Horarios, dirección y consejos de observación https://agentmesh.uk/guides/see-the-iss/es/
-- Français: Comment voir la Station spatiale internationale à l’œil nu ? Heure, direction et conseils d’observation https://agentmesh.uk/guides/see-the-iss/fr/
-- Deutsch: Wie man die Internationale Raumstation mit bloßem Auge sieht: Uhrzeit, Richtung und Beobachtungstipps https://agentmesh.uk/guides/see-the-iss/de/
-- 简体中文: 用手机认星星：新手观星的四个步骤 https://agentmesh.uk/guides/stargazing-with-phone/zh-Hans/
-- 日本語: スマホで星を見分ける：初心者のための4つのステップ https://agentmesh.uk/guides/stargazing-with-phone/ja/
-- 한국어: 휴대폰으로 별 찾기: 초보 관측자를 위한 네 단계 https://agentmesh.uk/guides/stargazing-with-phone/ko/
-- Español: Identifica estrellas con tu teléfono: cuatro pasos para principiantes en la observación de estrellas https://agentmesh.uk/guides/stargazing-with-phone/es/
-- Français: Identifiez les étoiles avec votre téléphone : quatre étapes pour les débutants https://agentmesh.uk/guides/stargazing-with-phone/fr/
-- Deutsch: Sterne mit dem Telefon erkennen: vier Schritte für Einsteiger https://agentmesh.uk/guides/stargazing-with-phone/de/
-- 简体中文: 选择经期记录应用要注意什么？隐私、预测与导出 https://agentmesh.uk/guides/period-tracker-privacy/zh-Hans/
-- 日本語: 生理記録アプリを選ぶときの注意点：プライバシー、予測、エクスポート https://agentmesh.uk/guides/period-tracker-privacy/ja/
-- 한국어: 생리 기록 앱을 고를 때 주의할 점: 개인정보, 예측, 내보내기 https://agentmesh.uk/guides/period-tracker-privacy/ko/
-- Español: ¿Qué debes tener en cuenta al elegir una app de seguimiento menstrual? Privacidad, predicciones y exportación https://agentmesh.uk/guides/period-tracker-privacy/es/
-- Français: Choisir une appli de suivi des règles : confidentialité, prévisions et exportation https://agentmesh.uk/guides/period-tracker-privacy/fr/
-- Deutsch: Periodenkalender-App wählen: Datenschutz, Vorhersagen und Export https://agentmesh.uk/guides/period-tracker-privacy/de/
-- 简体中文: 如何用照片日志记录植物生长？用照片日记养好每一盆植物 https://agentmesh.uk/guides/plant-care-journal/zh-Hans/
-- 日本語: 植物の写真日誌をつける方法：写真で一鉢ずつ大切に育てる https://agentmesh.uk/guides/plant-care-journal/ja/
-- 한국어: 식물 성장을 어떻게 기록할까요? 사진 일지로 화분 하나하나를 잘 가꾸세요 https://agentmesh.uk/guides/plant-care-journal/ko/
-- Español: ¿Cómo llevar un diario de plantas con fotos? https://agentmesh.uk/guides/plant-care-journal/es/
-- Français: Comment tenir un journal de plantes avec des photos ? Prenez soin de chacune de vos plantes grâce à un journal photo. https://agentmesh.uk/guides/plant-care-journal/fr/
-- Deutsch: Wie führt man ein Pflanzentagebuch mit Fotos? https://agentmesh.uk/guides/plant-care-journal/de/
-- 简体中文: 买家具前先排一次：用平面图确认沙发、床与柜子放不放得下 https://agentmesh.uk/guides/furniture-layout-plan/zh-Hans/
-- 日本語: 家具を購入する前に、間取り図に配置してみましょう。ソファ、ベッド、キャビネットは収まるでしょうか？ https://agentmesh.uk/guides/furniture-layout-plan/ja/
-- 한국어: 가구를 사기 전에 먼저 한 번 배치해 보세요: 평면도로 소파, 침대, 수납장이 들어갈지 확인하세요. https://agentmesh.uk/guides/furniture-layout-plan/ko/
-- Español: Antes de comprar muebles, colócalos en un plano de planta: ¿cabrán el sofá, la cama y los muebles de almacenaje? https://agentmesh.uk/guides/furniture-layout-plan/es/
-- Français: Avant d’acheter des meubles, disposez-les sur un plan d’étage : le canapé, le lit et les armoires vont-ils tous rentrer ? https://agentmesh.uk/guides/furniture-layout-plan/fr/
-- Deutsch: Vor dem Kauf von Möbeln einmal auf einem Grundriss durchplanen: Passen Sofa, Bett und Schränke hinein? https://agentmesh.uk/guides/furniture-layout-plan/de/
-- 简体中文: 装修前怎么规划插座、灯具和水电位置？先画在平面图上 https://agentmesh.uk/guides/renovation-outlets-lighting/zh-Hans/
-- 日本語: リフォーム前に、コンセント・照明・給排水の位置を平面図で先に計画する https://agentmesh.uk/guides/renovation-outlets-lighting/ja/
-- 한국어: 리모델링 전에 콘센트, 조명, 배관 위치를 계획하는 법: 먼저 평면도에 그려 보세요 https://agentmesh.uk/guides/renovation-outlets-lighting/ko/
-- Español: ¿Cómo planear contactos, luminarias y ubicaciones de instalaciones antes de una remodelación? Primero dibújalos en el plano de planta https://agentmesh.uk/guides/renovation-outlets-lighting/es/
-- Français: Planifier les prises, les luminaires et la plomberie avant une rénovation : les tracer d'abord sur le plan d'étage https://agentmesh.uk/guides/renovation-outlets-lighting/fr/
-- Deutsch: Planung von Steckdosen, Leuchten und Wasserleitungen vor einer Renovierung: Zuerst im Grundriss festhalten https://agentmesh.uk/guides/renovation-outlets-lighting/de/
-- 简体中文: 下次月经什么时候来？周期长度怎么算 https://agentmesh.uk/guides/next-period-date/zh-Hans/
-- 日本語: 次の生理はいつ来る？周期の長さの数え方 https://agentmesh.uk/guides/next-period-date/ja/
-- 한국어: 다음 생리는 언제 시작할까요? 주기 길이 계산법 https://agentmesh.uk/guides/next-period-date/ko/
-- Español: ¿Cuándo llega mi próxima menstruación? Cómo calcular la duración de tu ciclo https://agentmesh.uk/guides/next-period-date/es/
-- Français: Quand sont mes prochaines règles ? Comment calculer la durée de mon cycle https://agentmesh.uk/guides/next-period-date/fr/
-- Deutsch: Wann ist meine nächste Periode? So berechnest du deine Zykluslänge https://agentmesh.uk/guides/next-period-date/de/
-- 简体中文: 看妇科前要准备什么？把经期记录整理成一份 https://agentmesh.uk/guides/period-record-for-doctor/zh-Hans/
-- 日本語: 婦人科を受診する前に準備すること：生理の記録を一か所にまとめましょう https://agentmesh.uk/guides/period-record-for-doctor/ja/
-- 한국어: 진료 전에 무엇을 준비해야 할까요? 생리 기록을 한곳에 정리하세요 https://agentmesh.uk/guides/period-record-for-doctor/ko/
-- Español: ¿Qué debes preparar antes de ir al ginecólogo? Reúne tus registros de periodo en un solo lugar https://agentmesh.uk/guides/period-record-for-doctor/es/
-- Français: Vous allez chez le gynécologue? Apportez vos dossiers de règles en un seul endroit https://agentmesh.uk/guides/period-record-for-doctor/fr/
-- Deutsch: Was muss ich vor dem Gynäkologen-Termin vorbereiten? Stelle deine Periodenaufzeichnungen an einem Ort zusammen https://agentmesh.uk/guides/period-record-for-doctor/de/
-- 简体中文: 植物多久浇一次水？与其固定天数，不如看土和记录 https://agentmesh.uk/guides/plant-watering-schedule/zh-Hans/
-- 日本語: 植物にはどのくらいの頻度で水をあげればよいですか？決まった日数よりも、土の状態を確認して記録しましょう https://agentmesh.uk/guides/plant-watering-schedule/ja/
-- 한국어: 식물에 얼마나 자주 물을 줘야 할까요? 고정된 일수보다 흙을 확인하고 기록을 남기세요 https://agentmesh.uk/guides/plant-watering-schedule/ko/
-- Español: ¿Cada cuánto debes regar una planta? Revisa la tierra y lleva un registro en lugar de seguir un calendario fijo https://agentmesh.uk/guides/plant-watering-schedule/es/
-- Français: Combien de fois faut-il arroser une plante? Vérifiez le sol et tenez un journal plutôt que de suivre un horaire fixe https://agentmesh.uk/guides/plant-watering-schedule/fr/
-- Deutsch: Wie oft sollte man eine Pflanze gießen? Lieber die Erde prüfen und ein Protokoll führen als einen festen Plan verwenden https://agentmesh.uk/guides/plant-watering-schedule/de/
-- 简体中文: 植物放哪里光线够？用手机相机比较家里各处亮度 https://agentmesh.uk/guides/plant-light-meter/zh-Hans/
-- 日本語: 植物はどこに置くと光が十分ですか？スマホのカメラで家の中の明るさを比べましょう https://agentmesh.uk/guides/plant-light-meter/ja/
-- 한국어: 식물을 어디에 두면 빛이 충분할까요? 휴대폰 카메라로 집 안 곳곳의 밝기를 비교해 보세요 https://agentmesh.uk/guides/plant-light-meter/ko/
-- Español: ¿Hay suficiente luz para tu planta? Compara lugares de tu casa con la cámara de tu teléfono https://agentmesh.uk/guides/plant-light-meter/es/
-- Français: Y a-t-il assez de lumière pour votre plante? Comparez les endroits de la maison avec l’appareil photo de votre téléphone https://agentmesh.uk/guides/plant-light-meter/fr/
-- Deutsch: Ist genug Licht für deine Pflanze da? Vergleiche Stellen in der Wohnung mit der Handykamera https://agentmesh.uk/guides/plant-light-meter/de/
-- 简体中文: 保修卡和发票怎么保存？拍下来、记下到期日、到期前提醒 https://agentmesh.uk/guides/warranty-receipts-reminder/zh-Hans/
-- 日本語: 保証書とレシートの保管方法：撮影し、期限を記録し、期限前にリマインド https://agentmesh.uk/guides/warranty-receipts-reminder/ja/
-- 한국어: 보증서와 영수증은 어떻게 보관하나요? 사진으로 찍고, 만료일을 기록하고, 만료 전에 알림 받기 https://agentmesh.uk/guides/warranty-receipts-reminder/ko/
-- Español: Cómo guardar garantías y recibos: captúralos, anota la fecha de vencimiento y recibe recordatorios https://agentmesh.uk/guides/warranty-receipts-reminder/es/
-- Français: Comment conserver les garanties et les reçus : prenez-les en photo, notez la date d'expiration, soyez rappelé avant l'échéance https://agentmesh.uk/guides/warranty-receipts-reminder/fr/
-- Deutsch: Wie bewahre ich Garantiekarten und Belege auf? Fotografieren, Ablaufdatum notieren, rechtzeitig vor Fristende erinnert werden https://agentmesh.uk/guides/warranty-receipts-reminder/de/
-- 简体中文: iPhone 麦克风或扬声器有点不对劲？先自己测一轮 https://agentmesh.uk/guides/iphone-microphone-speaker-test/zh-Hans/
-- 日本語: iPhoneのマイクやスピーカーの調子がおかしい？まずは自分でテスト https://agentmesh.uk/guides/iphone-microphone-speaker-test/ja/
-- 한국어: iPhone 마이크나 스피커가 이상한가요? 먼저 직접 테스트해 보세요 https://agentmesh.uk/guides/iphone-microphone-speaker-test/ko/
-- Español: ¿El micrófono o el altavoz del iPhone se comportan raro? Pruébalos tú primero https://agentmesh.uk/guides/iphone-microphone-speaker-test/es/
-- Français: Votre iPhone a un micro ou un haut-parleur qui fonctionne mal? Faites d’abord vos propres tests https://agentmesh.uk/guides/iphone-microphone-speaker-test/fr/
-- Deutsch: iPhone-Mikrofon oder Lautsprecher spinnt? Zuerst selbst testen https://agentmesh.uk/guides/iphone-microphone-speaker-test/de/
-- 简体中文: 怎样观看流星雨？无需望远镜，选对地点和时间即可 https://agentmesh.uk/guides/watch-meteor-shower/zh-Hans/
-- 日本語: 流星群の見方：望遠鏡はいらず、場所と時間を選ぶだけ https://agentmesh.uk/guides/watch-meteor-shower/ja/
-- 한국어: 유성우는 어떻게 볼까요? 망원경 없이, 알맞은 장소와 시간을 고르면 됩니다 https://agentmesh.uk/guides/watch-meteor-shower/ko/
-- Español: ¿Cómo ver una lluvia de meteoros? Sin telescopio, solo el lugar y la hora adecuados https://agentmesh.uk/guides/watch-meteor-shower/es/
-- Français: Comment observer une pluie de météores : pas besoin de télescope, seulement le bon endroit et le bon moment https://agentmesh.uk/guides/watch-meteor-shower/fr/
-- Deutsch: Wie beobachtet man einen Meteorschauer: kein Teleskop, nur der richtige Ort und die richtige Zeit https://agentmesh.uk/guides/watch-meteor-shower/de/
-- 简体中文: iPhone存储空间不足怎么办？先看是谁占用了空间 https://agentmesh.uk/guides/iphone-storage-full/zh-Hans/
-- 日本語: iPhoneのストレージがいっぱいですか？まずは何が容量を使っているか確認しましょう https://agentmesh.uk/guides/iphone-storage-full/ja/
-- 한국어: 아이폰 저장 공간이 거의 가득 찼나요? 먼저 무엇이 공간을 차지하고 있는지 확인하세요 https://agentmesh.uk/guides/iphone-storage-full/ko/
-- Español: ¿Poco espacio de almacenamiento en tu iPhone? Primero revisa qué lo está ocupando https://agentmesh.uk/guides/iphone-storage-full/es/
-- Français: Stockage de l'iPhone presque plein? Voyez d'abord ce qui occupe l'espace https://agentmesh.uk/guides/iphone-storage-full/fr/
-- Deutsch: iPhone-Speicher fast voll? Zuerst herausfinden, was den Platz belegt https://agentmesh.uk/guides/iphone-storage-full/de/
-- 简体中文: 卖掉或转送 iPhone 前要做什么？备份、退出登录、抹掉 https://agentmesh.uk/guides/before-selling-iphone/zh-Hans/
-- 日本語: 売却または譲渡の前にすること：バックアップ、サインアウト、消去 https://agentmesh.uk/guides/before-selling-iphone/ja/
-- 한국어: 아이폰을 팔거나 다른 사람에게 줄 때 해야 할 일: 백업, 로그아웃, 초기화 https://agentmesh.uk/guides/before-selling-iphone/ko/
-- Español: ¿Qué hacer antes de vender o regalar tu iPhone? Respalda, cierra sesión y borra https://agentmesh.uk/guides/before-selling-iphone/es/
-- Français: Que faire avant de vendre ou de donner votre iPhone : sauvegarder, se déconnecter, effacer https://agentmesh.uk/guides/before-selling-iphone/fr/
-- Deutsch: Was ist vor dem Verkauf oder der Weitergabe Ihres iPhones zu tun? Sichern, abmelden, löschen https://agentmesh.uk/guides/before-selling-iphone/de/
-- 简体中文: 用 iPhone 量房间和家具尺寸：“测距仪”怎么用 https://agentmesh.uk/guides/measure-room-iphone/zh-Hans/
-- 日本語: iPhoneで部屋や家具のサイズを測る：「計測」アプリの使い方 https://agentmesh.uk/guides/measure-room-iphone/ja/
-- 한국어: iPhone으로 방과 가구 치수 재기: 측정 앱 사용법 https://agentmesh.uk/guides/measure-room-iphone/ko/
-- Español: Mide habitaciones y muebles con el iPhone: cómo usar la app Medidor https://agentmesh.uk/guides/measure-room-iphone/es/
-- Français: Mesurer pièces et meubles avec l’iPhone : comment utiliser l’app Mesure https://agentmesh.uk/guides/measure-room-iphone/fr/
-- Deutsch: Räume und Möbel mit dem iPhone messen: So verwendest du die App „Measure“ https://agentmesh.uk/guides/measure-room-iphone/de/
-- 简体中文: iPhone 屏幕触控失灵、乱跳怎么办？ https://agentmesh.uk/guides/iphone-touchscreen-not-working/zh-Hans/
-- 한국어: iPhone 터치스크린이 반응하지 않거나 너무 민감한가요? https://agentmesh.uk/guides/iphone-touchscreen-not-working/ko/
-- Español: ¿La pantalla táctil del iPhone no responde o es demasiado sensible? https://agentmesh.uk/guides/iphone-touchscreen-not-working/es/
-- Français: iPhone : l’écran tactile ne répond pas ou est trop sensible ? https://agentmesh.uk/guides/iphone-touchscreen-not-working/fr/
-- Deutsch: iPhone-Touchscreen reagiert nicht oder ist zu empfindlich? https://agentmesh.uk/guides/iphone-touchscreen-not-working/de/
-- 简体中文: iPhone 扬声器没声音或有杂音？先检查这几件事 https://agentmesh.uk/guides/iphone-speaker-no-sound/zh-Hans/
-- 日本語: iPhoneのスピーカーから音が出ない、または雑音がする場合は、まず以下の点を確認してください https://agentmesh.uk/guides/iphone-speaker-no-sound/ja/
-- 한국어: 아이폰 스피커에서 소리가 나지 않거나 소리가 찌그러지나요? 먼저 이것들을 확인하세요 https://agentmesh.uk/guides/iphone-speaker-no-sound/ko/
-- Français: Le haut-parleur de votre iPhone ne produit aucun son ou un son déformé ? Vérifiez d'abord ces points https://agentmesh.uk/guides/iphone-speaker-no-sound/fr/
-- Deutsch: iPhone-Lautsprecher ohne Ton oder mit Störgeräuschen? Prüfe zuerst diese Punkte https://agentmesh.uk/guides/iphone-speaker-no-sound/de/
-- 简体中文: iPhone 无法充电或充到 80% 就停止？ https://agentmesh.uk/guides/iphone-wont-charge/zh-Hans/
-- 日本語: iPhoneが充電できない、または80%で止まりますか？ https://agentmesh.uk/guides/iphone-wont-charge/ja/
-- 한국어: iPhone이 충전되지 않거나 80%에서 멈추나요? https://agentmesh.uk/guides/iphone-wont-charge/ko/
-- Español: ¿El iPhone no carga o se detiene en 80%? https://agentmesh.uk/guides/iphone-wont-charge/es/
-- Français: L'iPhone ne se recharge pas, ou s'arrête à 80 % ? https://agentmesh.uk/guides/iphone-wont-charge/fr/
-- Deutsch: iPhone lädt nicht oder stoppt bei 80 %? https://agentmesh.uk/guides/iphone-wont-charge/de/
-- 简体中文: iPhone 发烫正常吗？什么时候该担心 https://agentmesh.uk/guides/iphone-too-hot/zh-Hans/
-- 日本語: iPhoneが熱くなるのは正常？注意が必要な場合 https://agentmesh.uk/guides/iphone-too-hot/ja/
-- 한국어: iPhone이 뜨거워지는 것은 정상인가요? 언제 걱정해야 할까요? https://agentmesh.uk/guides/iphone-too-hot/ko/
-- Español: ¿Es normal que un iPhone se caliente? Cuándo preocuparse https://agentmesh.uk/guides/iphone-too-hot/es/
-- Français: Est-il normal qu’un iPhone chauffe ? Quand s’en inquiéter https://agentmesh.uk/guides/iphone-too-hot/fr/
-- 简体中文: 换新 iPhone 怎么转移数据？“快速开始”步骤 https://agentmesh.uk/guides/transfer-to-new-iphone/zh-Hans/
-- 日本語: iPhoneを買い替えたらデータはどう移す？「クイックスタート」の手順 https://agentmesh.uk/guides/transfer-to-new-iphone/ja/
-- 한국어: iPhone을 새로 바꿀 때 데이터는 어떻게 옮기나요? '빠른 시작' 단계별 안내 https://agentmesh.uk/guides/transfer-to-new-iphone/ko/
-- Español: Cambiar a un nuevo iPhone: cómo transferir tus datos con «Inicio rápido» paso a paso https://agentmesh.uk/guides/transfer-to-new-iphone/es/
-- Français: Passer à un nouvel iPhone : comment transférer vos données avec « Démarrage rapide » https://agentmesh.uk/guides/transfer-to-new-iphone/fr/
-- Deutsch: Wechsel zu einem neuen iPhone: Schritt für Schritt mit „Schnellstart“ https://agentmesh.uk/guides/transfer-to-new-iphone/de/
-- 简体中文: 怎么知道自己的 iPhone 是哪一款？用型号查 https://agentmesh.uk/guides/identify-iphone-model/zh-Hans/
-- 日本語: iPhoneの機種はどうやって確認する？型番で調べる https://agentmesh.uk/guides/identify-iphone-model/ja/
-- 한국어: 내가 가진 iPhone은 어떤 모델일까? 모델 번호로 찾아보기 https://agentmesh.uk/guides/identify-iphone-model/ko/
-- Español: ¿Qué iPhone tengo? Búscalo por número de modelo https://agentmesh.uk/guides/identify-iphone-model/es/
-- Français: Quel iPhone ai-je? Recherchez-le par numéro de modèle https://agentmesh.uk/guides/identify-iphone-model/fr/
-- Deutsch: Welches iPhone habe ich? Anhand der Modellnummer nachschlagen https://agentmesh.uk/guides/identify-iphone-model/de/
-- 简体中文: iPhone耗电很快？先看“电池”设置中的这几项 https://agentmesh.uk/guides/iphone-battery-drains-fast/zh-Hans/
-- 한국어: iPhone 배터리가 빨리 닳나요? 배터리 설정에서 다음 항목을 확인하세요 https://agentmesh.uk/guides/iphone-battery-drains-fast/ko/
-- Español: ¿Tu iPhone se descarga muy rápido? Revisa estos ajustes en la configuración de Batería https://agentmesh.uk/guides/iphone-battery-drains-fast/es/
-- Français: Votre iPhone consomme-t-il trop vite sa batterie? Vérifiez ces éléments dans les réglages de la batterie https://agentmesh.uk/guides/iphone-battery-drains-fast/fr/
-- Deutsch: iPhone-Akku entlädt sich schnell? Diese Punkte in den Akku-Einstellungen prüfen https://agentmesh.uk/guides/iphone-battery-drains-fast/de/
-- 简体中文: Face ID 无法使用怎么办？按顺序排查 https://agentmesh.uk/guides/face-id-not-working/zh-Hans/
-- 日本語: Face ID が使えない？順番に確認しましょう https://agentmesh.uk/guides/face-id-not-working/ja/
-- 한국어: Face ID가 작동하지 않나요? 순서대로 문제를 해결하세요 https://agentmesh.uk/guides/face-id-not-working/ko/
-- Español: ¿Face ID no funciona? Resuélvelo siguiendo el orden https://agentmesh.uk/guides/face-id-not-working/es/
-- Français: Face ID ne fonctionne pas ? Dépannage étape par étape https://agentmesh.uk/guides/face-id-not-working/fr/
-- 简体中文: iPhone显示“无服务”或“SOS”？修复蜂窝网络问题 https://agentmesh.uk/guides/iphone-no-cellular/zh-Hans/
-- 日本語: iPhoneに「圏外」や「SOS」と表示されますか？モバイル通信の問題を解決 https://agentmesh.uk/guides/iphone-no-cellular/ja/
-- 한국어: iPhone에 '서비스 없음' 또는 'SOS'가 표시되나요? 셀룰러 문제 해결하기 https://agentmesh.uk/guides/iphone-no-cellular/ko/
-- Español: ¿El iPhone muestra «Sin servicio» o «SOS»? Solución de problemas de señal celular https://agentmesh.uk/guides/iphone-no-cellular/es/
-- Français: iPhone affiche « Pas de service » ou « SOS » ? Résoudre les problèmes cellulaires https://agentmesh.uk/guides/iphone-no-cellular/fr/
-- Deutsch: Zeigt dein iPhone „Kein Dienst“ oder „SOS“? Mobilfunkprobleme beheben https://agentmesh.uk/guides/iphone-no-cellular/de/
-- 简体中文: 用 iPhone 扫描文件：备忘录和文件 App 都可以 https://agentmesh.uk/guides/scan-documents-iphone/zh-Hans/
-- 日本語: iPhoneで書類をスキャン：メモとファイルのAppで可能 https://agentmesh.uk/guides/scan-documents-iphone/ja/
-- 한국어: iPhone으로 문서 스캔하기: 메모 앱과 파일 앱 모두 가능 https://agentmesh.uk/guides/scan-documents-iphone/ko/
-- Español: Escanea documentos con el iPhone: en la app Notas o Archivos https://agentmesh.uk/guides/scan-documents-iphone/es/
-- Deutsch: Dokumente mit dem iPhone scannen: in Notizen oder Dateien https://agentmesh.uk/guides/scan-documents-iphone/de/
-- 简体中文: 在 iPhone「照片」里找旧截图：用文字和日期搜索 https://agentmesh.uk/guides/find-old-screenshots/zh-Hans/
-- 日本語: iPhoneの「写真」で古いスクリーンショットを探す：テキストと日付で検索 https://agentmesh.uk/guides/find-old-screenshots/ja/
-- 한국어: iPhone 사진에서 예전 스크린샷 찾기: 텍스트와 날짜로 검색 https://agentmesh.uk/guides/find-old-screenshots/ko/
-- Español: Encuentra capturas antiguas en Fotos del iPhone: busca por texto y fecha https://agentmesh.uk/guides/find-old-screenshots/es/
-- Français: Retrouver d'anciennes captures d'écran dans Photos de l'iPhone : rechercher par texte et par date https://agentmesh.uk/guides/find-old-screenshots/fr/
-- Deutsch: So finden Sie alte Screenshots in der iPhone-App „Fotos“: Suche nach Text und Datum https://agentmesh.uk/guides/find-old-screenshots/de/
-- 简体中文: 怎样把票券、登机牌加到 Apple 钱包？ https://agentmesh.uk/guides/wallet-passes/zh-Hans/
-- 日本語: Apple ウォレットにチケットや搭乗券を追加するには？ https://agentmesh.uk/guides/wallet-passes/ja/
-- 한국어: Apple 월렛에 티켓과 탑승권을 추가하는 방법은? https://agentmesh.uk/guides/wallet-passes/ko/
-- Español: ¿Cómo agregar boletos y pases de abordar a Apple Wallet? https://agentmesh.uk/guides/wallet-passes/es/
-- Français: Comment ajouter des billets et cartes d'embarquement à Apple Wallet ? https://agentmesh.uk/guides/wallet-passes/fr/
-- Deutsch: Wie füge ich Tickets und Bordkarten zu Apple Wallet hinzu? https://agentmesh.uk/guides/wallet-passes/de/
-- 简体中文: 挂画怕挂歪？用 iPhone「测距仪」的水平仪 https://agentmesh.uk/guides/iphone-level-hang-picture/zh-Hans/
-- 日本語: 壁掛けの絵が傾かないように？iPhoneの「計測」の水平器を使う https://agentmesh.uk/guides/iphone-level-hang-picture/ja/
-- 한국어: 벽에 그림을 걸 때 삐뚤어질까 걱정되나요? iPhone의 '측정' 앱에 있는 수평계를 사용하세요. https://agentmesh.uk/guides/iphone-level-hang-picture/ko/
-- Español: ¿Te preocupa que el cuadro quede torcido? Usa el nivel de burbuja de la app Medidor del iPhone https://agentmesh.uk/guides/iphone-level-hang-picture/es/
-- Français: Accrochage de tableau bien droit ? Utilisez le niveau à bulle de l'app Mesure de l'iPhone https://agentmesh.uk/guides/iphone-level-hang-picture/fr/
-- Deutsch: Hängt das Bild schief? Mit der Wasserwaage der Measure-App auf dem iPhone https://agentmesh.uk/guides/iphone-level-hang-picture/de/
-- 简体中文: 用 iPhone「健康」App 记录经期：经期追踪怎么开 https://agentmesh.uk/guides/health-cycle-tracking/zh-Hans/
-- 日本語: iPhoneの「ヘルスケア」Appで生理を記録する：周期の記録を始める方法 https://agentmesh.uk/guides/health-cycle-tracking/ja/
-- 한국어: iPhone 건강 앱으로 생리 기록하기: 생리 주기 추적 설정 방법 https://agentmesh.uk/guides/health-cycle-tracking/ko/
-- Deutsch: Verfolge deine Periode in der iPhone-Health-App https://agentmesh.uk/guides/health-cycle-tracking/de/
-- 简体中文: 能否拍照识别植物名称？iPhone「视觉查询」的使用方法 https://agentmesh.uk/guides/identify-plants-visual-look-up/zh-Hans/
-- 日本語: 写真で植物の名前がわかる？iPhoneの「ビジュアルルックアップ」の使い方 https://agentmesh.uk/guides/identify-plants-visual-look-up/ja/
-- 한국어: 사진만 찍으면 식물 이름을 알 수 있을까요? iPhone '시각적 검색'을 사용하는 방법 https://agentmesh.uk/guides/identify-plants-visual-look-up/ko/
-- Español: ¿Identificar una planta con una foto? Cómo usar «Búsqueda visual» en iPhone https://agentmesh.uk/guides/identify-plants-visual-look-up/es/
-- Français: Identifier une plante à partir d’une photo avec la fonction Recherche visuelle de l’iPhone https://agentmesh.uk/guides/identify-plants-visual-look-up/fr/
-- Deutsch: Pflanzen mit dem Foto bestimmen? So nutzt du die „Visuelle Suche“ am iPhone https://agentmesh.uk/guides/identify-plants-visual-look-up/de/
+- [简体中文: 买二手 iPhone 要检查什么？当面验机清单](https://agentmesh.uk/guides/used-iphone-checklist/zh-Hans/)
+- [日本語: 中古のiPhoneを買うときに確認すべきこと：対面チェックリスト](https://agentmesh.uk/guides/used-iphone-checklist/ja/)
+- [한국어: 중고 iPhone을 살 때 무엇을 확인해야 할까요? 현장 기기 점검 체크리스트](https://agentmesh.uk/guides/used-iphone-checklist/ko/)
+- [Español: ¿Qué revisar al comprar un iPhone usado? Lista de verificación en persona](https://agentmesh.uk/guides/used-iphone-checklist/es/)
+- [Français: Quoi vérifier avant d'acheter un iPhone d'occasion ? Liste de contrôle en personne](https://agentmesh.uk/guides/used-iphone-checklist/fr/)
+- [Deutsch: Was ist beim Kauf eines gebrauchten iPhones zu prüfen? Eine persönliche Prüfliste für das Treffen vor Ort](https://agentmesh.uk/guides/used-iphone-checklist/de/)
+- [简体中文: iPhone 电池健康度怎么看？什么时候该换电池](https://agentmesh.uk/guides/iphone-battery-health/zh-Hans/)
+- [日本語: iPhoneのバッテリー健康度の確認方法と、電池交換の目安](https://agentmesh.uk/guides/iphone-battery-health/ja/)
+- [한국어: iPhone 배터리 건강 상태 확인 방법과 배터리를 교체해야 할 때](https://agentmesh.uk/guides/iphone-battery-health/ko/)
+- [Español: ¿Cómo revisar la salud de la batería del iPhone y cuándo cambiarla?](https://agentmesh.uk/guides/iphone-battery-health/es/)
+- [Français: Comment vérifier la santé de la batterie de l'iPhone et quand la remplacer](https://agentmesh.uk/guides/iphone-battery-health/fr/)
+- [Deutsch: Wie prüfe ich die Akkugesundheit des iPhones und wann sollte ich den Akku ersetzen?](https://agentmesh.uk/guides/iphone-battery-health/de/)
+- [简体中文: iPhone 充电很慢？怎么确认充电器和线材够不够快](https://agentmesh.uk/guides/iphone-charging-speed/zh-Hans/)
+- [日本語: iPhoneの充電が遅い？充電器とケーブルが十分に速いか確認する方法](https://agentmesh.uk/guides/iphone-charging-speed/ja/)
+- [한국어: iPhone 충전이 느린가요? 충전기와 케이블이 충분히 빠른지 확인하는 방법](https://agentmesh.uk/guides/iphone-charging-speed/ko/)
+- [Español: ¿Tu iPhone carga lento? Cómo comprobar si tu cargador y cable son lo suficientemente rápidos](https://agentmesh.uk/guides/iphone-charging-speed/es/)
+- [Français: Le iPhone charge lentement? Comment vérifier si votre chargeur et votre câble sont assez rapides](https://agentmesh.uk/guides/iphone-charging-speed/fr/)
+- [Deutsch: iPhone lädt langsam? So prüfst du, ob Ladegerät und Kabel schnell genug sind](https://agentmesh.uk/guides/iphone-charging-speed/de/)
+- [简体中文: iPhone 截图太多怎么整理？订位、收据、食谱一次分好类](https://agentmesh.uk/guides/organize-screenshots/zh-Hans/)
+- [日本語: iPhoneのスクショが多すぎる？予約、レシート、レシピを一度に分類](https://agentmesh.uk/guides/organize-screenshots/ja/)
+- [한국어: iPhone 스크린샷이 너무 많나요? 예약, 영수증, 레시피를 한 번에 분류하세요](https://agentmesh.uk/guides/organize-screenshots/ko/)
+- [Español: ¿Demasiadas capturas de pantalla en tu iPhone? Organiza reservas, recibos y recetas de una vez](https://agentmesh.uk/guides/organize-screenshots/es/)
+- [Français: Trop de captures d'écran sur iPhone ? Triez les réservations, reçus et recettes d'un coup](https://agentmesh.uk/guides/organize-screenshots/fr/)
+- [Deutsch: Zu viele iPhone-Screenshots? Buchungen, Belege und Rezepte auf einmal sortieren](https://agentmesh.uk/guides/organize-screenshots/de/)
+- [简体中文: 收据和电子发票怎么保存，月底报销不手忙脚乱](https://agentmesh.uk/guides/receipts-for-expenses/zh-Hans/)
+- [日本語: 領収書と電子インボイスの保存方法で、月末の経費精算も慌てない](https://agentmesh.uk/guides/receipts-for-expenses/ja/)
+- [한국어: 영수증과 전자 세금계산서를 어떻게 보관하면 월말 경비 정산이 수월한지](https://agentmesh.uk/guides/receipts-for-expenses/ko/)
+- [Español: Cómo guardar recibos y facturas electrónicas para que los gastos del fin de mes sean fáciles](https://agentmesh.uk/guides/receipts-for-expenses/es/)
+- [Français: Comment conserver reçus et factures électroniques pour que les notes de frais de fin de mois soient faciles](https://agentmesh.uk/guides/receipts-for-expenses/fr/)
+- [Deutsch: Belege und E-Rechnungen richtig aufbewahren, damit die Monatsabrechnung nicht zur Hektik wird](https://agentmesh.uk/guides/receipts-for-expenses/de/)
+- [简体中文: 用 iPhone 量房间、画平面图：LiDAR 扫描与手动绘制](https://agentmesh.uk/guides/iphone-floor-plan/zh-Hans/)
+- [日本語: iPhoneで部屋を測り、間取り図を作成：LiDARスキャンと手動描画](https://agentmesh.uk/guides/iphone-floor-plan/ja/)
+- [한국어: iPhone으로 방 측정하고 평면도 그리기: LiDAR 스캔 또는 직접 그리기](https://agentmesh.uk/guides/iphone-floor-plan/ko/)
+- [Español: Mide una habitación y dibuja un plano con tu iPhone: escaneo LiDAR o a mano](https://agentmesh.uk/guides/iphone-floor-plan/es/)
+- [Français: Mesurer une pièce et dessiner un plan avec l’iPhone : numérisation LiDAR ou tracé à la main](https://agentmesh.uk/guides/iphone-floor-plan/fr/)
+- [Deutsch: Raum vermessen und Grundriss zeichnen mit dem iPhone: LiDAR-Scan oder von Hand](https://agentmesh.uk/guides/iphone-floor-plan/de/)
+- [简体中文: 怎么用肉眼看到国际空间站？时间、方位与观看技巧](https://agentmesh.uk/guides/see-the-iss/zh-Hans/)
+- [日本語: どうすれば国際宇宙ステーションを肉眼で見られるか？時刻、方位、観察のコツ](https://agentmesh.uk/guides/see-the-iss/ja/)
+- [한국어: 육안으로 국제우주정거장을 보는 방법: 시간, 방위, 관측 요령](https://agentmesh.uk/guides/see-the-iss/ko/)
+- [Español: ¿Cómo ver la Estación Espacial Internacional con tus propios ojos? Horarios, dirección y consejos de observación](https://agentmesh.uk/guides/see-the-iss/es/)
+- [Français: Comment voir la Station spatiale internationale à l’œil nu ? Heure, direction et conseils d’observation](https://agentmesh.uk/guides/see-the-iss/fr/)
+- [Deutsch: Wie man die Internationale Raumstation mit bloßem Auge sieht: Uhrzeit, Richtung und Beobachtungstipps](https://agentmesh.uk/guides/see-the-iss/de/)
+- [简体中文: 用手机认星星：新手观星的四个步骤](https://agentmesh.uk/guides/stargazing-with-phone/zh-Hans/)
+- [日本語: スマホで星を見分ける：初心者のための4つのステップ](https://agentmesh.uk/guides/stargazing-with-phone/ja/)
+- [한국어: 휴대폰으로 별 찾기: 초보 관측자를 위한 네 단계](https://agentmesh.uk/guides/stargazing-with-phone/ko/)
+- [Español: Identifica estrellas con tu teléfono: cuatro pasos para principiantes en la observación de estrellas](https://agentmesh.uk/guides/stargazing-with-phone/es/)
+- [Français: Identifiez les étoiles avec votre téléphone : quatre étapes pour les débutants](https://agentmesh.uk/guides/stargazing-with-phone/fr/)
+- [Deutsch: Sterne mit dem Telefon erkennen: vier Schritte für Einsteiger](https://agentmesh.uk/guides/stargazing-with-phone/de/)
+- [简体中文: 选择经期记录应用要注意什么？隐私、预测与导出](https://agentmesh.uk/guides/period-tracker-privacy/zh-Hans/)
+- [日本語: 生理記録アプリを選ぶときの注意点：プライバシー、予測、エクスポート](https://agentmesh.uk/guides/period-tracker-privacy/ja/)
+- [한국어: 생리 기록 앱을 고를 때 주의할 점: 개인정보, 예측, 내보내기](https://agentmesh.uk/guides/period-tracker-privacy/ko/)
+- [Español: ¿Qué debes tener en cuenta al elegir una app de seguimiento menstrual? Privacidad, predicciones y exportación](https://agentmesh.uk/guides/period-tracker-privacy/es/)
+- [Français: Choisir une appli de suivi des règles : confidentialité, prévisions et exportation](https://agentmesh.uk/guides/period-tracker-privacy/fr/)
+- [Deutsch: Periodenkalender-App wählen: Datenschutz, Vorhersagen und Export](https://agentmesh.uk/guides/period-tracker-privacy/de/)
+- [简体中文: 如何用照片日志记录植物生长？用照片日记养好每一盆植物](https://agentmesh.uk/guides/plant-care-journal/zh-Hans/)
+- [日本語: 植物の写真日誌をつける方法：写真で一鉢ずつ大切に育てる](https://agentmesh.uk/guides/plant-care-journal/ja/)
+- [한국어: 식물 성장을 어떻게 기록할까요? 사진 일지로 화분 하나하나를 잘 가꾸세요](https://agentmesh.uk/guides/plant-care-journal/ko/)
+- [Español: ¿Cómo llevar un diario de plantas con fotos?](https://agentmesh.uk/guides/plant-care-journal/es/)
+- [Français: Comment tenir un journal de plantes avec des photos ? Prenez soin de chacune de vos plantes grâce à un journal photo.](https://agentmesh.uk/guides/plant-care-journal/fr/)
+- [Deutsch: Wie führt man ein Pflanzentagebuch mit Fotos?](https://agentmesh.uk/guides/plant-care-journal/de/)
+- [简体中文: 买家具前先排一次：用平面图确认沙发、床与柜子放不放得下](https://agentmesh.uk/guides/furniture-layout-plan/zh-Hans/)
+- [日本語: 家具を購入する前に、間取り図に配置してみましょう。ソファ、ベッド、キャビネットは収まるでしょうか？](https://agentmesh.uk/guides/furniture-layout-plan/ja/)
+- [한국어: 가구를 사기 전에 먼저 한 번 배치해 보세요: 평면도로 소파, 침대, 수납장이 들어갈지 확인하세요.](https://agentmesh.uk/guides/furniture-layout-plan/ko/)
+- [Español: Antes de comprar muebles, colócalos en un plano de planta: ¿cabrán el sofá, la cama y los muebles de almacenaje?](https://agentmesh.uk/guides/furniture-layout-plan/es/)
+- [Français: Avant d’acheter des meubles, disposez-les sur un plan d’étage : le canapé, le lit et les armoires vont-ils tous rentrer ?](https://agentmesh.uk/guides/furniture-layout-plan/fr/)
+- [Deutsch: Vor dem Kauf von Möbeln einmal auf einem Grundriss durchplanen: Passen Sofa, Bett und Schränke hinein?](https://agentmesh.uk/guides/furniture-layout-plan/de/)
+- [简体中文: 装修前怎么规划插座、灯具和水电位置？先画在平面图上](https://agentmesh.uk/guides/renovation-outlets-lighting/zh-Hans/)
+- [日本語: リフォーム前に、コンセント・照明・給排水の位置を平面図で先に計画する](https://agentmesh.uk/guides/renovation-outlets-lighting/ja/)
+- [한국어: 리모델링 전에 콘센트, 조명, 배관 위치를 계획하는 법: 먼저 평면도에 그려 보세요](https://agentmesh.uk/guides/renovation-outlets-lighting/ko/)
+- [Español: ¿Cómo planear contactos, luminarias y ubicaciones de instalaciones antes de una remodelación? Primero dibújalos en el plano de planta](https://agentmesh.uk/guides/renovation-outlets-lighting/es/)
+- [Français: Planifier les prises, les luminaires et la plomberie avant une rénovation : les tracer d'abord sur le plan d'étage](https://agentmesh.uk/guides/renovation-outlets-lighting/fr/)
+- [Deutsch: Planung von Steckdosen, Leuchten und Wasserleitungen vor einer Renovierung: Zuerst im Grundriss festhalten](https://agentmesh.uk/guides/renovation-outlets-lighting/de/)
+- [简体中文: 下次月经什么时候来？周期长度怎么算](https://agentmesh.uk/guides/next-period-date/zh-Hans/)
+- [日本語: 次の生理はいつ来る？周期の長さの数え方](https://agentmesh.uk/guides/next-period-date/ja/)
+- [한국어: 다음 생리는 언제 시작할까요? 주기 길이 계산법](https://agentmesh.uk/guides/next-period-date/ko/)
+- [Español: ¿Cuándo llega mi próxima menstruación? Cómo calcular la duración de tu ciclo](https://agentmesh.uk/guides/next-period-date/es/)
+- [Français: Quand sont mes prochaines règles ? Comment calculer la durée de mon cycle](https://agentmesh.uk/guides/next-period-date/fr/)
+- [Deutsch: Wann ist meine nächste Periode? So berechnest du deine Zykluslänge](https://agentmesh.uk/guides/next-period-date/de/)
+- [简体中文: 看妇科前要准备什么？把经期记录整理成一份](https://agentmesh.uk/guides/period-record-for-doctor/zh-Hans/)
+- [日本語: 婦人科を受診する前に準備すること：生理の記録を一か所にまとめましょう](https://agentmesh.uk/guides/period-record-for-doctor/ja/)
+- [한국어: 진료 전에 무엇을 준비해야 할까요? 생리 기록을 한곳에 정리하세요](https://agentmesh.uk/guides/period-record-for-doctor/ko/)
+- [Español: ¿Qué debes preparar antes de ir al ginecólogo? Reúne tus registros de periodo en un solo lugar](https://agentmesh.uk/guides/period-record-for-doctor/es/)
+- [Français: Vous allez chez le gynécologue? Apportez vos dossiers de règles en un seul endroit](https://agentmesh.uk/guides/period-record-for-doctor/fr/)
+- [Deutsch: Was muss ich vor dem Gynäkologen-Termin vorbereiten? Stelle deine Periodenaufzeichnungen an einem Ort zusammen](https://agentmesh.uk/guides/period-record-for-doctor/de/)
+- [简体中文: 植物多久浇一次水？与其固定天数，不如看土和记录](https://agentmesh.uk/guides/plant-watering-schedule/zh-Hans/)
+- [日本語: 植物にはどのくらいの頻度で水をあげればよいですか？決まった日数よりも、土の状態を確認して記録しましょう](https://agentmesh.uk/guides/plant-watering-schedule/ja/)
+- [한국어: 식물에 얼마나 자주 물을 줘야 할까요? 고정된 일수보다 흙을 확인하고 기록을 남기세요](https://agentmesh.uk/guides/plant-watering-schedule/ko/)
+- [Español: ¿Cada cuánto debes regar una planta? Revisa la tierra y lleva un registro en lugar de seguir un calendario fijo](https://agentmesh.uk/guides/plant-watering-schedule/es/)
+- [Français: Combien de fois faut-il arroser une plante? Vérifiez le sol et tenez un journal plutôt que de suivre un horaire fixe](https://agentmesh.uk/guides/plant-watering-schedule/fr/)
+- [Deutsch: Wie oft sollte man eine Pflanze gießen? Lieber die Erde prüfen und ein Protokoll führen als einen festen Plan verwenden](https://agentmesh.uk/guides/plant-watering-schedule/de/)
+- [简体中文: 植物放哪里光线够？用手机相机比较家里各处亮度](https://agentmesh.uk/guides/plant-light-meter/zh-Hans/)
+- [日本語: 植物はどこに置くと光が十分ですか？スマホのカメラで家の中の明るさを比べましょう](https://agentmesh.uk/guides/plant-light-meter/ja/)
+- [한국어: 식물을 어디에 두면 빛이 충분할까요? 휴대폰 카메라로 집 안 곳곳의 밝기를 비교해 보세요](https://agentmesh.uk/guides/plant-light-meter/ko/)
+- [Español: ¿Hay suficiente luz para tu planta? Compara lugares de tu casa con la cámara de tu teléfono](https://agentmesh.uk/guides/plant-light-meter/es/)
+- [Français: Y a-t-il assez de lumière pour votre plante? Comparez les endroits de la maison avec l’appareil photo de votre téléphone](https://agentmesh.uk/guides/plant-light-meter/fr/)
+- [Deutsch: Ist genug Licht für deine Pflanze da? Vergleiche Stellen in der Wohnung mit der Handykamera](https://agentmesh.uk/guides/plant-light-meter/de/)
+- [简体中文: 保修卡和发票怎么保存？拍下来、记下到期日、到期前提醒](https://agentmesh.uk/guides/warranty-receipts-reminder/zh-Hans/)
+- [日本語: 保証書とレシートの保管方法：撮影し、期限を記録し、期限前にリマインド](https://agentmesh.uk/guides/warranty-receipts-reminder/ja/)
+- [한국어: 보증서와 영수증은 어떻게 보관하나요? 사진으로 찍고, 만료일을 기록하고, 만료 전에 알림 받기](https://agentmesh.uk/guides/warranty-receipts-reminder/ko/)
+- [Español: Cómo guardar garantías y recibos: captúralos, anota la fecha de vencimiento y recibe recordatorios](https://agentmesh.uk/guides/warranty-receipts-reminder/es/)
+- [Français: Comment conserver les garanties et les reçus : prenez-les en photo, notez la date d'expiration, soyez rappelé avant l'échéance](https://agentmesh.uk/guides/warranty-receipts-reminder/fr/)
+- [Deutsch: Wie bewahre ich Garantiekarten und Belege auf? Fotografieren, Ablaufdatum notieren, rechtzeitig vor Fristende erinnert werden](https://agentmesh.uk/guides/warranty-receipts-reminder/de/)
+- [简体中文: iPhone 麦克风或扬声器有点不对劲？先自己测一轮](https://agentmesh.uk/guides/iphone-microphone-speaker-test/zh-Hans/)
+- [日本語: iPhoneのマイクやスピーカーの調子がおかしい？まずは自分でテスト](https://agentmesh.uk/guides/iphone-microphone-speaker-test/ja/)
+- [한국어: iPhone 마이크나 스피커가 이상한가요? 먼저 직접 테스트해 보세요](https://agentmesh.uk/guides/iphone-microphone-speaker-test/ko/)
+- [Español: ¿El micrófono o el altavoz del iPhone se comportan raro? Pruébalos tú primero](https://agentmesh.uk/guides/iphone-microphone-speaker-test/es/)
+- [Français: Votre iPhone a un micro ou un haut-parleur qui fonctionne mal? Faites d’abord vos propres tests](https://agentmesh.uk/guides/iphone-microphone-speaker-test/fr/)
+- [Deutsch: iPhone-Mikrofon oder Lautsprecher spinnt? Zuerst selbst testen](https://agentmesh.uk/guides/iphone-microphone-speaker-test/de/)
+- [简体中文: 怎样观看流星雨？无需望远镜，选对地点和时间即可](https://agentmesh.uk/guides/watch-meteor-shower/zh-Hans/)
+- [日本語: 流星群の見方：望遠鏡はいらず、場所と時間を選ぶだけ](https://agentmesh.uk/guides/watch-meteor-shower/ja/)
+- [한국어: 유성우는 어떻게 볼까요? 망원경 없이, 알맞은 장소와 시간을 고르면 됩니다](https://agentmesh.uk/guides/watch-meteor-shower/ko/)
+- [Español: ¿Cómo ver una lluvia de meteoros? Sin telescopio, solo el lugar y la hora adecuados](https://agentmesh.uk/guides/watch-meteor-shower/es/)
+- [Français: Comment observer une pluie de météores : pas besoin de télescope, seulement le bon endroit et le bon moment](https://agentmesh.uk/guides/watch-meteor-shower/fr/)
+- [Deutsch: Wie beobachtet man einen Meteorschauer: kein Teleskop, nur der richtige Ort und die richtige Zeit](https://agentmesh.uk/guides/watch-meteor-shower/de/)
+- [简体中文: iPhone存储空间不足怎么办？先看是谁占用了空间](https://agentmesh.uk/guides/iphone-storage-full/zh-Hans/)
+- [日本語: iPhoneのストレージがいっぱいですか？まずは何が容量を使っているか確認しましょう](https://agentmesh.uk/guides/iphone-storage-full/ja/)
+- [한국어: 아이폰 저장 공간이 거의 가득 찼나요? 먼저 무엇이 공간을 차지하고 있는지 확인하세요](https://agentmesh.uk/guides/iphone-storage-full/ko/)
+- [Español: ¿Poco espacio de almacenamiento en tu iPhone? Primero revisa qué lo está ocupando](https://agentmesh.uk/guides/iphone-storage-full/es/)
+- [Français: Stockage de l'iPhone presque plein? Voyez d'abord ce qui occupe l'espace](https://agentmesh.uk/guides/iphone-storage-full/fr/)
+- [Deutsch: iPhone-Speicher fast voll? Zuerst herausfinden, was den Platz belegt](https://agentmesh.uk/guides/iphone-storage-full/de/)
+- [简体中文: 卖掉或转送 iPhone 前要做什么？备份、退出登录、抹掉](https://agentmesh.uk/guides/before-selling-iphone/zh-Hans/)
+- [日本語: 売却または譲渡の前にすること：バックアップ、サインアウト、消去](https://agentmesh.uk/guides/before-selling-iphone/ja/)
+- [한국어: 아이폰을 팔거나 다른 사람에게 줄 때 해야 할 일: 백업, 로그아웃, 초기화](https://agentmesh.uk/guides/before-selling-iphone/ko/)
+- [Español: ¿Qué hacer antes de vender o regalar tu iPhone? Respalda, cierra sesión y borra](https://agentmesh.uk/guides/before-selling-iphone/es/)
+- [Français: Que faire avant de vendre ou de donner votre iPhone : sauvegarder, se déconnecter, effacer](https://agentmesh.uk/guides/before-selling-iphone/fr/)
+- [Deutsch: Was ist vor dem Verkauf oder der Weitergabe Ihres iPhones zu tun? Sichern, abmelden, löschen](https://agentmesh.uk/guides/before-selling-iphone/de/)
+- [简体中文: 用 iPhone 量房间和家具尺寸：“测距仪”怎么用](https://agentmesh.uk/guides/measure-room-iphone/zh-Hans/)
+- [日本語: iPhoneで部屋や家具のサイズを測る：「計測」アプリの使い方](https://agentmesh.uk/guides/measure-room-iphone/ja/)
+- [한국어: iPhone으로 방과 가구 치수 재기: 측정 앱 사용법](https://agentmesh.uk/guides/measure-room-iphone/ko/)
+- [Español: Mide habitaciones y muebles con el iPhone: cómo usar la app Medidor](https://agentmesh.uk/guides/measure-room-iphone/es/)
+- [Français: Mesurer pièces et meubles avec l’iPhone : comment utiliser l’app Mesure](https://agentmesh.uk/guides/measure-room-iphone/fr/)
+- [Deutsch: Räume und Möbel mit dem iPhone messen: So verwendest du die App „Measure“](https://agentmesh.uk/guides/measure-room-iphone/de/)
+- [简体中文: iPhone 屏幕触控失灵、乱跳怎么办？](https://agentmesh.uk/guides/iphone-touchscreen-not-working/zh-Hans/)
+- [한국어: iPhone 터치스크린이 반응하지 않거나 너무 민감한가요?](https://agentmesh.uk/guides/iphone-touchscreen-not-working/ko/)
+- [Español: ¿La pantalla táctil del iPhone no responde o es demasiado sensible?](https://agentmesh.uk/guides/iphone-touchscreen-not-working/es/)
+- [Français: iPhone : l’écran tactile ne répond pas ou est trop sensible ?](https://agentmesh.uk/guides/iphone-touchscreen-not-working/fr/)
+- [Deutsch: iPhone-Touchscreen reagiert nicht oder ist zu empfindlich?](https://agentmesh.uk/guides/iphone-touchscreen-not-working/de/)
+- [简体中文: iPhone 扬声器没声音或有杂音？先检查这几件事](https://agentmesh.uk/guides/iphone-speaker-no-sound/zh-Hans/)
+- [日本語: iPhoneのスピーカーから音が出ない、または雑音がする場合は、まず以下の点を確認してください](https://agentmesh.uk/guides/iphone-speaker-no-sound/ja/)
+- [한국어: 아이폰 스피커에서 소리가 나지 않거나 소리가 찌그러지나요? 먼저 이것들을 확인하세요](https://agentmesh.uk/guides/iphone-speaker-no-sound/ko/)
+- [Français: Le haut-parleur de votre iPhone ne produit aucun son ou un son déformé ? Vérifiez d'abord ces points](https://agentmesh.uk/guides/iphone-speaker-no-sound/fr/)
+- [Deutsch: iPhone-Lautsprecher ohne Ton oder mit Störgeräuschen? Prüfe zuerst diese Punkte](https://agentmesh.uk/guides/iphone-speaker-no-sound/de/)
+- [简体中文: iPhone 无法充电或充到 80% 就停止？](https://agentmesh.uk/guides/iphone-wont-charge/zh-Hans/)
+- [日本語: iPhoneが充電できない、または80%で止まりますか？](https://agentmesh.uk/guides/iphone-wont-charge/ja/)
+- [한국어: iPhone이 충전되지 않거나 80%에서 멈추나요?](https://agentmesh.uk/guides/iphone-wont-charge/ko/)
+- [Español: ¿El iPhone no carga o se detiene en 80%?](https://agentmesh.uk/guides/iphone-wont-charge/es/)
+- [Français: L'iPhone ne se recharge pas, ou s'arrête à 80 % ?](https://agentmesh.uk/guides/iphone-wont-charge/fr/)
+- [Deutsch: iPhone lädt nicht oder stoppt bei 80 %?](https://agentmesh.uk/guides/iphone-wont-charge/de/)
+- [简体中文: iPhone 发烫正常吗？什么时候该担心](https://agentmesh.uk/guides/iphone-too-hot/zh-Hans/)
+- [日本語: iPhoneが熱くなるのは正常？注意が必要な場合](https://agentmesh.uk/guides/iphone-too-hot/ja/)
+- [한국어: iPhone이 뜨거워지는 것은 정상인가요? 언제 걱정해야 할까요?](https://agentmesh.uk/guides/iphone-too-hot/ko/)
+- [Español: ¿Es normal que un iPhone se caliente? Cuándo preocuparse](https://agentmesh.uk/guides/iphone-too-hot/es/)
+- [Français: Est-il normal qu’un iPhone chauffe ? Quand s’en inquiéter](https://agentmesh.uk/guides/iphone-too-hot/fr/)
+- [简体中文: 换新 iPhone 怎么转移数据？“快速开始”步骤](https://agentmesh.uk/guides/transfer-to-new-iphone/zh-Hans/)
+- [日本語: iPhoneを買い替えたらデータはどう移す？「クイックスタート」の手順](https://agentmesh.uk/guides/transfer-to-new-iphone/ja/)
+- [한국어: iPhone을 새로 바꿀 때 데이터는 어떻게 옮기나요? '빠른 시작' 단계별 안내](https://agentmesh.uk/guides/transfer-to-new-iphone/ko/)
+- [Español: Cambiar a un nuevo iPhone: cómo transferir tus datos con «Inicio rápido» paso a paso](https://agentmesh.uk/guides/transfer-to-new-iphone/es/)
+- [Français: Passer à un nouvel iPhone : comment transférer vos données avec « Démarrage rapide »](https://agentmesh.uk/guides/transfer-to-new-iphone/fr/)
+- [Deutsch: Wechsel zu einem neuen iPhone: Schritt für Schritt mit „Schnellstart“](https://agentmesh.uk/guides/transfer-to-new-iphone/de/)
+- [简体中文: 怎么知道自己的 iPhone 是哪一款？用型号查](https://agentmesh.uk/guides/identify-iphone-model/zh-Hans/)
+- [日本語: iPhoneの機種はどうやって確認する？型番で調べる](https://agentmesh.uk/guides/identify-iphone-model/ja/)
+- [한국어: 내가 가진 iPhone은 어떤 모델일까? 모델 번호로 찾아보기](https://agentmesh.uk/guides/identify-iphone-model/ko/)
+- [Español: ¿Qué iPhone tengo? Búscalo por número de modelo](https://agentmesh.uk/guides/identify-iphone-model/es/)
+- [Français: Quel iPhone ai-je? Recherchez-le par numéro de modèle](https://agentmesh.uk/guides/identify-iphone-model/fr/)
+- [Deutsch: Welches iPhone habe ich? Anhand der Modellnummer nachschlagen](https://agentmesh.uk/guides/identify-iphone-model/de/)
+- [简体中文: iPhone耗电很快？先看“电池”设置中的这几项](https://agentmesh.uk/guides/iphone-battery-drains-fast/zh-Hans/)
+- [한국어: iPhone 배터리가 빨리 닳나요? 배터리 설정에서 다음 항목을 확인하세요](https://agentmesh.uk/guides/iphone-battery-drains-fast/ko/)
+- [Español: ¿Tu iPhone se descarga muy rápido? Revisa estos ajustes en la configuración de Batería](https://agentmesh.uk/guides/iphone-battery-drains-fast/es/)
+- [Français: Votre iPhone consomme-t-il trop vite sa batterie? Vérifiez ces éléments dans les réglages de la batterie](https://agentmesh.uk/guides/iphone-battery-drains-fast/fr/)
+- [Deutsch: iPhone-Akku entlädt sich schnell? Diese Punkte in den Akku-Einstellungen prüfen](https://agentmesh.uk/guides/iphone-battery-drains-fast/de/)
+- [简体中文: Face ID 无法使用怎么办？按顺序排查](https://agentmesh.uk/guides/face-id-not-working/zh-Hans/)
+- [日本語: Face ID が使えない？順番に確認しましょう](https://agentmesh.uk/guides/face-id-not-working/ja/)
+- [한국어: Face ID가 작동하지 않나요? 순서대로 문제를 해결하세요](https://agentmesh.uk/guides/face-id-not-working/ko/)
+- [Español: ¿Face ID no funciona? Resuélvelo siguiendo el orden](https://agentmesh.uk/guides/face-id-not-working/es/)
+- [Français: Face ID ne fonctionne pas ? Dépannage étape par étape](https://agentmesh.uk/guides/face-id-not-working/fr/)
+- [简体中文: iPhone显示“无服务”或“SOS”？修复蜂窝网络问题](https://agentmesh.uk/guides/iphone-no-cellular/zh-Hans/)
+- [日本語: iPhoneに「圏外」や「SOS」と表示されますか？モバイル通信の問題を解決](https://agentmesh.uk/guides/iphone-no-cellular/ja/)
+- [한국어: iPhone에 '서비스 없음' 또는 'SOS'가 표시되나요? 셀룰러 문제 해결하기](https://agentmesh.uk/guides/iphone-no-cellular/ko/)
+- [Español: ¿El iPhone muestra «Sin servicio» o «SOS»? Solución de problemas de señal celular](https://agentmesh.uk/guides/iphone-no-cellular/es/)
+- [Français: iPhone affiche « Pas de service » ou « SOS » ? Résoudre les problèmes cellulaires](https://agentmesh.uk/guides/iphone-no-cellular/fr/)
+- [Deutsch: Zeigt dein iPhone „Kein Dienst“ oder „SOS“? Mobilfunkprobleme beheben](https://agentmesh.uk/guides/iphone-no-cellular/de/)
+- [简体中文: 用 iPhone 扫描文件：备忘录和文件 App 都可以](https://agentmesh.uk/guides/scan-documents-iphone/zh-Hans/)
+- [日本語: iPhoneで書類をスキャン：メモとファイルのAppで可能](https://agentmesh.uk/guides/scan-documents-iphone/ja/)
+- [한국어: iPhone으로 문서 스캔하기: 메모 앱과 파일 앱 모두 가능](https://agentmesh.uk/guides/scan-documents-iphone/ko/)
+- [Español: Escanea documentos con el iPhone: en la app Notas o Archivos](https://agentmesh.uk/guides/scan-documents-iphone/es/)
+- [Deutsch: Dokumente mit dem iPhone scannen: in Notizen oder Dateien](https://agentmesh.uk/guides/scan-documents-iphone/de/)
+- [简体中文: 在 iPhone「照片」里找旧截图：用文字和日期搜索](https://agentmesh.uk/guides/find-old-screenshots/zh-Hans/)
+- [日本語: iPhoneの「写真」で古いスクリーンショットを探す：テキストと日付で検索](https://agentmesh.uk/guides/find-old-screenshots/ja/)
+- [한국어: iPhone 사진에서 예전 스크린샷 찾기: 텍스트와 날짜로 검색](https://agentmesh.uk/guides/find-old-screenshots/ko/)
+- [Español: Encuentra capturas antiguas en Fotos del iPhone: busca por texto y fecha](https://agentmesh.uk/guides/find-old-screenshots/es/)
+- [Français: Retrouver d'anciennes captures d'écran dans Photos de l'iPhone : rechercher par texte et par date](https://agentmesh.uk/guides/find-old-screenshots/fr/)
+- [Deutsch: So finden Sie alte Screenshots in der iPhone-App „Fotos“: Suche nach Text und Datum](https://agentmesh.uk/guides/find-old-screenshots/de/)
+- [简体中文: 怎样把票券、登机牌加到 Apple 钱包？](https://agentmesh.uk/guides/wallet-passes/zh-Hans/)
+- [日本語: Apple ウォレットにチケットや搭乗券を追加するには？](https://agentmesh.uk/guides/wallet-passes/ja/)
+- [한국어: Apple 월렛에 티켓과 탑승권을 추가하는 방법은?](https://agentmesh.uk/guides/wallet-passes/ko/)
+- [Español: ¿Cómo agregar boletos y pases de abordar a Apple Wallet?](https://agentmesh.uk/guides/wallet-passes/es/)
+- [Français: Comment ajouter des billets et cartes d'embarquement à Apple Wallet ?](https://agentmesh.uk/guides/wallet-passes/fr/)
+- [Deutsch: Wie füge ich Tickets und Bordkarten zu Apple Wallet hinzu?](https://agentmesh.uk/guides/wallet-passes/de/)
+- [简体中文: 挂画怕挂歪？用 iPhone「测距仪」的水平仪](https://agentmesh.uk/guides/iphone-level-hang-picture/zh-Hans/)
+- [日本語: 壁掛けの絵が傾かないように？iPhoneの「計測」の水平器を使う](https://agentmesh.uk/guides/iphone-level-hang-picture/ja/)
+- [한국어: 벽에 그림을 걸 때 삐뚤어질까 걱정되나요? iPhone의 '측정' 앱에 있는 수평계를 사용하세요.](https://agentmesh.uk/guides/iphone-level-hang-picture/ko/)
+- [Español: ¿Te preocupa que el cuadro quede torcido? Usa el nivel de burbuja de la app Medidor del iPhone](https://agentmesh.uk/guides/iphone-level-hang-picture/es/)
+- [Français: Accrochage de tableau bien droit ? Utilisez le niveau à bulle de l'app Mesure de l'iPhone](https://agentmesh.uk/guides/iphone-level-hang-picture/fr/)
+- [Deutsch: Hängt das Bild schief? Mit der Wasserwaage der Measure-App auf dem iPhone](https://agentmesh.uk/guides/iphone-level-hang-picture/de/)
+- [简体中文: 用 iPhone「健康」App 记录经期：经期追踪怎么开](https://agentmesh.uk/guides/health-cycle-tracking/zh-Hans/)
+- [日本語: iPhoneの「ヘルスケア」Appで生理を記録する：周期の記録を始める方法](https://agentmesh.uk/guides/health-cycle-tracking/ja/)
+- [한국어: iPhone 건강 앱으로 생리 기록하기: 생리 주기 추적 설정 방법](https://agentmesh.uk/guides/health-cycle-tracking/ko/)
+- [Deutsch: Verfolge deine Periode in der iPhone-Health-App](https://agentmesh.uk/guides/health-cycle-tracking/de/)
+- [简体中文: 能否拍照识别植物名称？iPhone「视觉查询」的使用方法](https://agentmesh.uk/guides/identify-plants-visual-look-up/zh-Hans/)
+- [日本語: 写真で植物の名前がわかる？iPhoneの「ビジュアルルックアップ」の使い方](https://agentmesh.uk/guides/identify-plants-visual-look-up/ja/)
+- [한국어: 사진만 찍으면 식물 이름을 알 수 있을까요? iPhone '시각적 검색'을 사용하는 방법](https://agentmesh.uk/guides/identify-plants-visual-look-up/ko/)
+- [Español: ¿Identificar una planta con una foto? Cómo usar «Búsqueda visual» en iPhone](https://agentmesh.uk/guides/identify-plants-visual-look-up/es/)
+- [Français: Identifier une plante à partir d’une photo avec la fonction Recherche visuelle de l’iPhone](https://agentmesh.uk/guides/identify-plants-visual-look-up/fr/)
+- [Deutsch: Pflanzen mit dem Foto bestimmen? So nutzt du die „Visuelle Suche“ am iPhone](https://agentmesh.uk/guides/identify-plants-visual-look-up/de/)
