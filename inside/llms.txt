@@ -4,7 +4,7 @@
 
 用溫暖、清楚的方式看看手機現在的狀態；從功能、硬體、電池到效能，一次全面檢查。
 
-- iOS 18.0+ · v1.18.0 · 2026-11-20 · 29.8 MB
+- iOS 18.0+ · v1.21.1 · 2026-11-25 · 31.2 MB
 - [App Store](https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8)
 - [Support](https://agentmesh.uk/inside/support.html)
 

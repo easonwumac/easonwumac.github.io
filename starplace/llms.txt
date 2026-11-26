@@ -4,7 +4,7 @@
 
 舉起 iPhone 或 iPad 對著夜空，尋星就告訴你眼前是什麼：恆星、行星、星座、月亮與銀河，都在它們真正的位置上。
 
-- iOS 18.0+ · v1.2.0 · 2026-11-19 · 20.3 MB
+- iOS 18.0+ · v1.3.1 · 2026-11-25 · 20.5 MB
 - [App Store](https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8)
 - [Support](https://agentmesh.uk/starplace/support.html)
 

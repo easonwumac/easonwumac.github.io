@@ -4,7 +4,7 @@
 
 截圖越存越多、要用時找不到？收好的 AI 會讀懂你存下的每張截圖與檔案：訂位、收據、保固，還有截下來的餐廳、食譜和想買的東西。自動分好類，之後搜幾個字就找回。辨識在手機上完成，支援 Apple Intelligence；也可以選用 Claude 高階辨識。
 
-- iOS 18.0+ · v3.3.2 · 2026-11-20 · 15.0 MB
+- iOS 18.0+ · v3.6.1 · 2026-11-25 · 15.9 MB
 - [App Store](https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8)
 - [Support](https://agentmesh.uk/tuck/support.html)
 

@@ -4,7 +4,7 @@
 
 《水閘》是一款黏土質感的運河解謎：一排石砌閘室、幾道木閘門，還有要回到同色旗子旁的小船。
 
-- iOS 16.0+ · v1.1.0 · 2026-11-19 · 139.2 MB
+- iOS 16.0+ · v1.3.0 · 2026-11-25 · 138.5 MB
 - [App Store](https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8)
 - [Support](https://agentmesh.uk/lockwater/support.html)
 

@@ -1,11 +1,32 @@
 # Eason Wu Apps
 
-> Independent iOS apps by Eason Wu. Each app has a page in Traditional Chinese and English, plus pages in the other languages its App Store listing ships in; facts come from the live App Store text.
+> Independent iOS apps by Eason Wu. Each app has a page in Traditional Chinese, one in English, plus pages in the other languages its App Store listing ships in; facts come from the live App Store text.
 Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French and German: [llms-full.txt](https://agentmesh.uk/llms-full.txt)
 
 
+## Tuck: AI Screenshot Organizer / 收好 Tuck－AI 截圖整理
+- [Page](https://agentmesh.uk/tuck/en/)
+- [中文頁面](https://agentmesh.uk/tuck/)
+- [App Store](https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8)
+- [Support and FAQ](https://agentmesh.uk/tuck/support.html)
+- Screenshots piling up? Tuck's AI reads every screenshot and file you save: bookings, receipts and warranties, and the restaurants, recipes and things to buy you screenshot. It files each one and finds it again from a few words. Reading happens on your device, with Apple Intelligence where available; Advanced reading by Claude is optional.
+- 截圖越存越多、要用時找不到？收好的 AI 會讀懂你存下的每張截圖與檔案：訂位、收據、保固，還有截下來的餐廳、食譜和想買的東西。自動分好類，之後搜幾個字就找回。辨識在手機上完成，支援 Apple Intelligence；也可以選用 Claude 高階辨識。
+- Q: What app organizes the screenshots piling up on my iPhone? A: Tuck reads screenshots and files on the device with AI, recognises bookings, tickets, receipts, warranties and documents, files them automatically, and finds them again from a few words.
+- Q: How do I keep receipts organised on an iPhone? A: Save receipt photos or screenshots in Tuck: receipts are grouped by month with totals, and a month of receipts exports as CSV and PDF for expenses.
+- Q: Is there an app that reminds me of warranty and return deadlines? A: Tuck finds expiry, renewal and return deadlines in what you save and suggests reminders; warranties show their end date and remind you a month before.
+- Q: Does Tuck upload my screenshots? A: Recognition runs on the iPhone by default, with Apple Intelligence support; content is sent out only when you choose the optional Claude advanced reading for it.
+- Q: Does Tuck need an account or a subscription? A: No sign-in is needed. Tuck is free with ads, and a one-time purchase removes them. Advanced recognition is free once a day; the optional Tuck Pro and Tuck Max subscriptions add more uses and no ads.
+- Q: How can I keep flight, hotel and booking screenshots for a trip together? A: Save them to Tuck and the trip folder lists flights, stays and booking codes by date, and reminds you before a document expires; bookings and tickets can also be added to Calendar.
+- [简体中文: 收好 Tuck－截图整理](https://agentmesh.uk/tuck/zh-Hans/)
+- [日本語: Tuck: AIスクショ整理とレシート](https://agentmesh.uk/tuck/ja/)
+- [한국어: Tuck: 영수증 보관함](https://agentmesh.uk/tuck/ko/)
+- [Español: Tuck: Guarda tus recibos](https://agentmesh.uk/tuck/es/)
+- [Français: Tuck: Gardez vos reçus](https://agentmesh.uk/tuck/fr/)
+- [Deutsch: Tuck: Belege aufbewahren](https://agentmesh.uk/tuck/de/)
+
 ## Inside: Phone Check / 機況 Inside－手機健檢
-- [Page](https://agentmesh.uk/inside/)
+- [Page](https://agentmesh.uk/inside/en/)
+- [中文頁面](https://agentmesh.uk/inside/)
 - [App Store](https://apps.apple.com/app/id6816782363?pt=102436810&ct=llms_inside&mt=8)
 - [Support and FAQ](https://agentmesh.uk/inside/support.html)
 - A warm, clear look at your whole phone: checks, hardware, battery, performance, charging.
@@ -24,65 +45,9 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [Français: Inside: Test du téléphone](https://agentmesh.uk/inside/fr/)
 - [Deutsch: Inside: Handy-Check](https://agentmesh.uk/inside/de/)
 
-## Daikon: Period Tracker / 蘿蔔日記 Daikon－經期紀錄
-- [Page](https://agentmesh.uk/daikon/)
-- [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
-- [Support and FAQ](https://agentmesh.uk/daikon/support.html)
-- A little care, every day.
-- 每天一點，溫柔照顧。
-- Q: Is there a simple, cute period tracker app? A: Daikon shows your period, predicted fertile window and ovulation on a cycle ring, logs a period with one tap, and keeps you company with little radish characters.
-- Q: Can a period tracker also be a diary? A: Yes. Daikon has a page per day for mood, body notes, text, handwriting, up to nine photos and voice memos, and spots symptoms that recur at the same point in your cycle.
-- Q: Can I export Daikon records for my doctor? A: Cycle records export as PDF, past records import from CSV or Apple Health, and the app can be locked with Face ID, Touch ID or a passcode.
-- Q: Does a period tracker like Daikon upload my data? A: Daikon needs no account and has no social features or subscription. Records and journal entries, including photos and voice memos, stay on the device and sync only through your private iCloud when available. Health data is never sent to ad SDKs or used for advertising.
-- Q: Can a period log sync with Apple Health? A: Yes. Turn on Sync to Apple Health in Daikon's settings and each period day is written to the Health app as menstrual flow; it is off by default. Past periods can also be imported from Health or a CSV file.
-- Q: If I forget to log my period, does the prediction keep going? A: Yes. Daikon uses up to your last six cycles or a length you set; without a new entry the prediction keeps rolling forward and gently reminds you to log. Predictions are for reference only, not medical advice, and not for contraception.
-- [简体中文: 萝卜日记 Daikon－经期记录](https://agentmesh.uk/daikon/zh-Hans/)
-- [日本語: Daikon: 生理と周期の記録](https://agentmesh.uk/daikon/ja/)
-- [한국어: Daikon: 생리 주기 기록](https://agentmesh.uk/daikon/ko/)
-- [Español: Daikon: Calendario menstrual](https://agentmesh.uk/daikon/es/)
-- [Français: Daikon: Suivi des règles](https://agentmesh.uk/daikon/fr/)
-- [Deutsch: Daikon: Periodenkalender](https://agentmesh.uk/daikon/de/)
-
-## Tuck: AI Screenshot Organizer / 收好 Tuck－AI 截圖整理
-- [Page](https://agentmesh.uk/tuck/)
-- [App Store](https://apps.apple.com/app/id6821961896?pt=102436810&ct=llms_tuck&mt=8)
-- [Support and FAQ](https://agentmesh.uk/tuck/support.html)
-- Screenshots piling up? Tuck's AI reads every screenshot and file you save: bookings, receipts and warranties, and the restaurants, recipes and things to buy you screenshot. It files each one and finds it again from a few words. Reading happens on your device, with Apple Intelligence where available; Advanced reading by Claude is optional.
-- 截圖越存越多、要用時找不到？收好的 AI 會讀懂你存下的每張截圖與檔案：訂位、收據、保固，還有截下來的餐廳、食譜和想買的東西。自動分好類，之後搜幾個字就找回。辨識在手機上完成，支援 Apple Intelligence；也可以選用 Claude 高階辨識。
-- Q: What app organizes the screenshots piling up on my iPhone? A: Tuck reads screenshots and files on the device with AI, recognises bookings, tickets, receipts, warranties and documents, files them automatically, and finds them again from a few words.
-- Q: How do I keep receipts organised on an iPhone? A: Save receipt photos or screenshots in Tuck: receipts are grouped by month with totals, and a month of receipts exports as CSV and PDF for expenses.
-- Q: Is there an app that reminds me of warranty and return deadlines? A: Tuck finds expiry, renewal and return deadlines in what you save and suggests reminders; warranties show their end date and remind you a month before.
-- Q: Does Tuck upload my screenshots? A: Recognition runs on the iPhone by default, with Apple Intelligence support; content is sent out only when you choose the optional Claude advanced reading for it.
-- Q: Does Tuck need an account or a subscription? A: No sign-in is needed. Tuck is free with ads, and a one-time purchase removes them. Advanced recognition is free once a day; the optional Tuck Pro and Tuck Max subscriptions add more uses and no ads.
-- Q: How can I keep flight, hotel and booking screenshots for a trip together? A: Save them to Tuck and the trip folder lists flights, stays and booking codes by date, and reminds you before a document expires; bookings and tickets can also be added to Calendar.
-- [简体中文: 收好 Tuck－截图整理](https://agentmesh.uk/tuck/zh-Hans/)
-- [日本語: Tuck: AIスクショ整理とレシート](https://agentmesh.uk/tuck/ja/)
-- [한국어: Tuck: 영수증 보관함](https://agentmesh.uk/tuck/ko/)
-- [Español: Tuck: Guarda tus recibos](https://agentmesh.uk/tuck/es/)
-- [Français: Tuck: Gardez vos reçus](https://agentmesh.uk/tuck/fr/)
-- [Deutsch: Tuck: Belege aufbewahren](https://agentmesh.uk/tuck/de/)
-
-## ZaiRi: Plant Watering Reminder / 栽日 ZaiRi－植物澆水提醒
-- [Page](https://agentmesh.uk/zairi/)
-- [App Store](https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8)
-- [Support and FAQ](https://agentmesh.uk/zairi/support.html)
-- Give every plant day a place to grow.
-- 把植物的每一天，好好留住。
-- Q: Is there a plant app that reminds me to water? A: ZaiRi schedules watering, feeding and repotting for each plant with notifications, and a Home Screen widget lists today's care.
-- Q: How do I keep a record of my plants' growth? A: Take growth photos and notes in ZaiRi, then turn them into a time-lapse or before-and-after view; data stays on your iPhone with no account.
-- Q: Does ZaiRi cost anything? A: Every plant-journal feature is free with occasional full-screen ads; a one-time purchase removes ads.
-- Q: Is there a plant journal app that identifies plants from photos? A: ZaiRi can identify a plant from a photo and keeps growth photos, care logs and custom fields, plus growth time-lapses and before-and-after images. All plant journal features are free.
-- Q: How can I tell if a spot has enough light for a plant? A: ZaiRi has a camera light meter you can use where the plant sits, and lets you browse and manage plants by location.
-- Q: Does ZaiRi need an account, and where is my data stored? A: No account or server is needed. Data and photos stay on your iPhone, and you can export and restore a full backup yourself.
-- [简体中文: 栽日 ZaiRi－植物浇水提醒](https://agentmesh.uk/zairi/zh-Hans/)
-- [日本語: ZaiRi: 植物の水やり管理](https://agentmesh.uk/zairi/ja/)
-- [한국어: ZaiRi: 식물 물주기 알리미](https://agentmesh.uk/zairi/ko/)
-- [Español: ZaiRi: Recordatorio de riego](https://agentmesh.uk/zairi/es/)
-- [Français: ZaiRi: Rappel d’arrosage](https://agentmesh.uk/zairi/fr/)
-- [Deutsch: ZaiRi: Pflanzen gießen](https://agentmesh.uk/zairi/de/)
-
 ## Roomory: Floor Plans / 居圖 Roomory－平面圖
-- [Page](https://agentmesh.uk/roomory/)
+- [Page](https://agentmesh.uk/roomory/en/)
+- [中文頁面](https://agentmesh.uk/roomory/)
 - [App Store](https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8)
 - [Support and FAQ](https://agentmesh.uk/roomory/support.html)
 - From moving a sofa to planning a renovation, Roomory helps you turn the space you have into the layout you want. Scan a room or start by hand, then edit your floor plans and preview your ideas in 3D.
@@ -100,8 +65,49 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [Français: Roomory: Plans de maison](https://agentmesh.uk/roomory/fr/)
 - [Deutsch: Roomory: Räume planen](https://agentmesh.uk/roomory/de/)
 
+## Daikon: Period Tracker / 蘿蔔日記 Daikon－經期紀錄
+- [Page](https://agentmesh.uk/daikon/en/)
+- [中文頁面](https://agentmesh.uk/daikon/)
+- [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
+- [Support and FAQ](https://agentmesh.uk/daikon/support.html)
+- A little care, every day.
+- 每天一點，溫柔照顧。
+- Q: Is there a simple, cute period tracker app? A: Daikon shows your period, predicted fertile window and ovulation on a cycle ring, logs a period with one tap, and keeps you company with little radish characters.
+- Q: Can a period tracker also be a diary? A: Yes. Daikon has a page per day for mood, body notes, text, handwriting, up to nine photos and voice memos, and spots symptoms that recur at the same point in your cycle.
+- Q: Can I export Daikon records for my doctor? A: Cycle records export as PDF, past records import from CSV or Apple Health, and the app can be locked with Face ID, Touch ID or a passcode.
+- Q: Does a period tracker like Daikon upload my data? A: Daikon needs no account and has no social features or subscription. Records and journal entries, including photos and voice memos, stay on the device and sync only through your private iCloud when available. Health data is never sent to ad SDKs or used for advertising.
+- Q: Can a period log sync with Apple Health? A: Yes. Turn on Sync to Apple Health in Daikon's settings and each period day is written to the Health app as menstrual flow; it is off by default. Past periods can also be imported from Health or a CSV file.
+- Q: If I forget to log my period, does the prediction keep going? A: Yes. Daikon uses up to your last six cycles or a length you set; without a new entry the prediction keeps rolling forward and gently reminds you to log. Predictions are for reference only, not medical advice, and not for contraception.
+- [简体中文: 萝卜日记 Daikon－经期记录](https://agentmesh.uk/daikon/zh-Hans/)
+- [日本語: Daikon: 生理と周期の記録](https://agentmesh.uk/daikon/ja/)
+- [한국어: Daikon: 생리 주기 기록](https://agentmesh.uk/daikon/ko/)
+- [Español: Daikon: Calendario menstrual](https://agentmesh.uk/daikon/es/)
+- [Français: Daikon: Suivi des règles](https://agentmesh.uk/daikon/fr/)
+- [Deutsch: Daikon: Periodenkalender](https://agentmesh.uk/daikon/de/)
+
+## ZaiRi: Plant Watering Reminder / 栽日 ZaiRi－植物澆水提醒
+- [Page](https://agentmesh.uk/zairi/en/)
+- [中文頁面](https://agentmesh.uk/zairi/)
+- [App Store](https://apps.apple.com/app/id6816606160?pt=102436810&ct=llms_zairi&mt=8)
+- [Support and FAQ](https://agentmesh.uk/zairi/support.html)
+- Give every plant day a place to grow.
+- 把植物的每一天，好好留住。
+- Q: Is there a plant app that reminds me to water? A: ZaiRi schedules watering, feeding and repotting for each plant with notifications, and a Home Screen widget lists today's care.
+- Q: How do I keep a record of my plants' growth? A: Take growth photos and notes in ZaiRi, then turn them into a time-lapse or before-and-after view; data stays on your iPhone with no account.
+- Q: Does ZaiRi cost anything? A: Every plant-journal feature is free with occasional full-screen ads; a one-time purchase removes ads.
+- Q: Is there a plant journal app that identifies plants from photos? A: ZaiRi can identify a plant from a photo and keeps growth photos, care logs and custom fields, plus growth time-lapses and before-and-after images. All plant journal features are free.
+- Q: How can I tell if a spot has enough light for a plant? A: ZaiRi has a camera light meter you can use where the plant sits, and lets you browse and manage plants by location.
+- Q: Does ZaiRi need an account, and where is my data stored? A: No account or server is needed. Data and photos stay on your iPhone, and you can export and restore a full backup yourself.
+- [简体中文: 栽日 ZaiRi－植物浇水提醒](https://agentmesh.uk/zairi/zh-Hans/)
+- [日本語: ZaiRi: 植物の水やり管理](https://agentmesh.uk/zairi/ja/)
+- [한국어: ZaiRi: 식물 물주기 알리미](https://agentmesh.uk/zairi/ko/)
+- [Español: ZaiRi: Recordatorio de riego](https://agentmesh.uk/zairi/es/)
+- [Français: ZaiRi: Rappel d’arrosage](https://agentmesh.uk/zairi/fr/)
+- [Deutsch: ZaiRi: Pflanzen gießen](https://agentmesh.uk/zairi/de/)
+
 ## Nightvane: Star Guide / 尋星 Nightvane－星空導覽
-- [Page](https://agentmesh.uk/starplace/)
+- [Page](https://agentmesh.uk/starplace/en/)
+- [中文頁面](https://agentmesh.uk/starplace/)
 - [App Store](https://apps.apple.com/app/id6826494660?pt=102436810&ct=llms_starplace&mt=8)
 - [Support and FAQ](https://agentmesh.uk/starplace/support.html)
 - Hold your iPhone or iPad up to the night and Nightvane shows what you are looking at: stars, planets, constellations, the Moon and the Milky Way, right where they are.
@@ -120,7 +126,8 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [Deutsch: Nightvane: Sternenführer](https://agentmesh.uk/starplace/de/)
 
 ## Lockwater: Canal Puzzle / 水閘 Lockwater－運河解謎
-- [Page](https://agentmesh.uk/lockwater/)
+- [Page](https://agentmesh.uk/lockwater/en/)
+- [中文頁面](https://agentmesh.uk/lockwater/)
 - [App Store](https://apps.apple.com/app/id6826767889?pt=102436810&ct=llms_lockwater&mt=8)
 - [Support and FAQ](https://agentmesh.uk/lockwater/support.html)
 - Lockwater is a canal puzzle made of soft clay: a row of stone chambers, a few wooden gates, and boats that must reach the flag of their color.
@@ -136,7 +143,8 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [Deutsch: Lockwater: Schleusen-Rätsel](https://agentmesh.uk/lockwater/de/)
 
 ## Prawnlight: Prawn Hall Tycoon / 夜釣蝦場 Prawnlight－釣蝦場大亨
-- [Page](https://agentmesh.uk/prawnlight/)
+- [Page](https://agentmesh.uk/prawnlight/en/)
+- [中文頁面](https://agentmesh.uk/prawnlight/)
 - [App Store](https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8)
 - [Support and FAQ](https://agentmesh.uk/prawnlight/support.html)
 - Prawnlight is a management game set in a Taiwanese indoor prawn-fishing hall that stays open late into the night. You are the boss, not the angler: order stock, release prawns, lay out the floor, hire staff and keep the guests fishing until closing time.
@@ -152,7 +160,8 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [Deutsch: Prawnlight: Garnelen-Tycoon](https://agentmesh.uk/prawnlight/de/)
 
 ## Precision Parking 3D / 極限停車場：都市挑戰
-- [Page](https://agentmesh.uk/precision-parking-3d/)
+- [Page](https://agentmesh.uk/precision-parking-3d/en/)
+- [中文頁面](https://agentmesh.uk/precision-parking-3d/)
 - [App Store](https://apps.apple.com/app/id6816430472?pt=102436810&ct=llms_precisionparking3d&mt=8)
 - [Support and FAQ](https://agentmesh.uk/precision-parking-3d/support.html)
 - Slow down. Find your angle. Make every space count.
@@ -165,40 +174,40 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [한국어: Precision Parking 3D](https://agentmesh.uk/precision-parking-3d/ko/)
 
 ## Guides
-- [What to check when buying a used iPhone: an in-person checklist / 買二手 iPhone 要檢查什麼？當面驗機清單](https://agentmesh.uk/guides/used-iphone-checklist/)
-- [How to check iPhone battery health and when to replace the battery / iPhone 電池健康度怎麼看？什麼時候該換電池](https://agentmesh.uk/guides/iphone-battery-health/)
-- [iPhone charging slowly? How to check your charger and cable / iPhone 充電很慢？怎麼確認充電器和線材夠不夠快](https://agentmesh.uk/guides/iphone-charging-speed/)
-- [Too many iPhone screenshots? Sort bookings, receipts and recipes / iPhone 截圖太多怎麼整理？訂位、收據、食譜一次分好類](https://agentmesh.uk/guides/organize-screenshots/)
-- [How to keep receipts and e-invoices so month-end expenses are easy / 收據和電子發票怎麼保存，月底報帳不手忙腳亂](https://agentmesh.uk/guides/receipts-for-expenses/)
-- [Measure a room and draw a floor plan with iPhone: LiDAR scan or by hand / 用 iPhone 量房間、畫平面圖：LiDAR 掃描與手動繪製](https://agentmesh.uk/guides/iphone-floor-plan/)
-- [How to see the International Space Station with your own eyes / 怎麼用肉眼看到國際太空站？時間、方位與觀看技巧](https://agentmesh.uk/guides/see-the-iss/)
-- [Identify stars with your phone: four steps for beginners / 用手機認星星：新手觀星的四個步驟](https://agentmesh.uk/guides/stargazing-with-phone/)
-- [Choosing a period tracker: privacy, predictions and export / 選經期紀錄 App 要注意什麼？隱私、預測與匯出](https://agentmesh.uk/guides/period-tracker-privacy/)
-- [How to keep a plant journal with photos / 怎麼記錄植物生長？用照片日誌養好每一盆](https://agentmesh.uk/guides/plant-care-journal/)
-- [Before buying furniture, lay it out on a floor plan: will the sofa, bed and cabinets fit? / 買家具前先排一次：用平面圖確認沙發、床與櫃子放不放得下](https://agentmesh.uk/guides/furniture-layout-plan/)
-- [Planning outlets, lights and plumbing before a renovation: put them on the floor plan first / 裝潢前怎麼規劃插座、燈具與水電位置？先畫在平面圖上](https://agentmesh.uk/guides/renovation-outlets-lighting/)
-- [When is my next period? How to count your cycle length / 下次月經什麼時候來？週期長度怎麼算](https://agentmesh.uk/guides/next-period-date/)
-- [Seeing a gynecologist? Bring your period records in one place / 看婦科前要準備什麼？把經期紀錄整理成一份](https://agentmesh.uk/guides/period-record-for-doctor/)
-- [How often should you water a plant? Check the soil and keep a log instead of a fixed schedule / 植物多久澆一次水？與其固定天數，不如看土和記錄](https://agentmesh.uk/guides/plant-watering-schedule/)
-- [Is there enough light for your plant? Compare spots at home with your phone camera / 植物放哪裡光線夠？用手機相機比較家裡各處亮度](https://agentmesh.uk/guides/plant-light-meter/)
-- [How to keep warranties and receipts: snap them, note the expiry, get reminded / 保固卡和發票怎麼保存？拍下來、記到期日、到期前提醒](https://agentmesh.uk/guides/warranty-receipts-reminder/)
-- [iPhone microphone or speaker acting up? Test them yourself first / iPhone 麥克風或喇叭怪怪的？自己先測一輪](https://agentmesh.uk/guides/iphone-microphone-speaker-test/)
-- [How to watch a meteor shower: no telescope, just the right place and time / 流星雨怎麼看？不用望遠鏡，選對地點和時間](https://agentmesh.uk/guides/watch-meteor-shower/)
-- [iPhone storage almost full? First see what is using it / iPhone 儲存空間不足怎麼辦？先看是誰佔掉空間](https://agentmesh.uk/guides/iphone-storage-full/)
-- [What to do before you sell or give away your iPhone: back up, sign out, erase / 賣掉或轉送 iPhone 前要做什麼？備份、登出、清除](https://agentmesh.uk/guides/before-selling-iphone/)
-- [Measure rooms and furniture with iPhone: how to use the Measure app / 用 iPhone 量房間和家具尺寸：「測距儀」怎麼用](https://agentmesh.uk/guides/measure-room-iphone/)
-- [iPhone touchscreen not responding or too sensitive? / iPhone 螢幕觸控失靈、亂跳怎麼辦？](https://agentmesh.uk/guides/iphone-touchscreen-not-working/)
-- [No sound or distorted sound from your iPhone speaker? / iPhone 喇叭沒聲音或有雜音？先檢查這幾件事](https://agentmesh.uk/guides/iphone-speaker-no-sound/)
-- [iPhone won't charge, or stops at 80%? / iPhone 充不進電或充到 80% 就停？](https://agentmesh.uk/guides/iphone-wont-charge/)
-- [Is it normal for an iPhone to get hot? / iPhone 發燙正常嗎？什麼時候該擔心](https://agentmesh.uk/guides/iphone-too-hot/)
-- [Moving to a new iPhone: Quick Start step by step / 換新 iPhone 怎麼轉移資料？「快速開始」步驟](https://agentmesh.uk/guides/transfer-to-new-iphone/)
-- [Which iPhone do I have? Look it up by model number / 怎麼知道自己的 iPhone 是哪一款？用型號查](https://agentmesh.uk/guides/identify-iphone-model/)
-- [iPhone battery draining fast? Check these in Battery settings / iPhone 很耗電？先看「電池」設定裡的這幾項](https://agentmesh.uk/guides/iphone-battery-drains-fast/)
-- [Face ID not working? Troubleshoot in order / Face ID 不能用怎麼辦？照順序排除](https://agentmesh.uk/guides/face-id-not-working/)
-- [iPhone shows No Service or SOS? Fix cellular problems / iPhone 顯示「沒有服務」或「SOS」？訊號問題排除](https://agentmesh.uk/guides/iphone-no-cellular/)
-- [Scan documents with iPhone: in Notes or Files / 用 iPhone 掃描文件：備忘錄和檔案 App 都可以](https://agentmesh.uk/guides/scan-documents-iphone/)
-- [Find old screenshots in iPhone Photos: search by text and date / 在 iPhone「照片」裡找以前的截圖：用文字和日期搜尋](https://agentmesh.uk/guides/find-old-screenshots/)
-- [How to add tickets and boarding passes to Apple Wallet / 怎麼把票券、登機證加到 Apple 錢包？](https://agentmesh.uk/guides/wallet-passes/)
-- [Hanging a picture straight with the iPhone level / 掛畫怕掛歪？用 iPhone「測距儀」的水平儀](https://agentmesh.uk/guides/iphone-level-hang-picture/)
-- [Track your period in the iPhone Health app / 用 iPhone「健康」App 記錄經期：經期追蹤怎麼開](https://agentmesh.uk/guides/health-cycle-tracking/)
-- [Identify a plant from a photo with iPhone Visual Look Up / 拍照就能查植物名字？iPhone「圖像查詢」怎麼用](https://agentmesh.uk/guides/identify-plants-visual-look-up/)
+- [What to check when buying a used iPhone: an in-person checklist](https://agentmesh.uk/guides/used-iphone-checklist/en/) / [買二手 iPhone 要檢查什麼？當面驗機清單](https://agentmesh.uk/guides/used-iphone-checklist/)
+- [How to check iPhone battery health and when to replace the battery](https://agentmesh.uk/guides/iphone-battery-health/en/) / [iPhone 電池健康度怎麼看？什麼時候該換電池](https://agentmesh.uk/guides/iphone-battery-health/)
+- [iPhone charging slowly? How to check your charger and cable](https://agentmesh.uk/guides/iphone-charging-speed/en/) / [iPhone 充電很慢？怎麼確認充電器和線材夠不夠快](https://agentmesh.uk/guides/iphone-charging-speed/)
+- [Too many iPhone screenshots? Sort bookings, receipts and recipes](https://agentmesh.uk/guides/organize-screenshots/en/) / [iPhone 截圖太多怎麼整理？訂位、收據、食譜一次分好類](https://agentmesh.uk/guides/organize-screenshots/)
+- [How to keep receipts and e-invoices so month-end expenses are easy](https://agentmesh.uk/guides/receipts-for-expenses/en/) / [收據和電子發票怎麼保存，月底報帳不手忙腳亂](https://agentmesh.uk/guides/receipts-for-expenses/)
+- [Measure a room and draw a floor plan with iPhone: LiDAR scan or by hand](https://agentmesh.uk/guides/iphone-floor-plan/en/) / [用 iPhone 量房間、畫平面圖：LiDAR 掃描與手動繪製](https://agentmesh.uk/guides/iphone-floor-plan/)
+- [How to see the International Space Station with your own eyes](https://agentmesh.uk/guides/see-the-iss/en/) / [怎麼用肉眼看到國際太空站？時間、方位與觀看技巧](https://agentmesh.uk/guides/see-the-iss/)
+- [Identify stars with your phone: four steps for beginners](https://agentmesh.uk/guides/stargazing-with-phone/en/) / [用手機認星星：新手觀星的四個步驟](https://agentmesh.uk/guides/stargazing-with-phone/)
+- [Choosing a period tracker: privacy, predictions and export](https://agentmesh.uk/guides/period-tracker-privacy/en/) / [選經期紀錄 App 要注意什麼？隱私、預測與匯出](https://agentmesh.uk/guides/period-tracker-privacy/)
+- [How to keep a plant journal with photos](https://agentmesh.uk/guides/plant-care-journal/en/) / [怎麼記錄植物生長？用照片日誌養好每一盆](https://agentmesh.uk/guides/plant-care-journal/)
+- [Before buying furniture, lay it out on a floor plan: will the sofa, bed and cabinets fit?](https://agentmesh.uk/guides/furniture-layout-plan/en/) / [買家具前先排一次：用平面圖確認沙發、床與櫃子放不放得下](https://agentmesh.uk/guides/furniture-layout-plan/)
+- [Planning outlets, lights and plumbing before a renovation: put them on the floor plan first](https://agentmesh.uk/guides/renovation-outlets-lighting/en/) / [裝潢前怎麼規劃插座、燈具與水電位置？先畫在平面圖上](https://agentmesh.uk/guides/renovation-outlets-lighting/)
+- [When is my next period? How to count your cycle length](https://agentmesh.uk/guides/next-period-date/en/) / [下次月經什麼時候來？週期長度怎麼算](https://agentmesh.uk/guides/next-period-date/)
+- [Seeing a gynecologist? Bring your period records in one place](https://agentmesh.uk/guides/period-record-for-doctor/en/) / [看婦科前要準備什麼？把經期紀錄整理成一份](https://agentmesh.uk/guides/period-record-for-doctor/)
+- [How often should you water a plant? Check the soil and keep a log instead of a fixed schedule](https://agentmesh.uk/guides/plant-watering-schedule/en/) / [植物多久澆一次水？與其固定天數，不如看土和記錄](https://agentmesh.uk/guides/plant-watering-schedule/)
+- [Is there enough light for your plant? Compare spots at home with your phone camera](https://agentmesh.uk/guides/plant-light-meter/en/) / [植物放哪裡光線夠？用手機相機比較家裡各處亮度](https://agentmesh.uk/guides/plant-light-meter/)
+- [How to keep warranties and receipts: snap them, note the expiry, get reminded](https://agentmesh.uk/guides/warranty-receipts-reminder/en/) / [保固卡和發票怎麼保存？拍下來、記到期日、到期前提醒](https://agentmesh.uk/guides/warranty-receipts-reminder/)
+- [iPhone microphone or speaker acting up? Test them yourself first](https://agentmesh.uk/guides/iphone-microphone-speaker-test/en/) / [iPhone 麥克風或喇叭怪怪的？自己先測一輪](https://agentmesh.uk/guides/iphone-microphone-speaker-test/)
+- [How to watch a meteor shower: no telescope, just the right place and time](https://agentmesh.uk/guides/watch-meteor-shower/en/) / [流星雨怎麼看？不用望遠鏡，選對地點和時間](https://agentmesh.uk/guides/watch-meteor-shower/)
+- [iPhone storage almost full? First see what is using it](https://agentmesh.uk/guides/iphone-storage-full/en/) / [iPhone 儲存空間不足怎麼辦？先看是誰佔掉空間](https://agentmesh.uk/guides/iphone-storage-full/)
+- [What to do before you sell or give away your iPhone: back up, sign out, erase](https://agentmesh.uk/guides/before-selling-iphone/en/) / [賣掉或轉送 iPhone 前要做什麼？備份、登出、清除](https://agentmesh.uk/guides/before-selling-iphone/)
+- [Measure rooms and furniture with iPhone: how to use the Measure app](https://agentmesh.uk/guides/measure-room-iphone/en/) / [用 iPhone 量房間和家具尺寸：「測距儀」怎麼用](https://agentmesh.uk/guides/measure-room-iphone/)
+- [iPhone touchscreen not responding or too sensitive?](https://agentmesh.uk/guides/iphone-touchscreen-not-working/en/) / [iPhone 螢幕觸控失靈、亂跳怎麼辦？](https://agentmesh.uk/guides/iphone-touchscreen-not-working/)
+- [No sound or distorted sound from your iPhone speaker?](https://agentmesh.uk/guides/iphone-speaker-no-sound/en/) / [iPhone 喇叭沒聲音或有雜音？先檢查這幾件事](https://agentmesh.uk/guides/iphone-speaker-no-sound/)
+- [iPhone won't charge, or stops at 80%?](https://agentmesh.uk/guides/iphone-wont-charge/en/) / [iPhone 充不進電或充到 80% 就停？](https://agentmesh.uk/guides/iphone-wont-charge/)
+- [Is it normal for an iPhone to get hot?](https://agentmesh.uk/guides/iphone-too-hot/en/) / [iPhone 發燙正常嗎？什麼時候該擔心](https://agentmesh.uk/guides/iphone-too-hot/)
+- [Moving to a new iPhone: Quick Start step by step](https://agentmesh.uk/guides/transfer-to-new-iphone/en/) / [換新 iPhone 怎麼轉移資料？「快速開始」步驟](https://agentmesh.uk/guides/transfer-to-new-iphone/)
+- [Which iPhone do I have? Look it up by model number](https://agentmesh.uk/guides/identify-iphone-model/en/) / [怎麼知道自己的 iPhone 是哪一款？用型號查](https://agentmesh.uk/guides/identify-iphone-model/)
+- [iPhone battery draining fast? Check these in Battery settings](https://agentmesh.uk/guides/iphone-battery-drains-fast/en/) / [iPhone 很耗電？先看「電池」設定裡的這幾項](https://agentmesh.uk/guides/iphone-battery-drains-fast/)
+- [Face ID not working? Troubleshoot in order](https://agentmesh.uk/guides/face-id-not-working/en/) / [Face ID 不能用怎麼辦？照順序排除](https://agentmesh.uk/guides/face-id-not-working/)
+- [iPhone shows No Service or SOS? Fix cellular problems](https://agentmesh.uk/guides/iphone-no-cellular/en/) / [iPhone 顯示「沒有服務」或「SOS」？訊號問題排除](https://agentmesh.uk/guides/iphone-no-cellular/)
+- [Scan documents with iPhone: in Notes or Files](https://agentmesh.uk/guides/scan-documents-iphone/en/) / [用 iPhone 掃描文件：備忘錄和檔案 App 都可以](https://agentmesh.uk/guides/scan-documents-iphone/)
+- [Find old screenshots in iPhone Photos: search by text and date](https://agentmesh.uk/guides/find-old-screenshots/en/) / [在 iPhone「照片」裡找以前的截圖：用文字和日期搜尋](https://agentmesh.uk/guides/find-old-screenshots/)
+- [How to add tickets and boarding passes to Apple Wallet](https://agentmesh.uk/guides/wallet-passes/en/) / [怎麼把票券、登機證加到 Apple 錢包？](https://agentmesh.uk/guides/wallet-passes/)
+- [Hanging a picture straight with the iPhone level](https://agentmesh.uk/guides/iphone-level-hang-picture/en/) / [掛畫怕掛歪？用 iPhone「測距儀」的水平儀](https://agentmesh.uk/guides/iphone-level-hang-picture/)
+- [Track your period in the iPhone Health app](https://agentmesh.uk/guides/health-cycle-tracking/en/) / [用 iPhone「健康」App 記錄經期：經期追蹤怎麼開](https://agentmesh.uk/guides/health-cycle-tracking/)
+- [Identify a plant from a photo with iPhone Visual Look Up](https://agentmesh.uk/guides/identify-plants-visual-look-up/en/) / [拍照就能查植物名字？iPhone「圖像查詢」怎麼用](https://agentmesh.uk/guides/identify-plants-visual-look-up/)

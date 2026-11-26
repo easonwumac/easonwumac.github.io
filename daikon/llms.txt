@@ -4,7 +4,7 @@
 
 每天一點，溫柔照顧。
 
-- iOS 18.0+ · v1.6.0 · 2026-11-19 · 7.9 MB
+- iOS 18.0+ · v1.9.0 · 2026-11-25 · 8.5 MB
 - [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - [Support](https://agentmesh.uk/daikon/support.html)
 

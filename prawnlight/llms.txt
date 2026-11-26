@@ -4,7 +4,7 @@
 
 夜釣蝦場是一款台灣室內釣蝦場的經營遊戲。你是老闆，不用自己下竿：叫貨、放蝦、擺設場地、請人顧店，讓客人一路釣到深夜。
 
-- iOS 16.0+ · v1.0.1 · 2026-11-18 · 182.1 MB
+- iOS 16.0+ · v1.1.0 · 2026-11-24 · 183.9 MB
 - [App Store](https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8)
 - [Support](https://agentmesh.uk/prawnlight/support.html)
 
