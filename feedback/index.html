@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>意見回饋 — Eason Wu Apps</title>
+<meta name="description" content="遇到問題，或有想要的功能，都可以告訴我。每一則我都會看。">
+<link rel="canonical" href="https://agentmesh.uk/feedback/">
+<link rel="alternate" hreflang="zh-Hant" href="https://agentmesh.uk/feedback/">
+<link rel="alternate" hreflang="en" href="https://agentmesh.uk/feedback/en/">
+<link rel="alternate" hreflang="x-default" href="https://agentmesh.uk/feedback/en/">
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="icon" href="/assets/app-icons/tuck.jpg">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Eason Wu Apps">
+<meta property="og:title" content="意見回饋 — Eason Wu Apps">
+<meta property="og:description" content="遇到問題，或有想要的功能，都可以告訴我。每一則我都會看。">
+<meta property="og:url" content="https://agentmesh.uk/feedback/">
+<meta property="og:locale" content="zh_TW">
+
+<meta name="author" content="Eason Wu">
+<link rel="alternate" type="application/atom+xml" title="Eason Wu Apps: app updates" href="https://agentmesh.uk/feed.xml">
+
+</head>
+<body>
+<header class="bar"><div class="wrap"><a class="brand" href="/"><i></i>Eason Wu Apps</a><nav><a href="/#apps">App</a><a href="/#games">遊戲</a><a class="keep" href="/guides/">教學</a><a href="/about/">關於</a><a class="keep" href="/feedback/en/" lang="en" hreflang="en">EN</a></nav></div></header>
+<main>
+<section class="page-head"><div class="wrap"><h1>意見回饋</h1><p>遇到問題，或有想要的功能，都可以告訴我。每一則我都會看。</p></div></section>
+<section class="sec form-sec"><div class="wrap">
+<form id="fb" class="fb" data-sending="送出中…" data-done="收到了，謝謝你！" data-fail="送出失敗，請稍後再試。" data-busy="今天送出太多次了，請明天再試。">
+<label>App<select name="app" required><option value="tuck">收好</option><option value="inside">機況</option><option value="roomory">居圖</option><option value="daikon">蘿蔔日記</option><option value="zairi">栽日</option><option value="starplace">尋星</option><option value="lockwater">水閘</option><option value="prawnlight">夜釣蝦場</option><option value="precision-parking-3d">極限停車場</option></select></label>
+<fieldset><legend>類型</legend><label class="chip"><input type="radio" name="kind" value="problem" checked><span>問題回報</span></label>
+<label class="chip"><input type="radio" name="kind" value="idea"><span>功能建議</span></label></fieldset>
+<label>內容<textarea name="text" rows="7" maxlength="2000" required minlength="2" placeholder="發生了什麼事？在哪個畫面？或你希望 App 能做到什麼？"></textarea></label>
+<label>附圖（最多 3 張）<input type="file" name="pics" accept="image/*" multiple></label>
+<label>Email（選填，需要回覆時填）<input type="email" name="contact" maxlength="120" autocomplete="email"></label>
+<div class="send"><button class="btn" type="submit">送出</button><p id="fb-status" role="status" aria-live="polite"></p></div>
+<p class="note">內容與圖片會存成只有開發者看得到的紀錄；圖片會縮小、移除拍攝資訊，90 天後刪除。</p>
+</form></div></section>
+<script>
+const f=document.getElementById('fb'),st=document.getElementById('fb-status'),app=new URLSearchParams(location.search).get('app');
+if(app&&f.app.querySelector('option[value="'+CSS.escape(app)+'"]'))f.app.value=app;
+const shrink=file=>new Promise((ok,no)=>{const img=new Image();img.onload=()=>{const k=Math.min(1,1600/Math.max(img.width,img.height)),c=document.createElement('canvas');
+c.width=Math.round(img.width*k);c.height=Math.round(img.height*k);c.getContext('2d').drawImage(img,0,0,c.width,c.height);URL.revokeObjectURL(img.src);
+ok(c.toDataURL('image/jpeg',.85).split(',')[1])};img.onerror=no;img.src=URL.createObjectURL(file)});
+f.addEventListener('submit',async ev=>{ev.preventDefault();const b=f.querySelector('button'),t=f.dataset;b.disabled=true;st.textContent=t.sending;st.className='';
+try{const files=await Promise.all([...f.pics.files].slice(0,3).map(shrink));
+const r=await fetch('/feedback',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({app:f.app.value,kind:f.kind.value,
+text:f.text.value,contact:f.contact.value,files,version:'web',device:'web',context:'網站表單 '+location.pathname})});
+if(r.ok){f.reset();st.textContent=t.done;st.className='ok'}else{st.textContent=r.status===429?t.busy:t.fail;st.className='err'}}
+catch(e){st.textContent=t.fail;st.className='err'}b.disabled=false});
+</script>
+</main>
+<footer class="foot"><div class="wrap"><span>© 2026 Eason Wu</span><nav><a href="/guides/">教學</a><a href="/about/" rel="author">關於</a><a href="/feed.xml">更新</a><a href="https://agentmesh.uk/feedback/">意見回饋</a><a href="mailto:easonwumac@gmail.com">聯絡</a></nav></div></footer>
+</body>
+</html>

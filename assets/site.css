@@ -171,6 +171,27 @@ a:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outli
 .highlights li::before { content: ""; position: absolute; left: 2px; top: 20px; width: 7px; height: 7px; border-radius: 50%; background: var(--accent); }
 .prose p { font-size: 1.05rem; }
 
+.sec.form-sec { padding-top: 8px; }
+.fb { max-width: 640px; display: grid; gap: 22px; }
+.fb label, .fb legend { display: grid; gap: 8px; font-weight: 600; font-size: .95rem; }
+.fb fieldset { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
+.fb legend { margin-bottom: 8px; }
+.fb select, .fb textarea, .fb input[type=email], .fb input[type=file] { font: inherit; font-weight: 400; color: var(--ink); background: var(--surface);
+  border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; width: 100%; }
+.fb textarea { resize: vertical; min-height: 160px; }
+.fb select:focus, .fb textarea:focus, .fb input:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
+.fb .chip { display: inline-flex; font-weight: 500; }
+.fb .chip input { position: absolute; opacity: 0; }
+.fb .chip span { padding: 9px 18px; border-radius: 999px; box-shadow: inset 0 0 0 1.5px var(--line); cursor: pointer; }
+.fb .chip input:checked + span { background: var(--ink); color: var(--paper); box-shadow: none; }
+.fb .chip input:focus-visible + span { outline: 3px solid var(--accent); outline-offset: 2px; }
+.fb .send { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+.fb button { border: 0; cursor: pointer; font: inherit; font-weight: 600; }
+.fb button:disabled { opacity: .5; cursor: default; }
+#fb-status { margin: 0; color: var(--muted); }
+#fb-status.ok { color: #3f7d4e; } #fb-status.err { color: var(--accent); }
+.fb .note { margin: 0; color: var(--muted); font-size: .85rem; }
+
 @media (max-width: 900px) { .app-list { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 600px) { .app-list { grid-template-columns: 1fr; } .app-note { flex-direction: column; align-items: flex-start; } .page-head, .article { padding-top: 40px; } }
 
