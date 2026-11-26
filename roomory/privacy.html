@@ -25,7 +25,7 @@
       <p>居圖 Roomory 提供室內空間掃描、居家規劃、量測、配置與設計圖組製作工具。App 使用相機與 LiDAR 建立室內空間資料；相機畫面用於掃描，不會由我們的伺服器接收即時影像。使用家具掃描時，拍攝的照片與重建中的暫存檔只存在裝置上，用於建立 3D 模型，完成或取消後即刪除；建立的家具模型隨專案儲存。</p>
       <h2>資料存放</h2>
       <p>你輸入的專案名稱、客戶資訊、地址、設計備註、尺寸、配置與掃描模型會儲存在裝置上。使用者登入 iCloud 並同步時，專案和掃描檔會儲存在其 Apple iCloud 私有資料庫，供其裝置同步。</p>
-      <p>你為現場驗收拍攝或選取的缺失照片、匯入的格局圖（照片或 PDF）以及報價單內容，會縮小後存入專案，與專案一起保存、同步與備份；除非你使用下述的 AI 助理，否則不會上傳到我們的伺服器。</p>
+      <p>你為現場驗收拍攝或選取的缺失照片、匯入的格局圖（照片或 PDF）以及報價單內容，會縮小後存入專案，與專案一起保存、同步與備份；除非你使用下述的 AI 功能，否則不會上傳到我們的伺服器。</p>
       <p>你使用「共享專案」邀請他人時，該專案（含掃描檔、照片與家具模型）會經由 Apple iCloud 共享給你邀請的人；他們可依你給的權限檢視或編輯。你可隨時在「管理共享」中移除參與者或停止共享，刪除已共享的專案也會停止共享。我們看不到共享內容。</p>
       <p>你主動匯出 PDF（圖組、報價單、驗收報告）、DXF、SVG、USDZ、GLB、PNG 渲染圖、MP4 環繞影片或專案備份並分享時，資料會交給你選擇的接收方或 App。你應確保對輸入及分享的房屋、客戶與設計資料有適當權利，並自行保存重要備份。</p>
       <h2>廣告與追蹤</h2>
@@ -33,6 +33,7 @@
       <p>AdMob 可能處理 IP 位址、裝置與廣告互動資料，以及效能與診斷資料，用於廣告投放、頻率控制、防詐欺與衡量。詳見 <a href="https://policies.google.com/privacy">Google 隱私權政策</a>及 <a href="https://developers.google.com/admob/ios/privacy/data-disclosure">AdMob 資料使用說明</a>。訂閱居圖 Pro（或先前已購買「移除廣告」）後不再顯示廣告。</p>
       <h2>AI 助理</h2>
       <p>居圖 Pro 的 AI 助理（2.1 版起）可用一句話排出家具配置、草擬報價項目，以及從一張驗收照片描述缺失。第一次使用時 App 會先說明並徵求同意，同意前不會傳送任何內容；之後可在「居圖 Pro」畫面點「撤回 AI 資料傳輸同意」。每次使用時，你輸入的文字、該專案的房間名稱、尺寸與物件、算料與報價項目名稱，或你要描述的那一張照片，會傳到我們的伺服器（Cloudflare Workers），再交由 Anthropic 的 Claude 處理後傳回。我們的伺服器不保存這些內容，只保存每個訂閱當月的使用次數；為了確認訂閱，App 會附上 App Store 簽發的訂閱交易資料（不含姓名、電子郵件或付款資料）。Anthropic 依其商業條款與<a href="https://www.anthropic.com/legal/privacy">隱私權政策</a>處理這些內容。這些內容不會用於廣告。</p>
+      <p>2.5 版起，「從房間照片產生」可選 1–3 張房間照片，由 AI 畫出牆、門窗與家具草稿；未訂閱者每台裝置每月可免費使用 3 次。使用時，你選的照片（縮小後）與專案房間資料同樣經我們的伺服器交由 Anthropic 的 Claude 處理，伺服器不保存照片。為了計算免費次數，App 會附上 Apple 的供應商識別碼（IDFV，只用於這個用途，不用於廣告或追蹤），伺服器另以當月加鹽的單向雜湊記錄來源 IP 位址的次數（不保存 IP 本身），用來防止濫用；這些次數只保留到當月結束。</p>
       <h2>購買</h2>
       <p>掃描、建模、多專案及個人 iCloud 同步可免費使用（含廣告）。2.1 版起提供自動續訂的訂閱「居圖 Pro」（月繳或年繳）：解鎖成品匯出（PDF 圖組、報價單與驗收報告、DXF、SVG、USDZ、GLB、高解析 3D 渲染圖與環繞影片）、全部 3D 傢具與材質、AI 助理（每月 150 次），並移除廣告。訂閱會自動續訂，除非在當期結束前至少 24 小時取消；可在 App Store 帳號設定中管理或取消，價格以 App Store 購買畫面為準。先前販售的一次性內購（專業匯出、精選傢具包、實拍材質包、移除廣告）已不再販售，已購買者仍保有原本解鎖的內容。</p>
       <p>購買由 Apple App Store 處理，App 使用 StoreKit 確認購買權益；我們不在 App 中取得付款卡號。退款依 Apple 的政策處理。</p>
@@ -50,7 +51,7 @@
       <h2>聯絡我們</h2>
       <p>隱私、服務或條款問題請寄信至 <a href="mailto:easonwumac@gmail.com">easonwumac@gmail.com</a>。若你寄送客服電子郵件，我們會使用你提供的信箱及內容回覆與處理問題。</p>
       <h2>更新日期</h2>
-      <p class="meta">更新日期：<time datetime="2026-11-23">2026-11-23</time></p>
+      <p class="meta">更新日期：<time datetime="2026-11-26">2026-11-26</time></p>
       <p>我們會在資料處理方式改變時更新本政策。</p>
     </section>
     <section id="en" lang="en" aria-label="English">
@@ -66,6 +67,7 @@
       <p>AdMob may process IP address, device and ad-interaction data, and performance and diagnostic data for ad delivery, frequency capping, fraud prevention, and measurement. See the <a href="https://policies.google.com/privacy">Google Privacy Policy</a> and <a href="https://developers.google.com/admob/ios/privacy/data-disclosure">AdMob data disclosure</a>. Ads stop after you buy Remove Ads.</p>
       <h2>AI assistant</h2>
       <p>Roomory Pro's AI assistant (version 2.1 and later) lays out furniture from one sentence, drafts quote items, and describes a defect from one inspection photo. Before the first use the app explains this and asks for your consent, and nothing is sent until you agree; you can take it back with Withdraw AI Data Consent on the Roomory Pro screen. Each request sends the text you enter, the project's room names, dimensions and objects, takeoff and quote item names, or the one photo you ask to describe, to our server (Cloudflare Workers), which forwards it to Anthropic's Claude and returns the answer. Our server does not keep this content; it keeps only each subscription's request count for the month. To confirm the subscription, the app attaches the App Store's signed subscription transaction (no name, email or payment details). Anthropic handles the content under its commercial terms and <a href="https://www.anthropic.com/legal/privacy">privacy policy</a>. This content is not used for advertising.</p>
+      <p>From version 2.5, Draft from a room photo takes 1–3 photos of a room and has the AI draw a draft of its walls, doors, windows and furniture; without a subscription each device gets 3 free drafts a month. The photos you pick (downsized) and the project's room data go through our server to Anthropic's Claude in the same way, and the server does not keep the photos. To count the free drafts the app attaches Apple's identifier for vendor (IDFV, used for nothing else and never for ads or tracking), and the server also counts requests per IP address under a one-way hash salted with the month (the address itself is not kept) to prevent abuse; these counts are kept only until the month ends.</p>
       <h2>Purchases</h2>
       <p>Scanning, modeling, multiple projects, and sync through your personal iCloud account are free, with ads. From version 2.1, Roomory Pro is an auto-renewing subscription (monthly or yearly) that unlocks finished exports (PDF drawing set, quote and inspection PDFs, DXF, SVG, USDZ, GLB, high-resolution 3D renders and orbit video), all 3D furniture and materials, the AI assistant (150 requests a month), and removes ads. It renews automatically unless cancelled at least 24 hours before the period ends; manage or cancel it in your App Store account settings. The App Store purchase screen shows local prices. The earlier one-time purchases (Pro Export, Furniture Pack, Material Pack, Remove Ads) are no longer sold; people who bought one keep what it unlocked.</p>
       <p>Apple App Store processes purchases. The app uses StoreKit to verify entitlements and does not receive your payment card number. Apple handles refunds under its policies.</p>
@@ -83,7 +85,7 @@
       <h2>Contact</h2>
       <p>For privacy, service, or terms questions, email <a href="mailto:easonwumac@gmail.com">easonwumac@gmail.com</a>. If you email support, we use the email address and content you provide to reply and resolve the issue.</p>
       <h2>Last updated</h2>
-      <p class="meta">Last updated: <time datetime="2026-11-23">2026-11-23</time></p>
+      <p class="meta">Last updated: <time datetime="2026-11-26">2026-11-26</time></p>
       <p>We will update this policy if data practices change.</p>
     </section>
     <footer>
