@@ -1,0 +1,7 @@
+tool: Codex image_gen
+date: guide organize-screenshots
+
+Use your image generation tool to draw one wide 16:9 image: a warm, refined editorial illustration for a
+practical how-to article. Scene: A cozy wooden desk with a smartphone lying flat, surrounded by neatly stacked paper receipts, a handwritten recipe card, and a small folder labeled with colorful tabs. Soft textured shading, warm palette with terracotta accents, gentle light, simple bold
+shapes, magazine-cover quality. No text, letters, numbers, logos, brand marks, UI screenshots or recognizable people; not in
+any named artist's style. Save it as cover.png in the current directory. Reply only with the file name.

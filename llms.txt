@@ -1,6 +1,6 @@
-# Eason Wu Apps
+# AgentMesh
 
-> Independent iOS apps by Eason Wu. Each app has a page in Traditional Chinese, one in English, plus pages in the other languages its App Store listing ships in; facts come from the live App Store text.
+> AI news, iPhone guides and iOS apps by AgentMesh. Each app has a page in Traditional Chinese, one in English, plus pages in the other languages its App Store listing ships in; facts come from the live App Store text.
 Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French and German: [llms-full.txt](https://agentmesh.uk/llms-full.txt)
 
 

@@ -218,3 +218,22 @@ a:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outli
   .stats { gap: 24px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+
+/* Media front page and illustrated guides (user 2026-11-27: 「整個網站都好醜」, chose 內容媒體感) */
+.front { padding-top: 48px; }
+.front-grid { display: grid; grid-template-columns: 1.7fr 1fr; gap: 20px; align-items: start; }
+.briefs { display: grid; gap: 14px; }
+.brief { display: grid; grid-template-columns: 112px 1fr; gap: 14px; align-items: center; padding: 10px; border-radius: 18px;
+  background: var(--surface); box-shadow: inset 0 0 0 1px var(--line); text-decoration: none; transition: box-shadow .2s ease; }
+.brief:hover { box-shadow: inset 0 0 0 1.5px var(--accent); }
+.brief img, .brief i { width: 112px; height: auto; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 12px; display: block;
+  background: linear-gradient(135deg, var(--c1, var(--accent)), var(--c2, var(--line))); }
+.brief em { display: block; font-style: normal; font-size: .75rem; font-weight: 700; color: var(--accent); letter-spacing: .04em; margin-bottom: 2px; }
+.brief b { font-size: .98rem; line-height: 1.42; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.guide.pic { padding: 0; overflow: hidden; gap: 0; box-shadow: var(--shadow); }
+.guide.pic .gimg { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
+.guide.pic .tag { padding: 16px 20px 0; }
+.guide.pic b { padding: 6px 20px 20px; }
+.article .hero-img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--radius); margin: 4px 0 24px; box-shadow: var(--shadow); }
+@media (max-width: 900px) { .front-grid { grid-template-columns: 1fr; } }
+@media (max-width: 600px) { .brief { grid-template-columns: 96px 1fr; } .brief img, .brief i { width: 96px; } }

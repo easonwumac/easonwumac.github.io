@@ -1,4 +1,4 @@
-# Eason Wu Apps
+# AgentMesh
 # Assistants and AI search may read, quote and link every page.
 User-Agent: *
 Allow: /
