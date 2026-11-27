@@ -32,3 +32,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://agentmesh.uk/sitemap.xml
+Sitemap: https://agentmesh.uk/ai-news/sitemap.xml
