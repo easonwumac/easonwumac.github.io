@@ -1,54 +1,49 @@
-.news { max-width: 880px; padding-top: 48px; padding-bottom: 56px; }
-.news .kicker { color: var(--accent); font-weight: 700; font-size: .9rem; letter-spacing: .08em; text-decoration: none; }
-.news .masthead { margin-bottom: 28px; }
-.news .masthead h1 { font-size: clamp(2.1rem, 5vw, 3.1rem); line-height: 1.15; letter-spacing: -.03em; margin: 6px 0 10px; }
+.news { max-width: 880px; padding-top: 56px; padding-bottom: 64px; }
+.news .masthead { margin-bottom: 36px; }
+.news .masthead h1 { font-size: clamp(2.1rem, 5vw, 3.1rem); line-height: 1.15; letter-spacing: -.03em; margin: 0 0 10px; text-wrap: balance; }
 .news .masthead p { color: var(--muted); margin: 0; }
-.cover { position: relative; display: flex; align-items: flex-end; height: 112px; padding: 14px 20px; color: #fff;
-  background: linear-gradient(135deg, var(--c1), var(--c2)); overflow: hidden; }
-.cover::after { content: attr(data-word); position: absolute; right: 18px; bottom: 10px; font-size: 2.4rem; font-weight: 800;
-  letter-spacing: -.03em; opacity: .22; white-space: nowrap; }
-.cover .chip { background: rgb(255 255 255 / .22); }
-.chip { display: inline-block; padding: 3px 11px; border-radius: 999px; font-size: .78rem; font-weight: 700; letter-spacing: .02em; }
-.lead-story, .story-card { display: block; border-radius: var(--radius); overflow: hidden; background: var(--surface);
-  box-shadow: var(--shadow); text-decoration: none; transition: transform .2s ease; }
+.toc { margin: 18px 0 0; padding-left: 1.3em; display: grid; gap: 6px; }
+.toc a { text-decoration: none; font-weight: 600; }
+.toc a:hover { color: var(--accent); }
+.shot { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; background: var(--line); }
+.lead-story, .story-card { display: block; border-radius: 20px; overflow: hidden; background: var(--surface); text-decoration: none;
+  box-shadow: 0 1px 2px rgb(0 0 0 / .08), 0 18px 40px -24px rgb(0 0 0 / .45); transition: transform .25s cubic-bezier(.2, .8, .2, 1); }
 .lead-story:hover, .story-card:hover { transform: translateY(-3px); }
-.shot { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; background: linear-gradient(135deg, var(--c1), var(--c2)); }
 .lead-story .shot { aspect-ratio: 2 / 1; }
+.lead-story .body, .story-card .body { padding: 22px 24px 22px; }
+.lead-story h2 { font-size: clamp(1.55rem, 3.4vw, 2.1rem); line-height: 1.28; letter-spacing: -.02em; margin: 0 0 10px; text-wrap: balance; }
+.story-card h3 { font-size: 1.15rem; line-height: 1.4; margin: 0 0 8px; text-wrap: balance; }
+.lead-story p, .story-card p { margin: 0; color: color-mix(in srgb, var(--ink) 80%, var(--muted)); }
+.byline { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 12px 0 0 !important; font-size: .84rem; color: var(--muted) !important; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin-top: 20px; }
 .cards.row { grid-template-columns: 1fr; }
 .cards.row .story-card { display: grid; grid-template-columns: 2fr 3fr; align-items: stretch; }
-.cards.row .story-card .shot, .cards.row .story-card .stripe { height: 100%; aspect-ratio: auto; min-height: 180px; }
+.cards.row .story-card .shot { height: 100%; aspect-ratio: auto; min-height: 180px; }
 .cards.row .story-card .body { align-self: center; }
-.glance { margin: 0 0 32px; padding: 18px 22px; border-radius: var(--radius); background: var(--surface); box-shadow: inset 0 0 0 1px var(--line); }
-.glance b { display: block; font-size: .85rem; letter-spacing: .06em; color: var(--accent); margin-bottom: 8px; }
-.glance ol { margin: 0; padding-left: 1.3em; display: grid; gap: 6px; }
-.glance a { text-decoration: none; font-weight: 600; }
-.glance a:hover { color: var(--accent); }
-.stripe { height: 6px; background: linear-gradient(90deg, var(--c1), var(--c2)); }
-.tagline { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; font-size: .8rem; color: var(--muted); }
-.tagline .chip { color: #fff; background: linear-gradient(135deg, var(--c1), var(--c2)); }
-.lead-story .body, .story-card .body { padding: 20px 22px 22px; }
-.lead-story h2 { font-size: clamp(1.5rem, 3.4vw, 2rem); line-height: 1.3; letter-spacing: -.02em; margin: 0 0 10px; }
-.story-card h3 { font-size: 1.15rem; line-height: 1.4; margin: 0 0 8px; }
-.lead-story p, .story-card p { margin: 0; color: color-mix(in srgb, var(--ink) 80%, var(--muted)); }
-.story-card p { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; font-size: .95rem; }
-.meta { margin-top: 12px; font-size: .82rem; color: var(--muted); }
-.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin-top: 20px; }
-.news .section-title { font-size: 1.25rem; margin: 48px 0 4px; }
-.story { margin: 0 0 44px; border-radius: var(--radius); overflow: hidden; background: var(--surface); box-shadow: var(--shadow); scroll-margin-top: 80px; }
-.story .body { padding: 24px 26px 26px; }
-.story h2 { font-size: clamp(1.45rem, 3.2vw, 1.85rem); line-height: 1.32; letter-spacing: -.02em; margin: 0 0 14px; }
-.story .dek { font-size: 1.12rem; line-height: 1.75; margin: 0 0 18px; }
-.for-you { margin: 0 0 20px; padding: 16px 18px; border-radius: 16px; background: color-mix(in srgb, var(--accent) 12%, var(--surface));
-  border-left: 4px solid var(--accent); }
-.for-you b { display: block; font-size: .85rem; color: var(--accent); letter-spacing: .04em; margin-bottom: 4px; }
-.for-you p { margin: 0; }
-.try b { display: block; font-size: .85rem; color: var(--muted); letter-spacing: .04em; margin-bottom: 8px; }
-.try ol { list-style: none; counter-reset: s; padding: 0; margin: 0 0 18px; display: grid; gap: 8px; }
-.try li { counter-increment: s; display: flex; gap: 12px; align-items: baseline; }
-.try li::before { content: counter(s); flex: none; display: grid; place-items: center; width: 26px; height: 26px; border-radius: 50%;
-  background: var(--accent); color: var(--accent-ink); font-size: .8rem; font-weight: 700; transform: translateY(-1px); }
-.source { font-size: .85rem; color: var(--muted); overflow-wrap: anywhere; border-top: 1px solid var(--line); padding-top: 12px; }
-.source a { color: var(--accent); }
+.news .section-title { font-size: 1.3rem; margin: 56px 0 8px; }
+.rows { display: grid; }
+.rows .row { display: grid; grid-template-columns: 168px 1fr; gap: 18px; align-items: center; padding: 16px 0; border-bottom: 1px solid var(--line); text-decoration: none; }
+.rows .row:last-child { border-bottom: 0; }
+.rows .row .shot, .rows .row i { width: 168px; aspect-ratio: 16 / 10; border-radius: 12px; display: block; background: var(--line); }
+.rows .row b { font-size: 1.05rem; line-height: 1.45; }
+.rows .row:hover b { color: var(--accent); }
+.rows .row .byline { margin-top: 6px !important; }
+.story { margin: 0 0 56px; scroll-margin-top: 80px; }
+.story .shot { border-radius: 20px; }
+.story .body { padding: 22px 0 0; }
+.story h2 { font-size: clamp(1.5rem, 3.2vw, 1.95rem); line-height: 1.3; letter-spacing: -.02em; margin: 0; text-wrap: balance; }
+.story .byline { margin: 8px 0 18px !important; }
+.story .dek { font-size: 1.1rem; line-height: 1.8; margin: 0 0 18px; }
+.impact { margin: 0 0 22px; padding: 16px 20px; border-radius: 14px; background: color-mix(in srgb, var(--accent) 11%, var(--surface)); }
+.impact b { color: var(--accent); }
+.story h3 { font-size: 1.02rem; margin: 0 0 10px; }
+.steps { list-style: none; counter-reset: s; padding: 0; margin: 0 0 22px; display: grid; gap: 10px; }
+.steps li { counter-increment: s; display: flex; gap: 12px; align-items: baseline; }
+.steps li::before { content: counter(s); flex: none; display: grid; place-items: center; width: 24px; height: 24px; border-radius: 50%;
+  border: 1.5px solid var(--accent); color: var(--accent); font-size: .78rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+.source { font-size: .86rem; color: var(--muted); overflow-wrap: anywhere; margin: 0; }
+.source a { color: inherit; text-underline-offset: 3px; }
 @media (max-width: 700px) { .cards { grid-template-columns: 1fr; } .cards.row .story-card { display: block; }
-  .cards.row .story-card .shot { height: auto; aspect-ratio: 16 / 9; min-height: 0; } .cover { height: 92px; }
-  .story .body, .lead-story .body, .story-card .body { padding: 18px; } .news { padding-top: 32px; } }
+  .cards.row .story-card .shot { height: auto; aspect-ratio: 16 / 9; min-height: 0; }
+  .rows .row { grid-template-columns: 112px 1fr; } .rows .row .shot, .rows .row i { width: 112px; }
+  .lead-story .body, .story-card .body { padding: 18px; } .news { padding-top: 36px; } }

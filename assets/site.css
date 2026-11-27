@@ -56,7 +56,6 @@ a:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outli
 .hero { padding: 88px 0 72px; overflow: hidden; }
 .hero .wrap { display: grid; grid-template-columns: 1.05fr 1fr; gap: 48px; align-items: center; }
 .hero h1 { font-size: clamp(2.5rem, 5.2vw, 4.1rem); line-height: 1.12; letter-spacing: -.03em; margin: 0 0 20px; font-weight: 750; }
-.hero h1 em { font-style: normal; color: var(--accent); }
 .hero p { font-size: 1.15rem; color: var(--muted); margin: 0 0 32px; max-width: 30em; }
 .hero .cta { display: flex; gap: 12px; flex-wrap: wrap; }
 .fan { position: relative; height: 520px; }
@@ -228,7 +227,7 @@ a:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outli
 .brief:hover { box-shadow: inset 0 0 0 1.5px var(--accent); }
 .brief img, .brief i { width: 112px; height: auto; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 12px; display: block;
   background: linear-gradient(135deg, var(--c1, var(--accent)), var(--c2, var(--line))); }
-.brief em { display: block; font-style: normal; font-size: .75rem; font-weight: 700; color: var(--accent); letter-spacing: .04em; margin-bottom: 2px; }
+.brief small { display: block; margin-top: 4px; font-size: .8rem; color: var(--muted); }
 .brief b { font-size: .98rem; line-height: 1.42; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .guide.pic { padding: 0; overflow: hidden; gap: 0; box-shadow: var(--shadow); }
 .guide.pic .gimg { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
