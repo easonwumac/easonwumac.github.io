@@ -4,7 +4,7 @@
 
 從重新擺放家具，到準備整戶裝潢，居圖陪你把現有的空間，整理成心中的配置。掃描房間或手動開始，在平面圖上調整，再用 3D 預覽看看想法。
 
-- iOS 17.0+ · v2.4.1 · 2026-11-25 · 200.1 MB
+- iOS 17.0+ · v2.5.0 · 2026-11-27 · 201.1 MB
 - [App Store](https://apps.apple.com/app/id6825348801?pt=102436810&ct=llms_roomory&mt=8)
 - [Support](https://agentmesh.uk/roomory/support.html)
 

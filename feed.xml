@@ -4,8 +4,28 @@
   <id>https://agentmesh.uk/</id>
   <link href="https://agentmesh.uk/"/>
   <link rel="self" href="https://agentmesh.uk/feed.xml"/>
-  <updated>2026-11-27T13:11:59Z</updated>
+  <updated>2026-11-27T17:50:05Z</updated>
   <author><name>Eason Wu</name></author>
+  <entry><title>Inside: Phone Check 1.21.2</title><id>https://agentmesh.uk/inside/#1.21.2</id><link href="https://agentmesh.uk/inside/"/><updated>2026-11-27T17:50:05Z</updated><summary>After a check, the results can set the charging clock to open when you plug in. No charger at hand? Choose “record it when I plug in” and the charging item is recorded the next time you connect one with Inside open. Bug fixes.
+
+兩分鐘檢查跑完後的結果頁，可設定接上充電器就開啟充電時鐘。手邊沒有充電器時可選「之後接上時自動記錄」，下次接上充電器並開著機況時就會記錄。另修正了一些問題。</summary></entry>
+  <entry><title>Roomory: Floor Plans 2.5.0</title><id>https://agentmesh.uk/roomory/#2.5.0</id><link href="https://agentmesh.uk/roomory/"/><updated>2026-11-27T17:49:14Z</updated><summary>Roomory 2.5
+• Draft a room from photos: pick 1–3 photos of a room and AI draws its walls, doors, windows and furniture for you to correct (3 free a month)
+• Box select: drag a box over furniture to move or delete it all at once
+• One-tap scan: Scan the Room on the home screen starts right away, no name needed
+• Site photos: keep site photos pinned on the plan, the video of each single-room scan and 3D scenes captured from photos in your project
+• A cleaner editor: the toolbar fits in one row and the room’s area shows beside its name
+• Deleting no longer asks first; undo it right on the plan
+• Design book: contents page, quote subtotals by room, wiring by circuit and switch-to-light lines on the lighting sheet
+
+居圖 2.5
+• 從照片畫房間：選 1–3 張房間照片，AI 畫出牆、門窗和家具，再自己修正（免費每月 3 次）
+• 框選：框住多件家具，一起移動或刪除
+• 一鍵掃描：首頁點「掃描房間」直接開始，不用先取名
+• 現場照片：專案裡存現場照片並釘在平面圖上，也存單一房間掃描時的錄影，還能用照片拍成 3D 場景
+• 更簡潔的編輯畫面：工具列收成一排，房間名稱旁直接顯示面積與坪數
+• 刪除物件不再跳確認，可直接復原
+• 設計書：目錄、報價逐房間小計、逐迴路的線材，照明圖連出開關與燈</summary></entry>
   <entry><title>Splash Car: Rocket Garage 1.0.0</title><id>https://agentmesh.uk/autopgo/#1.0.0</id><link href="https://agentmesh.uk/autopgo/"/><updated>2026-11-27T13:11:59Z</updated><summary></summary></entry>
   <entry><title>Folkline: Forum Reader 1.1.5</title><id>https://agentmesh.uk/folkline/#1.1.5</id><link href="https://agentmesh.uk/folkline/"/><updated>2026-11-27T10:34:28Z</updated><summary>• Fixed posting, replying and editing getting stuck after PTT changed its save screen
 • Signed in, a board&#x27;s newest page refreshes from PTT about every 45 seconds, so new and deleted posts show before the website catches up
@@ -33,23 +53,9 @@ Sorting is smarter too: receipts, tickets, warranty cards, restaurants, recipes 
   <entry><title>AutoCombo 2.1.1</title><id>https://agentmesh.uk/autocombo/#2.1.1</id><link href="https://agentmesh.uk/autocombo/"/><updated>2026-11-25T22:13:55Z</updated><summary>Bug fixes and improvements.
 
 修正問題並改善穩定性。</summary></entry>
-  <entry><title>Inside: Phone Check 1.21.1</title><id>https://agentmesh.uk/inside/#1.21.1</id><link href="https://agentmesh.uk/inside/"/><updated>2026-11-25T22:02:14Z</updated><summary>When no ad is available, the ad space now shows one of our other apps. Bug fixes.
-
-沒有廣告可顯示時，廣告位置會改為介紹我們的其他 App。另修正了一些問題。</summary></entry>
   <entry><title>Nightvane: Star Guide 1.3.1</title><id>https://agentmesh.uk/starplace/#1.3.1</id><link href="https://agentmesh.uk/starplace/"/><updated>2026-11-25T16:08:23Z</updated><summary>Bug fixes and improvements.
 
 修正問題並改善穩定性。</summary></entry>
-  <entry><title>Roomory: Floor Plans 2.4.1</title><id>https://agentmesh.uk/roomory/#2.4.1</id><link href="https://agentmesh.uk/roomory/"/><updated>2026-11-25T16:07:11Z</updated><summary>Roomory 2.4.1
-• More reliable iCloud sync: one project with a problem no longer holds back the others or shared projects
-• PDF, SVG and DXF exports draw low walls (railings, bar counters), and PDF sheets show the area of drawn rooms
-• Fixes to quotes, splitting and merging rooms, 3D doors and AR restyling
-• Stability and performance improvements
-
-居圖 2.4.1
-• iCloud 同步更可靠：單一專案出錯不再擋住其他專案與共享專案
-• PDF、SVG、DXF 匯出會畫出矮牆（欄杆、吧檯），PDF 圖面也標出手繪房間的面積
-• 報價、拆分與合併房間、3D 門扇與 AR 換材質的多項修正
-• 穩定性與效能改善</summary></entry>
   <entry><title>Pow3 2.0.0</title><id>https://agentmesh.uk/pow3/#2.0.0</id><link href="https://agentmesh.uk/pow3/"/><updated>2026-11-25T10:58:07Z</updated><summary>POW³ 2.0 is an all-new game.
 • Swap gems to dig down a mine, level by level
 • Dig through rock, mine gold and smash cores that fight back
