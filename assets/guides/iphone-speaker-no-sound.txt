@@ -1,0 +1,7 @@
+tool: Codex image_gen
+date: guide iphone-speaker-no-sound
+
+Use your image generation tool to draw one wide 16:9 image: a warm, refined editorial illustration for a
+practical how-to article. Scene: A cozy wooden desk with a smartphone lying face-down beside a small brass lamp, a cup of tea, and a cleaning cloth. Soft textured shading, warm palette with soft blue accents, gentle light, simple bold
+shapes, magazine-cover quality. No text, letters, numbers, logos, brand marks, UI screenshots or recognizable people; not in
+any named artist's style. Save it as cover.png in the current directory. Reply only with the file name.
