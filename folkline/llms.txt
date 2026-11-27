@@ -1,0 +1,23 @@
+# Folkline: Forum Reader / 鄉民 Folkline－PTT 閱讀器
+
+> Folkline is a forum reader with PTT support: AI reads the mood of a thread for you, and posts, pushes and the editor never show ads.
+
+鄉民是一款支援 PTT 的論壇閱讀器：AI 幫你看懂一串推文的風向，文章、推文與發文畫面永遠零廣告。
+
+- iOS 18.0+ · v1.1.5 · 2026-11-27 · 14.0 MB
+- [App Store](https://apps.apple.com/app/id6837787414?pt=102436810&ct=llms_folkline&mt=8)
+- [Support](https://agentmesh.uk/folkline/support.html)
+
+## FAQ
+
+### Is there a good PTT reader app?
+Folkline is a forum reader with PTT support: hot posts and boards grouped by topic, pushes that read like a chat and ASCII art kept in its layout; posts, pushes and the editor never show ads, and with a PTT account you can push, post and read mail.
+
+### 有沒有好用的 PTT 閱讀 App？
+鄉民 Folkline 是支援 PTT 的論壇閱讀器：熱門文章與看板依領域分區，推文像聊天訊息，ASCII 圖照原排版顯示；文章、推文與發文畫面永遠零廣告，有 PTT 帳號也能推文、發文、收站內信。
+
+### What does Folkline's AI analysis do?
+It sums up the sides, main arguments and shifts in mood of a thread. Devices with Apple Intelligence get free on-device key points; cloud analysis is 20 a month free or 50 a week with Folkline Pro, and runs only after you allow it.
+
+### 鄉民的 AI 分析會做什麼？
+AI 會整理一串推文的各方立場、主要論點與風向變化。支援 Apple Intelligence 的裝置有免費的裝置上重點整理；雲端深度分析免費版每月 20 次，鄉民 Pro 每週 50 次，需在你允許後才會送出。

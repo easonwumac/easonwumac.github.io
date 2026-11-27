@@ -1,0 +1,23 @@
+# Hearscape: Sound Locator / 聲跡 Hearscape－噪音分貝計
+
+> Hearscape turns your phone into a sound radar and noise log.
+
+聲跡把手機變成聲音雷達和噪音紀錄器。
+
+- iOS 18.0+ · v1.0.1 · 2026-11-25 · 8.6 MB
+- [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
+- [Support](https://agentmesh.uk/hearscape/support.html)
+
+## FAQ
+
+### How can I find which direction a noise comes from?
+Open the Radar in Hearscape and turn slowly in a full circle: it paints a 360° heat ring and marks the loudest direction, with separate bearings for low, mid and high sounds. A phone held still cannot tell direction; turning finds it.
+
+### 怎麼找出噪音從哪個方向來？
+打開聲跡 Hearscape 的雷達，拿著手機慢慢轉一圈，它會畫出 360° 熱度環並標出最響的方向；低音、中音、高音也各自標出方向。手機拿著不動分不出方向，轉身掃描才找得到。
+
+### Can I log noise overnight?
+Yes. Hearscape keeps monitoring with the screen locked and records the night's decibel curve; when a threshold you set is passed it keeps a clip starting 5 seconds earlier, and you can export a PDF report. It measures with the phone's microphone and is not a certified sound level meter.
+
+### 可以整夜記錄樓上或外面的噪音嗎？
+可以。聲跡 Hearscape 鎖上螢幕也能持續監測，記下整夜的分貝曲線；門檻依環境部〈噪音管制標準〉設定，也可自訂，超過門檻時會從前 5 秒開始錄下片段，並可匯出 PDF 報告。這是手機麥克風量測，僅供參考，不是經檢定的噪音計。

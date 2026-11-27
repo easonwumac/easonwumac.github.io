@@ -4,18 +4,36 @@
   <id>https://agentmesh.uk/</id>
   <link href="https://agentmesh.uk/"/>
   <link rel="self" href="https://agentmesh.uk/feed.xml"/>
-  <updated>2026-11-25T22:44:42Z</updated>
+  <updated>2026-11-27T13:11:59Z</updated>
   <author><name>Eason Wu</name></author>
+  <entry><title>Splash Car: Rocket Garage 1.0.0</title><id>https://agentmesh.uk/autopgo/#1.0.0</id><link href="https://agentmesh.uk/autopgo/"/><updated>2026-11-27T13:11:59Z</updated><summary></summary></entry>
+  <entry><title>Folkline: Forum Reader 1.1.5</title><id>https://agentmesh.uk/folkline/#1.1.5</id><link href="https://agentmesh.uk/folkline/"/><updated>2026-11-27T10:34:28Z</updated><summary>• Fixed posting, replying and editing getting stuck after PTT changed its save screen
+• Signed in, a board&#x27;s newest page refreshes from PTT about every 45 seconds, so new and deleted posts show before the website catches up
+• Delete your own post with a left swipe or from the post&#x27;s ⋯ menu
+• Fixed the app getting slower the longer it stayed open
+
+・修正發文、回文、修改文章會卡住（PTT 更新了存檔畫面）
+・登入後，看板最新一頁約每 45 秒直接從 PTT 更新，新文章和刪文不用等網頁版
+・左滑自己的文章或在文章 ⋯ 選單即可刪除
+・修正開著很久會越用越慢的問題</summary></entry>
+  <entry><title>Tuck: AI Screenshot Organizer 3.7.0</title><id>https://agentmesh.uk/tuck/#3.7.0</id><link href="https://agentmesh.uk/tuck/"/><updated>2026-11-26T16:52:52Z</updated><summary>After swiping through your screenshots, Tuck shows how much space the deleted ones took up, and you can share the result as a card. The Upcoming in Tuck widget shows how many screenshots are waiting. New users can start swiping right from the intro.
+Sorting is smarter too: receipts, tickets, warranty cards, restaurants, recipes and product pages are recognized more reliably, with better reading of screenshots in other languages such as Korean.
+
+滑卡整理截圖後，會顯示刪掉的截圖有多大，還能把成果做成圖卡分享；「收好近期事項」小工具會顯示待整理的截圖數；首次使用可以直接從引導進入滑卡整理。
+截圖分類也更準了：收據、票券、保固卡、餐廳、食譜和商品頁更能分對，韓文等外語截圖也讀得更準。</summary></entry>
+  <entry><title>Hearscape: Sound Locator 1.0.1</title><id>https://agentmesh.uk/hearscape/#1.0.1</id><link href="https://agentmesh.uk/hearscape/"/><updated>2026-11-25T23:15:09Z</updated><summary>When no ad is available, the ad space now shows one of our other apps. Bug fixes.
+
+沒有廣告可顯示時，廣告位置會改為介紹我們的其他 App。另修正了一些問題。</summary></entry>
   <entry><title>Daikon: Period Tracker 1.9.0</title><id>https://agentmesh.uk/daikon/#1.9.0</id><link href="https://agentmesh.uk/daikon/"/><updated>2026-11-25T22:44:42Z</updated><summary>New: your own tags, with pain relief and the pill built in; a daily pill reminder; and a little card of your next period to share with your partner from Today. Full-screen ads now appear at most once a day, never when you open the app. A small banner sits at the bottom of Diary and History.
 
 新增：自訂標籤，止痛藥和避孕藥也能記；每日吃藥提醒；在「今天」把下次經期做成小卡分享給伴侶。全螢幕廣告改為每天最多一次，打開 App 時不會出現。「日記」與「你的記錄」底部新增一則小橫幅。</summary></entry>
   <entry><title>Lockwater: Canal Puzzle 1.3.0</title><id>https://agentmesh.uk/lockwater/#1.3.0</id><link href="https://agentmesh.uk/lockwater/"/><updated>2026-11-25T22:22:50Z</updated><summary>New level map: sail your tug along a 3D canal through all 12 chapters, from sunny locks to night water, and watch it chug to each lock you open. When no ad is available, the ad space shows one of our other apps. Bug fixes.
 
 全新關卡地圖：拖船沿著 3D 運河穿過全部 12 章，從陽光水閘到夜色水道，每開啟一道新水閘就開過去。沒有廣告可顯示時，廣告位置會改為介紹我們的其他 App。另修正了一些問題。</summary></entry>
-  <entry><title>Inside: Phone Check 1.21.1</title><id>https://agentmesh.uk/inside/#1.21.1</id><link href="https://agentmesh.uk/inside/"/><updated>2026-11-25T22:02:14Z</updated><summary>When no ad is available, the ad space now shows one of our other apps. Bug fixes.
+  <entry><title>AutoCombo 2.1.1</title><id>https://agentmesh.uk/autocombo/#2.1.1</id><link href="https://agentmesh.uk/autocombo/"/><updated>2026-11-25T22:13:55Z</updated><summary>Bug fixes and improvements.
 
-沒有廣告可顯示時，廣告位置會改為介紹我們的其他 App。另修正了一些問題。</summary></entry>
-  <entry><title>Tuck: AI Screenshot Organizer 3.6.1</title><id>https://agentmesh.uk/tuck/#3.6.1</id><link href="https://agentmesh.uk/tuck/"/><updated>2026-11-25T21:58:34Z</updated><summary>When no ad is available, the ad space now shows one of our other apps. Bug fixes.
+修正問題並改善穩定性。</summary></entry>
+  <entry><title>Inside: Phone Check 1.21.1</title><id>https://agentmesh.uk/inside/#1.21.1</id><link href="https://agentmesh.uk/inside/"/><updated>2026-11-25T22:02:14Z</updated><summary>When no ad is available, the ad space now shows one of our other apps. Bug fixes.
 
 沒有廣告可顯示時，廣告位置會改為介紹我們的其他 App。另修正了一些問題。</summary></entry>
   <entry><title>Nightvane: Star Guide 1.3.1</title><id>https://agentmesh.uk/starplace/#1.3.1</id><link href="https://agentmesh.uk/starplace/"/><updated>2026-11-25T16:08:23Z</updated><summary>Bug fixes and improvements.
@@ -32,6 +50,19 @@
 • PDF、SVG、DXF 匯出會畫出矮牆（欄杆、吧檯），PDF 圖面也標出手繪房間的面積
 • 報價、拆分與合併房間、3D 門扇與 AR 換材質的多項修正
 • 穩定性與效能改善</summary></entry>
+  <entry><title>Pow3 2.0.0</title><id>https://agentmesh.uk/pow3/#2.0.0</id><link href="https://agentmesh.uk/pow3/"/><updated>2026-11-25T10:58:07Z</updated><summary>POW³ 2.0 is an all-new game.
+• Swap gems to dig down a mine, level by level
+• Dig through rock, mine gold and smash cores that fight back
+• Moves you save become points and a jackhammer finale; earn up to three stars
+• The endless shaft opens after level 6
+• 18 achievements and a total-stars leaderboard
+
+POW³ 2.0 是一款全新的遊戲。
+• 交換寶石，一關一關挖進礦坑
+• 挖穿岩層、敲出金礦、擊碎會反擊的岩核
+• 省下的步數換成分數和風鎬終曲，最多拿三顆星
+• 過了第 6 關開啟無盡礦坑
+• 18 個成就和總星數排行榜</summary></entry>
   <entry><title>Prawnlight: Prawn Hall Tycoon 1.1.0</title><id>https://agentmesh.uk/prawnlight/#1.1.0</id><link href="https://agentmesh.uk/prawnlight/"/><updated>2026-11-24T15:15:22Z</updated><summary>Send Feedback: in the shop, tap © at the top left of the sign. Tell us about a problem or an idea, with screenshots if you like and an email only if you want a reply.
 
 新增「傳送意見」：在商店點招牌左上角的 ©。告訴我們遇到的問題或建議，可以附上截圖；想收到回覆再留電子郵件。</summary></entry>

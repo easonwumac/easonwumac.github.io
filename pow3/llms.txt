@@ -1,0 +1,17 @@
+# Pow3 / 爆三 Pow3－寶石挖礦
+
+> Dig down, one level at a time. Matches beside the rock break it.
+
+往下挖，一關一關挖。在岩層旁消除，就能打穿岩層。
+
+- iOS 18.0+ · v2.0.0 · 2026-11-25 · 20.6 MB
+- [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
+- [Support](https://agentmesh.uk/pow3/support.html)
+
+## FAQ
+
+### Is there a different kind of match-3 game?
+Pow3 is gem swapping in a mine shaft: matches crack the rock beside them and a cleared row sinks you one metre, each level with its own digging goal and fixed moves; after level 6 an endless mine ranks you by depth. It plays offline with no sign-up.
+
+### 有沒有不一樣的三消遊戲？
+爆三 Pow3 是在礦坑裡交換寶石的三消：消除會敲裂旁邊的岩石，整排打通就往下沉一公尺，每關有自己的挖掘目標和固定步數；過了第 6 關還有只比深度的無盡礦坑。離線也能玩，不用註冊。

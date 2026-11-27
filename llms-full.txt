@@ -472,6 +472,7 @@
 - [Page](https://agentmesh.uk/prawnlight/es/)
 - [App Store](https://apps.apple.com/app/id6828219014?pt=102436810&ct=llms_prawnlight&mt=8)
 - Prawnlight es un juego de gestión ambientado en un local cubierto de pesca de camarones de Taiwán que abre hasta altas horas de la noche. Tú eres el jefe, no el pescador: pide mercancía, suelta camarones, organiza el local, contrata personal y mantén a los clientes pescando hasta la hora de cierre.
+- Q: ¿Existe un juego de administrar un salón de pesca de camarones de Taiwán? A: Prawnlight: Rey del camarón te pone a cargo de un salón de pesca de camarones bajo techo en Taiwán: elige la ubicación, compra camarones para soltar, distribuye el local, contrata personal y organiza concursos mientras pagas un préstamo. Es gratis.
 - Q: ¿Prawnlight es gratis? A: Sí. Los anuncios solo aparecen cuando decides ver uno a cambio de una recompensa; también hay compras opcionales dentro de la app.
 - Q: ¿Qué se puede hacer en Prawnlight? A: Eres el dueño de un local cubierto de pesca de camarones en Taiwán: eliges un lugar en el mapa de Taiwán, colocas estanques y parrillas, contratas personal, organizas concursos y sueltas de camarones cada hora, y luego amplías el local o abres sucursales. Empiezas con un préstamo, así que si creces demasiado rápido te quedas sin efectivo.
 
@@ -514,6 +515,194 @@
 - Q: 연습할 수 있는 주차 모바일 게임이 있나요? A: Precision Parking 3D에는 튜토리얼 스테이지 3개와 5개 챕터로 구성된 40개 스테이지가 있어 조향, 페달, 기어 조작을 연습할 수 있으며, 오프라인에서도 플레이할 수 있습니다.
 - Q: Precision Parking 3D를 오프라인으로 플레이할 수 있나요? A: 모든 핵심 스테이지는 오프라인으로 플레이할 수 있으며, 진행 상황과 업적은 기기에 저장됩니다. 광고와 개인정보 관련 서비스는 인터넷 연결이 필요합니다.
 - Q: 운전대로 조작하는 주차 게임이 있나요? A: Precision Parking 3D에서는 좌우 버튼, 슬라이드 조향, 회전식 운전대 중에서 선택할 수 있으며, 후방 시점과 탑다운 시점을 전환할 수 있습니다. 각 스테이지에는 주차 성공, 무충돌 완료, 추가 도전이라는 세 가지 목표가 있습니다.
+
+### 声迹 Hearscape－噪音分贝仪 (简体中文)
+- [Page](https://agentmesh.uk/hearscape/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
+- 声迹把手机变成声音雷达和噪音记录器。
+- Q: 怎么找出噪音从哪个方向来？ A: 打开声迹 Hearscape 的雷达，拿着手机慢慢转一圈，它会画出 360° 热度环并标出最响的方向；低音、中音、高音也各自标出方向。手机拿着不动分不出方向，转身扫描才找得到。
+- Q: 可以整夜记录楼上或外面的噪音吗？ A: 可以。声迹 Hearscape 锁屏后也能持续监测，记下整夜的分贝曲线；阈值依环境部《噪音管制标准》设置，也可自定义，超过阈值时会从前 5 秒开始录下片段，并可导出 PDF 报告。这是手机麦克风测量，仅供参考，并非经过检定的噪音计。
+
+### Hearscape: 騒音計と音の方向 (日本語)
+- [Page](https://agentmesh.uk/hearscape/ja/)
+- [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
+- Hearscape は iPhone を音のレーダーと騒音ログに変えます。
+- Q: 音の方向はどうやって見つけられますか？ A: 聲跡 Hearscape のレーダーを開き、スマホをゆっくり一周回してください。360° のヒートリングが描かれ、いちばん大きな音の方向に印が付きます。低音・中音・高音それぞれの方向も表示されます。スマホを静止させたままでは方向は分からないため、回転してスキャンすることが必要です。
+- Q: 上の階や外の騒音を一晩中記録できますか？ A: はい、できます。聲跡 Hearscape は画面をロックしたままでも監視を続け、一晩の dB 曲線を記録します。しきい値は環境部の〈騒音管制標準〉に従って設定することも、自分で設定することもできます。しきい値を超えた場合は、5 秒前から録音を開始し、PDF レポートとして書き出せます。これはスマホのマイクによる測定で、参考値のみを目的としており、検定済みの騒音計ではありません。
+
+### Hearscape: 소음 측정기 (한국어)
+- [Page](https://agentmesh.uk/hearscape/ko/)
+- [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
+- Hearscape는 iPhone을 소리 레이더와 소음 기록기로 바꿔 줍니다.
+- Q: 소리가 어느 방향에서 오는지 어떻게 찾나요? A: Hearscape의 레이더를 열고 휴대폰을 든 채 천천히 한 바퀴 돌아보세요. 360° 히트 링이 그려지고 가장 큰 소리의 방향이 표시되며, 저음·중음·고음 각각의 방향도 따로 표시됩니다. 휴대폰을 가만히 들고 있으면 방향을 알 수 없으니, 몸을 돌려 스캔해야 찾을 수 있습니다.
+
+### Hearscape: Sonómetro (Español)
+- [Page](https://agentmesh.uk/hearscape/es/)
+- [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
+- Hearscape convierte tu iPhone en un radar de sonido y un registro de ruido.
+- Q: ¿Cómo puedo saber de qué dirección viene un ruido? A: Abre el Radar de Hearscape y gira lentamente en un círculo completo: dibuja un anillo de calor de 360° y marca la dirección más ruidosa, con direcciones separadas para sonidos graves, medios y agudos. Con el teléfono quieto no se puede saber la dirección; al girar la encuentras.
+
+### Hearscape : Sonomètre (Français)
+- [Page](https://agentmesh.uk/hearscape/fr/)
+- [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
+- Hearscape transforme votre iPhone en radar sonore et en journal du bruit.
+- Q: Comment savoir d’où vient un bruit ? A: Ouvrez le radar de Hearscape : Sonomètre et tournez lentement sur vous-même avec votre téléphone. L’appli trace un anneau de chaleur à 360° et indique la direction la plus bruyante ; les graves, médiums et aigus ont chacun leur propre direction. Un téléphone tenu immobile ne peut pas repérer une direction ; c’est en tournant que vous la trouvez.
+- Q: Puis-je enregistrer le bruit de l'étage du dessus ou de l'extérieur toute la nuit ? A: Oui. Hearscape : Sonomètre continue la surveillance même lorsque l'écran est verrouillé et enregistre la courbe des décibels de toute la nuit ; les seuils suivent les « Normes de contrôle du bruit » du ministère de l'Environnement, mais vous pouvez aussi les personnaliser. Lorsqu'un seuil est dépassé, un extrait est enregistré à partir des 5 secondes précédentes, et vous pouvez exporter un rapport PDF. Il s'agit d'une mesure effectuée avec le microphone du téléphone, donnée à titre indicatif : ce n'est pas un sonomètre certifié.
+
+### Hearscape: Lärmmesser (Deutsch)
+- [Page](https://agentmesh.uk/hearscape/de/)
+- [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
+- Hearscape macht dein iPhone zum Schallradar und Lärmprotokoll.
+- Q: Wie kann ich herausfinden, aus welcher Richtung ein Geräusch kommt? A: Öffne das Radar in Hearscape und drehe dich langsam einmal im Kreis: Es zeichnet einen 360°-Wärmering und markiert die lauteste Richtung, mit getrennten Richtungsangaben für tiefe, mittlere und hohe Töne. Ein ruhig gehaltenes Telefon kann keine Richtung erkennen; durch Drehen wird sie gefunden.
+
+### 乡民 Folkline－PTT 阅读器 (简体中文)
+- [Page](https://agentmesh.uk/folkline/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id6837787414?pt=102436810&ct=llms_folkline&mt=8)
+- Folkline 是一款支持 PTT 的论坛阅读器：AI 帮你解读一串推文的风向，文章、推文与发文画面始终没有广告。
+- Q: 有没有好用的 PTT 阅读 App？ A: 乡民 Folkline 是支持 PTT 的论坛阅读器：热门文章与看板按领域分区，推文像聊天消息，ASCII 图照原排版显示；文章、推文与发文画面永远零广告，有 PTT 账号也能推文、发文、收站内信。
+- Q: 乡民的 AI 分析会做什么？ A: AI 会整理一串推文的各方立场、主要论点与风向变化。支持 Apple Intelligence 的设备有免费的设备内重点整理；云端深度分析免费版每月 20 次，乡民 Pro 每周 50 次，需在你允许后才会发送。
+
+### Folkline: 掲示板リーダー (日本語)
+- [Page](https://agentmesh.uk/folkline/ja/)
+- [App Store](https://apps.apple.com/app/id6837787414?pt=102436810&ct=llms_folkline&mt=8)
+- FolklineはPTTに対応した掲示板リーダーです。AIがスレッドの雰囲気を読み取り、投稿、コメント、エディタに広告は一切表示されません。
+- Q: Folklineの AI分析では何ができますか？ A: スレッドの各立場、主な論点、雰囲気の変化をまとめます。Apple Intelligenceに対応した端末では、端末上で要点を無料で整理できます。クラウドでの詳細分析は、無料版では月20回、Folkline Proでは週50回です。ご自身が許可した後にのみ送信されます。
+
+### Folkline: 포럼 리더 (한국어)
+- [Page](https://agentmesh.uk/folkline/ko/)
+- [App Store](https://apps.apple.com/app/id6837787414?pt=102436810&ct=llms_folkline&mt=8)
+- Folkline은 PTT를 지원하는 포럼 리더입니다. AI가 스레드의 분위기를 대신 읽어 드리며, 게시글, 댓글, 편집기에는 광고가 전혀 나오지 않습니다.
+- Q: PTT를 잘 읽을 수 있는 앱이 있나요? A: Folkline은 PTT를 지원하는 포럼 리더입니다. 인기 글과 게시판은 주제별로 묶여 있고, 댓글은 채팅처럼 보이며, ASCII 아트는 원래 레이아웃 그대로 표시됩니다. 게시글, 댓글, 편집기 화면에는 광고가 전혀 없고, PTT 계정이 있으면 댓글 달기, 글쓰기, 쪽지 읽기가 가능합니다.
+- Q: Folkline의 AI 분석은 무엇을 하나요? A: AI가 스레드의 각 입장, 주요 논점, 분위기 변화를 정리해 줍니다. Apple Intelligence를 지원하는 기기에서는 기기 내 핵심 요약을 무료로 이용할 수 있습니다. 클라우드 심층 분석은 무료 버전에서 월 20회, Folkline Pro에서는 주 50회 이용할 수 있으며, 사용자가 허용한 후에만 전송됩니다.
+
+### Folkline: Lector de foros (Español)
+- [Page](https://agentmesh.uk/folkline/es/)
+- [App Store](https://apps.apple.com/app/id6837787414?pt=102436810&ct=llms_folkline&mt=8)
+- Folkline es un lector de foros con compatibilidad con PTT: la IA interpreta el ánimo de un hilo por ti, y las publicaciones, los comentarios y el editor nunca muestran anuncios.
+- Q: ¿Hay alguna buena app para leer PTT? A: Folkline es un lector de foros compatible con PTT: publicaciones y foros populares agrupados por tema, los comentarios se ven como mensajes de chat y el arte ASCII conserva su formato; las publicaciones, los comentarios y el editor nunca muestran anuncios, y con una cuenta de PTT puedes comentar, publicar y leer tu correo.
+- Q: ¿Qué hace el análisis con IA de Folkline? A: Resume los bandos, los argumentos principales y los cambios de ánimo de un hilo. Los dispositivos con Apple Intelligence obtienen puntos clave gratis en el propio dispositivo; el análisis en la nube es gratuito con 20 al mes, o 50 a la semana con Folkline Pro, y solo se ejecuta después de que lo permitas.
+
+### Folkline : Lecteur de forum (Français)
+- [Page](https://agentmesh.uk/folkline/fr/)
+- [App Store](https://apps.apple.com/app/id6837787414?pt=102436810&ct=llms_folkline&mt=8)
+- Folkline est un lecteur de forum avec prise en charge de PTT : l’IA analyse l’ambiance d’un fil pour vous, et les posts, commentaires et l’éditeur ne montrent jamais de publicité.
+- Q: Existe-t-il une bonne application de lecture PTT ? A: Folkline est un lecteur de forum compatible avec PTT : les sujets et forums populaires sont regroupés par thème, les commentaires s’affichent comme des messages de discussion et les ASCII art conservent leur mise en page. Les posts, commentaires et l’éditeur ne montrent jamais de publicité, et avec un compte PTT, vous pouvez commenter, publier et lire vos messages privés.
+- Q: À quoi sert l’analyse par IA de Folkline ? A: L’IA résume les positions de chaque camp, les principaux arguments et l’évolution de l’ambiance d’un fil. Les appareils compatibles Apple Intelligence bénéficient gratuitement de points clés générés sur l’appareil ; l’analyse approfondie dans le cloud est limitée à 20 par mois en version gratuite, ou 50 par semaine avec Folkline Pro, et elle n’est envoyée qu’après votre autorisation.
+
+### Folkline: Forum-Leser (Deutsch)
+- [Page](https://agentmesh.uk/folkline/de/)
+- [App Store](https://apps.apple.com/app/id6837787414?pt=102436810&ct=llms_folkline&mt=8)
+- Folkline ist ein Forum-Reader mit PTT-Unterstützung: Die KI erkennt die Stimmung eines Strangs für dich, und Beiträge, Kommentare und der Editor zeigen nie Werbung.
+- Q: Gibt es eine gute PTT-Lese-App? A: Folkline ist ein Forum-Reader mit PTT-Unterstützung: Beliebte Beiträge und Foren sind nach Themen sortiert, Kommentare wirken wie ein Chat, und ASCII-Art bleibt in ihrem ursprünglichen Layout erhalten. Beiträge, Kommentare und der Editor zeigen nie Werbung. Mit einem PTT-Konto kannst du kommentieren, Beiträge verfassen und Mails lesen.
+- Q: Was macht die KI-Analyse von Folkline? A: Die KI fasst einen Strang zusammen: die Haltung jeder Seite, die wichtigsten Argumente und wie sich die Stimmung verändert hat. Geräte mit Apple Intelligence erhalten kostenlos wichtige Punkte direkt auf dem Gerät. Die Cloud-Analyse ist in der kostenlosen Version 20 Mal pro Monat möglich, mit Folkline Pro 50 Mal pro Woche, und wird nur gesendet, nachdem du zugestimmt hast.
+
+### AutoCombo (简体中文)
+- [Page](https://agentmesh.uk/autocombo/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
+- AutoCombo 帮你规划转珠路线。在游戏里截图，回到 AutoCombo 轻点一下，就能找到盘面、识别每颗珠子，画出可用手指跟随的路径。
+- Q: 转珠游戏有办法自动算出路径吗？ A: AutoCombo 会读取你的游戏截图，找出盘面、识别每颗珠子，然后画出可以跟着拖动的转珠路线；连击数、拼图形状、指定消除等条件都能设置。它只显示路线，不会操作其他 App，识别和计算都在手机上进行。
+
+### AutoCombo (日本語)
+- [Page](https://agentmesh.uk/autocombo/ja/)
+- [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
+- AutoComboでドロップを動かすルートを計画。ゲームのスクリーンショットを撮り、戻って1回タップすると、盤面とドロップを読み取り、指でたどれるルートを表示します。
+- Q: パズルの珠の動かし方を自動で計算してくれるアプリはありますか？ A: AutoComboはゲームのスクリーンショットを読み取り、盤面を認識して各ドロップを特定し、指でなぞって動かせる移動ルートを描画します。連鎖数、パズルの形、必ず消すマスなどの条件も設定できます。ルートを表示するだけで、ほかのアプリを操作することはありません。認識と計算はすべてスマホ内で行われます。
+
+### AutoCombo (한국어)
+- [Page](https://agentmesh.uk/autocombo/ko/)
+- [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
+- AutoCombo로 드롭을 움직일 경로를 계획하세요. 게임에서 스크린샷을 찍고 돌아와 한 번 탭하면 보드와 드롭을 읽고 손가락으로 따라갈 경로를 그립니다.
+- Q: 퍼즐 게임에서 구슬 이동 경로를 자동으로 계산해 줄 수 있나요? A: AutoCombo는 게임 스크린샷을 읽어 보드를 찾고 각 구슬을 인식한 뒤, 손가락으로 따라 드래그할 수 있는 구슬 이동 경로를 그려 줍니다. 연속 콤보 수, 퍼즐 모양, 지정 제거 등의 조건도 설정할 수 있습니다. 경로만 표시하며 다른 앱을 조작하지 않고, 인식과 계산은 모두 기기에서 진행됩니다.
+
+### AutoCombo (Español)
+- [Page](https://agentmesh.uk/autocombo/es/)
+- [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
+- AutoCombo te ayuda a planificar cómo mover los orbes. Toma una captura en el juego, vuelve y toca una vez: la app detecta el tablero, lee cada orbe y dibuja una ruta para seguir con el dedo.
+- Q: ¿Hay alguna forma de que una app calcule automáticamente la ruta para mover los orbes? A: AutoCombo lee la captura de pantalla de tu juego, encuentra el tablero y cada orbe, y dibuja una ruta de orbes que puedes seguir con el dedo; puedes definir combos, formas, casillas que deben eliminarse y más condiciones. Solo muestra la ruta y nunca controla otra app; la lectura y el cálculo se hacen en el teléfono.
+
+### AutoCombo (Français)
+- [Page](https://agentmesh.uk/autocombo/fr/)
+- [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
+- AutoCombo vous aide à planifier vos déplacements d’orbes. Prenez une capture dans le jeu, revenez et touchez une fois : l’app repère le plateau, lit chaque orbe et trace un trajet à suivre du doigt.
+- Q: Est-ce qu’une application peut calculer automatiquement le trajet pour les orbes ? A: AutoCombo lit votre capture d’écran de jeu, repère le plateau et chaque orbe, puis trace un trajet que vous pouvez suivre du doigt ; vous pouvez définir les combos, les formes, les cases à éliminer et d’autres conditions. Il affiche uniquement le trajet et ne contrôle jamais une autre app ; la lecture et le calcul restent sur le téléphone.
+
+### AutoCombo (Deutsch)
+- [Page](https://agentmesh.uk/autocombo/de/)
+- [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
+- AutoCombo plant deine Kugelzüge. Mache im Spiel einen Screenshot, kehre zurück und tippe einmal: Die App erkennt das Spielfeld, liest jede Kugel und zeichnet eine Route, der du mit dem Finger folgen kannst.
+- Q: Kann eine App für mich Zugrouten für das Kugelspiel berechnen? A: AutoCombo liest deinen Spiel-Screenshot, findet das Spielfeld und jede einzelne Kugel und zeichnet eine Route, der du mit dem Finger folgen kannst; du kannst Kombos, Formen, Pflichtfelder und mehr festlegen. Die App zeigt nur die Route und steuert nie eine andere App; das Erkennen und Berechnen bleibt auf dem Telefon.
+
+### 爆三 Pow3－宝石挖矿 (简体中文)
+- [Page](https://agentmesh.uk/pow3/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
+- 往下挖，一关一关挖。在岩层旁消除，就能打穿岩层。
+- Q: 有没有不一样的三消游戏？ A: 爆三 Pow3 是在矿坑里交换宝石的三消：消除会敲裂旁边的岩石，整排打通就往下沉一米，每关有自己的挖掘目标和固定步数；过了第 6 关还有只比深度的无尽矿坑。离线也能玩，无需注册。
+
+### Pow3－宝石の採掘パズル (日本語)
+- [Page](https://agentmesh.uk/pow3/ja/)
+- [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
+- 一段ずつ、下へ掘り進めよう。岩のそばでそろえれば、岩が砕ける。
+- Q: マッチ3のゲームで、今までとは違うものはありますか？ A: 「爆三 Pow3」は、鉱山の坑道でジェムを入れ替えるマッチ3パズルです。ジェムを揃えると隣の岩にひびが入り、一列を打ち通すと一メートル下へ沈みます。各ステージには独自の掘削目標と固定の手数があり、第6ステージをクリアすると、深さで順位が決まる無限の鉱山が解放されます。オフラインでも遊べ、登録は不要です。
+
+### Pow3－보석 채굴 퍼즐 (한국어)
+- [Page](https://agentmesh.uk/pow3/ko/)
+- [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
+- 한 층씩 아래로 파 내려가세요. 바위 옆에서 젬을 맞추면 바위가 부서집니다.
+- Q: 다른 종류의 매치3 게임이 있나요? A: Pow3 - 보석 채굴 퍼즐은 광산 갱도에서 보석을 교환하는 매치3 게임입니다. 맞춘 보석은 옆의 암석을 깨뜨리고, 한 줄을 모두 치우면 1미터 아래로 내려갑니다. 각 레벨에는 고유한 채굴 목표와 정해진 이동 횟수가 있으며, 6레벨을 넘으면 깊이로 순위를 겨루는 무한 광산이 열립니다. 오프라인에서도 플레이할 수 있고 가입할 필요가 없습니다.
+
+### Pow3: Mina de gemas (Español)
+- [Page](https://agentmesh.uk/pow3/es/)
+- [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
+- Excava hacia abajo, nivel a nivel. Las líneas junto a la roca la rompen.
+- Q: ¿Hay algún juego de tres en línea diferente? A: Pow3 es un juego de intercambiar gemas en un pozo de mina: al hacer combinaciones se rompe la roca de al lado, y cuando despejas una fila completa bajas un metro. Cada nivel tiene su propio objetivo de excavación y un número fijo de movimientos; después del nivel 6 hay un pozo sin fin que te clasifica por profundidad. Se puede jugar sin conexión y sin registrarse.
+
+### Pow3 : Mine de gemmes (Français)
+- [Page](https://agentmesh.uk/pow3/fr/)
+- [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
+- Creusez niveau après niveau. Les alignements contre la roche la font voler en éclats.
+- Q: Existe-t-il un jeu de type match-3 différent ? A: Pow3 est un jeu d'échange de gemmes dans un puits de mine : les alignements fissurent la roche voisine, et une rangée entièrement dégagée vous fait descendre d'un mètre. Chaque niveau a son propre objectif de fouille et un nombre de coups fixe ; après le niveau 6, une mine sans fin classe les joueurs selon leur profondeur. Il fonctionne hors ligne et ne nécessite aucune inscription.
+
+### Pow3: Edelsteinmine (Deutsch)
+- [Page](https://agentmesh.uk/pow3/de/)
+- [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
+- Grab dich Level für Level in die Tiefe. Reihen neben dem Gestein brechen es auf.
+- Q: Gibt es ein anderes Match-3-Spiel? A: Pow3 ist ein Edelstein-Tauschspiel in einem Minenschacht: Matches brechen das Gestein neben sich auf, und eine komplett freigeräumte Reihe lässt dich einen Meter tiefer sinken. Jedes Level hat sein eigenes Grabungsziel und eine feste Zahl an Zügen; nach Level 6 misst ein endloser Schacht nur noch deine Tiefe. Das Spiel funktioniert offline und ohne Anmeldung.
+
+### 喷喷车 Splash Car－改装水火箭 (简体中文)
+- [Page](https://agentmesh.uk/autopgo/zh-Hans/)
+- [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
+- 水火箭车每次都全力冲出去。跑不跑得完轨道，看你怎么改装。
+- Q: 有没有能学到物理的儿童游戏？ A: 《喷喷车 Splash Car》让你改装水火箭车，在 50 关玩具轨道上冲刺：同一个零件放在不同位置效果不同，失败画面会说明原因，过关后用一句话讲清重心、升力、抓地力、空气阻力等道理。无需注册，可离线游玩。
+
+### Splash Car－水ロケットカー (日本語)
+- [Page](https://agentmesh.uk/autopgo/ja/)
+- [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
+- 水ロケットカーはいつも全力で飛び出す。コースを走りきれるかは、あなたの改造しだい。
+- Q: 物理が学べる子ども向けゲームはありますか？ A: 「噴噴車 Splash Car」では、水ロケットカーを改造して、おもちゃのコース50ステージを走り抜けます。同じパーツでも取り付ける場所によって効果が変わり、失敗画面にはその理由が表示され、クリア後には重心、揚力、グリップ、空気抵抗などの原理が一言で説明されます。登録は不要で、オフラインでも遊べます。
+
+### Splash Car: 물로켓 자동차 (한국어)
+- [Page](https://agentmesh.uk/autopgo/ko/)
+- [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
+- 물로켓 자동차는 언제나 전력으로 튀어 나가요. 트랙을 완주할지는 당신의 개조에 달렸어요.
+- Q: 물리를 배울 수 있는 어린이 게임이 있나요? A: Splash Car(噴噴車)는 물로켓 자동차를 개조해 50개의 장난감 트랙 스테이지를 통과하는 게임이에요. 같은 부품도 다는 위치에 따라 효과가 달라지고, 실패 화면에 실패 이유가 표시되며, 클리어할 때마다 무게중심, 양력, 접지력, 공기 저항 등의 원리를 한 문장으로 설명해 줘요. 회원 가입이 필요 없고 오프라인으로도 플레이할 수 있어요.
+
+### Splash Car: Taller de cohetes (Español)
+- [Page](https://agentmesh.uk/autopgo/es/)
+- [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
+- Tu carro cohete de agua siempre sale a toda potencia. Que termine la pista depende de cómo lo montes.
+- Q: ¿Hay algún juego para niños que enseñe física? A: Splash Car: Taller de cohetes te deja modificar un carro cohete de agua para que recorra 50 niveles de pistas de juguete: la misma pieza funciona de forma distinta según dónde la coloques, una pantalla de fallo te dice por qué perdiste y, al ganar, una frase explica la idea detrás, como el centro de masa, la sustentación, el agarre o la resistencia del aire. No requiere registro y se puede jugar sin conexión.
+
+### Splash Car : Fusée à eau (Français)
+- [Page](https://agentmesh.uk/autopgo/fr/)
+- [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
+- Ta voiture-fusée à eau part toujours à pleine puissance. Qu’elle finisse le circuit dépend de ton montage.
+- Q: Existe-t-il un jeu pour enfants qui permet d'apprendre la physique ? A: Splash Car : Fusée à eau vous permet de transformer une voiture-fusée à eau et de la faire rouler sur 50 circuits de jouets : la même pièce n'a pas le même effet selon son emplacement, un écran d'échec explique la raison de l'échec, et chaque victoire vous explique le principe en une phrase, comme le centre de gravité, la portance, l'adhérence ou la résistance de l'air. Aucune inscription requise, jouable hors ligne.
+
+### Splash Car: Raketenwerkstatt (Deutsch)
+- [Page](https://agentmesh.uk/autopgo/de/)
+- [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
+- Dein Wasserraketen-Auto startet immer mit voller Kraft. Ob es die Bahn schafft, liegt an deinem Umbau.
+- Q: Gibt es ein Spiel, mit dem Kinder Physik spielerisch lernen können? A: Splash Car: Raketenwerkstatt lässt dich ein Wasserraketen-Auto umbauen, das in 50 Level einer Spielzeugbahn bestehen muss: Dasselbe Teil wirkt je nach Position unterschiedlich, der Fehlerbildschirm sagt dir, warum ein Versuch gescheitert ist, und nach jedem Sieg erklärt ein Satz die Idee dahinter, etwa Schwerpunkt, Auftrieb, Haftung oder Luftwiderstand. Eine Anmeldung ist nicht nötig, das Spiel kann offline gespielt werden.
 
 ## Guides
 - [简体中文: 买二手 iPhone 要检查什么？当面验机清单](https://agentmesh.uk/guides/used-iphone-checklist/zh-Hans/)

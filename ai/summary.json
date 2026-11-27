@@ -75,6 +75,46 @@
    "appStore": "https://apps.apple.com/app/id6816430472",
    "category": "Games",
    "description": "Slow down. Find your angle. Make every space count."
+  },
+  {
+   "name": "Hearscape: Sound Locator",
+   "alternateName": "聲跡 Hearscape－噪音分貝計",
+   "url": "https://agentmesh.uk/hearscape/",
+   "appStore": "https://apps.apple.com/app/id6836749497",
+   "category": "Utilities",
+   "description": "Hearscape turns your phone into a sound radar and noise log."
+  },
+  {
+   "name": "Folkline: Forum Reader",
+   "alternateName": "鄉民 Folkline－PTT 閱讀器",
+   "url": "https://agentmesh.uk/folkline/",
+   "appStore": "https://apps.apple.com/app/id6837787414",
+   "category": "Social Networking",
+   "description": "Folkline is a forum reader with PTT support: AI reads the mood of a thread for you, and posts, pushes and the editor never show ads."
+  },
+  {
+   "name": "AutoCombo",
+   "alternateName": "AutoCombo",
+   "url": "https://agentmesh.uk/autocombo/",
+   "appStore": "https://apps.apple.com/app/id909354644",
+   "category": "Utilities",
+   "description": "AutoCombo plans your orb-matching moves. Take a screenshot in your game, come back and tap once: AutoCombo finds the board, reads every orb and draws a route you can follow with your finger."
+  },
+  {
+   "name": "Pow3",
+   "alternateName": "爆三 Pow3－寶石挖礦",
+   "url": "https://agentmesh.uk/pow3/",
+   "appStore": "https://apps.apple.com/app/id1044069059",
+   "category": "Games",
+   "description": "Dig down, one level at a time. Matches beside the rock break it."
+  },
+  {
+   "name": "Splash Car: Rocket Garage",
+   "alternateName": "噴噴車 Splash Car－改裝水火箭",
+   "url": "https://agentmesh.uk/autopgo/",
+   "appStore": "https://apps.apple.com/app/id1149834600",
+   "category": "Games",
+   "description": "Your water-rocket car always launches at full power. Whether it finishes the track is down to your build."
   }
  ]
 }

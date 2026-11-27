@@ -10,7 +10,12 @@
   "Nightvane: Star Guide: Hold your iPhone or iPad up to the night and Nightvane shows what you are looking at: stars, planets, constellations, the Moon and the Milky Way, right where they are.",
   "Lockwater: Canal Puzzle: Lockwater is a canal puzzle made of soft clay: a row of stone chambers, a few wooden gates, and boats that must reach the flag of their color.",
   "Prawnlight: Prawn Hall Tycoon: Prawnlight is a management game set in a Taiwanese indoor prawn-fishing hall that stays open late into the night. You are the boss, not the angler: order stock, release prawns, lay out the floor, hire staff and keep the guests fishing until closing time.",
-  "Precision Parking 3D: Slow down. Find your angle. Make every space count."
+  "Precision Parking 3D: Slow down. Find your angle. Make every space count.",
+  "Hearscape: Sound Locator: Hearscape turns your phone into a sound radar and noise log.",
+  "Folkline: Forum Reader: Folkline is a forum reader with PTT support: AI reads the mood of a thread for you, and posts, pushes and the editor never show ads.",
+  "AutoCombo: AutoCombo plans your orb-matching moves. Take a screenshot in your game, come back and tap once: AutoCombo finds the board, reads every orb and draws a route you can follow with your finger.",
+  "Pow3: Dig down, one level at a time. Matches beside the rock break it.",
+  "Splash Car: Rocket Garage: Your water-rocket car always launches at full power. Whether it finishes the track is down to your build."
  ],
  "services": [
   {
@@ -66,6 +71,36 @@
    "category": "Games",
    "url": "https://agentmesh.uk/precision-parking-3d/",
    "description": "Slow down. Find your angle. Make every space count."
+  },
+  {
+   "name": "Hearscape: Sound Locator",
+   "category": "Utilities",
+   "url": "https://agentmesh.uk/hearscape/",
+   "description": "Hearscape turns your phone into a sound radar and noise log."
+  },
+  {
+   "name": "Folkline: Forum Reader",
+   "category": "Social Networking",
+   "url": "https://agentmesh.uk/folkline/",
+   "description": "Folkline is a forum reader with PTT support: AI reads the mood of a thread for you, and posts, pushes and the editor never show ads."
+  },
+  {
+   "name": "AutoCombo",
+   "category": "Utilities",
+   "url": "https://agentmesh.uk/autocombo/",
+   "description": "AutoCombo plans your orb-matching moves. Take a screenshot in your game, come back and tap once: AutoCombo finds the board, reads every orb and draws a route you can follow with your finger."
+  },
+  {
+   "name": "Pow3",
+   "category": "Games",
+   "url": "https://agentmesh.uk/pow3/",
+   "description": "Dig down, one level at a time. Matches beside the rock break it."
+  },
+  {
+   "name": "Splash Car: Rocket Garage",
+   "category": "Games",
+   "url": "https://agentmesh.uk/autopgo/",
+   "description": "Your water-rocket car always launches at full power. Whether it finishes the track is down to your build."
   }
  ]
 }

@@ -236,3 +236,15 @@ a:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outli
 .article .hero-img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--radius); margin: 4px 0 24px; box-shadow: var(--shadow); }
 @media (max-width: 900px) { .front-grid { grid-template-columns: 1fr; } }
 @media (max-width: 600px) { .brief { grid-template-columns: 96px 1fr; } .brief img, .brief i { width: 96px; } }
+
+/* Landscape store screenshots (Lockwater, Precision Parking, Splash Car) keep their aspect */
+.gallery img.wide { width: 560px; border-radius: 22px; }
+.card .peek.wide { padding: 0; align-items: stretch; }
+.card .peek.wide img { width: 100%; height: 100%; object-fit: cover; border-radius: 0; box-shadow: none; }
+@media (max-width: 600px) { .gallery img.wide { width: 86vw; } }
+
+/* Store descriptions written as headed bullet groups (Hearscape: 雷達, 頻譜, 分貝計…) */
+.hl-groups { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 28px 48px; }
+.hl-group h3 { font-size: 1.08rem; margin: 0 0 4px; }
+.hl-group .highlights { columns: 1; }
+.features + .highlights, .features + .hl-groups { margin-top: 32px; }

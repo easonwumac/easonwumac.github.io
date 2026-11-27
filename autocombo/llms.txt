@@ -1,0 +1,17 @@
+# AutoCombo / AutoCombo
+
+> AutoCombo plans your orb-matching moves. Take a screenshot in your game, come back and tap once: AutoCombo finds the board, reads every orb and draws a route you can follow with your finger.
+
+AutoCombo 幫你規劃轉珠路徑。在遊戲裡截圖，回到 AutoCombo 點一下，它會找出盤面、認出每顆珠子，再畫出可以跟著拖的轉珠路線。
+
+- iOS 18.0+ · v2.1.1 · 2026-11-25 · 10.8 MB
+- [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
+- [Support](https://agentmesh.uk/autocombo/support.html)
+
+## FAQ
+
+### Can an app plan orb-matching routes for me?
+AutoCombo reads your game screenshot, finds the board and every orb, and draws a route you can follow with your finger; you can set combos, shapes, must-clear cells and more. It only shows the route and never controls another app; reading and solving stay on the phone.
+
+### 轉珠遊戲有辦法自動算出路徑嗎？
+AutoCombo 會讀你的遊戲截圖，找出盤面、認出每顆珠子，再畫出可以跟著拖的轉珠路線；連擊數、拼圖形狀、指定消除等條件都能設定。它只顯示路線，不會操作其他 App，辨識和計算都在手機上進行。

@@ -1,0 +1,17 @@
+# Splash Car: Rocket Garage / 噴噴車 Splash Car－改裝水火箭
+
+> Your water-rocket car always launches at full power. Whether it finishes the track is down to your build.
+
+水火箭車每次都全力衝出去。跑不跑得完軌道，看你怎麼改裝。
+
+- iOS 18.0+ · v1.0.0 · 2026-11-27 · 95.7 MB
+- [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
+- [Support](https://agentmesh.uk/autopgo/support.html)
+
+## FAQ
+
+### Is there a game that teaches physics through play?
+Splash Car has you build a water-rocket car for 50 toy-track levels: the same part works differently in different places, a crash screen says why it failed, and each win explains the idea behind it, such as center of mass, lift, grip or drag. No sign-up, plays offline.
+
+### 有沒有能學到物理的小朋友遊戲？
+噴噴車 Splash Car 讓你改裝水火箭車衝過 50 關玩具軌道：同一個零件放在不同位置效果不同，失敗畫面會說出原因，過關後用一句話說清重心、升力、抓地力、空氣阻力等道理。不需註冊，可離線遊玩。

@@ -275,6 +275,48 @@
    "question": "Is there a parking game with a steering wheel control?",
    "answer": "Precision Parking 3D lets you choose left/right buttons, sliding steering or a rotating wheel, and switch between third-person and overhead views; each level has three objectives: park, avoid collisions and an extra challenge.",
    "url": "https://agentmesh.uk/precision-parking-3d/en/"
+  },
+  {
+   "app": "Hearscape: Sound Locator",
+   "question": "How can I find which direction a noise comes from?",
+   "answer": "Open the Radar in Hearscape and turn slowly in a full circle: it paints a 360° heat ring and marks the loudest direction, with separate bearings for low, mid and high sounds. A phone held still cannot tell direction; turning finds it.",
+   "url": "https://agentmesh.uk/hearscape/en/"
+  },
+  {
+   "app": "Hearscape: Sound Locator",
+   "question": "Can I log noise overnight?",
+   "answer": "Yes. Hearscape keeps monitoring with the screen locked and records the night's decibel curve; when a threshold you set is passed it keeps a clip starting 5 seconds earlier, and you can export a PDF report. It measures with the phone's microphone and is not a certified sound level meter.",
+   "url": "https://agentmesh.uk/hearscape/en/"
+  },
+  {
+   "app": "Folkline: Forum Reader",
+   "question": "Is there a good PTT reader app?",
+   "answer": "Folkline is a forum reader with PTT support: hot posts and boards grouped by topic, pushes that read like a chat and ASCII art kept in its layout; posts, pushes and the editor never show ads, and with a PTT account you can push, post and read mail.",
+   "url": "https://agentmesh.uk/folkline/en/"
+  },
+  {
+   "app": "Folkline: Forum Reader",
+   "question": "What does Folkline's AI analysis do?",
+   "answer": "It sums up the sides, main arguments and shifts in mood of a thread. Devices with Apple Intelligence get free on-device key points; cloud analysis is 20 a month free or 50 a week with Folkline Pro, and runs only after you allow it.",
+   "url": "https://agentmesh.uk/folkline/en/"
+  },
+  {
+   "app": "AutoCombo",
+   "question": "Can an app plan orb-matching routes for me?",
+   "answer": "AutoCombo reads your game screenshot, finds the board and every orb, and draws a route you can follow with your finger; you can set combos, shapes, must-clear cells and more. It only shows the route and never controls another app; reading and solving stay on the phone.",
+   "url": "https://agentmesh.uk/autocombo/en/"
+  },
+  {
+   "app": "Pow3",
+   "question": "Is there a different kind of match-3 game?",
+   "answer": "Pow3 is gem swapping in a mine shaft: matches crack the rock beside them and a cleared row sinks you one metre, each level with its own digging goal and fixed moves; after level 6 an endless mine ranks you by depth. It plays offline with no sign-up.",
+   "url": "https://agentmesh.uk/pow3/en/"
+  },
+  {
+   "app": "Splash Car: Rocket Garage",
+   "question": "Is there a game that teaches physics through play?",
+   "answer": "Splash Car has you build a water-rocket car for 50 toy-track levels: the same part works differently in different places, a crash screen says why it failed, and each win explains the idea behind it, such as center of mass, lift, grip or drag. No sign-up, plays offline.",
+   "url": "https://agentmesh.uk/autopgo/en/"
   }
  ]
 }
