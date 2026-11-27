@@ -12,6 +12,17 @@
 .lead-story, .story-card { display: block; border-radius: var(--radius); overflow: hidden; background: var(--surface);
   box-shadow: var(--shadow); text-decoration: none; transition: transform .2s ease; }
 .lead-story:hover, .story-card:hover { transform: translateY(-3px); }
+.shot { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; background: linear-gradient(135deg, var(--c1), var(--c2)); }
+.lead-story .shot { aspect-ratio: 2 / 1; }
+.cards.row { grid-template-columns: 1fr; }
+.cards.row .story-card { display: grid; grid-template-columns: 2fr 3fr; align-items: stretch; }
+.cards.row .story-card .shot, .cards.row .story-card .stripe { height: 100%; aspect-ratio: auto; min-height: 180px; }
+.cards.row .story-card .body { align-self: center; }
+.glance { margin: 0 0 32px; padding: 18px 22px; border-radius: var(--radius); background: var(--surface); box-shadow: inset 0 0 0 1px var(--line); }
+.glance b { display: block; font-size: .85rem; letter-spacing: .06em; color: var(--accent); margin-bottom: 8px; }
+.glance ol { margin: 0; padding-left: 1.3em; display: grid; gap: 6px; }
+.glance a { text-decoration: none; font-weight: 600; }
+.glance a:hover { color: var(--accent); }
 .stripe { height: 6px; background: linear-gradient(90deg, var(--c1), var(--c2)); }
 .tagline { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; font-size: .8rem; color: var(--muted); }
 .tagline .chip { color: #fff; background: linear-gradient(135deg, var(--c1), var(--c2)); }
@@ -38,5 +49,6 @@
   background: var(--accent); color: var(--accent-ink); font-size: .8rem; font-weight: 700; transform: translateY(-1px); }
 .source { font-size: .85rem; color: var(--muted); overflow-wrap: anywhere; border-top: 1px solid var(--line); padding-top: 12px; }
 .source a { color: var(--accent); }
-@media (max-width: 700px) { .cards { grid-template-columns: 1fr; } .cover { height: 92px; }
+@media (max-width: 700px) { .cards { grid-template-columns: 1fr; } .cards.row .story-card { display: block; }
+  .cards.row .story-card .shot { height: auto; aspect-ratio: 16 / 9; min-height: 0; } .cover { height: 92px; }
   .story .body, .lead-story .body, .story-card .body { padding: 18px; } .news { padding-top: 32px; } }
