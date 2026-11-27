@@ -22,5 +22,36 @@
   "source_title": "Nothing offers a full look at its AI earbuds and charging case",
   "date": "2026-11-27",
   "id": "2026-11-27-2"
+ },
+ {
+  "title": "作者以AI重拾自架服務並簡化設定",
+  "what": "一位作者表示，AI讓他重新燃起對自架服務的熱情。他的基礎設施設定大多存放在Git儲存庫中，AI編碼代理可直接協助修改，並幫助他更容易嘗試NixOS及在家用伺服器上更廣泛使用它。",
+  "impact": "AI協助將VPS的設置時間從約一週縮短至半天，多數依賴更新只需審核並合併即可，對想自行架設服務的一般使用者而言，設定負擔可能減輕。",
+  "steps": [],
+  "company": "其他",
+  "scene": "A quiet desk with a small home server, a stack of neatly labeled cables, and a warm desk lamp.",
+  "source": "janlukas.blog",
+  "source_url": "https://janlukas.blog/posts/ai-self-hosting",
+  "source_title": "AI made self-hosting fun again",
+  "date": "2026-11-27",
+  "id": "2026-11-27-3"
+ },
+ {
+  "title": "Google 推出 Gemini 4 Neon 模型",
+  "what": "Google 推出 Gemini 4 Neon，主打兼具深度與效率的前沿智慧，可快速完成複雜的軟體工程、知識工作與科學流程任務。文章展示了五個由開發者使用 Neon 製作的專案，包括發光的 3D 地球與互動式黑洞著色器。",
+  "impact": "開發者可透過 Gemini API 付費方案使用，所有 Pro 與 Ultra 訂閱者可在 AI Studio 試用或在 Gemini 應用程式的模型選單中選取，企業團隊也可透過 Gemini for business 使用。",
+  "steps": [
+   "透過 Gemini API 付費方案開始使用 Gemini 4 Neon",
+   "在 AI Studio 試用 Gemini 4 Neon",
+   "在 Gemini 應用程式的模型選單中選取 Gemini 4 Neon",
+   "Google AI Pro 或 Ultra 訂閱者可在 Google Antigravity 中試用 Neon"
+  ],
+  "company": "Google",
+  "scene": "A quiet desk with a glowing spherical globe model and a small black sphere beside a stack of paper, soft light.",
+  "source": "Google Gemini",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+  "source_title": "See what 5 builders are making with Gemini 4 Neon",
+  "date": "2026-11-27",
+  "id": "2026-11-27-4"
  }
 ]
