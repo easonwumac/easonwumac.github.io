@@ -1,0 +1,7 @@
+tool: Codex image_gen
+date: guide clear-discharge-cycle-care
+
+Use your image generation tool to draw one wide 16:9 image: a warm, refined editorial illustration for a
+practical how-to article. Scene: A soft morning windowsill with a ceramic mug, a folded cotton blanket, a small calendar with circled dates, and a glass of water catching sunlight. Soft textured shading, warm palette with rose accents, gentle light, simple bold
+shapes, magazine-cover quality. No text, letters, numbers, logos, brand marks, UI screenshots or recognizable people; not in
+any named artist's style. Save it as cover.png in the current directory. Reply only with the file name.

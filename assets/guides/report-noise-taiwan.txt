@@ -1,0 +1,7 @@
+tool: Codex image_gen
+date: guide report-noise-taiwan
+
+Use your image generation tool to draw one wide 16:9 image: a warm, refined editorial illustration for a
+practical how-to article. Scene: A cozy wooden desk at dusk, a steaming mug beside a closed notebook, a small window cracked open to a quiet street. Soft textured shading, warm palette with amber accents, gentle light, simple bold
+shapes, magazine-cover quality. No text, letters, numbers, logos, brand marks, UI screenshots or recognizable people; not in
+any named artist's style. Save it as cover.png in the current directory. Reply only with the file name.

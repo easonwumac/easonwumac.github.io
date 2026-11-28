@@ -1,0 +1,7 @@
+tool: Codex image_gen
+date: guide report-noisy-vehicles-taiwan
+
+Use your image generation tool to draw one wide 16:9 image: a warm, refined editorial illustration for a
+practical how-to article. Scene: A warm desk at dusk, a smartphone beside a notebook listing a license plate, a timestamp, and a street name, next to a steaming teacup. Soft textured shading, warm palette with amber accents, gentle light, simple bold
+shapes, magazine-cover quality. No text, letters, numbers, logos, brand marks, UI screenshots or recognizable people; not in
+any named artist's style. Save it as cover.png in the current directory. Reply only with the file name.

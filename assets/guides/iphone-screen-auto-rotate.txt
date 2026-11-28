@@ -1,0 +1,7 @@
+tool: Codex image_gen
+date: guide iphone-screen-auto-rotate
+
+Use your image generation tool to draw one wide 16:9 image: a warm, refined editorial illustration for a
+practical how-to article. Scene: A warm wooden desk with a phone lying sideways beside a potted succulent, a small brass lamp glowing softly. Soft textured shading, warm palette with soft blue accents, gentle light, simple bold
+shapes, magazine-cover quality. No text, letters, numbers, logos, brand marks, UI screenshots or recognizable people; not in
+any named artist's style. Save it as cover.png in the current directory. Reply only with the file name.

@@ -1,0 +1,7 @@
+tool: Codex image_gen
+date: guide geminids-taiwan-2026-time
+
+Use your image generation tool to draw one wide 16:9 image: a warm, refined editorial illustration for a
+practical how-to article. Scene: A cozy blanket, a mug of tea, and a phone resting on a wooden deck chair beneath a dark sky streaked with meteors. Soft textured shading, warm palette with deep indigo accents, gentle light, simple bold
+shapes, magazine-cover quality. No text, letters, numbers, logos, brand marks, UI screenshots or recognizable people; not in
+any named artist's style. Save it as cover.png in the current directory. Reply only with the file name.

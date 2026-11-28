@@ -1,0 +1,7 @@
+tool: Codex image_gen
+date: guide canal-lock-how-it-works
+
+Use your image generation tool to draw one wide 16:9 image: a warm, refined editorial illustration for a
+practical how-to article. Scene: Warm wooden model canal lock on a desk, brass gears, a small toy boat rising beside a lantern-lit stone wall. Soft textured shading, warm palette with teal accents, gentle light, simple bold
+shapes, magazine-cover quality. No text, letters, numbers, logos, brand marks, UI screenshots or recognizable people; not in
+any named artist's style. Save it as cover.png in the current directory. Reply only with the file name.

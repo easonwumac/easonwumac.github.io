@@ -1,0 +1,7 @@
+tool: Codex image_gen
+date: guide renovation-planning-version-checklist
+
+Use your image generation tool to draw one wide 16:9 image: a warm, refined editorial illustration for a
+practical how-to article. Scene: A tidy wooden desk with a sketched floor plan, colored pencils, a folded paper tape measure, a potted succulent, and a steaming cup of tea. Soft textured shading, warm palette with lavender accents, gentle light, simple bold
+shapes, magazine-cover quality. No text, letters, numbers, logos, brand marks, UI screenshots or recognizable people; not in
+any named artist's style. Save it as cover.png in the current directory. Reply only with the file name.
