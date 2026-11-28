@@ -23,7 +23,7 @@ In Roomory, adjust furniture size, position and angle on the plan, switch to 3D 
 在居圖 Roomory 的平面圖上調整家具尺寸、位置與角度，切到 3D 看擺放、材質與日照時段的效果，也能保存多個設計版本比較。
 
 ### Is Roomory free?
-Scanning, modelling, plan editing, multiple projects, backups, iCloud sync and basic 3D furniture are free with ads. Roomory Pro (monthly or yearly) adds PDF, DXF, SVG and USDZ export, all furniture and materials, the AI assistant and no ads.
+Scanning, modelling, plan editing, multiple projects, backups, iCloud sync and basic 3D furniture materials are free, with ads. Roomory Pro is a monthly or yearly subscription that adds professional PDF, DXF, SVG and USDZ export, all furniture materials, the AI assistant and no ads.
 
 ### 居圖 Roomory 免費嗎？
 掃描、建模、平面編修、多專案、備份、iCloud 同步與基本 3D 家具材質都免費（含廣告）。居圖 Pro 為月繳或年繳訂閱，提供 PDF、DXF、SVG、USDZ 等專業匯出、全部家具材質、AI 助理與無廣告。

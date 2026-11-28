@@ -28,8 +28,8 @@ Tuck finds expiry, renewal and return deadlines in what you save and suggests re
 ### 有沒有 App 會提醒保固或退貨期限？
 收好 Tuck 會從存下的資料找出到期、續約與退貨期限並建議提醒時間；保固會顯示到期日並在到期前一個月提醒。
 
-### Does Tuck upload my screenshots?
-Recognition runs on the iPhone by default, with Apple Intelligence support; content is sent out only when you choose the optional Claude advanced reading for it.
+### Does Tuck upload my screenshots to the cloud?
+Recognition is done on the iPhone by default, with Apple Intelligence support; a screenshot’s content is sent for reading only when you yourself choose Claude advanced recognition for it.
 
 ### 收好 Tuck 會把截圖上傳到雲端嗎？
 辨識預設在 iPhone 上完成，支援 Apple Intelligence；只有你自己選用 Claude 高階辨識時，才會把該張內容送去辨識。

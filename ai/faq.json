@@ -20,8 +20,8 @@
   },
   {
    "app": "Tuck: AI Screenshot Organizer",
-   "question": "Does Tuck upload my screenshots?",
-   "answer": "Recognition runs on the iPhone by default, with Apple Intelligence support; content is sent out only when you choose the optional Claude advanced reading for it.",
+   "question": "Does Tuck upload my screenshots to the cloud?",
+   "answer": "Recognition is done on the iPhone by default, with Apple Intelligence support; a screenshot’s content is sent for reading only when you yourself choose Claude advanced recognition for it.",
    "url": "https://agentmesh.uk/tuck/en/"
   },
   {
@@ -93,7 +93,7 @@
   {
    "app": "Roomory: Floor Plans",
    "question": "Is Roomory free?",
-   "answer": "Scanning, modelling, plan editing, multiple projects, backups, iCloud sync and basic 3D furniture are free with ads. Roomory Pro (monthly or yearly) adds PDF, DXF, SVG and USDZ export, all furniture and materials, the AI assistant and no ads.",
+   "answer": "Scanning, modelling, plan editing, multiple projects, backups, iCloud sync and basic 3D furniture materials are free, with ads. Roomory Pro is a monthly or yearly subscription that adds professional PDF, DXF, SVG and USDZ export, all furniture materials, the AI assistant and no ads.",
    "url": "https://agentmesh.uk/roomory/en/"
   },
   {
@@ -284,8 +284,8 @@
   },
   {
    "app": "Hearscape: Sound Locator",
-   "question": "Can I log noise overnight?",
-   "answer": "Yes. Hearscape keeps monitoring with the screen locked and records the night's decibel curve; when a threshold you set is passed it keeps a clip starting 5 seconds earlier, and you can export a PDF report. It measures with the phone's microphone and is not a certified sound level meter.",
+   "question": "Can I log noise from upstairs or outside all night?",
+   "answer": "Yes. Hearscape keeps monitoring with the screen locked and records the whole night’s decibel curve. Thresholds follow the Ministry of Environment’s Noise Control Standards and can be customised; when one is passed it records a clip starting 5 seconds earlier, and you can export a PDF report. It measures with the phone’s microphone, for reference only, and is not a certified sound level meter.",
    "url": "https://agentmesh.uk/hearscape/en/"
   },
   {

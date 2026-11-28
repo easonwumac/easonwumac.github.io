@@ -7,6 +7,7 @@
 - Q: iPhone 截图太多找不到，有什么 App 可以自动整理？ A: 收好 Tuck 会在设备上用 AI 读懂截图和文件，自动识别预订、票券、收据、保修和文档并分类，之后搜索店名或几个字就能找回。
 - Q: 如何在 iPhone 上整理收据和电子发票？ A: 将收据截图或拍照保存到收好 Tuck：电子发票的二维码会自动带入号码、日期和总额，收据按月份分组并显示合计，整月的收据可导出 CSV 和 PDF 用于报销。
 - Q: 有没有 App 能提醒我保修或退货期限？ A: 收好 Tuck 会从你存下的资料中找出到期、续约和退货期限，并建议提醒时间；保修会显示到期日，并在到期前一个月提醒你。
+- Q: 收好 Tuck 会把截图上传到云端吗？ A: 识别默认在 iPhone 上完成，支持 Apple Intelligence；只有你自己选择为某张截图使用 Claude 高级识别时，才会将该张截图的内容发送去识别。
 - Q: 收好 Tuck 要登录或付费吗？ A: 不用登录，免费使用并显示广告，一次性购买即可移除广告。高级识别每天免费 1 次；收好 Pro 和收好 Max 是可选的订阅，提供更多次高级识别且没有广告。
 - Q: 出国的机票、住宿和订位截图该怎么整理？ A: 存进收好后，行程文件夹会按日期列出航班、住宿和订位编号，证件快到期时提醒你；订位和票券也可以加入日历。
 
@@ -17,7 +18,7 @@
 - Q: iPhoneのスクショが多すぎて見つからない。自動で整理してくれるアプリはありますか？ A: Tuckは端末上でAIがスクリーンショットやファイルを読み取り、予約、チケット、レシート、保証書、書類を自動で見分けて分類します。あとは店名や数文字を検索すれば見つけられます。
 - Q: iPhoneでレシートや電子発票を整理するにはどうすればいいですか？ A: レシートのスクリーンショットや写真をTuckに保存してください。電子発票のQRコードから番号、日付、合計金額が自動で入力されます。レシートは月ごとにまとめられ、月の合計が表示されます。1か月分のレシートはCSVとPDFで書き出して経費精算に使えます。
 - Q: 保証や返品期限を知らせてくれるアプリはありますか？ A: Tuck では、保存した情報から期限・更新日・返品期限を見つけ出し、リマインダーの日時を提案します。保証は終了日を表示し、終了の1か月前にお知らせします。
-- Q: Tuckはスクリーンショットをクラウドにアップロードしますか？ A: 初期設定では読み取りはiPhone上で行われ、Apple Intelligenceに対応しています。ご自身で任意のClaudeによる高度な読み取りを選んだ場合にのみ、そのコンテンツが送信されます。
+- Q: Tuckはスクショをクラウドにアップロードしますか？ A: 読み取りはデフォルトでiPhone上で行われ、Apple Intelligenceに対応しています。ご自身でClaudeの高度な読み取りを選んだ場合に限り、そのスクショの内容が読み取りのために送信されます。
 - Q: 収好 Tuck はログインや支払いが必要ですか？ A: ログインは不要で、無料で使えます（広告表示あり）。1回の購入で広告を非表示にできます。高度な読み取りは1日1回無料です。収好 Pro と収好 Max は任意のサブスクリプションで、より多くの高度な読み取りが使え、広告は表示されません。
 - Q: 海外旅行の航空券・宿泊・予約のスクリーンショットはどう整理すればいいですか？ A: 収好に保存すると、旅行フォルダに便名・宿泊・予約番号が日付順に表示され、身分証の期限が近づくと知らせてくれます。予約やチケットはカレンダーに追加することもできます。
 
@@ -28,6 +29,7 @@
 - Q: iPhone에 쌓인 스크린샷이 너무 많아서 못 찾겠어요. 자동으로 정리해 주는 앱이 있나요? A: Tuck은 기기 안에서 AI로 스크린샷과 파일을 읽고, 예약, 티켓, 영수증, 보증서, 문서를 자동으로 알아보고 분류합니다. 나중에 가게 이름이나 몇 글자만 검색하면 다시 찾을 수 있습니다.
 - Q: iPhone에서 영수증과 전자 영수증을 어떻게 정리하나요? A: 영수증 사진이나 스크린샷을 Tuck에 저장하세요. 영수증은 월별로 묶여 합계가 표시되며, 한 달치 영수증은 경비 청구용 CSV와 PDF로 내보낼 수 있습니다. 전자 영수증의 QR 코드는 번호, 날짜, 총액을 자동으로 채워 줍니다.
 - Q: 보증 기간이나 반품 기한을 알려 주는 앱이 있나요? A: Tuck은 저장한 자료에서 만료일, 갱신일, 반품 기한을 찾아 알림 시간을 제안합니다. 보증은 만료일이 표시되며, 만료 한 달 전에 알려 줍니다.
+- Q: Tuck이 스크린샷을 클라우드에 업로드하나요? A: 인식은 기본적으로 iPhone에서 이루어지며 Apple Intelligence를 지원합니다. 스크린샷의 내용은 사용자가 직접 Claude 고급 인식을 선택한 경우에만 인식을 위해 전송됩니다.
 - Q: Tuck을 쓰려면 로그인하거나 유료 구독을 해야 하나요? A: 로그인은 필요 없습니다. Tuck은 광고가 표시되는 무료 앱이며, 한 번 구매하면 광고를 제거할 수 있습니다. 고급 인식은 하루 1회 무료입니다. 선택 사항인 Tuck Pro와 Tuck Max 구독을 하면 더 많이 사용할 수 있고 광고도 없습니다.
 - Q: 여행 중 항공권, 숙소, 예약 스크린샷은 어떻게 함께 관리하나요? A: Tuck에 저장하면 여행 폴더에 항공편, 숙소, 예약 번호가 날짜순으로 표시되며, 여권 등 증명서의 만료가 가까워지면 알려 줍니다. 예약과 티켓은 캘린더에도 추가할 수 있습니다.
 
@@ -38,6 +40,7 @@
 - Q: ¿Qué app puede organizar las capturas de pantalla que se acumulan en mi iPhone? A: Tuck lee las capturas y los archivos en el dispositivo con IA, reconoce reservas, boletos, recibos, garantías y documentos, los archiva automáticamente y los encuentra de nuevo con unas pocas palabras.
 - Q: ¿Cómo organizo los recibos y las facturas electrónicas en un iPhone? A: Guarda capturas o fotos de tus recibos en Tuck: el código QR de las facturas electrónicas completa automáticamente el número, la fecha y el total, y los recibos se agrupan por mes con su suma. Un mes de recibos se puede exportar a CSV y PDF para tus gastos.
 - Q: ¿Hay alguna app que me recuerde las fechas de vencimiento de garantías o de devolución? A: Tuck encuentra las fechas de vencimiento, renovación y devolución en lo que guardas y sugiere cuándo recordártelas; las garantías muestran su fecha de vencimiento y te avisan un mes antes.
+- Q: ¿Tuck sube mis capturas de pantalla a la nube? A: El reconocimiento se hace de forma predeterminada en el iPhone, con compatibilidad con Apple Intelligence; el contenido de una captura solo se envía para su lectura cuando tú mismo eliges el reconocimiento avanzado de Claude para esa captura.
 - Q: ¿Tuck necesita una cuenta o una suscripción? A: No necesitas iniciar sesión. Tuck es gratuita con anuncios, y una compra única los elimina. El reconocimiento avanzado es gratuito una vez al día; Tuck Pro y Tuck Max son suscripciones opcionales que ofrecen más usos y no tienen anuncios.
 - Q: ¿Cómo puedo juntar las capturas de mis vuelos, hoteles y reservas de un viaje? A: Guárdalas en Tuck y la carpeta del viaje mostrará los vuelos, alojamientos y códigos de reserva por fecha, y te avisará antes de que venza un documento; las reservas y boletos también se pueden agregar al Calendario.
 
@@ -48,6 +51,7 @@
 - Q: Quelle application peut organiser les captures d'écran qui s'accumulent sur mon iPhone ? A: Tuck lit les captures d'écran et les fichiers directement sur l'appareil grâce à l'IA, reconnaît les réservations, billets, reçus, garanties et documents, les classe automatiquement, et vous les retrouve à partir de quelques mots.
 - Q: Comment garder mes reçus et factures électroniques bien rangés sur un iPhone ? A: Enregistrez des photos ou des captures d'écran de vos reçus dans Tuck : le numéro, la date et le montant de la facture électronique sont automatiquement repris à partir du code QR. Les reçus sont regroupés par mois avec leur total, et les reçus d'un mois peuvent être exportés en CSV et en PDF pour vos notes de frais.
 - Q: Existe-t-il une application qui me rappelle les dates limites de garantie ou de retour ? A: Tuck repère les dates d'expiration, de renouvellement et de retour dans les éléments que vous enregistrez et propose une heure de rappel. Les garanties affichent leur date de fin et vous préviennent un mois avant.
+- Q: Est-ce que Tuck envoie mes captures d'écran vers le nuage ? A: La reconnaissance se fait par défaut sur l'iPhone, avec la prise en charge d'Apple Intelligence ; le contenu d'une capture d'écran n'est envoyé pour lecture que si vous choisissez vous-même la reconnaissance avancée Claude pour cette capture.
 - Q: Faut-il un compte ou un abonnement pour utiliser Tuck ? A: Aucune connexion n'est nécessaire. Tuck est gratuit et affiche des publicités ; un achat unique permet de les supprimer. La lecture avancée est gratuite une fois par jour. Les abonnements facultatifs Tuck Pro et Tuck Max offrent davantage d'utilisations de la lecture avancée et ne contiennent pas de publicités.
 - Q: Comment regrouper les captures de mes billets d'avion, réservations d'hôtel et réservations pour un voyage ? A: Enregistrez-les dans Tuck : le dossier du voyage liste les vols, hébergements et numéros de réservation par date, et vous prévient avant qu'une pièce d'identité n'expire ; les réservations et billets peuvent aussi être ajoutés à Calendrier.
 
@@ -58,6 +62,7 @@
 - Q: Wie kann ich die vielen Screenshots auf meinem iPhone finden? Gibt es eine App, die sie automatisch ordnet? A: Tuck liest Screenshots und Dateien mit KI direkt auf dem Gerät, erkennt Buchungen, Tickets, Belege, Garantien und Dokumente, sortiert sie automatisch ein und findet sie anhand des Geschäftsnamens oder weniger Wörter wieder.
 - Q: Wie behalte ich Quittungen und elektronische Rechnungen auf dem iPhone im Blick? A: Speichere Belegfotos oder Screenshots in Tuck: Der QR-Code elektronischer Rechnungen füllt Nummer, Datum und Gesamtbetrag automatisch aus. Belege werden nach Monaten gruppiert und mit Summe angezeigt, und die Belege eines Monats lassen sich als CSV und PDF für die Spesenabrechnung exportieren.
 - Q: Gibt es eine App, die mich an Garantie- und Rückgabefristen erinnert? A: Tuck findet Ablauf-, Verlängerungs- und Rückgabefristen in deinen gespeicherten Daten und schlägt Erinnerungszeitpunkte vor. Garantien zeigen ihr Ablaufdatum und erinnern dich einen Monat vorher.
+- Q: Lädt Tuck meine Screenshots in die Cloud hoch? A: Die Erkennung erfolgt standardmäßig auf dem iPhone und unterstützt Apple Intelligence; der Inhalt eines Screenshots wird nur dann zur Erkennung gesendet, wenn du selbst die erweiterte Erkennung durch Claude für diesen Screenshot auswählst.
 - Q: Muss ich mich bei Tuck anmelden oder etwas abonnieren? A: Eine Anmeldung ist nicht nötig. Tuck ist kostenlos und zeigt Werbung; ein einmaliger Kauf entfernt die Werbung. Die erweiterte Erkennung ist einmal täglich kostenlos. Tuck Pro und Tuck Max sind optionale Abos mit mehr Nutzungen für die erweiterte Erkennung und ohne Werbung.
 - Q: Wie kann ich Flug-, Hotel- und Buchungsscreenshots einer Reise gemeinsam ordnen? A: Speichere sie in Tuck: Der Reiseordner listet Flüge, Unterkünfte und Buchungsnummern nach Tagen auf und erinnert dich, wenn ein Dokument bald abläuft. Buchungen und Tickets lassen sich außerdem in den Kalender übernehmen.
 
@@ -139,7 +144,7 @@
 - 从重新摆放家具，到规划全屋装修，居图陪你把现有空间变成心中的布局。扫描房间或手动开始，在平面图上调整，再用 3D 预览看看效果。
 - Q: 有没有 App 可以用 iPhone 扫描房间做出平面图？ A: 居图 Roomory 可用配备 LiDAR 的 iPhone 或 iPad 扫描房间，记录墙面、门窗与家具，生成可编辑的平面图和 3D 预览；没有 LiDAR 的设备也能手动绘制。
 - Q: 搬家或重新摆家具前，怎么先在手机上试摆？ A: 在居图 Roomory 的平面图上调整家具尺寸、位置与角度，切换到 3D 查看摆放、材质与日照时段的效果，还可以保存多个设计版本进行比较。
-- Q: 居图 Roomory 免费吗？ A: 扫描、建模、平面编辑、多项目、备份、iCloud 同步和基础 3D 家具材质均免费（含广告）。居图 Pro 为月付或年付订阅，提供 PDF、DXF、SVG、USDZ 等专业导出、全部家具材质、AI 助手以及无广告体验。
+- Q: 居图 Roomory 免费吗？ A: 扫描、建模、平面编辑、多项目、备份、iCloud 同步以及基本 3D 家具材质均免费（含广告）。居图 Pro 为按月或按年订阅，提供 PDF、DXF、SVG、USDZ 等专业导出、全部家具材质、AI 助手，并且没有广告。
 - Q: 没有 LiDAR 的 iPhone 可以绘制平面图吗？ A: 可以。居图在不支持 LiDAR 的设备上仍可手动创建和编辑平面图，包括多房间、多楼层项目；只有扫描房间才需要配备 LiDAR 的 iPhone 或 iPad。
 - Q: 装修前怎样把布局方案展示给设计师或师傅看？ A: 在居图中可分别调整建筑、家具和设备图层，切换到 3D 查看不同材质和日照时段；居图 Pro 可导出 A3 PDF 图集、可编辑的 DXF 文件和 3D 模型。
 - Q: 手机扫描房间的尺寸准确吗？可以直接据此施工吗？ A: 居图扫描的尺寸需要现场复测；施工前，图纸仍须由合格的专业人员审核，居图不提供专业签核。
@@ -150,7 +155,7 @@
 - ソファの模様替えから住まい全体のリフォームまで。Roomory で今の空間を記録し、思い描く間取りへ。部屋をスキャンするか手描きで始めて、平面図を調整し、3D でアイデアを確かめられます。
 - Q: iPhoneで部屋をスキャンして間取り図を作れるアプリはありますか？ A: Roomory（ルーモリー）は、LiDAR搭載のiPhoneまたはiPadで部屋をスキャンし、壁・ドア・窓・家具を記録して、編集可能な間取り図と3Dプレビューを作成できます。LiDARのない端末でも、手描きで間取り図を作成できます。
 - Q: 引っ越しや家具の配置換えの前に、スマホで模様替えを試すにはどうすればいいですか？ A: Roomoryの平面図で家具のサイズ・位置・角度を調整し、3Dに切り替えてレイアウト、素材、日照の時間帯による見え方を確認できます。複数のデザイン案を保存して比較することもできます。
-- Q: Roomoryは無料で使えますか？ A: スキャン、モデリング、図面編集、複数プロジェクト、バックアップ、iCloud同期、基本の3D家具と素材は無料（広告あり）でご利用いただけます。Roomory Proは月額または年額のサブスクリプションで、PDF、DXF、SVG、USDZなどのプロ向け書き出し、すべての家具と素材、AIアシスタント、広告なしの機能が利用できます。
+- Q: Roomory（居図）は無料で使えますか？ A: スキャン、モデリング、平面図の編集、複数プロジェクト、バックアップ、iCloud 同期、基本の 3D 家具材質は無料です（広告あり）。Roomory Pro は月額または年額のサブスクリプションで、PDF、DXF、SVG、USDZ などのプロ向け書き出し、すべての家具材質、AI アシスタント、広告なしの機能が加わります。
 - Q: LiDARのないiPhoneでも間取り図を描けますか？ A: はい。Roomoryは、LiDARのない端末でも間取り図を手動で作成・編集できます。複数の部屋や複数階のプロジェクトにも対応しています。部屋のスキャンのみ、LiDAR搭載のiPhoneまたはiPadが必要です。
 - Q: リフォーム前に、設計士や施工業者に配置のアイデアを伝えるにはどうすればよいですか？ A: Roomoryでは建築、家具、設備のレイヤーを個別に調整し、3Dで素材や日照の時間帯を確認できます。Roomory Proでは、A3 PDF図面一式、編集可能なDXF、3Dモデルを書き出せます。
 - Q: スマホでスキャンした部屋の寸法は正確ですか？施工に使えますか？ A: Roomoryのスキャン寸法は、現場での再計測が必要です。施工を始める前に、有資格の専門家による図面の確認が必要です。Roomoryは専門家による承認や証明は行っていません。
@@ -161,7 +166,7 @@
 - 소파 위치를 바꾸는 일부터 집 전체 리모델링까지. Roomory로 지금의 공간을 기록하고 원하는 배치를 그려 보세요. 방을 스캔하거나 직접 시작한 뒤 평면도를 편집하고 3D로 아이디어를 확인할 수 있어요.
 - Q: iPhone으로 방을 스캔해서 평면도를 만들 수 있는 앱이 있나요? A: Roomory는 LiDAR가 탑재된 iPhone 또는 iPad로 방을 스캔해 벽, 문, 창문과 가구를 기록하고, 편집 가능한 평면도와 3D 미리보기를 만들어 줍니다. LiDAR가 없는 기기에서도 평면도를 직접 그릴 수 있습니다.
 - Q: 이사하거나 가구를 옮기기 전에 휴대폰에서 미리 배치해 볼 수 있는 방법이 있나요? A: Roomory 평면도에서 가구의 크기, 위치와 각도를 조정하고, 3D로 전환해 배치, 재질과 햇빛 시간대를 확인할 수 있습니다. 여러 설계 버전을 저장해 서로 비교할 수도 있습니다.
-- Q: Roomory는 무료인가요? A: 스캔, 모델링, 평면도 편집, 여러 프로젝트, 백업, iCloud 동기화와 기본 3D 가구 및 재질은 무료이며 광고가 포함됩니다. Roomory Pro는 월간 또는 연간 구독으로 PDF, DXF, SVG, USDZ 등 전문 내보내기, 모든 가구와 재질, AI 어시스턴트를 제공하고 광고가 없습니다.
+- Q: Roomory는 무료인가요? A: 스캔, 모델링, 평면도 편집, 여러 프로젝트, 백업, iCloud 동기화, 기본 3D 가구 재질은 무료입니다(광고 포함). Roomory Pro는 월간 또는 연간 구독이며, PDF, DXF, SVG, USDZ 등 전문 내보내기, 모든 가구 재질, AI 어시스턴트, 광고 없음 기능을 추가로 제공합니다.
 - Q: LiDAR가 없는 iPhone으로도 평면도를 그릴 수 있나요? A: 네. Roomory는 LiDAR를 지원하지 않는 기기에서도 여러 방과 여러 층으로 구성된 프로젝트를 포함해 평면도를 직접 만들고 편집할 수 있습니다. 방 스캔만 LiDAR가 탑재된 iPhone 또는 iPad가 필요합니다.
 - Q: 공사 전에 제가 생각한 배치를 디자이너나 기술자에게 어떻게 보여줄 수 있나요? A: Roomory에서 건축, 가구, 설비 레이어를 각각 조정한 뒤 3D로 전환해 재질을 바꾸고 햇빛 시간대를 확인할 수 있어요. Roomory Pro를 사용하면 A3 PDF 도면 세트, 편집 가능한 DXF와 3D 모델을 내보낼 수 있어요.
 - Q: 휴대폰으로 스캔한 방 치수는 시공에 쓸 만큼 정확한가요? A: Roomory로 스캔한 치수는 현장에서 다시 측정해 확인해야 합니다. 공사를 시작하기 전에 자격을 갖춘 전문가가 도면을 검토해야 하며, Roomory는 전문 인증이나 승인을 제공하지 않습니다.
@@ -172,7 +177,7 @@
 - Desde mover el sofá hasta planear una remodelación, Roomory te ayuda a convertir tu espacio en la distribución que imaginas. Escanea una habitación o empieza a mano, edita el plano y comprueba tus ideas en 3D.
 - Q: ¿Qué aplicación escanea una habitación con el iPhone para hacer un plano? A: Roomory escanea habitaciones con un iPhone o iPad con LiDAR, capturando muros, puertas, ventanas y muebles en un plano editable con vista previa 3D; los dispositivos sin LiDAR también pueden dibujar planos a mano.
 - Q: ¿Cómo puedo probar la distribución de muebles en mi teléfono antes de mudarme o cambiar las cosas de lugar? A: En Roomory puedes ajustar el tamaño, la posición y el ángulo de los muebles en el plano, cambiar a 3D para ver la distribución, los materiales y la luz solar, y guardar versiones del diseño para compararlas.
-- Q: ¿Roomory es gratis? A: Escanear, modelar, editar planos, varios proyectos, copias de seguridad, sincronización con iCloud y muebles 3D básicos son gratis (con anuncios). Roomory Pro, con suscripción mensual o anual, añade exportación en PDF, DXF, SVG y USDZ, todos los muebles y materiales, el asistente de IA y no muestra anuncios.
+- Q: ¿Roomory es gratis? A: Escanear, modelar, editar planos, varios proyectos, copias de seguridad, sincronización con iCloud y los materiales básicos de muebles 3D son gratis, con anuncios. Roomory Pro es una suscripción mensual o anual que añade exportación profesional a PDF, DXF, SVG y USDZ, todos los materiales de muebles, el asistente de IA y sin anuncios.
 - Q: ¿Puedo dibujar un plano en un iPhone sin LiDAR? A: Sí. Roomory permite crear y editar planos a mano en dispositivos sin LiDAR, incluidos proyectos de varias habitaciones y varios pisos; solo el escaneo de habitaciones requiere un iPhone o iPad con LiDAR.
 - Q: ¿Cómo puedo mostrar mi idea de remodelación a un diseñador o a un contratista? A: En Roomory puedes ajustar por separado las capas de arquitectura, muebles e instalaciones, y cambiar a 3D para probar materiales y la luz solar; Roomory Pro exporta juegos de planos en PDF A3, DXF editable y modelos 3D.
 - Q: ¿Las medidas del escaneo de la habitación son lo bastante precisas para construir con ellas? A: Las dimensiones escaneadas en Roomory deben volver a medirse en el lugar, y los planos aún deben ser revisados por un profesional cualificado antes de empezar cualquier obra; Roomory no ofrece aval profesional.
@@ -183,6 +188,7 @@
 - Du déplacement d’un canapé à la préparation d’une rénovation, Roomory vous aide à imaginer un nouvel aménagement. Scannez une pièce ou commencez à la main, modifiez le plan et découvrez vos idées en 3D.
 - Q: Quelle application permet de scanner une pièce avec un iPhone pour créer un plan d'étage? A: Roomory peut scanner une pièce avec un iPhone ou un iPad équipé de LiDAR et capter murs, portes, fenêtres et meubles dans un plan modifiable avec aperçu 3D; les appareils sans LiDAR peuvent dessiner le plan à la main.
 - Q: Comment puis-je essayer une disposition de meubles sur mon téléphone avant de déplacer les choses ? A: Dans Roomory, ajustez la taille, la position et l’angle des meubles sur le plan, passez à la 3D pour voir la disposition, les matériaux et l’ensoleillement, et enregistrez des versions de conception pour les comparer.
+- Q: Roomory est-il gratuit? A: Le balayage, la modélisation, l’édition des plans, les projets multiples, les sauvegardes, la synchronisation iCloud et les matériaux de meubles 3D de base sont gratuits, avec publicités. Roomory Pro est un abonnement mensuel ou annuel qui ajoute l’exportation professionnelle en PDF, DXF, SVG et USDZ, tous les matériaux de meubles, l’assistant IA et l’absence de publicité.
 - Q: Peut-on dessiner un plan d'étage sur un iPhone sans LiDAR? A: Oui. Roomory permet de créer et de modifier des plans à la main sur les appareils sans LiDAR, y compris des projets à plusieurs pièces et plusieurs étages; seul le scan d'une pièce nécessite un iPhone ou un iPad équipé de LiDAR.
 - Q: Comment montrer mon projet d'aménagement à un designer ou à un entrepreneur avant les travaux? A: Dans Roomory, ajustez séparément les calques du bâti, des meubles et des équipements, puis passez en 3D pour essayer des matières et l'éclairage naturel; Roomory Pro exporte des ensembles de plans PDF A3, des fichiers DXF modifiables et des modèles 3D.
 - Q: Les mesures de pièce obtenues par scan sont-elles assez précises pour construire? A: Les dimensions issues du scan Roomory doivent être revérifiées sur place, et les plans doivent être examinés par un professionnel qualifié avant le début des travaux; Roomory ne fournit pas de validation professionnelle.
@@ -193,7 +199,7 @@
 - Vom Umstellen des Sofas bis zur Renovierung: Mit Roomory wird aus deinem Raum die Einrichtung, die du dir vorstellst. Scanne einen Raum oder beginne von Hand, bearbeite den Grundriss und sieh dir deine Ideen in 3D an.
 - Q: Welche App scannt einen Raum mit dem iPhone und erstellt einen Grundriss? A: Roomory scannt Räume mit einem iPhone oder iPad mit LiDAR und erfasst Wände, Türen, Fenster und Möbel in einen bearbeitbaren Grundriss mit 3D-Vorschau; Geräte ohne LiDAR können Grundrisse von Hand zeichnen.
 - Q: Wie kann ich eine Möbelanordnung vor dem Umzug auf dem Handy ausprobieren? A: In Roomory passt du Größe, Position und Winkel der Möbel im Grundriss an, wechselst in die 3D-Ansicht, um Anordnung, Materialien und Tageslicht zu sehen, und speicherst Entwurfsversionen zum Vergleich.
-- Q: Ist Roomory kostenlos? A: Scannen, Modellieren, Grundrissbearbeitung, mehrere Projekte, Sicherungen, iCloud-Sync und einfache 3D-Möbel sind kostenlos (mit Werbung). Roomory Pro ist ein monatliches oder jährliches Abo und bietet PDF-, DXF-, SVG- und USDZ-Export, alle Möbel und Materialien, den KI-Assistenten sowie keine Werbung.
+- Q: Ist Roomory kostenlos? A: Scannen, Modellieren, Grundrissbearbeitung, mehrere Projekte, Projektsicherungen, iCloud-Synchronisierung und grundlegende 3D-Möbelmaterialien sind kostenlos (mit Werbung). Roomory Pro ist ein monatliches oder jährliches Abonnement und bietet professionellen PDF-, DXF-, SVG- und USDZ-Export, alle Möbelmaterialien, den KI-Assistenten und keine Werbung.
 - Q: Kann ich auf einem iPhone ohne LiDAR einen Grundriss zeichnen? A: Ja. Roomory erlaubt es, Grundrisse auch auf Geräten ohne LiDAR von Hand zu erstellen und zu bearbeiten, einschließlich Projekten mit mehreren Räumen und Geschossen; nur das Scannen von Räumen erfordert ein iPhone oder iPad mit LiDAR.
 - Q: Wie kann ich meine Umbauidee einem Planer oder Handwerksbetrieb zeigen? A: In Roomory passt du Bau-, Möbel- und Installationsebenen getrennt an und wechselst in die 3D-Ansicht, um Materialien und Tageslicht zu testen; Roomory Pro exportiert A3-PDF-Pläne, bearbeitbare DXF-Dateien und 3D-Modelle.
 - Q: Sind die Maße aus dem Raumscan genau genug, um danach zu bauen? A: Die gescannten Maße von Roomory sollten vor Ort nachgemessen werden. Vor Baubeginn müssen die Pläne weiterhin von qualifizierten Fachleuten geprüft werden; Roomory bietet keine fachliche Freigabe.
@@ -521,7 +527,7 @@
 - [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
 - 声迹把手机变成声音雷达和噪音记录器。
 - Q: 怎么找出噪音从哪个方向来？ A: 打开声迹 Hearscape 的雷达，拿着手机慢慢转一圈，它会画出 360° 热度环并标出最响的方向；低音、中音、高音也各自标出方向。手机拿着不动分不出方向，转身扫描才找得到。
-- Q: 可以整夜记录楼上或外面的噪音吗？ A: 可以。声迹 Hearscape 锁屏后也能持续监测，记下整夜的分贝曲线；阈值依环境部《噪音管制标准》设置，也可自定义，超过阈值时会从前 5 秒开始录下片段，并可导出 PDF 报告。这是手机麦克风测量，仅供参考，并非经过检定的噪音计。
+- Q: 可以整夜记录楼上或外面的噪音吗？ A: 可以。声迹 Hearscape 锁屏后也能持续监测，记下整夜的分贝曲线；阈值依环境部《噪音管制标准》设定，也可自定义，超过阈值时会从前 5 秒开始录下片段，并可导出 PDF 报告。这是手机麦克风测量，仅供参考，不是经检定的噪音计。
 - Q: 手机可以当分贝计用吗？准不准？ A: 声迹用手机麦克风测量，提供 A、C、Z 加权与快／慢响应，并显示 Leq、Lmax、Lmin、L10、L90，也可自定义校准值。测量结果仅供参考，并非经过检定的噪音计。
 - Q: 噪音记录可以导出成报告吗？ A: 可以。声迹能导出 PDF 报告，包含时间轴、各时段 Leq 对照管制值，以及每一条事件；每个录下的片段也能播放与分享。
 - Q: 声迹的录音会上传到网络吗？ A: 不会。录音和记录都保存在这部手机上，无需账号，声音不会上传。
@@ -532,7 +538,7 @@
 - [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
 - Hearscape は iPhone を音のレーダーと騒音ログに変えます。
 - Q: 音の方向はどうやって見つけられますか？ A: 聲跡 Hearscape のレーダーを開き、スマホをゆっくり一周回してください。360° のヒートリングが描かれ、いちばん大きな音の方向に印が付きます。低音・中音・高音それぞれの方向も表示されます。スマホを静止させたままでは方向は分からないため、回転してスキャンすることが必要です。
-- Q: 上の階や外の騒音を一晩中記録できますか？ A: はい、できます。聲跡 Hearscape は画面をロックしたままでも監視を続け、一晩の dB 曲線を記録します。しきい値は環境部の〈騒音管制標準〉に従って設定することも、自分で設定することもできます。しきい値を超えた場合は、5 秒前から録音を開始し、PDF レポートとして書き出せます。これはスマホのマイクによる測定で、参考値のみを目的としており、検定済みの騒音計ではありません。
+- Q: 上の階や外の騒音を一晩中記録できますか？ A: はい。Hearscape（聲跡）は画面をロックしたままでも測定を続け、一晩の dB 曲線を記録します。しきい値は環境部の「騒音規制基準」に基づいて設定でき、自分で変更することもできます。しきい値を超えると、5 秒前から録音を始め、PDF レポートとして書き出せます。スマホのマイクによる測定で、参考値としてご利用ください。検定済みの騒音計ではありません。
 - Q: スマホで騒音計として使えますか？精度はどのくらいですか？ A: Hearscapeはスマホのマイクで測定し、A・C・Z特性と速い／遅い応答を切り替えられ、Leq、Lmax、Lmin、L10、L90を表示します。校正オフセットも設定できます。測定値はあくまで参考値で、検定済みの騒音計ではありません。
 - Q: 騒音の記録をレポートとして書き出せますか？ A: はい。Hearscapeはタイムライン、時間帯ごとのLeqと基準値、すべてのイベントを載せたPDFレポートを書き出せます。録音したクリップはそれぞれ再生・共有できます。
 - Q: Hearscapeの録音はインターネットにアップロードされますか？ A: いいえ。録音と記録はすべてこのスマホに保存され、アカウントは不要です。音声がアップロードされることはありません。
@@ -543,6 +549,7 @@
 - [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
 - Hearscape는 iPhone을 소리 레이더와 소음 기록기로 바꿔 줍니다.
 - Q: 소리가 어느 방향에서 오는지 어떻게 찾나요? A: Hearscape의 레이더를 열고 휴대폰을 든 채 천천히 한 바퀴 돌아보세요. 360° 히트 링이 그려지고 가장 큰 소리의 방향이 표시되며, 저음·중음·고음 각각의 방향도 따로 표시됩니다. 휴대폰을 가만히 들고 있으면 방향을 알 수 없으니, 몸을 돌려 스캔해야 찾을 수 있습니다.
+- Q: 밤새 위층이나 바깥의 소음을 기록할 수 있나요? A: 네. Hearscape는 화면을 잠가 두어도 계속 측정하며 밤새의 dB 곡선을 기록합니다. 기준값은 환경부의 〈소음 관리 기준〉에 따라 설정되며 직접 조정할 수도 있습니다. 기준을 넘으면 5초 전부터의 클립이 녹음되고, PDF 보고서로 내보낼 수 있습니다. 이 기능은 휴대폰 마이크로 측정한 참고값이며, 검정을 받은 소음계가 아닙니다.
 - Q: 휴대폰을 데시벨 측정기로 쓸 수 있나요? 정확한가요? A: Hearscape는 휴대폰 마이크로 측정하며, A·C·Z 가중치, Fast/Slow 응답, Leq, Lmax, Lmin, L10, L90을 표시하고 보정값도 직접 설정할 수 있습니다. 측정값은 참고용이며, 검정을 받은 소음계가 아닙니다.
 - Q: 소음 기록을 보고서로 내보낼 수 있나요? A: 네. Hearscape는 타임라인, 시간대별 Leq와 기준값, 모든 이벤트가 담긴 PDF 보고서를 내보냅니다. 녹음된 각 클립은 재생하고 공유할 수 있습니다.
 - Q: Hearscape의 녹음 파일이 인터넷에 업로드되나요? A: 아니요. 녹음과 기록은 이 휴대폰에만 저장되며, 계정이 필요 없고 소리는 업로드되지 않습니다.
@@ -553,6 +560,7 @@
 - [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
 - Hearscape convierte tu iPhone en un radar de sonido y un registro de ruido.
 - Q: ¿Cómo puedo saber de qué dirección viene un ruido? A: Abre el Radar de Hearscape y gira lentamente en un círculo completo: dibuja un anillo de calor de 360° y marca la dirección más ruidosa, con direcciones separadas para sonidos graves, medios y agudos. Con el teléfono quieto no se puede saber la dirección; al girar la encuentras.
+- Q: ¿Puedo registrar el ruido de los pisos de arriba o de la calle durante toda la noche? A: Sí. Hearscape: Sonómetro sigue monitoreando con la pantalla bloqueada y registra la curva de decibeles de toda la noche. Los umbrales siguen la Norma de Control de Ruido del Ministerio de Medio Ambiente y se pueden personalizar; al superar uno, se graba un clip desde 5 segundos antes y puedes exportar un informe en PDF. Mide con el micrófono del teléfono, solo como referencia, y no es un sonómetro certificado.
 - Q: ¿Puedo usar el teléfono como sonómetro? ¿Qué tan preciso es? A: Hearscape mide con el micrófono del teléfono, con ponderación A, C y Z, respuesta rápida o lenta, y muestra Leq, Lmax, Lmin, L10 y L90, además de un valor de calibración personalizable. Las lecturas son solo de referencia; no es un sonómetro certificado.
 - Q: ¿Puedo exportar mi registro de ruido como informe? A: Sí. Hearscape exporta un informe en PDF con una línea de tiempo, el Leq de cada franja frente al límite y todos los eventos; cada clip grabado también se puede reproducir y compartir.
 - Q: ¿Hearscape sube mis grabaciones a internet? A: No. Las grabaciones y los registros se guardan en este teléfono, no necesitas una cuenta y no se sube ningún audio.
@@ -563,7 +571,7 @@
 - [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
 - Hearscape transforme votre iPhone en radar sonore et en journal du bruit.
 - Q: Comment savoir d’où vient un bruit ? A: Ouvrez le radar de Hearscape : Sonomètre et tournez lentement sur vous-même avec votre téléphone. L’appli trace un anneau de chaleur à 360° et indique la direction la plus bruyante ; les graves, médiums et aigus ont chacun leur propre direction. Un téléphone tenu immobile ne peut pas repérer une direction ; c’est en tournant que vous la trouvez.
-- Q: Puis-je enregistrer le bruit de l'étage du dessus ou de l'extérieur toute la nuit ? A: Oui. Hearscape : Sonomètre continue la surveillance même lorsque l'écran est verrouillé et enregistre la courbe des décibels de toute la nuit ; les seuils suivent les « Normes de contrôle du bruit » du ministère de l'Environnement, mais vous pouvez aussi les personnaliser. Lorsqu'un seuil est dépassé, un extrait est enregistré à partir des 5 secondes précédentes, et vous pouvez exporter un rapport PDF. Il s'agit d'une mesure effectuée avec le microphone du téléphone, donnée à titre indicatif : ce n'est pas un sonomètre certifié.
+- Q: Puis-je enregistrer le bruit de l’étage supérieur ou de l’extérieur toute la nuit ? A: Oui. Hearscape continue la surveillance même lorsque l’écran est verrouillé et enregistre la courbe des décibels de toute la nuit. Les seuils suivent les « Normes de contrôle du bruit » du ministère de l’Environnement et peuvent être personnalisés ; lorsqu’un seuil est dépassé, un extrait est enregistré à partir de 5 secondes avant, et vous pouvez exporter un rapport PDF. La mesure est effectuée avec le microphone du téléphone, à titre indicatif seulement ; il ne s’agit pas d’un sonomètre certifié.
 - Q: Un téléphone peut-il servir de sonomètre, et quelle est sa précision ? A: Hearscape mesure avec le microphone du téléphone, avec pondération A, C et Z, réponse rapide ou lente, Leq, Lmax, Lmin, L10 et L90, ainsi qu'un décalage d'étalonnage personnalisé. Les relevés sont donnés à titre indicatif seulement ; il ne s'agit pas d'un sonomètre certifié.
 - Q: Puis-je exporter mon journal de bruit sous forme de rapport ? A: Oui. Hearscape exporte un rapport PDF comprenant une chronologie, le Leq de chaque période comparé à la limite et tous les événements ; chaque extrait enregistré peut être écouté et partagé.
 - Q: Hearscape envoie-t-il mes enregistrements sur Internet ? A: Non. Les enregistrements et les journaux restent sur le téléphone, aucun compte n'est nécessaire et aucun son n'est transmis.
@@ -574,6 +582,7 @@
 - [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
 - Hearscape macht dein iPhone zum Schallradar und Lärmprotokoll.
 - Q: Wie kann ich herausfinden, aus welcher Richtung ein Geräusch kommt? A: Öffne das Radar in Hearscape und drehe dich langsam einmal im Kreis: Es zeichnet einen 360°-Wärmering und markiert die lauteste Richtung, mit getrennten Richtungsangaben für tiefe, mittlere und hohe Töne. Ein ruhig gehaltenes Telefon kann keine Richtung erkennen; durch Drehen wird sie gefunden.
+- Q: Kann ich Lärm aus der Wohnung über mir oder von draußen die ganze Nacht protokollieren? A: Ja. Hearscape misst auch bei gesperrtem Bildschirm weiter und zeichnet die Dezibel-Kurve der ganzen Nacht auf. Die Grenzwerte richten sich nach den Lärmschutznormen des Umweltministeriums und können individuell angepasst werden; bei Überschreitung wird ein Clip ab 5 Sekunden davor gespeichert, und Sie können einen PDF-Bericht exportieren. Die Messung erfolgt über das Mikrofon des Telefons und dient nur als Orientierung – es handelt sich nicht um ein geeichtes Schallpegelmessgerät.
 - Q: Kann ein Telefon als Dezibelmesser dienen, und wie genau ist es? A: Hearscape: Lärmmesser misst über das Mikrofon des Telefons mit A-, C- und Z-Bewertung, Fast- und Slow-Ansprechverhalten sowie Leq, Lmax, Lmin, L10 und L90; außerdem gibt es einen eigenen Kalibrierwert. Die Ergebnisse dienen nur als Richtwert; es handelt sich nicht um einen geeichten Schallpegelmesser.
 - Q: Kann ich meine Lärmaufzeichnung als Bericht exportieren? A: Ja. Hearscape: Lärmmesser exportiert einen PDF-Bericht mit Zeitverlauf, Leq je Zeitraum im Vergleich zum Grenzwert und allen Ereignissen. Jeder aufgezeichnete Clip lässt sich außerdem abspielen und teilen.
 - Q: Werden die Aufnahmen von Hearscape: Lärmmesser ins Internet hochgeladen? A: Nein. Aufnahmen und Protokolle bleiben auf dem Telefon gespeichert, ein Konto ist nicht nötig und Audio wird nicht hochgeladen.
@@ -585,7 +594,10 @@
 - Folkline 是一款支持 PTT 的论坛阅读器：AI 帮你解读一串推文的风向，文章、推文与发文画面始终没有广告。
 - Q: 有没有好用的 PTT 阅读 App？ A: 乡民 Folkline 是支持 PTT 的论坛阅读器：热门文章与看板按领域分区，推文像聊天消息，ASCII 图照原排版显示；文章、推文与发文画面永远零广告，有 PTT 账号也能推文、发文、收站内信。
 - Q: 乡民的 AI 分析会做什么？ A: AI 会整理一串推文的各方立场、主要论点与风向变化。支持 Apple Intelligence 的设备有免费的设备内重点整理；云端深度分析免费版每月 20 次，乡民 Pro 每周 50 次，需在你允许后才会发送。
+- Q: 乡民是 PTT 官方 App 吗？ A: 不是。乡民是支持 PTT 的论坛阅读器，不是 PTT 官方 App，与 PTT 没有隶属关系。
+- Q: 看 PTT 的 App 会不会满满都是广告？ A: 乡民的横幅广告只出现在列表与设置页；文章、推文、站内信内容与发文画面永远没有广告，也没有插页广告。订阅乡民 Pro 可移除广告。
 - Q: 可以用鄉民推文和发文吗？ A: 可以，需要 PTT 账号。登录后可推文、发文、回文，发送后会自动读回确认；也支持站内信、水球、看板投票和多账号切换。
+- Q: PTT 文章被删了还看得到吗？ A: 在乡民收藏的文章会保存快照，原文删除后仍看得到收藏时的内容。
 
 ### Folkline: 掲示板リーダー (日本語)
 - [Page](https://agentmesh.uk/folkline/ja/)
@@ -607,6 +619,7 @@
 - Q: Folkline은 공식 PTT 앱인가요? A: 아니요. Folkline은 PTT를 지원하는 포럼 리더이며, 공식 PTT 앱이 아니고 PTT와 제휴 관계도 없습니다.
 - Q: PTT 앱에 광고가 많이 나오나요? A: Folkline은 목록과 설정 화면에만 배너 광고를 표시합니다. 게시글, 댓글, 쪽지, 편집기에는 광고가 나오지 않으며 전면 광고도 없습니다. Folkline Pro를 구독하면 광고가 제거됩니다.
 - Q: Folkline으로 PTT에 댓글을 달거나 글을 쓸 수 있나요? A: 네, PTT 계정이 있으면 가능합니다. 로그인 후 댓글, 게시글, 답글을 작성할 수 있으며, 전송된 내용은 자동으로 다시 읽어 와 완료 여부를 확인합니다. 쪽지, 물풍선 메시지, 게시판 투표, 여러 계정 간 전환도 지원합니다.
+- Q: PTT 게시글을 삭제해도 계속 읽을 수 있나요? A: Folkline에서 저장한 게시글은 저장 당시의 스냅샷을 보관하므로, 원본이 삭제된 후에도 저장했을 때의 내용을 계속 읽을 수 있습니다.
 
 ### Folkline: Lector de foros (Español)
 - [Page](https://agentmesh.uk/folkline/es/)
@@ -656,6 +669,7 @@
 - AutoComboでドロップを動かすルートを計画。ゲームのスクリーンショットを撮り、戻って1回タップすると、盤面とドロップを読み取り、指でたどれるルートを表示します。
 - Q: パズルの珠の動かし方を自動で計算してくれるアプリはありますか？ A: AutoComboはゲームのスクリーンショットを読み取り、盤面を認識して各ドロップを特定し、指でなぞって動かせる移動ルートを描画します。連鎖数、パズルの形、必ず消すマスなどの条件も設定できます。ルートを表示するだけで、ほかのアプリを操作することはありません。認識と計算はすべてスマホ内で行われます。
 - Q: AutoComboは自動でドロップを動かしてくれますか？ A: いいえ。AutoComboは、あなたが自分でなぞって動かせるルートを表示するだけで、ほかのアプリを操作することはありません。
+- Q: AutoComboはどの盤面に対応していますか？ A: 6×5、7×6、5×4など、さまざまな盤面に対応しており、あらゆるサイズのiPhoneとiPadで利用できます。スクリーンショット内の盤面の位置とサイズは自動で検出されます。
 - Q: AutoComboはスクリーンショットをアップロードしますか？ A: 読み取りと計算はすべて端末上で行われます。スクリーンショットが端末の外に出るのは、あなたが自分で報告を送信するときだけです。AutoComboは広告付きで無料で利用でき、1回の購入で広告を削除できます。
 
 ### AutoCombo (한국어)
@@ -1004,6 +1018,8 @@
 - [简体中文: 用 iPhone「健康」App 记录经期：经期追踪怎么开](https://agentmesh.uk/guides/health-cycle-tracking/zh-Hans/)
 - [日本語: iPhoneの「ヘルスケア」Appで生理を記録する：周期の記録を始める方法](https://agentmesh.uk/guides/health-cycle-tracking/ja/)
 - [한국어: iPhone 건강 앱으로 생리 기록하기: 생리 주기 추적 설정 방법](https://agentmesh.uk/guides/health-cycle-tracking/ko/)
+- [Español: Registra tu periodo en la app Salud del iPhone: cómo activar el seguimiento del ciclo](https://agentmesh.uk/guides/health-cycle-tracking/es/)
+- [Français: Suivez vos règles dans l'app Santé de l'iPhone : comment activer le suivi du cycle](https://agentmesh.uk/guides/health-cycle-tracking/fr/)
 - [Deutsch: Verfolge deine Periode in der iPhone-Health-App](https://agentmesh.uk/guides/health-cycle-tracking/de/)
 - [简体中文: 能否拍照识别植物名称？iPhone「视觉查询」的使用方法](https://agentmesh.uk/guides/identify-plants-visual-look-up/zh-Hans/)
 - [日本語: 写真で植物の名前がわかる？iPhoneの「ビジュアルルックアップ」の使い方](https://agentmesh.uk/guides/identify-plants-visual-look-up/ja/)
