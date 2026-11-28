@@ -522,6 +522,10 @@
 - 声迹把手机变成声音雷达和噪音记录器。
 - Q: 怎么找出噪音从哪个方向来？ A: 打开声迹 Hearscape 的雷达，拿着手机慢慢转一圈，它会画出 360° 热度环并标出最响的方向；低音、中音、高音也各自标出方向。手机拿着不动分不出方向，转身扫描才找得到。
 - Q: 可以整夜记录楼上或外面的噪音吗？ A: 可以。声迹 Hearscape 锁屏后也能持续监测，记下整夜的分贝曲线；阈值依环境部《噪音管制标准》设置，也可自定义，超过阈值时会从前 5 秒开始录下片段，并可导出 PDF 报告。这是手机麦克风测量，仅供参考，并非经过检定的噪音计。
+- Q: 手机可以当分贝计用吗？准不准？ A: 声迹用手机麦克风测量，提供 A、C、Z 加权与快／慢响应，并显示 Leq、Lmax、Lmin、L10、L90，也可自定义校准值。测量结果仅供参考，并非经过检定的噪音计。
+- Q: 噪音记录可以导出成报告吗？ A: 可以。声迹能导出 PDF 报告，包含时间轴、各时段 Leq 对照管制值，以及每一条事件；每个录下的片段也能播放与分享。
+- Q: 声迹的录音会上传到网络吗？ A: 不会。录音和记录都保存在这部手机上，无需账号，声音不会上传。
+- Q: 可以用 Apple Watch 看分贝吗？ A: 可以。声迹的 Apple Watch App 能在手腕上查看实时分贝、开始或停止整夜监测，超过阈值时手表会轻点提醒；表盘复杂功能也会显示监测状态与超标次数。
 
 ### Hearscape: 騒音計と音の方向 (日本語)
 - [Page](https://agentmesh.uk/hearscape/ja/)
@@ -529,18 +533,30 @@
 - Hearscape は iPhone を音のレーダーと騒音ログに変えます。
 - Q: 音の方向はどうやって見つけられますか？ A: 聲跡 Hearscape のレーダーを開き、スマホをゆっくり一周回してください。360° のヒートリングが描かれ、いちばん大きな音の方向に印が付きます。低音・中音・高音それぞれの方向も表示されます。スマホを静止させたままでは方向は分からないため、回転してスキャンすることが必要です。
 - Q: 上の階や外の騒音を一晩中記録できますか？ A: はい、できます。聲跡 Hearscape は画面をロックしたままでも監視を続け、一晩の dB 曲線を記録します。しきい値は環境部の〈騒音管制標準〉に従って設定することも、自分で設定することもできます。しきい値を超えた場合は、5 秒前から録音を開始し、PDF レポートとして書き出せます。これはスマホのマイクによる測定で、参考値のみを目的としており、検定済みの騒音計ではありません。
+- Q: スマホで騒音計として使えますか？精度はどのくらいですか？ A: Hearscapeはスマホのマイクで測定し、A・C・Z特性と速い／遅い応答を切り替えられ、Leq、Lmax、Lmin、L10、L90を表示します。校正オフセットも設定できます。測定値はあくまで参考値で、検定済みの騒音計ではありません。
+- Q: 騒音の記録をレポートとして書き出せますか？ A: はい。Hearscapeはタイムライン、時間帯ごとのLeqと基準値、すべてのイベントを載せたPDFレポートを書き出せます。録音したクリップはそれぞれ再生・共有できます。
+- Q: Hearscapeの録音はインターネットにアップロードされますか？ A: いいえ。録音と記録はすべてこのスマホに保存され、アカウントは不要です。音声がアップロードされることはありません。
+- Q: Apple Watchでデシベルを確認できますか？ A: はい。Hearscapeの Apple Watch アプリでは、手首でリアルタイムの音量を確認でき、夜間モニターの開始・停止もできます。基準値を超えると手首をタップしてお知らせします。また、コンプリケーションにモニター中かどうかと超過回数が表示されます。
 
 ### Hearscape: 소음 측정기 (한국어)
 - [Page](https://agentmesh.uk/hearscape/ko/)
 - [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
 - Hearscape는 iPhone을 소리 레이더와 소음 기록기로 바꿔 줍니다.
 - Q: 소리가 어느 방향에서 오는지 어떻게 찾나요? A: Hearscape의 레이더를 열고 휴대폰을 든 채 천천히 한 바퀴 돌아보세요. 360° 히트 링이 그려지고 가장 큰 소리의 방향이 표시되며, 저음·중음·고음 각각의 방향도 따로 표시됩니다. 휴대폰을 가만히 들고 있으면 방향을 알 수 없으니, 몸을 돌려 스캔해야 찾을 수 있습니다.
+- Q: 휴대폰을 데시벨 측정기로 쓸 수 있나요? 정확한가요? A: Hearscape는 휴대폰 마이크로 측정하며, A·C·Z 가중치, Fast/Slow 응답, Leq, Lmax, Lmin, L10, L90을 표시하고 보정값도 직접 설정할 수 있습니다. 측정값은 참고용이며, 검정을 받은 소음계가 아닙니다.
+- Q: 소음 기록을 보고서로 내보낼 수 있나요? A: 네. Hearscape는 타임라인, 시간대별 Leq와 기준값, 모든 이벤트가 담긴 PDF 보고서를 내보냅니다. 녹음된 각 클립은 재생하고 공유할 수 있습니다.
+- Q: Hearscape의 녹음 파일이 인터넷에 업로드되나요? A: 아니요. 녹음과 기록은 이 휴대폰에만 저장되며, 계정이 필요 없고 소리는 업로드되지 않습니다.
+- Q: Apple Watch로 데시벨을 확인할 수 있나요? A: 네. Hearscape의 Apple Watch 앱에서 실시간 소리 크기를 보고, 밤샘 모니터링을 시작하거나 멈출 수 있으며, 기준을 넘으면 손목을 두드려 알려 줍니다. 컴플리케이션에는 모니터링 상태와 초과 횟수가 표시됩니다.
 
 ### Hearscape: Sonómetro (Español)
 - [Page](https://agentmesh.uk/hearscape/es/)
 - [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
 - Hearscape convierte tu iPhone en un radar de sonido y un registro de ruido.
 - Q: ¿Cómo puedo saber de qué dirección viene un ruido? A: Abre el Radar de Hearscape y gira lentamente en un círculo completo: dibuja un anillo de calor de 360° y marca la dirección más ruidosa, con direcciones separadas para sonidos graves, medios y agudos. Con el teléfono quieto no se puede saber la dirección; al girar la encuentras.
+- Q: ¿Puedo usar el teléfono como sonómetro? ¿Qué tan preciso es? A: Hearscape mide con el micrófono del teléfono, con ponderación A, C y Z, respuesta rápida o lenta, y muestra Leq, Lmax, Lmin, L10 y L90, además de un valor de calibración personalizable. Las lecturas son solo de referencia; no es un sonómetro certificado.
+- Q: ¿Puedo exportar mi registro de ruido como informe? A: Sí. Hearscape exporta un informe en PDF con una línea de tiempo, el Leq de cada franja frente al límite y todos los eventos; cada clip grabado también se puede reproducir y compartir.
+- Q: ¿Hearscape sube mis grabaciones a internet? A: No. Las grabaciones y los registros se guardan en este teléfono, no necesitas una cuenta y no se sube ningún audio.
+- Q: ¿Puedo ver los decibelios en el Apple Watch? A: Sí. La app de Hearscape para Apple Watch muestra el nivel en tiempo real, inicia o detiene la monitorización nocturna y te avisa con un toque en la muñeca cuando se supera el umbral; una complicación muestra el estado de la monitorización y el número de eventos.
 
 ### Hearscape : Sonomètre (Français)
 - [Page](https://agentmesh.uk/hearscape/fr/)
@@ -548,12 +564,20 @@
 - Hearscape transforme votre iPhone en radar sonore et en journal du bruit.
 - Q: Comment savoir d’où vient un bruit ? A: Ouvrez le radar de Hearscape : Sonomètre et tournez lentement sur vous-même avec votre téléphone. L’appli trace un anneau de chaleur à 360° et indique la direction la plus bruyante ; les graves, médiums et aigus ont chacun leur propre direction. Un téléphone tenu immobile ne peut pas repérer une direction ; c’est en tournant que vous la trouvez.
 - Q: Puis-je enregistrer le bruit de l'étage du dessus ou de l'extérieur toute la nuit ? A: Oui. Hearscape : Sonomètre continue la surveillance même lorsque l'écran est verrouillé et enregistre la courbe des décibels de toute la nuit ; les seuils suivent les « Normes de contrôle du bruit » du ministère de l'Environnement, mais vous pouvez aussi les personnaliser. Lorsqu'un seuil est dépassé, un extrait est enregistré à partir des 5 secondes précédentes, et vous pouvez exporter un rapport PDF. Il s'agit d'une mesure effectuée avec le microphone du téléphone, donnée à titre indicatif : ce n'est pas un sonomètre certifié.
+- Q: Un téléphone peut-il servir de sonomètre, et quelle est sa précision ? A: Hearscape mesure avec le microphone du téléphone, avec pondération A, C et Z, réponse rapide ou lente, Leq, Lmax, Lmin, L10 et L90, ainsi qu'un décalage d'étalonnage personnalisé. Les relevés sont donnés à titre indicatif seulement ; il ne s'agit pas d'un sonomètre certifié.
+- Q: Puis-je exporter mon journal de bruit sous forme de rapport ? A: Oui. Hearscape exporte un rapport PDF comprenant une chronologie, le Leq de chaque période comparé à la limite et tous les événements ; chaque extrait enregistré peut être écouté et partagé.
+- Q: Hearscape envoie-t-il mes enregistrements sur Internet ? A: Non. Les enregistrements et les journaux restent sur le téléphone, aucun compte n'est nécessaire et aucun son n'est transmis.
+- Q: Puis-je consulter les décibels sur l'Apple Watch ? A: Oui. L'app Apple Watch de Hearscape affiche le niveau sonore en direct, permet de lancer ou d'arrêter la surveillance de nuit et vous fait sentir une petite vibration lorsque le seuil est dépassé ; une complication indique l'état de la surveillance et le nombre d'événements.
 
 ### Hearscape: Lärmmesser (Deutsch)
 - [Page](https://agentmesh.uk/hearscape/de/)
 - [App Store](https://apps.apple.com/app/id6836749497?pt=102436810&ct=llms_hearscape&mt=8)
 - Hearscape macht dein iPhone zum Schallradar und Lärmprotokoll.
 - Q: Wie kann ich herausfinden, aus welcher Richtung ein Geräusch kommt? A: Öffne das Radar in Hearscape und drehe dich langsam einmal im Kreis: Es zeichnet einen 360°-Wärmering und markiert die lauteste Richtung, mit getrennten Richtungsangaben für tiefe, mittlere und hohe Töne. Ein ruhig gehaltenes Telefon kann keine Richtung erkennen; durch Drehen wird sie gefunden.
+- Q: Kann ein Telefon als Dezibelmesser dienen, und wie genau ist es? A: Hearscape: Lärmmesser misst über das Mikrofon des Telefons mit A-, C- und Z-Bewertung, Fast- und Slow-Ansprechverhalten sowie Leq, Lmax, Lmin, L10 und L90; außerdem gibt es einen eigenen Kalibrierwert. Die Ergebnisse dienen nur als Richtwert; es handelt sich nicht um einen geeichten Schallpegelmesser.
+- Q: Kann ich meine Lärmaufzeichnung als Bericht exportieren? A: Ja. Hearscape: Lärmmesser exportiert einen PDF-Bericht mit Zeitverlauf, Leq je Zeitraum im Vergleich zum Grenzwert und allen Ereignissen. Jeder aufgezeichnete Clip lässt sich außerdem abspielen und teilen.
+- Q: Werden die Aufnahmen von Hearscape: Lärmmesser ins Internet hochgeladen? A: Nein. Aufnahmen und Protokolle bleiben auf dem Telefon gespeichert, ein Konto ist nicht nötig und Audio wird nicht hochgeladen.
+- Q: Kann ich die Dezibelwerte auf der Apple Watch ablesen? A: Ja. Die Apple Watch App von Hearscape: Lärmmesser zeigt den Live-Pegel am Handgelenk, startet oder stoppt die nächtliche Überwachung und tippt Sie an, wenn die Grenze überschritten wird. Eine Komplikation zeigt den Überwachungsstatus und die Anzahl der Ereignisse.
 
 ### 乡民 Folkline－PTT 阅读器 (简体中文)
 - [Page](https://agentmesh.uk/folkline/zh-Hans/)
@@ -561,6 +585,7 @@
 - Folkline 是一款支持 PTT 的论坛阅读器：AI 帮你解读一串推文的风向，文章、推文与发文画面始终没有广告。
 - Q: 有没有好用的 PTT 阅读 App？ A: 乡民 Folkline 是支持 PTT 的论坛阅读器：热门文章与看板按领域分区，推文像聊天消息，ASCII 图照原排版显示；文章、推文与发文画面永远零广告，有 PTT 账号也能推文、发文、收站内信。
 - Q: 乡民的 AI 分析会做什么？ A: AI 会整理一串推文的各方立场、主要论点与风向变化。支持 Apple Intelligence 的设备有免费的设备内重点整理；云端深度分析免费版每月 20 次，乡民 Pro 每周 50 次，需在你允许后才会发送。
+- Q: 可以用鄉民推文和发文吗？ A: 可以，需要 PTT 账号。登录后可推文、发文、回文，发送后会自动读回确认；也支持站内信、水球、看板投票和多账号切换。
 
 ### Folkline: 掲示板リーダー (日本語)
 - [Page](https://agentmesh.uk/folkline/ja/)
@@ -568,6 +593,10 @@
 - FolklineはPTTに対応した掲示板リーダーです。AIがスレッドの雰囲気を読み取り、投稿、コメント、エディタに広告は一切表示されません。
 - Q: PTTの閲覧アプリでおすすめはありますか？ A: 鄉民 Folkline は PTT に対応した掲示板リーダーです。人気の投稿と掲示板は話題別にまとめられ、プッシュ（推文）はチャットのように表示され、ASCIIアートは元のレイアウトのまま表示されます。投稿、推文、投稿画面には広告が一切表示されません。PTTアカウントをお持ちであれば、推文、投稿、站内信の閲覧も可能です。
 - Q: Folklineの AI分析では何ができますか？ A: スレッドの各立場、主な論点、雰囲気の変化をまとめます。Apple Intelligenceに対応した端末では、端末上で要点を無料で整理できます。クラウドでの詳細分析は、無料版では月20回、Folkline Proでは週50回です。ご自身が許可した後にのみ送信されます。
+- Q: Folklineは公式のPTTアプリですか？ A: いいえ。Folklineは、PTTに対応した掲示板リーダーです。公式のPTTアプリではなく、PTTとの提携関係もありません。
+- Q: PTTのアプリは広告だらけになっていませんか？ A: Folklineでは、バナー広告は一覧と設定画面にのみ表示されます。投稿、推文、メール、エディタには広告は表示されず、全画面広告もありません。Folkline Proに加入すると広告を非表示にできます。
+- Q: Folklineでプッシュや投稿はできますか？ A: はい、PTTアカウントが必要です。ログイン後は推文、投稿、返信ができ、送信後に内容を読み直して送信を確認します。站内信、水球、掲示板投票、アカウントの切り替えにも対応しています。
+- Q: PTTの投稿が削除された後も読めますか？ A: Folklineで保存した投稿はスナップショットを保持しているため、元の投稿が削除された後も、保存した時点の内容を読むことができます。
 
 ### Folkline: 포럼 리더 (한국어)
 - [Page](https://agentmesh.uk/folkline/ko/)
@@ -575,6 +604,9 @@
 - Folkline은 PTT를 지원하는 포럼 리더입니다. AI가 스레드의 분위기를 대신 읽어 드리며, 게시글, 댓글, 편집기에는 광고가 전혀 나오지 않습니다.
 - Q: PTT를 잘 읽을 수 있는 앱이 있나요? A: Folkline은 PTT를 지원하는 포럼 리더입니다. 인기 글과 게시판은 주제별로 묶여 있고, 댓글은 채팅처럼 보이며, ASCII 아트는 원래 레이아웃 그대로 표시됩니다. 게시글, 댓글, 편집기 화면에는 광고가 전혀 없고, PTT 계정이 있으면 댓글 달기, 글쓰기, 쪽지 읽기가 가능합니다.
 - Q: Folkline의 AI 분석은 무엇을 하나요? A: AI가 스레드의 각 입장, 주요 논점, 분위기 변화를 정리해 줍니다. Apple Intelligence를 지원하는 기기에서는 기기 내 핵심 요약을 무료로 이용할 수 있습니다. 클라우드 심층 분석은 무료 버전에서 월 20회, Folkline Pro에서는 주 50회 이용할 수 있으며, 사용자가 허용한 후에만 전송됩니다.
+- Q: Folkline은 공식 PTT 앱인가요? A: 아니요. Folkline은 PTT를 지원하는 포럼 리더이며, 공식 PTT 앱이 아니고 PTT와 제휴 관계도 없습니다.
+- Q: PTT 앱에 광고가 많이 나오나요? A: Folkline은 목록과 설정 화면에만 배너 광고를 표시합니다. 게시글, 댓글, 쪽지, 편집기에는 광고가 나오지 않으며 전면 광고도 없습니다. Folkline Pro를 구독하면 광고가 제거됩니다.
+- Q: Folkline으로 PTT에 댓글을 달거나 글을 쓸 수 있나요? A: 네, PTT 계정이 있으면 가능합니다. 로그인 후 댓글, 게시글, 답글을 작성할 수 있으며, 전송된 내용은 자동으로 다시 읽어 와 완료 여부를 확인합니다. 쪽지, 물풍선 메시지, 게시판 투표, 여러 계정 간 전환도 지원합니다.
 
 ### Folkline: Lector de foros (Español)
 - [Page](https://agentmesh.uk/folkline/es/)
@@ -582,6 +614,10 @@
 - Folkline es un lector de foros con compatibilidad con PTT: la IA interpreta el ánimo de un hilo por ti, y las publicaciones, los comentarios y el editor nunca muestran anuncios.
 - Q: ¿Hay alguna buena app para leer PTT? A: Folkline es un lector de foros compatible con PTT: publicaciones y foros populares agrupados por tema, los comentarios se ven como mensajes de chat y el arte ASCII conserva su formato; las publicaciones, los comentarios y el editor nunca muestran anuncios, y con una cuenta de PTT puedes comentar, publicar y leer tu correo.
 - Q: ¿Qué hace el análisis con IA de Folkline? A: Resume los bandos, los argumentos principales y los cambios de ánimo de un hilo. Los dispositivos con Apple Intelligence obtienen puntos clave gratis en el propio dispositivo; el análisis en la nube es gratuito con 20 al mes, o 50 a la semana con Folkline Pro, y solo se ejecuta después de que lo permitas.
+- Q: ¿Folkline es la app oficial de PTT? A: No. Folkline es un lector de foros con compatibilidad con PTT; no es la app oficial de PTT y no tiene ninguna afiliación con PTT.
+- Q: ¿Una app para leer PTT está llena de anuncios? A: Folkline muestra anuncios de banner solo en las listas y en los ajustes; las publicaciones, los comentarios, el correo y el editor nunca muestran anuncios, y no hay anuncios intersticiales. Folkline Pro quita los anuncios.
+- Q: ¿Puedo comentar y publicar en PTT con Folkline? A: Sí, con una cuenta de PTT. Puedes comentar, publicar y responder; cada envío se vuelve a leer para confirmar que se realizó. También son compatibles el correo, los waterballs, las votaciones de los foros y el cambio entre cuentas.
+- Q: ¿Puedo seguir leyendo una publicación de PTT después de que la borran? A: Sí. Las publicaciones que guardas en Folkline conservan una copia, así que puedes seguir leyéndolas tal como estaban cuando las guardaste.
 
 ### Folkline : Lecteur de forum (Français)
 - [Page](https://agentmesh.uk/folkline/fr/)
@@ -589,6 +625,10 @@
 - Folkline est un lecteur de forum avec prise en charge de PTT : l’IA analyse l’ambiance d’un fil pour vous, et les posts, commentaires et l’éditeur ne montrent jamais de publicité.
 - Q: Existe-t-il une bonne application de lecture PTT ? A: Folkline est un lecteur de forum compatible avec PTT : les sujets et forums populaires sont regroupés par thème, les commentaires s’affichent comme des messages de discussion et les ASCII art conservent leur mise en page. Les posts, commentaires et l’éditeur ne montrent jamais de publicité, et avec un compte PTT, vous pouvez commenter, publier et lire vos messages privés.
 - Q: À quoi sert l’analyse par IA de Folkline ? A: L’IA résume les positions de chaque camp, les principaux arguments et l’évolution de l’ambiance d’un fil. Les appareils compatibles Apple Intelligence bénéficient gratuitement de points clés générés sur l’appareil ; l’analyse approfondie dans le cloud est limitée à 20 par mois en version gratuite, ou 50 par semaine avec Folkline Pro, et elle n’est envoyée qu’après votre autorisation.
+- Q: Folkline est-elle l'application officielle de PTT ? A: Non. Folkline est un lecteur de forum qui prend en charge PTT ; ce n'est pas une application officielle de PTT et elle n'est pas affiliée à PTT.
+- Q: L’application PTT est-elle remplie de publicités ? A: Folkline n’affiche des bannières publicitaires que dans les listes et les réglages ; les posts, les commentaires, les messages et l’éditeur n’affichent jamais de publicité, et il n’y a pas de publicités interstitielles. Folkline Pro supprime les publicités.
+- Q: Puis-je commenter et publier des posts avec Folkline ? A: Oui, avec un compte PTT. Vous pouvez commenter, publier et répondre, et chaque envoi est relu pour confirmer qu'il a bien été effectué ; la messagerie, les mots d'eau, les sondages de forum et le changement entre plusieurs comptes sont également pris en charge.
+- Q: Puis-je encore lire un post PTT après sa suppression ? A: Les posts que vous enregistrez dans Folkline conservent une copie, de sorte que vous pouvez toujours les lire tels qu'ils étaient au moment de l'enregistrement.
 
 ### Folkline: Forum-Leser (Deutsch)
 - [Page](https://agentmesh.uk/folkline/de/)
@@ -596,114 +636,165 @@
 - Folkline ist ein Forum-Reader mit PTT-Unterstützung: Die KI erkennt die Stimmung eines Strangs für dich, und Beiträge, Kommentare und der Editor zeigen nie Werbung.
 - Q: Gibt es eine gute PTT-Lese-App? A: Folkline ist ein Forum-Reader mit PTT-Unterstützung: Beliebte Beiträge und Foren sind nach Themen sortiert, Kommentare wirken wie ein Chat, und ASCII-Art bleibt in ihrem ursprünglichen Layout erhalten. Beiträge, Kommentare und der Editor zeigen nie Werbung. Mit einem PTT-Konto kannst du kommentieren, Beiträge verfassen und Mails lesen.
 - Q: Was macht die KI-Analyse von Folkline? A: Die KI fasst einen Strang zusammen: die Haltung jeder Seite, die wichtigsten Argumente und wie sich die Stimmung verändert hat. Geräte mit Apple Intelligence erhalten kostenlos wichtige Punkte direkt auf dem Gerät. Die Cloud-Analyse ist in der kostenlosen Version 20 Mal pro Monat möglich, mit Folkline Pro 50 Mal pro Woche, und wird nur gesendet, nachdem du zugestimmt hast.
+- Q: Ist Folkline die offizielle PTT-App? A: Nein. Folkline ist ein Forum-Reader mit PTT-Unterstützung; es handelt sich nicht um die offizielle PTT-App und es besteht keine Verbindung zu PTT.
+- Q: Ist ein PTT-Reader voller Werbung? A: Folkline zeigt Werbebanner nur in Listen und Einstellungen; Beiträge, Schieben, Mails und der Editor zeigen nie Werbung, und es gibt keine Vollbildwerbung. Mit Folkline Pro werden Werbeanzeigen entfernt.
+- Q: Kann ich mit Folkline auf PTT Beiträge schieben und posten? A: Ja, dafür brauchst du ein PTT-Konto. Nach dem Anmelden kannst du schieben, Beiträge verfassen und antworten; jeder Vorgang wird nach dem Absenden zur Bestätigung zurückgelesen. Außerdem werden Mails, Wasserbälle, Forenumfragen und der Wechsel zwischen Konten unterstützt.
+- Q: Kann ich einen PTT-Beitrag noch lesen, nachdem er gelöscht wurde? A: Beiträge, die du in Folkline speicherst, werden als Kopie aufbewahrt, sodass du sie auch nach dem Löschen so lesen kannst, wie sie beim Speichern waren.
 
 ### AutoCombo (简体中文)
 - [Page](https://agentmesh.uk/autocombo/zh-Hans/)
 - [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
 - AutoCombo 帮你规划转珠路线。在游戏里截图，回到 AutoCombo 轻点一下，就能找到盘面、识别每颗珠子，画出可用手指跟随的路径。
 - Q: 转珠游戏有办法自动算出路径吗？ A: AutoCombo 会读取你的游戏截图，找出盘面、识别每颗珠子，然后画出可以跟着拖动的转珠路线；连击数、拼图形状、指定消除等条件都能设置。它只显示路线，不会操作其他 App，识别和计算都在手机上进行。
+- Q: AutoCombo 会自动帮我转珠吗？ A: 不会。AutoCombo 只画出可以跟着拖的转珠路线，不会操作其他 App。
+- Q: AutoCombo 支持哪些盘面？ A: 6×5、7×6、5×4 等各种盘面都适用，也支持各尺寸手机与 iPad；会自动找出截图里盘面的位置与大小。
+- Q: AutoCombo 会上传我的截图吗？ A: 识别和计算都在手机上进行，只有你自己送出报告时，截图才会离开手机。AutoCombo 免费使用、含广告，一次购买即可移除广告。
 
 ### AutoCombo (日本語)
 - [Page](https://agentmesh.uk/autocombo/ja/)
 - [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
 - AutoComboでドロップを動かすルートを計画。ゲームのスクリーンショットを撮り、戻って1回タップすると、盤面とドロップを読み取り、指でたどれるルートを表示します。
 - Q: パズルの珠の動かし方を自動で計算してくれるアプリはありますか？ A: AutoComboはゲームのスクリーンショットを読み取り、盤面を認識して各ドロップを特定し、指でなぞって動かせる移動ルートを描画します。連鎖数、パズルの形、必ず消すマスなどの条件も設定できます。ルートを表示するだけで、ほかのアプリを操作することはありません。認識と計算はすべてスマホ内で行われます。
+- Q: AutoComboは自動でドロップを動かしてくれますか？ A: いいえ。AutoComboは、あなたが自分でなぞって動かせるルートを表示するだけで、ほかのアプリを操作することはありません。
+- Q: AutoComboはスクリーンショットをアップロードしますか？ A: 読み取りと計算はすべて端末上で行われます。スクリーンショットが端末の外に出るのは、あなたが自分で報告を送信するときだけです。AutoComboは広告付きで無料で利用でき、1回の購入で広告を削除できます。
 
 ### AutoCombo (한국어)
 - [Page](https://agentmesh.uk/autocombo/ko/)
 - [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
 - AutoCombo로 드롭을 움직일 경로를 계획하세요. 게임에서 스크린샷을 찍고 돌아와 한 번 탭하면 보드와 드롭을 읽고 손가락으로 따라갈 경로를 그립니다.
 - Q: 퍼즐 게임에서 구슬 이동 경로를 자동으로 계산해 줄 수 있나요? A: AutoCombo는 게임 스크린샷을 읽어 보드를 찾고 각 구슬을 인식한 뒤, 손가락으로 따라 드래그할 수 있는 구슬 이동 경로를 그려 줍니다. 연속 콤보 수, 퍼즐 모양, 지정 제거 등의 조건도 설정할 수 있습니다. 경로만 표시하며 다른 앱을 조작하지 않고, 인식과 계산은 모두 기기에서 진행됩니다.
+- Q: AutoCombo가 저 대신 드롭을 움직여 주나요? A: 아니요. AutoCombo는 직접 따라 그릴 수 있는 경로만 표시하며, 다른 앱을 조작하지 않습니다.
+- Q: AutoCombo는 어떤 보드를 지원하나요? A: 6×5, 7×6, 5×4 등 다양한 보드를 지원하며, 모든 크기의 iPhone과 iPad에서 사용할 수 있습니다. 스크린샷에서 보드의 위치와 크기를 자동으로 찾아냅니다.
+- Q: AutoCombo가 제 스크린샷을 업로드하나요? A: 인식과 계산은 기기에서 이루어집니다. 직접 신고를 보낼 때만 스크린샷이 기기 밖으로 전송됩니다. AutoCombo는 광고가 포함된 무료 앱이며, 한 번 구매하면 광고가 제거됩니다.
 
 ### AutoCombo (Español)
 - [Page](https://agentmesh.uk/autocombo/es/)
 - [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
 - AutoCombo te ayuda a planificar cómo mover los orbes. Toma una captura en el juego, vuelve y toca una vez: la app detecta el tablero, lee cada orbe y dibuja una ruta para seguir con el dedo.
 - Q: ¿Hay alguna forma de que una app calcule automáticamente la ruta para mover los orbes? A: AutoCombo lee la captura de pantalla de tu juego, encuentra el tablero y cada orbe, y dibuja una ruta de orbes que puedes seguir con el dedo; puedes definir combos, formas, casillas que deben eliminarse y más condiciones. Solo muestra la ruta y nunca controla otra app; la lectura y el cálculo se hacen en el teléfono.
+- Q: ¿AutoCombo mueve los orbes por mí? A: No. AutoCombo solo dibuja una ruta que puedes seguir tú mismo; no controla otras apps.
+- Q: ¿Qué tableros admite AutoCombo? A: Tableros como 6×5, 7×6 y 5×4, en teléfonos de todos los tamaños y en iPad; detecta automáticamente la posición y el tamaño del tablero en la captura de pantalla.
+- Q: ¿AutoCombo sube mis capturas de pantalla? A: El reconocimiento y el cálculo se realizan en el teléfono. Una captura solo sale del teléfono cuando tú mismo envías un informe. AutoCombo es gratis y contiene anuncios; una compra única quita los anuncios.
 
 ### AutoCombo (Français)
 - [Page](https://agentmesh.uk/autocombo/fr/)
 - [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
 - AutoCombo vous aide à planifier vos déplacements d’orbes. Prenez une capture dans le jeu, revenez et touchez une fois : l’app repère le plateau, lit chaque orbe et trace un trajet à suivre du doigt.
 - Q: Est-ce qu’une application peut calculer automatiquement le trajet pour les orbes ? A: AutoCombo lit votre capture d’écran de jeu, repère le plateau et chaque orbe, puis trace un trajet que vous pouvez suivre du doigt ; vous pouvez définir les combos, les formes, les cases à éliminer et d’autres conditions. Il affiche uniquement le trajet et ne contrôle jamais une autre app ; la lecture et le calcul restent sur le téléphone.
+- Q: AutoCombo déplace-t-il les orbes à ma place ? A: Non. AutoCombo dessine seulement un trajet que vous pouvez suivre vous-même ; il ne contrôle pas d’autres applications.
+- Q: Quels plateaux AutoCombo prend-il en charge ? A: Des plateaux comme 6×5, 7×6 et 5×4, sur des téléphones de toutes tailles ainsi que sur iPad ; il détecte automatiquement la position et la taille du plateau dans la capture d’écran.
+- Q: AutoCombo envoie-t-il mes captures d’écran ? A: La reconnaissance et le calcul sont effectués sur le téléphone ; une capture ne quitte le téléphone que si vous envoyez vous-même un signalement. AutoCombo est gratuit et contient des publicités, et un achat unique permet de les supprimer.
 
 ### AutoCombo (Deutsch)
 - [Page](https://agentmesh.uk/autocombo/de/)
 - [App Store](https://apps.apple.com/app/id909354644?pt=102436810&ct=llms_autocombo&mt=8)
 - AutoCombo plant deine Kugelzüge. Mache im Spiel einen Screenshot, kehre zurück und tippe einmal: Die App erkennt das Spielfeld, liest jede Kugel und zeichnet eine Route, der du mit dem Finger folgen kannst.
 - Q: Kann eine App für mich Zugrouten für das Kugelspiel berechnen? A: AutoCombo liest deinen Spiel-Screenshot, findet das Spielfeld und jede einzelne Kugel und zeichnet eine Route, der du mit dem Finger folgen kannst; du kannst Kombos, Formen, Pflichtfelder und mehr festlegen. Die App zeigt nur die Route und steuert nie eine andere App; das Erkennen und Berechnen bleibt auf dem Telefon.
+- Q: Bewegt AutoCombo die Kugeln für mich? A: Nein. AutoCombo zeigt nur eine Route, die du selbst nachziehen kannst; es steuert keine anderen Apps.
+- Q: Welche Spielfelder unterstützt AutoCombo? A: Spielfelder wie 6×5, 7×6 und 5×4 sowie alle Größen von iPhones und iPads. AutoCombo findet Position und Größe des Spielfelds im Screenshot automatisch.
+- Q: Lädt AutoCombo meine Screenshots hoch? A: Erkennung und Berechnung finden auf dem Gerät statt. Ein Screenshot verlässt das Gerät nur, wenn du selbst einen Bericht sendest. AutoCombo ist kostenlos und enthält Werbung; mit einem einmaligen Kauf wird die Werbung entfernt.
 
 ### 爆三 Pow3－宝石挖矿 (简体中文)
 - [Page](https://agentmesh.uk/pow3/zh-Hans/)
 - [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
 - 往下挖，一关一关挖。在岩层旁消除，就能打穿岩层。
 - Q: 有没有不一样的三消游戏？ A: 爆三 Pow3 是在矿坑里交换宝石的三消：消除会敲裂旁边的岩石，整排打通就往下沉一米，每关有自己的挖掘目标和固定步数；过了第 6 关还有只比深度的无尽矿坑。离线也能玩，无需注册。
+- Q: 爆三怎么玩？ A: 在矿井里交换宝石，连成三颗即可消除，并敲裂旁边的岩石；整排岩石打通就往下沉一米。每关都有各自的目标和固定步数，例如挖到指定深度、敲出金矿或击碎岩核。
+- Q: 爆三可以离线玩吗？有无尽模式吗？ A: 可以离线玩，无需注册，支持 iPhone 和 iPad。通过第 6 关后会开启无尽矿井：没有关卡，只比深度，还有每日和每周挑战。
+- Q: 爆三要付费吗？ A: 爆三可免费下载和游玩；一次购买即可移除横幅广告和全屏广告，奖励视频仍可自选观看。
 
 ### Pow3－宝石の採掘パズル (日本語)
 - [Page](https://agentmesh.uk/pow3/ja/)
 - [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
 - 一段ずつ、下へ掘り進めよう。岩のそばでそろえれば、岩が砕ける。
 - Q: マッチ3のゲームで、今までとは違うものはありますか？ A: 「爆三 Pow3」は、鉱山の坑道でジェムを入れ替えるマッチ3パズルです。ジェムを揃えると隣の岩にひびが入り、一列を打ち通すと一メートル下へ沈みます。各ステージには独自の掘削目標と固定の手数があり、第6ステージをクリアすると、深さで順位が決まる無限の鉱山が解放されます。オフラインでも遊べ、登録は不要です。
+- Q: Pow3はどうやって遊ぶの？ A: 鉱坑でジェムを入れ替え、3つつなげて消すと隣の岩にひびが入ります。一列の岩を貫通させると1メートル沈みます。各ステージには独自の目標と決まった手数があり、例えば指定の深さまで掘り抜く、金塊を掘り出す、コアを砕くといったものです。
+- Q: Pow3はオフラインでも遊べますか？エンドレスモードはありますか？ A: はい、オフラインで遊べ、登録も不要です。iPhoneとiPadに対応しています。ステージ6をクリアするとエンドレス坑道が開放されます。ステージはなく深さだけを競い、デイリーとウィークリーの挑戦もあります。
+- Q: Pow3は有料ですか？ A: Pow3は無料でダウンロードして遊べます。一度購入すると、バナー広告と全画面広告が削除されます。報酬動画は引き続き任意で視聴できます。
 
 ### Pow3－보석 채굴 퍼즐 (한국어)
 - [Page](https://agentmesh.uk/pow3/ko/)
 - [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
 - 한 층씩 아래로 파 내려가세요. 바위 옆에서 젬을 맞추면 바위가 부서집니다.
 - Q: 다른 종류의 매치3 게임이 있나요? A: Pow3 - 보석 채굴 퍼즐은 광산 갱도에서 보석을 교환하는 매치3 게임입니다. 맞춘 보석은 옆의 암석을 깨뜨리고, 한 줄을 모두 치우면 1미터 아래로 내려갑니다. 각 레벨에는 고유한 채굴 목표와 정해진 이동 횟수가 있으며, 6레벨을 넘으면 깊이로 순위를 겨루는 무한 광산이 열립니다. 오프라인에서도 플레이할 수 있고 가입할 필요가 없습니다.
+- Q: Pow3 게임은 어떻게 하나요? A: 광산 갱도에서 보석을 맞바꿔 세 개를 연결해 지우면 옆의 바위가 깨집니다. 바위 한 줄을 모두 뚫으면 1미터 아래로 내려갑니다. 각 레벨에는 고유한 목표와 정해진 이동 횟수가 있으며, 예를 들어 지정한 깊이까지 파기, 금 캐내기, 암석 핵 부수기 등이 있습니다.
+- Q: Pow3은 오프라인으로 플레이할 수 있나요? 무한 모드도 있나요? A: 네, 가입 없이 오프라인으로 플레이할 수 있으며 iPhone과 iPad를 지원합니다. 레벨 6을 클리어하면 무한 갱도가 열리는데, 레벨 없이 깊이만 겨루며 일일 및 주간 도전 과제도 있습니다.
+- Q: Pow3은 유료인가요? A: Pow3은 무료로 다운로드하여 플레이할 수 있습니다. 한 번 구매하면 배너 및 전면 광고가 제거되며, 보상형 영상은 선택적으로 시청할 수 있습니다.
 
 ### Pow3: Mina de gemas (Español)
 - [Page](https://agentmesh.uk/pow3/es/)
 - [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
 - Excava hacia abajo, nivel a nivel. Las líneas junto a la roca la rompen.
 - Q: ¿Hay algún juego de tres en línea diferente? A: Pow3 es un juego de intercambiar gemas en un pozo de mina: al hacer combinaciones se rompe la roca de al lado, y cuando despejas una fila completa bajas un metro. Cada nivel tiene su propio objetivo de excavación y un número fijo de movimientos; después del nivel 6 hay un pozo sin fin que te clasifica por profundidad. Se puede jugar sin conexión y sin registrarse.
+- Q: ¿Cómo se juega Pow3? A: Intercambia gemas en un pozo de mina: al formar una línea de tres, se agrieta la roca que está a su lado, y si despejas una fila completa de roca, bajas un metro. Cada nivel tiene su propio objetivo y un número fijo de movimientos, como excavar una profundidad determinada, sacar oro o romper el núcleo de roca.
+- Q: ¿Pow3 se puede jugar sin conexión? ¿Tiene modo infinito? A: Sí, se puede jugar sin conexión, sin registrarse, en iPhone y iPad. Después del nivel 6 se abre la Mina sin fin: no tiene niveles, solo importa la profundidad, y además hay desafíos diarios y semanales.
+- Q: ¿Pow3 cuesta dinero? A: Pow3 es gratis para descargar y jugar. Con una sola compra se eliminan los banners y los anuncios de pantalla completa, y los videos con recompensa siguen siendo opcionales.
 
 ### Pow3 : Mine de gemmes (Français)
 - [Page](https://agentmesh.uk/pow3/fr/)
 - [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
 - Creusez niveau après niveau. Les alignements contre la roche la font voler en éclats.
 - Q: Existe-t-il un jeu de type match-3 différent ? A: Pow3 est un jeu d'échange de gemmes dans un puits de mine : les alignements fissurent la roche voisine, et une rangée entièrement dégagée vous fait descendre d'un mètre. Chaque niveau a son propre objectif de fouille et un nombre de coups fixe ; après le niveau 6, une mine sans fin classe les joueurs selon leur profondeur. Il fonctionne hors ligne et ne nécessite aucune inscription.
+- Q: Comment joue-t-on à Pow3 ? A: Échangez des gemmes dans un puits de mine : un alignement de trois fissure la roche à côté, et dégager toute une rangée vous fait descendre d'un mètre. Chaque niveau a son propre objectif et un nombre de coups fixe, par exemple creuser jusqu'à une profondeur donnée, libérer de l'or ou briser le noyau de roche.
+- Q: Peut-on jouer à Pow3 hors ligne, et y a-t-il un mode sans fin? A: Oui, il se joue hors ligne, sans inscription, sur iPhone et iPad. Après le niveau 6, le puits sans fin s'ouvre : pas de niveaux, seulement la profondeur, ainsi que des défis quotidiens et hebdomadaires.
+- Q: Pow3 coûte-t-il de l'argent? A: Pow3 est gratuit à télécharger et à jouer; un seul achat supprime les bannières et les publicités plein écran, et les vidéos récompensées restent facultatives.
 
 ### Pow3: Edelsteinmine (Deutsch)
 - [Page](https://agentmesh.uk/pow3/de/)
 - [App Store](https://apps.apple.com/app/id1044069059?pt=102436810&ct=llms_pow3&mt=8)
 - Grab dich Level für Level in die Tiefe. Reihen neben dem Gestein brechen es auf.
 - Q: Gibt es ein anderes Match-3-Spiel? A: Pow3 ist ein Edelstein-Tauschspiel in einem Minenschacht: Matches brechen das Gestein neben sich auf, und eine komplett freigeräumte Reihe lässt dich einen Meter tiefer sinken. Jedes Level hat sein eigenes Grabungsziel und eine feste Zahl an Zügen; nach Level 6 misst ein endloser Schacht nur noch deine Tiefe. Das Spiel funktioniert offline und ohne Anmeldung.
+- Q: Wie spielt man Pow3? A: Tausche Edelsteine in einem Minenschacht. Wenn drei Steine in einer Reihe liegen, zerbricht das Gestein daneben, und wenn eine ganze Reihe frei geräumt ist, sinkst du einen Meter tiefer. Jedes Level hat sein eigenes Ziel und eine feste Anzahl an Zügen, zum Beispiel eine bestimmte Tiefe ausgraben, Gold freilegen oder den Gesteinskern zerschlagen.
+- Q: Kann man Pow3 offline spielen und gibt es einen Endlos-Modus? A: Ja, Pow3 lässt sich offline spielen, ohne Registrierung, auf iPhone und iPad. Nach Level 6 öffnet sich der endlose Schacht: keine Level, nur die Tiefe zählt, dazu gibt es tägliche und wöchentliche Herausforderungen.
+- Q: Kostet Pow3 Geld? A: Pow3 ist kostenlos herunterladbar und spielbar. Mit einem einmaligen Kauf werden Banner- und Vollbildwerbung entfernt; Belohnungsvideos bleiben optional.
 
 ### 喷喷车 Splash Car－改装水火箭 (简体中文)
 - [Page](https://agentmesh.uk/autopgo/zh-Hans/)
 - [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
 - 水火箭车每次都全力冲出去。跑不跑得完轨道，看你怎么改装。
 - Q: 有没有能学到物理的儿童游戏？ A: 《喷喷车 Splash Car》让你改装水火箭车，在 50 关玩具轨道上冲刺：同一个零件放在不同位置效果不同，失败画面会说明原因，过关后用一句话讲清重心、升力、抓地力、空气阻力等道理。无需注册，可离线游玩。
+- Q: 喷喷车怎么玩？ A: 水火箭车每次都全力冲出去，能不能跑完赛道取决于你怎么改装：把零件拖到车头、车顶、车尾、两侧、底盘或拖钩上，同一个零件放在不同位置效果也不同，然后按 GO，看它能不能冲过终点旗。
+- Q: 喷喷车有几关？需要联网吗？ A: 喷喷车有 9 章共 50 关玩具赛道，每关三颗星。无需注册，可离线游玩，只有排行榜使用 Game Center；支持 iPhone 和 iPad。
 
 ### Splash Car－水ロケットカー (日本語)
 - [Page](https://agentmesh.uk/autopgo/ja/)
 - [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
 - 水ロケットカーはいつも全力で飛び出す。コースを走りきれるかは、あなたの改造しだい。
 - Q: 物理が学べる子ども向けゲームはありますか？ A: 「噴噴車 Splash Car」では、水ロケットカーを改造して、おもちゃのコース50ステージを走り抜けます。同じパーツでも取り付ける場所によって効果が変わり、失敗画面にはその理由が表示され、クリア後には重心、揚力、グリップ、空気抵抗などの原理が一言で説明されます。登録は不要で、オフラインでも遊べます。
+- Q: Splash Carはどうやって遊ぶの？ A: 水ロケットカーはいつも全力で飛び出します。コースを走りきれるかは、あなたの改造しだいです。パーツを先端・屋根・後ろ・両側・車体下・牽引フックにドラッグし、同じパーツでも付ける場所によって効き方が変わります。そのあとGOを押して、ゴール旗を越えられるか確かめましょう。
+- Q: Splash Carは何ステージあるの？インターネットは必要？ A: Splash Carには9章・全50ステージのおもちゃコースがあり、各ステージに星が3つあります。登録は不要で、オフラインでも遊べます。Game Centerを使うのはランキングだけです。iPhoneとiPadに対応しています。
 
 ### Splash Car: 물로켓 자동차 (한국어)
 - [Page](https://agentmesh.uk/autopgo/ko/)
 - [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
 - 물로켓 자동차는 언제나 전력으로 튀어 나가요. 트랙을 완주할지는 당신의 개조에 달렸어요.
 - Q: 물리를 배울 수 있는 어린이 게임이 있나요? A: Splash Car(噴噴車)는 물로켓 자동차를 개조해 50개의 장난감 트랙 스테이지를 통과하는 게임이에요. 같은 부품도 다는 위치에 따라 효과가 달라지고, 실패 화면에 실패 이유가 표시되며, 클리어할 때마다 무게중심, 양력, 접지력, 공기 저항 등의 원리를 한 문장으로 설명해 줘요. 회원 가입이 필요 없고 오프라인으로도 플레이할 수 있어요.
+- Q: 스플래시 카 게임은 어떻게 하나요? A: 물로켓 자동차는 언제나 전력으로 튀어 나가요. 트랙을 완주할지는 개조에 달려 있어요. 부품을 앞, 지붕, 뒤, 양옆, 바닥, 견인 고리로 끌어다 놓으세요. 같은 부품도 놓는 위치에 따라 효과가 달라요. 그다음 GO를 눌러 결승 깃발을 통과할 수 있는지 확인하세요.
+- Q: 스플래시 카에는 스테이지가 몇 개 있고, 인터넷이 필요한가요? A: 스플래시 카에는 9개 챕터에 걸쳐 총 50개의 장난감 트랙 스테이지가 있으며, 각 스테이지마다 별 3개가 있습니다. 가입은 필요 없고 오프라인으로 즐길 수 있습니다. 순위표만 Game Center를 사용합니다. iPhone과 iPad를 지원합니다.
 
 ### Splash Car: Taller de cohetes (Español)
 - [Page](https://agentmesh.uk/autopgo/es/)
 - [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
 - Tu carro cohete de agua siempre sale a toda potencia. Que termine la pista depende de cómo lo montes.
 - Q: ¿Hay algún juego para niños que enseñe física? A: Splash Car: Taller de cohetes te deja modificar un carro cohete de agua para que recorra 50 niveles de pistas de juguete: la misma pieza funciona de forma distinta según dónde la coloques, una pantalla de fallo te dice por qué perdiste y, al ganar, una frase explica la idea detrás, como el centro de masa, la sustentación, el agarre o la resistencia del aire. No requiere registro y se puede jugar sin conexión.
+- Q: ¿Cómo se juega Splash Car? A: Tu carro cohete de agua siempre sale a toda potencia; si termina la pista depende de cómo lo armes. Arrastra piezas a la nariz, el techo, la cola, los lados, la parte inferior o el enganche, donde la misma pieza funciona de forma distinta. Luego toca GO y mira si cruza la bandera de meta.
+- Q: ¿Cuántos niveles tiene Splash Car y necesita internet? A: Splash Car tiene 50 niveles de pista de juguete distribuidos en 9 capítulos, cada uno con tres estrellas. No necesitas registrarte y se puede jugar sin conexión; solo las tablas de clasificación usan Game Center. Es compatible con iPhone y iPad.
 
 ### Splash Car : Fusée à eau (Français)
 - [Page](https://agentmesh.uk/autopgo/fr/)
 - [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
 - Ta voiture-fusée à eau part toujours à pleine puissance. Qu’elle finisse le circuit dépend de ton montage.
 - Q: Existe-t-il un jeu pour enfants qui permet d'apprendre la physique ? A: Splash Car : Fusée à eau vous permet de transformer une voiture-fusée à eau et de la faire rouler sur 50 circuits de jouets : la même pièce n'a pas le même effet selon son emplacement, un écran d'échec explique la raison de l'échec, et chaque victoire vous explique le principe en une phrase, comme le centre de gravité, la portance, l'adhérence ou la résistance de l'air. Aucune inscription requise, jouable hors ligne.
+- Q: Comment joue-t-on à Splash Car ? A: Ta voiture-fusée à eau part toujours à pleine puissance; qu'elle termine le circuit dépend de ton montage. Glisse les pièces sur le nez, le toit, l'arrière, les côtés, le dessous ou l'attelage, car une même pièce agit différemment selon son emplacement. Appuie ensuite sur GO et vois si elle franchit le drapeau d'arrivée.
+- Q: Combien de niveaux compte Splash Car, et faut-il être connecté à Internet ? A: Splash Car propose 50 niveaux de circuits jouets répartis en 9 chapitres, chacun avec trois étoiles. Aucune inscription n'est requise et le jeu fonctionne hors ligne; seul le classement utilise Game Center. L'application est compatible avec l'iPhone et l'iPad.
 
 ### Splash Car: Raketenwerkstatt (Deutsch)
 - [Page](https://agentmesh.uk/autopgo/de/)
 - [App Store](https://apps.apple.com/app/id1149834600?pt=102436810&ct=llms_autopgo&mt=8)
 - Dein Wasserraketen-Auto startet immer mit voller Kraft. Ob es die Bahn schafft, liegt an deinem Umbau.
 - Q: Gibt es ein Spiel, mit dem Kinder Physik spielerisch lernen können? A: Splash Car: Raketenwerkstatt lässt dich ein Wasserraketen-Auto umbauen, das in 50 Level einer Spielzeugbahn bestehen muss: Dasselbe Teil wirkt je nach Position unterschiedlich, der Fehlerbildschirm sagt dir, warum ein Versuch gescheitert ist, und nach jedem Sieg erklärt ein Satz die Idee dahinter, etwa Schwerpunkt, Auftrieb, Haftung oder Luftwiderstand. Eine Anmeldung ist nicht nötig, das Spiel kann offline gespielt werden.
+- Q: Wie spielt man Splash Car: Raketenwerkstatt? A: Dein Wasserraketen-Auto startet immer mit voller Kraft. Ob es die Bahn schafft, hängt von deinem Umbau ab: Zieh Teile an Nase, Dach, Heck, Seiten, Unterboden oder Anhängerkupplung, denn dasselbe Teil wirkt je nach Position unterschiedlich. Tippe dann auf GO und sieh, ob es an der Zielflagge vorbeifährt.
+- Q: Wie viele Level hat Splash Car: Raketenwerkstatt, und braucht man eine Internetverbindung? A: Splash Car: Raketenwerkstatt hat 50 Spielzeugbahn-Level in 9 Kapiteln, jedes mit drei Sternen. Eine Anmeldung ist nicht nötig, und das Spiel ist offline spielbar; nur die Rangliste nutzt Game Center. Das Spiel unterstützt iPhone und iPad.
 
 ## Guides
 - [简体中文: 买二手 iPhone 要检查什么？当面验机清单](https://agentmesh.uk/guides/used-iphone-checklist/zh-Hans/)
@@ -944,9 +1035,12 @@
 - [Español: ¿Por qué se oscurece la pantalla de mi iPhone? Ajustes que debes revisar](https://agentmesh.uk/guides/iphone-screen-dimming-settings/es/)
 - [Français: Pourquoi mon écran d'iPhone s'assombrit-il? Réglages à vérifier](https://agentmesh.uk/guides/iphone-screen-dimming-settings/fr/)
 - [Deutsch: iPhone-Bildschirm wird dunkel? So prüfst du die Helligkeitseinstellungen](https://agentmesh.uk/guides/iphone-screen-dimming-settings/de/)
-- [日本語: iPhoneの画面収録の使い方は？音声が録れない場合はどうすればいい？ ※音声を含めて録音する方法](https://agentmesh.uk/guides/iphone-screen-recording-audio/ja/)
-- [Español: ¿Cómo grabar la pantalla del iPhone con tu voz? Sin sonido, ¿qué hago?](https://agentmesh.uk/guides/iphone-screen-recording-audio/es/)
-- [Français: Comment enregistrer l'écran de votre iPhone, avec votre voix](https://agentmesh.uk/guides/iphone-screen-recording-audio/fr/)
+- [简体中文: iPhone 屏幕录制怎么用？没有声音怎么办](https://agentmesh.uk/guides/iphone-screen-recording-audio/zh-Hans/)
+- [日本語: iPhoneで画面収録する方法と、音が出ない場合の対処法](https://agentmesh.uk/guides/iphone-screen-recording-audio/ja/)
+- [한국어: iPhone 화면 녹화 방법, 소리가 나오지 않을 때 해야 할 일](https://agentmesh.uk/guides/iphone-screen-recording-audio/ko/)
+- [Español: ¿Cómo grabar la pantalla del iPhone y qué hacer si no hay sonido?](https://agentmesh.uk/guides/iphone-screen-recording-audio/es/)
+- [Français: Comment faire un enregistrement d’écran sur iPhone et que faire quand il n’y a pas de son](https://agentmesh.uk/guides/iphone-screen-recording-audio/fr/)
+- [Deutsch: So nimmst du den iPhone-Bildschirm auf, und was zu tun ist, wenn kein Ton zu hören ist](https://agentmesh.uk/guides/iphone-screen-recording-audio/de/)
 - [简体中文: iPhone 查看序列号：设置、包装盒与开机画面](https://agentmesh.uk/guides/iphone-serial-number-check/zh-Hans/)
 - [日本語: iPhoneのシリアル番号を推測せずに確認する方法](https://agentmesh.uk/guides/iphone-serial-number-check/ja/)
 - [한국어: 아이폰 일련번호 확인하기: 설정, 상자, 부팅 화면](https://agentmesh.uk/guides/iphone-serial-number-check/ko/)
@@ -1005,8 +1099,11 @@
 - [日本語: iPhoneの測距儀で身長を測るには？](https://agentmesh.uk/guides/iphone-measure-person-height/ja/)
 - [한국어: iPhone 측정 앱으로 사람의 키를 재는 방법은?](https://agentmesh.uk/guides/iphone-measure-person-height/ko/)
 - [Español: ¿Cómo medir la altura de una persona con iPhone?](https://agentmesh.uk/guides/iphone-measure-person-height/es/)
+- [Français: Comment mesurer la taille d’une personne avec un iPhone ?](https://agentmesh.uk/guides/iphone-measure-person-height/fr/)
+- [Deutsch: Wie misst man die Körpergröße einer Person mit dem iPhone?](https://agentmesh.uk/guides/iphone-measure-person-height/de/)
 - [简体中文: 装修规划表怎么做？整理方案、版本与备份](https://agentmesh.uk/guides/renovation-planning-version-checklist/zh-Hans/)
 - [日本語: リフォームプランの作り方：プラン、バージョン、バックアップの整理](https://agentmesh.uk/guides/renovation-planning-version-checklist/ja/)
+- [한국어: 리모델링 계획표 작성 방법: 계획, 버전, 백업 정리](https://agentmesh.uk/guides/renovation-planning-version-checklist/ko/)
 - [Español: ¿Cómo organizar un plan de remodelación, versiones y copias de seguridad?](https://agentmesh.uk/guides/renovation-planning-version-checklist/es/)
 - [Français: Comment organiser un plan de rénovation, les versions et les sauvegardes](https://agentmesh.uk/guides/renovation-planning-version-checklist/fr/)
 - [Deutsch: So organisieren Sie einen Renovierungsplan, Versionen und Sicherungen](https://agentmesh.uk/guides/renovation-planning-version-checklist/de/)
@@ -1019,22 +1116,30 @@
 - [简体中文: 多肉浇水怎么掌握？先区分生长期与休眠期](https://agentmesh.uk/guides/succulent-watering-dormancy/zh-Hans/)
 - [日本語: 多肉植物の水やりのコツ：生育期と休眠期を区別する](https://agentmesh.uk/guides/succulent-watering-dormancy/ja/)
 - [한국어: 다육식물 물주기: 생장기와 휴면기를 구분하세요](https://agentmesh.uk/guides/succulent-watering-dormancy/ko/)
+- [Español: ¿Cómo regar las suculentas? Primero distingue entre la temporada de crecimiento y la de reposo](https://agentmesh.uk/guides/succulent-watering-dormancy/es/)
 - [Français: Arrosage des succulentes : distinguer la croissance de la dormance](https://agentmesh.uk/guides/succulent-watering-dormancy/fr/)
+- [Deutsch: Sukkulenten gießen: Wachstums- und Ruhephase unterscheiden](https://agentmesh.uk/guides/succulent-watering-dormancy/de/)
 - [简体中文: 植物黄叶怎么办？先查水分、光线与根系](https://agentmesh.uk/guides/plant-yellow-leaves-check/zh-Hans/)
 - [日本語: 植物の黄葉はどうすればいい？まず水分、光、根を確認しよう](https://agentmesh.uk/guides/plant-yellow-leaves-check/ja/)
 - [한국어: 식물 잎이 노랗게 변하면 어떻게 하나요? 먼저 수분, 빛, 뿌리를 확인하세요](https://agentmesh.uk/guides/plant-yellow-leaves-check/ko/)
 - [Español: ¿Hojas amarillas en la planta? Revisa primero el agua, la luz y las raíces](https://agentmesh.uk/guides/plant-yellow-leaves-check/es/)
+- [Français: Feuilles jaunes sur une plante : vérifiez d’abord l’eau, la lumière et les racines](https://agentmesh.uk/guides/plant-yellow-leaves-check/fr/)
 - [Deutsch: Gelbe Blätter bei Pflanzen? Zuerst Wasser, Licht und Wurzeln prüfen](https://agentmesh.uk/guides/plant-yellow-leaves-check/de/)
 - [简体中文: 兰花盆栽养护：蝴蝶兰浇水怎么判断？](https://agentmesh.uk/guides/orchid-pot-care-home/zh-Hans/)
 - [日本語: 蘭の鉢植えの世話：胡蝶蘭はいつ水やりが必要か見分ける方法](https://agentmesh.uk/guides/orchid-pot-care-home/ja/)
 - [한국어: 난초 화분 관리: 호접란은 언제 물을 줘야 할까?](https://agentmesh.uk/guides/orchid-pot-care-home/ko/)
+- [Español: Cuidado de orquídeas en maceta: ¿cómo saber cuándo necesita agua una phalaenopsis?](https://agentmesh.uk/guides/orchid-pot-care-home/es/)
 - [Français: Soins des orchidées en pot : comment savoir quand un phalaenopsis a besoin d’eau?](https://agentmesh.uk/guides/orchid-pot-care-home/fr/)
 - [Deutsch: Zimmerorchideen-Pflege: So erkennst du, wann eine Malaienorchidee Wasser braucht](https://agentmesh.uk/guides/orchid-pot-care-home/de/)
 - [简体中文: 绣球花盆栽养护：光照、浇水与花后修剪](https://agentmesh.uk/guides/hydrangea-pot-care/zh-Hans/)
 - [日本語: 盆栽のアジサイの育て方：光、水やり、花後の剪定](https://agentmesh.uk/guides/hydrangea-pot-care/ja/)
 - [한국어: 수국 화분 관리: 빛, 물주기, 가지치기](https://agentmesh.uk/guides/hydrangea-pot-care/ko/)
+- [Español: Cuidado de hortensias en maceta: luz, riego y poda después de la floración](https://agentmesh.uk/guides/hydrangea-pot-care/es/)
+- [Français: Soins de l’hortensia en pot : lumière, arrosage et taille après floraison](https://agentmesh.uk/guides/hydrangea-pot-care/fr/)
+- [Deutsch: Topfpflanzen-Hortensie pflegen: Licht, Gießen und Rückschnitt nach der Blüte](https://agentmesh.uk/guides/hydrangea-pot-care/de/)
 - [简体中文: 银河拍摄：iPhone 夜间模式怎么准备？](https://agentmesh.uk/guides/iphone-milky-way-photo/zh-Hans/)
 - [日本語: 銀河の撮影：iPhoneの夜間モードの準備方法は？](https://agentmesh.uk/guides/iphone-milky-way-photo/ja/)
+- [한국어: 은하수 촬영: iPhone 야간 모드로 준비하는 방법은?](https://agentmesh.uk/guides/iphone-milky-way-photo/ko/)
 - [Español: Vía Láctea con el iPhone: ¿cómo preparar el modo Nocturno?](https://agentmesh.uk/guides/iphone-milky-way-photo/es/)
 - [Français: Photographier la Voie lactée avec le mode Nuit de l'iPhone](https://agentmesh.uk/guides/iphone-milky-way-photo/fr/)
 - [Deutsch: Fotografieren der Milchstraße mit dem iPhone-Nachtmodus](https://agentmesh.uk/guides/iphone-milky-way-photo/de/)
@@ -1046,6 +1151,7 @@
 - [Deutsch: Wie finde ich die aktuellen Positionen der Planeten? Zuerst Standort und Zeit einstellen](https://agentmesh.uk/guides/find-planets-current-position/de/)
 - [简体中文: 流星雨是怎么形成的？星座名称又是怎么来的？](https://agentmesh.uk/guides/meteor-shower-origin-radiant/zh-Hans/)
 - [日本語: 流星群はどのように形成され、星座名はどこから来るのか](https://agentmesh.uk/guides/meteor-shower-origin-radiant/ja/)
+- [한국어: 유성우는 어떻게 생기고, 별자리 이름은 어떻게 붙었나?](https://agentmesh.uk/guides/meteor-shower-origin-radiant/ko/)
 - [Español: ¿Cómo se forman las lluvias de meteoros y de dónde vienen los nombres de las constelaciones?](https://agentmesh.uk/guides/meteor-shower-origin-radiant/es/)
 - [Français: Comment se forment les pluies de météores et comment obtiennent-elles leurs noms de constellations ?](https://agentmesh.uk/guides/meteor-shower-origin-radiant/fr/)
 - [Deutsch: Wie entstehen Meteorschauer und wie erhalten sie ihre Sternbildnamen?](https://agentmesh.uk/guides/meteor-shower-origin-radiant/de/)
@@ -1053,17 +1159,26 @@
 - [日本語: 2026年ふたご座流星群：台湾での極大に向けた計画](https://agentmesh.uk/guides/geminids-taiwan-2026-time/ja/)
 - [한국어: 2026 쌍둥이자리 유성우: 대만에서 극대 시기에 맞춘 계획](https://agentmesh.uk/guides/geminids-taiwan-2026-time/ko/)
 - [Español: Lluvia de meteoros 2026: ¿cómo planear los Gemínidas en horario de Taiwán?](https://agentmesh.uk/guides/geminids-taiwan-2026-time/es/)
+- [Français: Pluies d'étoiles filantes 2026 : comment planifier les Géminides selon l'heure de Taïwan ?](https://agentmesh.uk/guides/geminids-taiwan-2026-time/fr/)
+- [Deutsch: 2026 Geminiden: Planung rund um das Maximum in Taiwan](https://agentmesh.uk/guides/geminids-taiwan-2026-time/de/)
 - [简体中文: 噪音分贝标准是多少？营业场所、工地与扩音设施对照表](https://agentmesh.uk/guides/taiwan-noise-decibel-standards/zh-Hans/)
 - [日本語: 騒音の分貝基準はいくつですか？営業場所、工事現場、拡声設備の対照表](https://agentmesh.uk/guides/taiwan-noise-decibel-standards/ja/)
 - [한국어: 대만의 소음 기준은 데시벨로 얼마인가요? 사업장, 공사장, 확성기](https://agentmesh.uk/guides/taiwan-noise-decibel-standards/ko/)
+- [Español: ¿Cuáles son los límites de ruido en decibelios en Taiwán? Establecimientos comerciales, obras y altavoces](https://agentmesh.uk/guides/taiwan-noise-decibel-standards/es/)
+- [Français: Quelles sont les limites de bruit de Taïwan en décibels ? Entreprises, chantiers et haut-parleurs](https://agentmesh.uk/guides/taiwan-noise-decibel-standards/fr/)
 - [Deutsch: Was sind die Lärmgrenzwerte in Taiwan in Dezibel? Gewerbebetriebe, Baustellen und Lautsprecheranlagen](https://agentmesh.uk/guides/taiwan-noise-decibel-standards/de/)
 - [简体中文: 噪音测量方法：分贝、时间与地点怎么记？](https://agentmesh.uk/guides/measure-noise-with-iphone/zh-Hans/)
 - [日本語: 騒音測定の方法：デシベル、時間、場所はどう記録する？](https://agentmesh.uk/guides/measure-noise-with-iphone/ja/)
-- [简体中文: iPhone 分贝计准吗？校准与投诉前请先确认](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/zh-Hans/)
-- [한국어: iPhone 데시벨 측정기는 정확할까요? 의존하기 전에 확인할 사항](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/ko/)
-- [Español: ¿Son precisos los sonómetros del iPhone? Lo que debes revisar antes de confiar en uno](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/es/)
-- [Français: Les sonomètres iPhone sont-ils précis ? Ce qu'il faut vérifier avant de s'y fier](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/fr/)
-- [Deutsch: Sind iPhone-Dezibelmesser genau? Was Sie prüfen sollten, bevor Sie sich darauf verlassen](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/de/)
+- [한국어: 소음 기록 방법: 데시벨, 시간, 장소는 어떻게 기록할까요?](https://agentmesh.uk/guides/measure-noise-with-iphone/ko/)
+- [Español: Método de medición de ruido: ¿cómo registrar los decibelios, el tiempo y la ubicación?](https://agentmesh.uk/guides/measure-noise-with-iphone/es/)
+- [Français: Méthodes de mesure du bruit : comment consigner les niveaux, les heures et les lieux de mesure?](https://agentmesh.uk/guides/measure-noise-with-iphone/fr/)
+- [Deutsch: Lärmmessung: Wie protokolliere ich Dezibel, Zeit und Standort?](https://agentmesh.uk/guides/measure-noise-with-iphone/de/)
+- [简体中文: 你的 iPhone 分贝计准确吗？举报噪音前应先核对校准问题](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/zh-Hans/)
+- [日本語: iPhoneの騒音計は正確ですか？騒音を通報する前に校正について確認すべきこと](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/ja/)
+- [한국어: iPhone 데시벨 측정기는 정확한가요? 소음을 신고하기 전에 보정에 대해 확인할 사항](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/ko/)
+- [Español: ¿Son precisos los medidores de decibeles del iPhone? Qué revisar sobre la calibración antes de presentar una denuncia por ruido](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/es/)
+- [Français: Les sonomètres sur iPhone sont-ils précis ? À vérifier avant l’étalonnage et tout signalement de bruit](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/fr/)
+- [Deutsch: iPhone-Dezibelmesser genau? Was du vor dem Melden zur Kalibrierung prüfen solltest](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/de/)
 - [简体中文: 楼上噪音怎么办？取证、管委会与报警](https://agentmesh.uk/guides/upstairs-noise-what-to-do/zh-Hans/)
 - [日本語: 上の階の騒音への対処：記録、管理委員会、警察](https://agentmesh.uk/guides/upstairs-noise-what-to-do/ja/)
 - [한국어: 층간소음은 어떻게 해야 하나요? 증거 수집, 관리사무소, 경찰 신고](https://agentmesh.uk/guides/upstairs-noise-what-to-do/ko/)
@@ -1088,10 +1203,12 @@
 - [Español: ¿Se necesita verificar una cuenta nueva de PTT después del registro? Registro frente a verificación de la cuenta](https://agentmesh.uk/guides/ptt-registration-verification/es/)
 - [Français: Le compte PTT doit-il être vérifié après l'inscription ? Inscription et vérification du compte : la différence](https://agentmesh.uk/guides/ptt-registration-verification/fr/)
 - [Deutsch: PTT-Registrierung: Muss man sich danach noch verifizieren? Unterschied zwischen Registrierung und Kontoverifizierung](https://agentmesh.uk/guides/ptt-registration-verification/de/)
-- [한국어: PTT 게시판을 iPhone에서 찾고 즐겨찾기로 관리하는 방법](https://agentmesh.uk/guides/find-ptt-boards-iphone/ko/)
-- [Español: Cómo encontrar foros de PTT en el iPhone y conservar tus favoritos](https://agentmesh.uk/guides/find-ptt-boards-iphone/es/)
-- [Français: Comment trouver les forums PTT sur iPhone et conserver ses favoris](https://agentmesh.uk/guides/find-ptt-boards-iphone/fr/)
-- [Deutsch: Wie finde ich PTT-Boards auf dem iPhone und behalte Favoriten im Blick?](https://agentmesh.uk/guides/find-ptt-boards-iphone/de/)
+- [简体中文: PTT看板搜索怎么找？分类与加入收藏](https://agentmesh.uk/guides/find-ptt-boards-iphone/zh-Hans/)
+- [日本語: PTT看板の検索方法は？カテゴリとお気に入りの追加](https://agentmesh.uk/guides/find-ptt-boards-iphone/ja/)
+- [한국어: PTT 게시판 검색 방법: 분류와 즐겨찾기 추가](https://agentmesh.uk/guides/find-ptt-boards-iphone/ko/)
+- [Español: ¿Cómo buscar tableros de PTT? Categorías y cómo agregar a favoritos](https://agentmesh.uk/guides/find-ptt-boards-iphone/es/)
+- [Français: Comment rechercher des forums sur PTT : catégories et ajout aux favoris](https://agentmesh.uk/guides/find-ptt-boards-iphone/fr/)
+- [Deutsch: PTT-Brett-Suche: Wie finde ich Bretter? Kategorien und Favoriten hinzufügen](https://agentmesh.uk/guides/find-ptt-boards-iphone/de/)
 - [简体中文: PTT 推文怎么追？自动更新、筛选与通知](https://agentmesh.uk/guides/ptt-comments-live-and-filters/zh-Hans/)
 - [日本語: PTTの推文をフォローする方法：自動更新、フィルター、通知](https://agentmesh.uk/guides/ptt-comments-live-and-filters/ja/)
 - [한국어: PTT 댓글을 실시간 업데이트, 필터, 알림과 함께 따라가는 방법](https://agentmesh.uk/guides/ptt-comments-live-and-filters/ko/)
@@ -1101,18 +1218,27 @@
 - [简体中文: 如何为 iPhone 选择 PTT 阅读器](https://agentmesh.uk/guides/choose-ptt-reader-iphone/zh-Hans/)
 - [日本語: PTTアプリのおすすめの選び方は？iPhoneリーダーの場合はこちらを確認](https://agentmesh.uk/guides/choose-ptt-reader-iphone/ja/)
 - [한국어: PTT 앱 추천, 어떻게 고를까? iPhone 리더 기준 정리](https://agentmesh.uk/guides/choose-ptt-reader-iphone/ko/)
+- [Español: ¿Cómo elegir una app PTT para iPhone?](https://agentmesh.uk/guides/choose-ptt-reader-iphone/es/)
+- [Français: Comment choisir un lecteur PTT pour iPhone](https://agentmesh.uk/guides/choose-ptt-reader-iphone/fr/)
 - [Deutsch: Wie wähle ich einen PTT-Reader für das iPhone?](https://agentmesh.uk/guides/choose-ptt-reader-iphone/de/)
 - [简体中文: 侧方停车步骤，附台湾路缘距离规定](https://agentmesh.uk/guides/parallel-parking-steps-taiwan/zh-Hans/)
 - [日本語: 縦列駐車のコツ：台湾の縁石からの距離ルールに沿った駐車手順](https://agentmesh.uk/guides/parallel-parking-steps-taiwan/ja/)
 - [한국어: 주차 기술: 평행 주차는 어떻게 하나요? (대만의 연석 거리 규정 포함)](https://agentmesh.uk/guides/parallel-parking-steps-taiwan/ko/)
 - [简体中文: 台湾倒车入库考试：先检查哪些要点](https://agentmesh.uk/guides/reverse-parking-test-taiwan/zh-Hans/)
 - [日本語: 台湾の運転試験のための後退駐車：まず確認すべきこと](https://agentmesh.uk/guides/reverse-parking-test-taiwan/ja/)
+- [한국어: 타이완 운전면허 시험을 위한 후진 주차: 시험 전에 무엇을 먼저 확인해야 할까?](https://agentmesh.uk/guides/reverse-parking-test-taiwan/ko/)
 - [简体中文: 怎么玩停车游戏？极限停车场新手入门](https://agentmesh.uk/guides/parking-game-beginners-guide/zh-Hans/)
 - [日本語: 停車ゲームの始め方？ 極限駐車場の初心者入門](https://agentmesh.uk/guides/parking-game-beginners-guide/ja/)
 - [한국어: 정확하게 주차하기: 극한 주차장 초보자 가이드 (Precision Parking 3D 시작하기)](https://agentmesh.uk/guides/parking-game-beginners-guide/ko/)
 - [简体中文: 船闸原理是什么？船怎么升降通过运河？](https://agentmesh.uk/guides/canal-lock-how-it-works/zh-Hans/)
+- [日本語: 運河の閘門の仕組み：水位の異なる水面間で船を上げ下げする方法](https://agentmesh.uk/guides/canal-lock-how-it-works/ja/)
+- [한국어: 운하 자물쇠의 원리는 무엇인가요? 배는 어떻게 수위 차이를 넘어 오르내리나요?](https://agentmesh.uk/guides/canal-lock-how-it-works/ko/)
+- [Español: ¿Cómo funcionan las esclusas de canal? Subir y bajar barcos entre niveles de agua](https://agentmesh.uk/guides/canal-lock-how-it-works/es/)
+- [Français: Fonctionnement des écluses : faire monter et descendre les bateaux entre des niveaux d'eau](https://agentmesh.uk/guides/canal-lock-how-it-works/fr/)
+- [Deutsch: Wie funktionieren Schleusen? Boote heben und senken zwischen Wasserständen](https://agentmesh.uk/guides/canal-lock-how-it-works/de/)
 - [简体中文: 如何开始夜钓虾场：进货、现金流与扩张](https://agentmesh.uk/guides/prawnlight-management-beginners/zh-Hans/)
 - [日本語: Prawnlightの始め方：仕入れ、資金繰り、拡張](https://agentmesh.uk/guides/prawnlight-management-beginners/ja/)
+- [한국어: Prawnlight 시작하기: 재고, 현금 흐름, 확장](https://agentmesh.uk/guides/prawnlight-management-beginners/ko/)
 - [Español: Cómo empezar en Prawnlight: inventario, flujo de caja y expansión](https://agentmesh.uk/guides/prawnlight-management-beginners/es/)
 - [Français: Comment démarrer Prawnlight : stock, flux de trésorerie et expansion](https://agentmesh.uk/guides/prawnlight-management-beginners/fr/)
 - [Deutsch: Wie startet man Prawnlight: Lagerbestand, Cashflow und Expansion](https://agentmesh.uk/guides/prawnlight-management-beginners/de/)
@@ -1123,5 +1249,13 @@
 - [Français: Comment jouer à Pow3 : jumeler des gemmes, briser la roche et atteindre l'objectif du niveau](https://agentmesh.uk/guides/pow3-match-three-how-to-play/fr/)
 - [Deutsch: So spielst du Pow3: Edelsteine paaren, Gestein brechen und das Levelziel erreichen](https://agentmesh.uk/guides/pow3-match-three-how-to-play/de/)
 - [简体中文: 转珠技巧怎么练？先用截图研究盘面路径](https://agentmesh.uk/guides/orb-puzzle-screenshot-route-study/zh-Hans/)
+- [日本語: iPhoneのスクリーンショットでオーブパズルのルートを研究する方法](https://agentmesh.uk/guides/orb-puzzle-screenshot-route-study/ja/)
+- [한국어: iPhone 스크린샷으로 구슬 퍼즐 경로 연구하기](https://agentmesh.uk/guides/orb-puzzle-screenshot-route-study/ko/)
+- [Español: Cómo estudiar rutas de rompecabezas de orbes con una captura de pantalla del iPhone](https://agentmesh.uk/guides/orb-puzzle-screenshot-route-study/es/)
 - [Français: Comment étudier les trajets d’un puzzle d’orbes à partir d’une capture d’écran d’iPhone](https://agentmesh.uk/guides/orb-puzzle-screenshot-route-study/fr/)
 - [Deutsch: Wie man Kugelrätsel-Routen mit einem iPhone-Screenshot studiert](https://agentmesh.uk/guides/orb-puzzle-screenshot-route-study/de/)
+- [简体中文: 怎么改装水火箭车？喷喷车新手入门指南](https://agentmesh.uk/guides/splash-car-build-guide/zh-Hans/)
+- [日本語: 水ロケットカーの改造方法は？Splash Car初心者ガイド](https://agentmesh.uk/guides/splash-car-build-guide/ja/)
+- [Español: ¿Cómo se modifica un carro cohete de agua? Guía para principiantes de Splash Car](https://agentmesh.uk/guides/splash-car-build-guide/es/)
+- [Français: Comment construire une voiture-fusée à eau : guide du débutant pour Splash Car](https://agentmesh.uk/guides/splash-car-build-guide/fr/)
+- [Deutsch: Wie baut man ein Wasserraketen-Auto? Einsteigerleitfaden für Splash Car](https://agentmesh.uk/guides/splash-car-build-guide/de/)

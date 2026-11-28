@@ -15,3 +15,15 @@ Splash Car has you build a water-rocket car for 50 toy-track levels: the same pa
 
 ### 有沒有能學到物理的小朋友遊戲？
 噴噴車 Splash Car 讓你改裝水火箭車衝過 50 關玩具軌道：同一個零件放在不同位置效果不同，失敗畫面會說出原因，過關後用一句話說清重心、升力、抓地力、空氣阻力等道理。不需註冊，可離線遊玩。
+
+### How do you play Splash Car?
+Your water-rocket car always launches at full power; whether it finishes the track is down to your build. Drag parts onto the nose, roof, tail, sides, belly or tow hitch, where the same part works differently, then press GO and see if it crosses the finish flag.
+
+### 噴噴車怎麼玩？
+水火箭車每次都全力衝出去，跑不跑得完軌道看你怎麼改裝：把零件拖到車頭、車頂、車尾、兩側、底盤或拖鉤，同一個零件放在不同位置效果不同，再按 GO 看能不能衝過終點旗。
+
+### How many levels does Splash Car have, and does it need internet?
+Splash Car has 50 toy-track levels in 9 chapters, each with three stars. No sign-up is needed and it plays offline; only the leaderboards use Game Center. It supports iPhone and iPad.
+
+### 噴噴車有幾關？需要網路嗎？
+噴噴車有 9 章共 50 關玩具軌道，每關三顆星。不需註冊，可離線遊玩，只有排行榜使用 Game Center；支援 iPhone 與 iPad。

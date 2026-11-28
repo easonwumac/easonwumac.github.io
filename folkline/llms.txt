@@ -21,3 +21,27 @@ It sums up the sides, main arguments and shifts in mood of a thread. Devices wit
 
 ### 鄉民的 AI 分析會做什麼？
 AI 會整理一串推文的各方立場、主要論點與風向變化。支援 Apple Intelligence 的裝置有免費的裝置上重點整理；雲端深度分析免費版每月 20 次，鄉民 Pro 每週 50 次，需在你允許後才會送出。
+
+### Is Folkline the official PTT app?
+No. Folkline is a forum reader with PTT support; it is not an official PTT app and is not affiliated with PTT.
+
+### 鄉民是 PTT 官方 App 嗎？
+不是。鄉民是支援 PTT 的論壇閱讀器，不是 PTT 官方 App，與 PTT 沒有隸屬關係。
+
+### Is a PTT reader full of ads?
+Folkline shows banner ads only in lists and settings; posts, pushes, mail and the editor never show ads, and there are no interstitials. Folkline Pro removes ads.
+
+### 看 PTT 的 App 會不會滿滿都是廣告？
+鄉民的橫幅廣告只出現在列表與設定頁；文章、推文、站內信內容與發文畫面永遠沒有廣告，也沒有插頁廣告。訂閱鄉民 Pro 可移除廣告。
+
+### Can I push and post with Folkline?
+Yes, with a PTT account. You can push, post and reply, and each one is read back to confirm it went through; mail, waterballs, board votes and switching between accounts are supported too.
+
+### 可以用鄉民推文和發文嗎？
+可以，需要 PTT 帳號。登入後可推文、發文、回文，送出後會自動讀回確認；也支援站內信、水球、看板投票與多帳號切換。
+
+### Can I still read a PTT post after it is deleted?
+Posts you save in Folkline keep a snapshot, so you can still read them as they were when saved.
+
+### PTT 文章被刪了還看得到嗎？
+在鄉民收藏的文章會保存快照，原文刪除後仍看得到收藏當時的內容。

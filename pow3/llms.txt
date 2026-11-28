@@ -15,3 +15,21 @@ Pow3 is gem swapping in a mine shaft: matches crack the rock beside them and a c
 
 ### 有沒有不一樣的三消遊戲？
 爆三 Pow3 是在礦坑裡交換寶石的三消：消除會敲裂旁邊的岩石，整排打通就往下沉一公尺，每關有自己的挖掘目標和固定步數；過了第 6 關還有只比深度的無盡礦坑。離線也能玩，不用註冊。
+
+### How do you play Pow3?
+Swap gems in a mine shaft: a match of three cracks the rock beside it, and clearing a whole row sinks you one metre. Each level has its own goal and a fixed number of moves, such as digging a set depth, freeing gold or breaking the rock core.
+
+### 爆三怎麼玩？
+在礦坑裡交換寶石，連成三顆消除就會敲裂旁邊的岩石；整排岩石打通就往下沉一公尺。每關有自己的目標和固定步數，例如挖穿指定深度、敲出金礦或擊碎岩核。
+
+### Can Pow3 be played offline, and is there an endless mode?
+Yes, it plays offline with no sign-up, on iPhone and iPad. After level 6 the Endless Mine opens: no levels, only depth, plus daily and weekly challenges.
+
+### 爆三可以離線玩嗎？有無盡模式嗎？
+可以離線玩，不用註冊，支援 iPhone 和 iPad。過了第 6 關會開啟無盡礦坑，沒有關卡、只比深度，還有每日與每週挑戰。
+
+### Does Pow3 cost money?
+Pow3 is free to download and play; one purchase removes banner and full-screen ads, and rewarded videos stay optional.
+
+### 爆三要付費嗎？
+爆三可免費下載遊玩；一次購買即可移除橫幅與全螢幕廣告，獎勵影片仍可自選觀看。

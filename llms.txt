@@ -182,6 +182,10 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - 聲跡把手機變成聲音雷達和噪音紀錄器。
 - Q: How can I find which direction a noise comes from? A: Open the Radar in Hearscape and turn slowly in a full circle: it paints a 360° heat ring and marks the loudest direction, with separate bearings for low, mid and high sounds. A phone held still cannot tell direction; turning finds it.
 - Q: Can I log noise overnight? A: Yes. Hearscape keeps monitoring with the screen locked and records the night's decibel curve; when a threshold you set is passed it keeps a clip starting 5 seconds earlier, and you can export a PDF report. It measures with the phone's microphone and is not a certified sound level meter.
+- Q: Can a phone work as a decibel meter, and how accurate is it? A: Hearscape measures with the phone's microphone, with A, C and Z weighting, fast or slow response, Leq, Lmax, Lmin, L10 and L90, and a custom calibration offset. Readings are for reference only; it is not a certified sound level meter.
+- Q: Can I export my noise log as a report? A: Yes. Hearscape exports a PDF report with a timeline, each period's Leq against the limit and every event; each recorded clip can be played and shared.
+- Q: Does Hearscape upload my recordings? A: No. Recordings and logs stay on the phone, no account is needed, and no audio is uploaded.
+- Q: Can I check decibels on Apple Watch? A: Yes. Hearscape's Apple Watch app shows the live level, starts or stops overnight monitoring and taps your wrist when the threshold is crossed; a complication shows the monitoring state and the number of events.
 - [简体中文: 声迹 Hearscape－噪音分贝仪](https://agentmesh.uk/hearscape/zh-Hans/)
 - [日本語: Hearscape: 騒音計と音の方向](https://agentmesh.uk/hearscape/ja/)
 - [한국어: Hearscape: 소음 측정기](https://agentmesh.uk/hearscape/ko/)
@@ -198,6 +202,10 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - 鄉民是一款支援 PTT 的論壇閱讀器：AI 幫你看懂一串推文的風向，文章、推文與發文畫面永遠零廣告。
 - Q: Is there a good PTT reader app? A: Folkline is a forum reader with PTT support: hot posts and boards grouped by topic, pushes that read like a chat and ASCII art kept in its layout; posts, pushes and the editor never show ads, and with a PTT account you can push, post and read mail.
 - Q: What does Folkline's AI analysis do? A: It sums up the sides, main arguments and shifts in mood of a thread. Devices with Apple Intelligence get free on-device key points; cloud analysis is 20 a month free or 50 a week with Folkline Pro, and runs only after you allow it.
+- Q: Is Folkline the official PTT app? A: No. Folkline is a forum reader with PTT support; it is not an official PTT app and is not affiliated with PTT.
+- Q: Is a PTT reader full of ads? A: Folkline shows banner ads only in lists and settings; posts, pushes, mail and the editor never show ads, and there are no interstitials. Folkline Pro removes ads.
+- Q: Can I push and post with Folkline? A: Yes, with a PTT account. You can push, post and reply, and each one is read back to confirm it went through; mail, waterballs, board votes and switching between accounts are supported too.
+- Q: Can I still read a PTT post after it is deleted? A: Posts you save in Folkline keep a snapshot, so you can still read them as they were when saved.
 - [简体中文: 乡民 Folkline－PTT 阅读器](https://agentmesh.uk/folkline/zh-Hans/)
 - [日本語: Folkline: 掲示板リーダー](https://agentmesh.uk/folkline/ja/)
 - [한국어: Folkline: 포럼 리더](https://agentmesh.uk/folkline/ko/)
@@ -213,6 +221,9 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - AutoCombo plans your orb-matching moves. Take a screenshot in your game, come back and tap once: AutoCombo finds the board, reads every orb and draws a route you can follow with your finger.
 - AutoCombo 幫你規劃轉珠路徑。在遊戲裡截圖，回到 AutoCombo 點一下，它會找出盤面、認出每顆珠子，再畫出可以跟著拖的轉珠路線。
 - Q: Can an app plan orb-matching routes for me? A: AutoCombo reads your game screenshot, finds the board and every orb, and draws a route you can follow with your finger; you can set combos, shapes, must-clear cells and more. It only shows the route and never controls another app; reading and solving stay on the phone.
+- Q: Does AutoCombo move the orbs for me? A: No. AutoCombo only draws a route you can trace yourself; it does not control other apps.
+- Q: Which boards does AutoCombo support? A: Boards such as 6×5, 7×6 and 5×4, on phones of every size and iPad; it finds the board's position and size in the screenshot automatically.
+- Q: Does AutoCombo upload my screenshots? A: Recognition and solving run on the phone; a screenshot leaves it only when you send a report yourself. AutoCombo is free with ads, and one purchase removes them.
 - [简体中文: AutoCombo](https://agentmesh.uk/autocombo/zh-Hans/)
 - [日本語: AutoCombo](https://agentmesh.uk/autocombo/ja/)
 - [한국어: AutoCombo](https://agentmesh.uk/autocombo/ko/)
@@ -228,6 +239,9 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - Dig down, one level at a time. Matches beside the rock break it.
 - 往下挖，一關一關挖。在岩層旁消除，就能打穿岩層。
 - Q: Is there a different kind of match-3 game? A: Pow3 is gem swapping in a mine shaft: matches crack the rock beside them and a cleared row sinks you one metre, each level with its own digging goal and fixed moves; after level 6 an endless mine ranks you by depth. It plays offline with no sign-up.
+- Q: How do you play Pow3? A: Swap gems in a mine shaft: a match of three cracks the rock beside it, and clearing a whole row sinks you one metre. Each level has its own goal and a fixed number of moves, such as digging a set depth, freeing gold or breaking the rock core.
+- Q: Can Pow3 be played offline, and is there an endless mode? A: Yes, it plays offline with no sign-up, on iPhone and iPad. After level 6 the Endless Mine opens: no levels, only depth, plus daily and weekly challenges.
+- Q: Does Pow3 cost money? A: Pow3 is free to download and play; one purchase removes banner and full-screen ads, and rewarded videos stay optional.
 - [简体中文: 爆三 Pow3－宝石挖矿](https://agentmesh.uk/pow3/zh-Hans/)
 - [日本語: Pow3－宝石の採掘パズル](https://agentmesh.uk/pow3/ja/)
 - [한국어: Pow3－보석 채굴 퍼즐](https://agentmesh.uk/pow3/ko/)
@@ -243,6 +257,8 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - Your water-rocket car always launches at full power. Whether it finishes the track is down to your build.
 - 水火箭車每次都全力衝出去。跑不跑得完軌道，看你怎麼改裝。
 - Q: Is there a game that teaches physics through play? A: Splash Car has you build a water-rocket car for 50 toy-track levels: the same part works differently in different places, a crash screen says why it failed, and each win explains the idea behind it, such as center of mass, lift, grip or drag. No sign-up, plays offline.
+- Q: How do you play Splash Car? A: Your water-rocket car always launches at full power; whether it finishes the track is down to your build. Drag parts onto the nose, roof, tail, sides, belly or tow hitch, where the same part works differently, then press GO and see if it crosses the finish flag.
+- Q: How many levels does Splash Car have, and does it need internet? A: Splash Car has 50 toy-track levels in 9 chapters, each with three stars. No sign-up is needed and it plays offline; only the leaderboards use Game Center. It supports iPhone and iPad.
 - [简体中文: 喷喷车 Splash Car－改装水火箭](https://agentmesh.uk/autopgo/zh-Hans/)
 - [日本語: Splash Car－水ロケットカー](https://agentmesh.uk/autopgo/ja/)
 - [한국어: Splash Car: 물로켓 자동차](https://agentmesh.uk/autopgo/ko/)
@@ -291,7 +307,7 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [iPhone unable to check for an update?](https://agentmesh.uk/guides/iphone-unable-to-check-update/en/) / [iPhone 無法檢查更新項目怎麼辦？](https://agentmesh.uk/guides/iphone-unable-to-check-update/)
 - [iPhone camera black or blurry? Try these checks](https://agentmesh.uk/guides/iphone-camera-black-blurry/en/) / [iPhone 相機黑屏、無法對焦怎麼辦？](https://agentmesh.uk/guides/iphone-camera-black-blurry/)
 - [Why does my iPhone screen dim? Settings to check](https://agentmesh.uk/guides/iphone-screen-dimming-settings/en/) / [iPhone 螢幕變暗？亮度設定怎麼檢查](https://agentmesh.uk/guides/iphone-screen-dimming-settings/)
-- [How to screen record on iPhone, including your voice](https://agentmesh.uk/guides/iphone-screen-recording-audio/en/) / [iPhone 螢幕錄影怎麼用？沒有聲音怎麼辦](https://agentmesh.uk/guides/iphone-screen-recording-audio/)
+- [How to screen record on iPhone, and what to do when there is no sound](https://agentmesh.uk/guides/iphone-screen-recording-audio/en/) / [iPhone 螢幕錄影怎麼用？沒有聲音怎麼辦](https://agentmesh.uk/guides/iphone-screen-recording-audio/)
 - [How to find an iPhone serial number without guessing](https://agentmesh.uk/guides/iphone-serial-number-check/en/) / [iPhone 檢查序號：設定、盒子與開機畫面](https://agentmesh.uk/guides/iphone-serial-number-check/)
 - [How to wirelessly charge an iPhone when the pad does nothing](https://agentmesh.uk/guides/iphone-qi-wireless-charging/en/) / [iPhone 無線充電怎麼用？放上去沒反應](https://agentmesh.uk/guides/iphone-qi-wireless-charging/)
 - [iPhone screen won’t rotate? Check orientation lock first](https://agentmesh.uk/guides/iphone-screen-auto-rotate/en/) / [iPhone 螢幕如何自動旋轉？橫放沒反應](https://agentmesh.uk/guides/iphone-screen-auto-rotate/)
@@ -314,12 +330,12 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [2026 Geminids: planning around the peak in Taiwan](https://agentmesh.uk/guides/geminids-taiwan-2026-time/en/) / [流星雨 2026：雙子座台灣時間怎麼安排？](https://agentmesh.uk/guides/geminids-taiwan-2026-time/)
 - [What are Taiwan’s noise limits in decibels? Businesses, construction and loudspeakers](https://agentmesh.uk/guides/taiwan-noise-decibel-standards/en/) / [噪音分貝標準是多少？營業場所、工地與擴音設施對照表](https://agentmesh.uk/guides/taiwan-noise-decibel-standards/)
 - [How to document noise: levels, times, and measurement locations](https://agentmesh.uk/guides/measure-noise-with-iphone/en/) / [噪音測量方法：分貝、時間與地點怎麼記？](https://agentmesh.uk/guides/measure-noise-with-iphone/)
-- [Are iPhone decibel meters accurate? What to check before relying on one](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/en/) / [iPhone 分貝計準嗎？校正與檢舉前先確認](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/)
+- [Are iPhone decibel meters accurate? What to check about calibration before you report noise](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/en/) / [iPhone 分貝計準嗎？校正與檢舉前先確認](https://agentmesh.uk/guides/iphone-decibel-meter-accuracy/)
 - [What to do about upstairs noise: records, building management, and police](https://agentmesh.uk/guides/upstairs-noise-what-to-do/en/) / [樓上噪音怎麼辦？蒐證、管委會與報警](https://agentmesh.uk/guides/upstairs-noise-what-to-do/)
 - [How to report construction noise in Taiwan: phone and online options](https://agentmesh.uk/guides/report-noise-taiwan/en/) / [噪音檢舉電話與網站：施工噪音怎麼反映？](https://agentmesh.uk/guides/report-noise-taiwan/)
 - [How to report a noisy vehicle in Taiwan: plate, time, and road details](https://agentmesh.uk/guides/report-noisy-vehicles-taiwan/en/) / [噪音車怎麼檢舉？車牌、時間與路段要備齊](https://agentmesh.uk/guides/report-noisy-vehicles-taiwan/)
 - [Does a new PTT account need verification? Registration vs account verification](https://agentmesh.uk/guides/ptt-registration-verification/en/) / [PTT 註冊後還要認證嗎？註冊與帳號認證的差別](https://agentmesh.uk/guides/ptt-registration-verification/)
-- [How to find PTT boards on iPhone and keep favorites](https://agentmesh.uk/guides/find-ptt-boards-iphone/en/) / [PTT 看板搜尋怎麼找？分類與加入最愛](https://agentmesh.uk/guides/find-ptt-boards-iphone/)
+- [How to search for PTT boards: categories and adding favorites](https://agentmesh.uk/guides/find-ptt-boards-iphone/en/) / [PTT 看板搜尋怎麼找？分類與加入最愛](https://agentmesh.uk/guides/find-ptt-boards-iphone/)
 - [How to follow PTT comments with live updates, filters, and notifications](https://agentmesh.uk/guides/ptt-comments-live-and-filters/en/) / [PTT 推文怎麼追？自動更新、篩選與通知](https://agentmesh.uk/guides/ptt-comments-live-and-filters/)
 - [How to choose a PTT reader for iPhone](https://agentmesh.uk/guides/choose-ptt-reader-iphone/en/) / [PTT App 推薦怎麼選？iPhone 閱讀器看這些](https://agentmesh.uk/guides/choose-ptt-reader-iphone/)
 - [Parallel parking steps, with Taiwan's curb-distance rule](https://agentmesh.uk/guides/parallel-parking-steps-taiwan/en/) / [路邊停車技巧：平行停車怎麼停？](https://agentmesh.uk/guides/parallel-parking-steps-taiwan/)
@@ -329,3 +345,4 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [How to start Prawnlight: stock, cash flow, and expansion](https://agentmesh.uk/guides/prawnlight-management-beginners/en/) / [經營遊戲怎麼玩？夜釣蝦場新手先顧什麼？](https://agentmesh.uk/guides/prawnlight-management-beginners/)
 - [How to play Pow3: match gems, break rock, and meet the level goal](https://agentmesh.uk/guides/pow3-match-three-how-to-play/en/) / [三消遊戲怎麼玩？Pow3 換寶石挖礦入門](https://agentmesh.uk/guides/pow3-match-three-how-to-play/)
 - [How to study orb-puzzle routes with an iPhone screenshot](https://agentmesh.uk/guides/orb-puzzle-screenshot-route-study/en/) / [轉珠技巧怎麼練？先用截圖研究盤面路徑](https://agentmesh.uk/guides/orb-puzzle-screenshot-route-study/)
+- [How to build a water-rocket car: a Splash Car beginner’s guide](https://agentmesh.uk/guides/splash-car-build-guide/en/) / [水火箭車怎麼改裝？噴噴車新手入門](https://agentmesh.uk/guides/splash-car-build-guide/)

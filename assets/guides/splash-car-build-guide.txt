@@ -1,0 +1,7 @@
+tool: Codex image_gen
+date: guide splash-car-build-guide
+
+Use your image generation tool to draw one wide 16:9 image: a warm, refined editorial illustration for a
+practical how-to article. Scene: A cluttered workbench at dusk, a half-built water rocket chassis, cardboard wheels, tape rolls, a pump, and a sunlit wooden table. Soft textured shading, warm palette with sky blue accents, gentle light, simple bold
+shapes, magazine-cover quality. No text, letters, numbers, logos, brand marks, UI screenshots or recognizable people; not in
+any named artist's style. Save it as cover.png in the current directory. Reply only with the file name.

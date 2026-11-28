@@ -21,3 +21,27 @@ Yes. Hearscape keeps monitoring with the screen locked and records the night's d
 
 ### 可以整夜記錄樓上或外面的噪音嗎？
 可以。聲跡 Hearscape 鎖上螢幕也能持續監測，記下整夜的分貝曲線；門檻依環境部〈噪音管制標準〉設定，也可自訂，超過門檻時會從前 5 秒開始錄下片段，並可匯出 PDF 報告。這是手機麥克風量測，僅供參考，不是經檢定的噪音計。
+
+### Can a phone work as a decibel meter, and how accurate is it?
+Hearscape measures with the phone's microphone, with A, C and Z weighting, fast or slow response, Leq, Lmax, Lmin, L10 and L90, and a custom calibration offset. Readings are for reference only; it is not a certified sound level meter.
+
+### 手機可以當分貝計用嗎？準不準？
+聲跡用手機麥克風量測，提供 A、C、Z 加權與快／慢反應，並顯示 Leq、Lmax、Lmin、L10、L90，也可自訂校正值。量測結果僅供參考，並非經檢定的噪音計。
+
+### Can I export my noise log as a report?
+Yes. Hearscape exports a PDF report with a timeline, each period's Leq against the limit and every event; each recorded clip can be played and shared.
+
+### 噪音紀錄可以匯出成報告嗎？
+可以。聲跡能匯出 PDF 報告，包含時間軸、各時段 Leq 對照管制值，以及每一筆事件；每個錄下的片段也能播放與分享。
+
+### Does Hearscape upload my recordings?
+No. Recordings and logs stay on the phone, no account is needed, and no audio is uploaded.
+
+### 聲跡的錄音會上傳到網路嗎？
+不會。錄音和紀錄都存在這支手機上，不需要帳號，聲音不會上傳。
+
+### Can I check decibels on Apple Watch?
+Yes. Hearscape's Apple Watch app shows the live level, starts or stops overnight monitoring and taps your wrist when the threshold is crossed; a complication shows the monitoring state and the number of events.
+
+### 可以用 Apple Watch 看分貝嗎？
+可以。聲跡的 Apple Watch App 能在手腕上看即時分貝、開始或停止整夜監測，超過門檻時手錶會輕點提醒；錶面複雜功能也會顯示監測狀態與超標次數。
