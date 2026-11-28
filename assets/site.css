@@ -152,12 +152,12 @@ h1, h2, h3 { font-weight: 800; }
 .links a:hover { background: var(--pop); color: var(--pop-ink); border-color: var(--ink); }
 
 /* Footer */
-.foot { background: var(--ink); color: color-mix(in srgb, var(--paper) 72%, transparent); padding: 44px 0 60px; font-size: .9rem; }
+.foot { background: var(--ink); color: color-mix(in srgb, var(--paper) 72%, transparent); padding: 44px 0 60px; font-size: .9rem; box-shadow: 0 100vh 0 100vh var(--ink); }  /* a short page ends in footer colour */
 .foot .wrap { display: flex; flex-wrap: wrap; gap: 12px 28px; align-items: center; }
 .foot nav { display: flex; gap: 22px; flex-wrap: wrap; margin-left: auto; }
 .foot a { text-decoration: none; }
 .foot a:hover { color: var(--pop); }
-@media (prefers-color-scheme: dark) { .foot { background: #0d0b1c; color: var(--muted); border-top: 2px solid var(--edge); } }
+@media (prefers-color-scheme: dark) { .foot { background: #0d0b1c; color: var(--muted); border-top: 2px solid var(--edge); box-shadow: 0 100vh 0 100vh #0d0b1c; } }
 
 /* Page heads, prose and articles */
 .page-head { padding: 72px 0 24px; }
