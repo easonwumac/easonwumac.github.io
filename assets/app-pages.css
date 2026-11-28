@@ -10,8 +10,8 @@ main a { color: var(--accent); text-underline-offset: 4px; overflow-wrap: anywhe
 .page-title { margin: .6rem 0 1rem; color: var(--muted); }
 main header nav { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
 main header nav a { display: inline-flex; align-items: center; min-height: 40px; padding: 0 14px; border-radius: 999px; text-decoration: none;
-  color: var(--ink); border: 2px solid var(--edge, var(--line)); background: var(--surface); font-weight: 600; font-size: .92rem; }
-main header nav a:hover { background: var(--pop, var(--surface)); color: var(--pop-ink, var(--ink)); }
+  color: var(--ink); background: var(--surface); font-size: .92rem; }
+main header nav a:hover { color: var(--accent); }
 main section { margin-top: 36px; padding-top: 28px; border-top: 1px solid var(--line); scroll-margin-top: 80px; }
 main section > h2:first-child { margin-top: 0; }
 .meta, main footer { color: var(--muted); }
