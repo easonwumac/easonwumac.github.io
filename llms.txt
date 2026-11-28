@@ -72,12 +72,12 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [Support and FAQ](https://agentmesh.uk/daikon/support.html)
 - A little care, every day.
 - 每天一點，溫柔照顧。
-- Q: Is there a simple, cute period tracker app? A: Daikon shows your period, predicted fertile window and ovulation on a cycle ring, logs a period with one tap, and keeps you company with little radish characters.
-- Q: Can a period tracker also be a diary? A: Yes. Daikon has a page per day for mood, body notes, text, handwriting, up to nine photos and voice memos, and spots symptoms that recur at the same point in your cycle.
-- Q: Can I export Daikon records for my doctor? A: Cycle records export as PDF, past records import from CSV or Apple Health, and the app can be locked with Face ID, Touch ID or a passcode.
+- Q: Is there a simple, cute period tracker app? A: Daikon shows your period and today on a cycle ring, logs a period with one tap, and keeps you company with little radish characters.
+- Q: Can a period tracker also be a diary? A: Yes. Daikon has a page per day for mood, text, handwriting, up to nine photos and voice memos.
+- Q: Can I export my records from Daikon? A: Cycle records export as PDF, past records import from CSV or Apple Health, and the app can be locked with Face ID, Touch ID or a passcode.
 - Q: Does a period tracker like Daikon upload my data? A: Daikon needs no account and has no social features or subscription. Records and journal entries, including photos and voice memos, stay on the device and sync only through your private iCloud when available. Health data is never sent to ad SDKs or used for advertising.
 - Q: Can a period log sync with Apple Health? A: Yes. Turn on Sync to Apple Health in Daikon's settings and each period day is written to the Health app as menstrual flow; it is off by default. Past periods can also be imported from Health or a CSV file.
-- Q: If I forget to log my period, does the prediction keep going? A: Yes. Daikon uses up to your last six cycles or a length you set; without a new entry the prediction keeps rolling forward and gently reminds you to log. Predictions are for reference only, not medical advice, and not for contraception.
+- Q: If I forget to log my period, does the prediction keep going? A: Yes. Daikon uses up to your last six cycles or a length you set; without a new entry the prediction keeps rolling forward and gently reminds you to log. Predictions are for reference only.
 - [简体中文: 萝卜日记 Daikon－经期记录](https://agentmesh.uk/daikon/zh-Hans/)
 - [日本語: Daikon: 生理と周期の記録](https://agentmesh.uk/daikon/ja/)
 - [한국어: Daikon: 생리 주기 기록](https://agentmesh.uk/daikon/ko/)
@@ -279,7 +279,6 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [How to keep a plant journal with photos](https://agentmesh.uk/guides/plant-care-journal/en/) / [怎麼記錄植物生長？用照片日誌養好每一盆](https://agentmesh.uk/guides/plant-care-journal/)
 - [Before buying furniture, lay it out on a floor plan: will the sofa, bed and cabinets fit?](https://agentmesh.uk/guides/furniture-layout-plan/en/) / [買家具前先排一次：用平面圖確認沙發、床與櫃子放不放得下](https://agentmesh.uk/guides/furniture-layout-plan/)
 - [Planning outlets, lights and plumbing before a renovation: put them on the floor plan first](https://agentmesh.uk/guides/renovation-outlets-lighting/en/) / [裝潢前怎麼規劃插座、燈具與水電位置？先畫在平面圖上](https://agentmesh.uk/guides/renovation-outlets-lighting/)
-- [Seeing a gynecologist? Bring your period records in one place](https://agentmesh.uk/guides/period-record-for-doctor/en/) / [看婦科前要準備什麼？把經期紀錄整理成一份](https://agentmesh.uk/guides/period-record-for-doctor/)
 - [How often should you water a plant? Check the soil and keep a log instead of a fixed schedule](https://agentmesh.uk/guides/plant-watering-schedule/en/) / [植物多久澆一次水？與其固定天數，不如看土和記錄](https://agentmesh.uk/guides/plant-watering-schedule/)
 - [Is there enough light for your plant? Compare spots at home with your phone camera](https://agentmesh.uk/guides/plant-light-meter/en/) / [植物放哪裡光線夠？用手機相機比較家裡各處亮度](https://agentmesh.uk/guides/plant-light-meter/)
 - [How to keep warranties and receipts: snap them, note the expiry, get reminded](https://agentmesh.uk/guides/warranty-receipts-reminder/en/) / [保固卡和發票怎麼保存？拍下來、記到期日、到期前提醒](https://agentmesh.uk/guides/warranty-receipts-reminder/)

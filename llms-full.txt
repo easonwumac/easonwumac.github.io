@@ -208,67 +208,67 @@
 - [Page](https://agentmesh.uk/daikon/zh-Hans/)
 - [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - 每天一点，温柔照顾。
-- Q: 有没有简单、可爱的经期记录 App？ A: 萝卜日记 Daikon 用周期圆环标示经期、预测受孕期与排卵日，点一下“月经来了”就能记录，还有萝卜宝宝陪你。
-- Q: 经期记录 App 可以写日记吗？ A: 可以。萝卜日记每天一页，可以记录心情、身体感觉、文字、手写、最多九张照片和语音备忘录，并找出总是在周期同一时间出现的症状。
-- Q: 萝卜日记可以导出给医生看吗？ A: 可以将周期记录导出为 PDF，也可以从 CSV 或 Apple 健康导入过往记录，并可使用 Face ID、Touch ID 或密码为应用上锁。
+- Q: 有没有简单、可爱的经期记录 App？ A: 萝卜日记 Daikon 用周期圆环标示经期与今天，点一下“月经来了”就能记录，还有萝卜宝宝陪你。
+- Q: 经期记录 App 可以写日记吗？ A: 可以。萝卜日记每天一页，可记心情、文字、手写、最多九张照片与语音备忘录。
+- Q: 萝卜日记可以导出记录吗？ A: 可以把周期记录导出成 PDF，也能从 CSV 或 Apple 健康导入过往记录，并可用 Face ID、Touch ID 或密码上锁。
 - Q: 经期类 App 会上传我的数据吗？ A: 萝卜日记不需要账号，没有社区功能或订阅。记录与日记（包括照片和语音）都保存在设备上；在 iCloud 可用时，仅通过你的私人 iCloud 进行同步。健康数据绝不会发送给广告 SDK，也不会用于投放广告。
 - Q: 经期记录可以和 Apple 健康同步吗？ A: 可以。在萝卜日记的设置中开启“同步至 Apple 健康”，每个经期日都会以月经流量的形式写入“健康”App；该功能默认关闭。也可以从“健康”或 CSV 文件导入过去的经期记录。
-- Q: 忘记记录经期，预测还会继续吗？ A: 会。萝卜日记最多参考最近六次周期，也可以使用你设定的周期长度；没有记录新的经期时，预测仍会继续往后推算，并温柔地提醒你补记。预测仅供参考，不是医疗建议，也不能用于避孕。
+- Q: 忘记记录经期，预测还会继续吗？ A: 会。萝卜日记最多参考最近六次周期，也能用你设定的长度；没有记录新经期时，预测仍会往后推算，并温柔提醒你补记。预测仅供参考。
 
 ### Daikon: 生理と周期の記録 (日本語)
 - [Page](https://agentmesh.uk/daikon/ja/)
 - [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - 毎日ちょっとずつ、やさしくケア。
-- Q: 簡単でかわいい生理記録アプリはありますか？ A: Daikon（蘿蔔日記）は、周期リングで生理日・妊娠しやすい時期の予測・排卵日を表示し、「生理が来た」をワンタップで記録できます。小さな大根のキャラクターたちも一緒にいてくれます。
-- Q: 生理記録アプリで日記も書けますか？ A: はい。蘿蔔日記は1日1ページの日記機能があり、気分、体の感覚、テキスト、手書き、最大9枚の写真、音声メモを残せます。また、周期のなかで毎回同じタイミングに現れる症状も見つけられます。
-- Q: Daikonの記録を医師に見せるために書き出せますか？ A: はい。周期の記録はPDFで書き出せます。CSVやApple ヘルスケアから過去の記録を読み込むこともできます。さらに、Face ID、Touch ID、パスコードでアプリをロックできます。
+- Q: 簡単でかわいい生理記録アプリはありますか？ A: Daikon（蘿蔔日記）は、周期リングで生理期間と今日の日付を表示し、「生理が来た」をワンタップで記録できます。小さな大根のキャラクターたちも一緒に過ごしてくれます。
+- Q: 生理記録アプリで日記も書けますか？ A: はい。蘿蔔日記は1日1ページの日記機能があり、気分、テキスト、手書き、最大9枚の写真、ボイスメモを残せます。
+- Q: 蘿蔔日記の記録をエクスポートできますか？ A: 周期の記録はPDFでエクスポートできます。過去の記録はCSVまたはApple ヘルスケアからインポートでき、Face ID、Touch ID、またはパスコードでアプリをロックすることもできます。
 - Q: 生理記録アプリは私のデータをアップロードしますか？ A: 蘿蔔日記はアカウント不要で、SNS機能やサブスクリプションもありません。記録と日記（写真や音声メモを含む）は端末内に保存され、iCloud が利用できる場合にのみご自身のプライベートな iCloud を通じて同期されます。健康データが広告 SDK に送信されたり、広告に利用されたりすることはありません。
 - Q: 生理の記録はApple ヘルスケアと同期できますか？ A: はい。Daikonの設定で「Appleヘルスケアに同期」をオンにすると、生理の日が月経の流れとしてヘルスケアAppに保存されます。初期設定ではオフです。過去の生理記録はヘルスケアやCSVファイルから読み込むこともできます。
-- Q: 生理の記録を忘れた場合も予測は続きますか？ A: はい。Daikonは直近6回までの周期、またはご自身で設定した周期の長さをもとに予測します。新しい記録がなくても予測は先へ進み、記録を更新するよう穏やかにお知らせします。予測は参考情報であり、医療上のアドバイスではなく、避妊には使えません。
+- Q: 生理の記録を忘れたら、予測は続きますか？ A: はい。蘿蔔日記は直近6回までの周期、または設定した周期の長さを参考にします。新しい記録がなくても予測は先へ進み、記録するよう優しくリマインドします。予測は参考情報のみです。
 
 ### Daikon: 생리 주기 기록 (한국어)
 - [Page](https://agentmesh.uk/daikon/ko/)
 - [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - 매일 조금씩, 다정하게 돌보기.
-- Q: 간단하고 귀여운 생리 기록 앱이 있나요? A: Daikon: 생리 주기 기록은 주기 링으로 생리일, 예상 가임기, 배란일을 표시하고, 「생리 시작」 버튼 한 번으로 기록할 수 있으며, 작은 무 캐릭터가 함께해 줍니다.
-- Q: 생리 기록 앱으로 일기도 쓸 수 있나요? A: 네. Daikon은 하루에 한 페이지씩 기분, 몸 상태, 글, 손글씨, 최대 9장의 사진과 음성 메모를 남길 수 있고, 주기의 같은 시점에 반복되는 증상을 찾아 보여 줍니다.
-- Q: Daikon 기록을 의사에게 보여 줄 수 있나요? A: 네. 주기 기록을 PDF로 내보낼 수 있고, CSV 파일이나 Apple 건강에서 과거 기록을 가져올 수 있으며, Face ID, Touch ID 또는 암호로 앱을 잠글 수 있습니다.
+- Q: 간단하고 귀여운 생리 기록 앱 있어요? A: 네, 있어요. 'Daikon: 생리 주기 기록'은 주기 링에서 생리일과 오늘을 보여 주고, 한 번 누르면 생리를 기록할 수 있으며, 작은 무 캐릭터들이 함께해 줍니다.
+- Q: 생리 기록 앱에서 일기도 쓸 수 있나요? A: 네, 쓸 수 있어요. 'Daikon: 생리 주기 기록'은 하루에 한 페이지씩 기분, 글, 손글씨, 최대 아홉 장의 사진과 음성 메모를 남길 수 있습니다.
+- Q: Daikon에서 기록을 내보낼 수 있나요? A: 네, 주기 기록은 PDF로 내보낼 수 있고, 지난 기록은 CSV나 Apple 건강에서 가져올 수 있습니다. 앱은 Face ID, Touch ID 또는 암호로 잠글 수 있습니다.
 - Q: 생리 기록 앱이 제 데이터를 업로드하나요? A: Daikon은 계정이 필요 없으며, 커뮤니티나 구독 기능도 없습니다. 기록과 일기(사진과 음성 메모 포함)는 기기에 저장되고, iCloud를 사용할 수 있는 경우에만 개인 iCloud를 통해서만 동기화됩니다. 건강 데이터는 광고 SDK로 전송되지 않으며 광고에 사용되지도 않습니다.
 - Q: 생리 기록을 Apple 건강과 동기화할 수 있나요? A: 네. Daikon 설정에서 'Apple 건강에 동기화'를 켜면 생리 기간의 각 날짜가 월경 흐름으로 건강 앱에 기록됩니다. 기본값은 꺼짐입니다. 과거 생리 기록은 건강 앱이나 CSV 파일에서도 가져올 수 있습니다.
-- Q: 생리 기록을 잊어버리면 예측이 계속되나요? A: 네. Daikon은 최근 최대 여섯 번의 주기 또는 직접 설정한 주기 길이를 참고합니다. 새 생리를 기록하지 않아도 예측은 계속 이어지며, 기록을 업데이트하라고 부드럽게 알려 줍니다. 예측은 참고용일 뿐 의료 조언이 아니며 피임 목적으로 사용할 수 없습니다.
+- Q: 생리 기록을 잊어버리면 예측은 계속되나요? A: 네, 계속돼요. 'Daikon: 생리 주기 기록'은 최근 최대 여섯 번의 주기 또는 직접 설정한 주기 길이를 참고합니다. 새 생리를 기록하지 않아도 예측은 이어지며, 기록을 하도록 부드럽게 알려 줍니다. 예측은 참고용일 뿐입니다.
 
 ### Daikon: Calendario menstrual (Español)
 - [Page](https://agentmesh.uk/daikon/es/)
 - [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - Un poco de cuidado, cada día.
-- Q: ¿Hay una app sencilla y linda para registrar el periodo? A: Daikon muestra tu periodo, la ventana fértil estimada y la ovulación en un anillo de ciclo, registra un periodo con un solo toque y te acompaña con pequeños personajes de rábano.
-- Q: ¿Una app para registrar el periodo también puede ser un diario? A: Sí. Daikon tiene una página por día para el estado de ánimo, notas sobre el cuerpo, texto, escritura a mano, hasta nueve fotos y notas de voz, y detecta los síntomas que se repiten en el mismo punto de tu ciclo.
-- Q: ¿Puedo exportar los registros de Daikon para mostrárselos a mi médico? A: Sí. Los registros del ciclo se pueden exportar en PDF, los registros anteriores se pueden importar desde CSV o Salud de Apple, y la app se puede bloquear con Face ID, Touch ID o código de acceso.
+- Q: ¿Hay una app sencilla y linda para registrar el periodo? A: Daikon: Calendario menstrual muestra tu periodo y el día de hoy en un anillo de ciclo, registra un periodo con un solo toque y te acompaña con pequeños personajes de rábano.
+- Q: ¿Una app para registrar el periodo también puede ser un diario? A: Sí. Daikon: Calendario menstrual tiene una página por día para el ánimo, texto, escritura a mano, hasta nueve fotos y notas de voz.
+- Q: ¿Puedo exportar mis registros de Daikon? A: Sí, los registros del ciclo se pueden exportar en PDF, los registros anteriores se pueden importar desde CSV o Salud de Apple, y la app se puede bloquear con Face ID, Touch ID o un código.
 - Q: ¿Una app de seguimiento del periodo como Daikon sube mis datos? A: Daikon no requiere cuenta y no tiene funciones sociales ni suscripción. Los registros y las entradas del diario, incluidas las fotos y notas de voz, se quedan en el dispositivo y solo se sincronizan a través de tu iCloud privado cuando está disponible. Los datos de salud nunca se envían a SDK de publicidad ni se usan para publicidad.
 - Q: ¿Los registros del periodo pueden sincronizarse con Salud de Apple? A: Sí. Activa Sincronizar con Salud de Apple en los ajustes de Daikon y cada día de periodo se escribe en la app Salud como flujo menstrual; viene desactivado por defecto. También puedes importar periodos anteriores desde Salud o desde un archivo CSV.
-- Q: Si olvido registrar mi periodo, ¿la predicción sigue funcionando? A: Sí. Daikon usa hasta tus últimos seis ciclos o una duración que tú configures; si no hay un nuevo registro, la predicción sigue avanzando y te recuerda con suavidad que registres. Las predicciones son solo de referencia, no son consejo médico y no sirven como método anticonceptivo.
+- Q: Si olvido registrar mi periodo, ¿siguen las predicciones? A: Sí. Daikon: Calendario menstrual usa hasta tus últimos seis ciclos o una duración que tú configures; sin un nuevo registro, la predicción sigue avanzando y te recuerda con delicadeza que registres. Las predicciones son solo orientativas.
 
 ### Daikon: Suivi des règles (Français)
 - [Page](https://agentmesh.uk/daikon/fr/)
 - [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - Un peu de douceur, chaque jour.
-- Q: Existe-t-il une application de suivi des règles simple et mignonne ? A: Daikon affiche vos règles, la fenêtre de fertilité prévue et le jour de l'ovulation sur un anneau de cycle, enregistre vos règles d'une seule touche, et vous tient compagnie avec de petits personnages radis.
-- Q: Une application de suivi des règles peut-elle aussi servir de journal intime ? A: Oui. Daikon propose une page par jour pour l'humeur, les sensations corporelles, du texte, de l'écriture manuscrite, jusqu'à neuf photos et des notes vocales, et repère les symptômes qui reviennent toujours au même moment de votre cycle.
-- Q: Puis-je exporter mes données Daikon pour les montrer à mon médecin ? A: Oui, vous pouvez exporter vos relevés de cycle en PDF, et importer d’anciens relevés depuis un fichier CSV ou depuis Santé d’Apple. L’app peut aussi être verrouillée avec Face ID, Touch ID ou un code.
+- Q: Y a-t-il une appli de suivi des règles simple et mignonne ? A: Daikon affiche vos règles et la journée d’aujourd’hui sur un anneau de cycle, enregistre les règles d’un seul toucher sur « Mes règles ont commencé », et vous accompagne avec de petits personnages radis.
+- Q: Une appli de suivi des règles peut-elle aussi servir de journal ? A: Oui. Daikon propose une page par jour pour l’humeur, le texte, l’écriture manuscrite, jusqu’à neuf photos et des notes vocales.
+- Q: Puis-je exporter mes données depuis Daikon ? A: Oui, les relevés de cycle s’exportent en PDF, les anciens relevés peuvent être importés depuis un CSV ou Santé d’Apple, et l’appli peut être verrouillée par Face ID, Touch ID ou un code.
 - Q: Une application de suivi des règles envoie-t-elle mes données en ligne ? A: Daikon ne nécessite aucun compte et ne comporte ni fonctions sociales ni abonnement. Les relevés et les notes du journal, y compris les photos et les notes vocales, restent sur l'appareil et ne sont synchronisés que par votre iCloud privé, lorsqu'il est disponible. Les données de santé ne sont jamais transmises aux SDK publicitaires et ne servent jamais à la publicité.
 - Q: Puis-je synchroniser mes relevés de règles avec Santé d'Apple ? A: Oui. Activez « Synchroniser avec Santé d'Apple » dans les réglages de Daikon et chaque jour de règles est enregistré dans l'app Santé comme flux menstruel ; l'option est désactivée par défaut. Les anciennes règles peuvent aussi être importées depuis Santé ou un fichier CSV.
-- Q: Si j'oublie d'enregistrer mes règles, les prévisions continuent-elles ? A: Oui. Daikon se base sur vos six derniers cycles au maximum, ou sur une durée que vous définissez ; sans nouvel enregistrement, la prévision continue d'avancer et vous rappelle gentiment de compléter vos relevés. Les prévisions sont données à titre indicatif seulement, ne constituent pas un avis médical et ne servent pas de contraception.
+- Q: Si j’oublie d’enregistrer mes règles, les prévisions continuent-elles ? A: Oui. Daikon s’appuie sur les six derniers cycles au maximum, ou sur la durée de cycle que vous avez définie ; sans nouvel enregistrement, la prévision continue d’avancer et un rappel doux vous invite à mettre à jour vos données. Les prévisions sont données à titre indicatif seulement.
 
 ### Daikon: Periodenkalender (Deutsch)
 - [Page](https://agentmesh.uk/daikon/de/)
 - [App Store](https://apps.apple.com/app/id6822485511?pt=102436810&ct=llms_daikon&mt=8)
 - Ein bisschen Fürsorge, jeden Tag.
-- Q: Gibt es eine einfache, süße App zur Periodenverfolgung? A: Daikon: Periodenkalender zeigt Ihre Periode, das voraussichtliche fruchtbare Fenster und den Eisprung in einem Zyklusring an, erfasst eine Periode mit einem einzigen Tipp und begleitet Sie mit kleinen Rettich-Figuren.
-- Q: Kann eine Periodentracker-App auch als Tagebuch dienen? A: Ja. Daikon hat für jeden Tag eine eigene Seite für Stimmung, Körpergefühle, Text, Handschrift, bis zu neun Fotos und Sprachmemos. Außerdem erkennt die App Symptome, die immer wieder zur gleichen Zeit im Zyklus auftreten.
-- Q: Kann ich Daikon-Einträge für meine Ärztin oder meinen Arzt exportieren? A: Ja. Zyklusdaten lassen sich als PDF exportieren. Frühere Einträge können aus einer CSV-Datei oder aus Apple Health importiert werden. Die App lässt sich außerdem mit Face ID, Touch ID oder einem Code sperren.
+- Q: Gibt es eine einfache, süße Periodenkalender-App? A: Daikon zeigt deine Periode und den heutigen Tag auf einem Zykluskreis, erfasst eine Periode mit einem einzigen Tippen und begleitet dich mit kleinen Rettich-Figuren.
+- Q: Kann ein Periodenkalender auch ein Tagebuch sein? A: Ja. Daikon hat eine Seite pro Tag für Stimmung, Text, Handschrift, bis zu neun Fotos und Sprachmemos.
+- Q: Kann ich meine Einträge aus Daikon exportieren? A: Ja. Zyklusdaten lassen sich als PDF exportieren, frühere Einträge aus CSV oder Apple Health importieren, und die App kann mit Face ID, Touch ID oder einem Code gesperrt werden.
 - Q: Lädt eine Periodentracker-App wie Daikon meine Daten hoch? A: Daikon benötigt kein Konto und hat weder soziale Funktionen noch ein Abo. Einträge und Tagebuchnotizen, einschließlich Fotos und Sprachmemos, bleiben auf dem Gerät gespeichert und werden nur über deine private iCloud synchronisiert, sofern diese verfügbar ist. Gesundheitsdaten werden nie an Werbe-SDKs übermittelt und nicht für Werbung verwendet.
 - Q: Kann ein Periodeneintrag mit Apple Health synchronisiert werden? A: Ja. Aktiviere in den Einstellungen von Daikon „Mit Apple Health synchronisieren“, dann wird jeder Periodentag als Menstruation in der Health-App gespeichert. Die Option ist standardmäßig ausgeschaltet. Frühere Perioden können außerdem aus Health oder einer CSV-Datei importiert werden.
-- Q: Wenn ich meine Periode nicht eintrage, werden die Vorhersagen dann weiter berechnet? A: Ja. Daikon berücksichtigt bis zu den letzten sechs Zyklen oder eine von dir eingestellte Zykluslänge. Ohne neuen Eintrag werden die Vorhersagen weiter fortgeschrieben, und die App erinnert dich sanft daran, zu erfassen. Die Vorhersagen dienen nur als Orientierung, sind keine medizinische Beratung und nicht zur Verhütung geeignet.
+- Q: Wenn ich vergesse, meine Periode einzutragen, werden die Vorhersagen dann weiter berechnet? A: Ja. Daikon nutzt bis zu deine letzten sechs Zyklen oder eine von dir eingestellte Länge; ohne neuen Eintrag werden die Vorhersagen weiter fortgeschrieben, und eine sanfte Erinnerung bittet dich, nachzutragen. Vorhersagen dienen nur als Orientierung.
 
 ### 栽日 ZaiRi－植物浇水提醒 (简体中文)
 - [Page](https://agentmesh.uk/zairi/zh-Hans/)
@@ -883,12 +883,6 @@
 - [Español: ¿Cómo planear contactos, luminarias y ubicaciones de instalaciones antes de una remodelación? Primero dibújalos en el plano de planta](https://agentmesh.uk/guides/renovation-outlets-lighting/es/)
 - [Français: Planifier les prises, les luminaires et la plomberie avant une rénovation : les tracer d'abord sur le plan d'étage](https://agentmesh.uk/guides/renovation-outlets-lighting/fr/)
 - [Deutsch: Planung von Steckdosen, Leuchten und Wasserleitungen vor einer Renovierung: Zuerst im Grundriss festhalten](https://agentmesh.uk/guides/renovation-outlets-lighting/de/)
-- [简体中文: 看妇科前要准备什么？把经期记录整理成一份](https://agentmesh.uk/guides/period-record-for-doctor/zh-Hans/)
-- [日本語: 婦人科を受診する前に準備すること：生理の記録を一か所にまとめましょう](https://agentmesh.uk/guides/period-record-for-doctor/ja/)
-- [한국어: 진료 전에 무엇을 준비해야 할까요? 생리 기록을 한곳에 정리하세요](https://agentmesh.uk/guides/period-record-for-doctor/ko/)
-- [Español: ¿Qué debes preparar antes de ir al ginecólogo? Reúne tus registros de periodo en un solo lugar](https://agentmesh.uk/guides/period-record-for-doctor/es/)
-- [Français: Vous allez chez le gynécologue? Apportez vos dossiers de règles en un seul endroit](https://agentmesh.uk/guides/period-record-for-doctor/fr/)
-- [Deutsch: Was muss ich vor dem Gynäkologen-Termin vorbereiten? Stelle deine Periodenaufzeichnungen an einem Ort zusammen](https://agentmesh.uk/guides/period-record-for-doctor/de/)
 - [简体中文: 植物多久浇一次水？与其固定天数，不如看土和记录](https://agentmesh.uk/guides/plant-watering-schedule/zh-Hans/)
 - [日本語: 植物にはどのくらいの頻度で水をあげればよいですか？決まった日数よりも、土の状態を確認して記録しましょう](https://agentmesh.uk/guides/plant-watering-schedule/ja/)
 - [한국어: 식물에 얼마나 자주 물을 줘야 할까요? 고정된 일수보다 흙을 확인하고 기록을 남기세요](https://agentmesh.uk/guides/plant-watering-schedule/ko/)

@@ -117,18 +117,18 @@
   {
    "app": "Daikon: Period Tracker",
    "question": "Is there a simple, cute period tracker app?",
-   "answer": "Daikon shows your period, predicted fertile window and ovulation on a cycle ring, logs a period with one tap, and keeps you company with little radish characters.",
+   "answer": "Daikon shows your period and today on a cycle ring, logs a period with one tap, and keeps you company with little radish characters.",
    "url": "https://agentmesh.uk/daikon/en/"
   },
   {
    "app": "Daikon: Period Tracker",
    "question": "Can a period tracker also be a diary?",
-   "answer": "Yes. Daikon has a page per day for mood, body notes, text, handwriting, up to nine photos and voice memos, and spots symptoms that recur at the same point in your cycle.",
+   "answer": "Yes. Daikon has a page per day for mood, text, handwriting, up to nine photos and voice memos.",
    "url": "https://agentmesh.uk/daikon/en/"
   },
   {
    "app": "Daikon: Period Tracker",
-   "question": "Can I export Daikon records for my doctor?",
+   "question": "Can I export my records from Daikon?",
    "answer": "Cycle records export as PDF, past records import from CSV or Apple Health, and the app can be locked with Face ID, Touch ID or a passcode.",
    "url": "https://agentmesh.uk/daikon/en/"
   },
@@ -147,7 +147,7 @@
   {
    "app": "Daikon: Period Tracker",
    "question": "If I forget to log my period, does the prediction keep going?",
-   "answer": "Yes. Daikon uses up to your last six cycles or a length you set; without a new entry the prediction keeps rolling forward and gently reminds you to log. Predictions are for reference only, not medical advice, and not for contraception.",
+   "answer": "Yes. Daikon uses up to your last six cycles or a length you set; without a new entry the prediction keeps rolling forward and gently reminds you to log. Predictions are for reference only.",
    "url": "https://agentmesh.uk/daikon/en/"
   },
   {

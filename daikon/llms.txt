@@ -11,21 +11,21 @@
 ## FAQ
 
 ### Is there a simple, cute period tracker app?
-Daikon shows your period, predicted fertile window and ovulation on a cycle ring, logs a period with one tap, and keeps you company with little radish characters.
+Daikon shows your period and today on a cycle ring, logs a period with one tap, and keeps you company with little radish characters.
 
 ### 有沒有簡單、可愛的經期紀錄 App？
-蘿蔔日記 Daikon 用週期圓環標示經期、預測受孕期與排卵日，按一下「月經來了」就能記錄，還有蘿蔔寶寶陪你。
+蘿蔔日記 Daikon 用週期圓環標示經期與今天，按一下「月經來了」就能記錄，還有蘿蔔寶寶陪你。
 
 ### Can a period tracker also be a diary?
-Yes. Daikon has a page per day for mood, body notes, text, handwriting, up to nine photos and voice memos, and spots symptoms that recur at the same point in your cycle.
+Yes. Daikon has a page per day for mood, text, handwriting, up to nine photos and voice memos.
 
 ### 經期紀錄 App 可以寫日記嗎？
-可以。蘿蔔日記每天一頁，可記心情、身體感覺、文字、手寫、最多九張照片與語音備忘錄，並找出總在週期同一時間出現的症狀。
+可以。蘿蔔日記每天一頁，可記心情、文字、手寫、最多九張照片與語音備忘錄。
 
-### Can I export Daikon records for my doctor?
+### Can I export my records from Daikon?
 Cycle records export as PDF, past records import from CSV or Apple Health, and the app can be locked with Face ID, Touch ID or a passcode.
 
-### 蘿蔔日記可以匯出給醫生看嗎？
+### 蘿蔔日記可以匯出紀錄嗎？
 可以把週期紀錄匯出成 PDF，也能從 CSV 或 Apple 健康匯入過往紀錄，並可用 Face ID、Touch ID 或密碼上鎖。
 
 ### Does a period tracker like Daikon upload my data?
@@ -41,7 +41,7 @@ Yes. Turn on Sync to Apple Health in Daikon's settings and each period day is wr
 可以。在蘿蔔日記的設定開啟「同步至 Apple 健康」，每個經期日會以月經流量寫入「健康」App；預設關閉。也能從「健康」或 CSV 匯入過去的經期。
 
 ### If I forget to log my period, does the prediction keep going?
-Yes. Daikon uses up to your last six cycles or a length you set; without a new entry the prediction keeps rolling forward and gently reminds you to log. Predictions are for reference only, not medical advice, and not for contraception.
+Yes. Daikon uses up to your last six cycles or a length you set; without a new entry the prediction keeps rolling forward and gently reminds you to log. Predictions are for reference only.
 
 ### 忘記記錄經期，預測還會繼續嗎？
-會。蘿蔔日記最多參考最近六次週期，也能用你設定的長度；沒有記錄新經期時，預測仍會往後推算，並溫柔提醒你補記。預測僅供參考，並非醫療建議，也不能用於避孕。
+會。蘿蔔日記最多參考最近六次週期，也能用你設定的長度；沒有記錄新經期時，預測仍會往後推算，並溫柔提醒你補記。預測僅供參考。
