@@ -1,0 +1,7 @@
+tool: Codex image_gen
+date: 2026-11-28
+
+Use your image generation tool to draw one wide 16:9 image: a warm, refined editorial illustration for a
+technology news story. Scene: A quiet wooden desk with an open notebook, a pencil, a cup of tea, and a single glowing keyboard beside it. Soft textured shading, warm palette with plum accents, gentle light, simple bold
+shapes, magazine-cover quality. No text, letters, numbers, logos, brand marks, UI screenshots or recognizable people; not in
+any named artist's style. Save it as cover.png in the current directory. Reply only with the file name.
