@@ -104,5 +104,44 @@
   "source_title": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads [U]",
   "date": "2026-11-28",
   "id": "2026-11-28-5"
+ },
+ {
+  "title": "Remora 推出防 AI 作弊文件編輯器 Syntax",
+  "what": "普渡大學四名學生創立的新創公司 Remora 推出文件編輯器 Syntax，用來防範 AI 作弊。系統不分析成品文字，而是記錄打字速度、游標移動與貼上內容，供教師判斷作業是否為學生親自完成。據報導，目前已有美國 40 所大專院校在課堂中使用，下學期另有 4 所學校將導入。",
+  "impact": "學生可自費訂閱，3 個月 9.99 美元、6 個月 14.99 美元、9 個月 19.99 美元；學校則可透過 Canvas、Brightspace 等學習管理系統另行議價授權。系統僅記錄自家編輯器內的行為，表示不出售學生資料，也不用學生作品訓練 AI 模型。",
+  "steps": [],
+  "company": "其他",
+  "scene": "A quiet wooden desk with an open notebook, a pencil, a cup of tea, and a single glowing keyboard beside it",
+  "source": "TechNews 科技新報",
+  "source_url": "https://technews.tw/2026/11/28/purdue-university-students-develop-ai-writing-monitoring-software/",
+  "source_title": "普渡大學生打造防 AI 作弊編輯器 Syntax！不看成品改追蹤打字與游標，已獲美 40 所大專院校採用",
+  "date": "2026-11-28",
+  "id": "2026-11-28-6"
+ },
+ {
+  "title": "唐吉訶德推出 AI 社員近藤愛擔任宣傳",
+  "what": "唐吉訶德母公司 PPIH 推出 AI 社員「近藤愛」，於 2026 年 11 月 23 日正式以宣傳擔當身份上任。近藤愛外型以官方吉祥物「ドンコ」為原型，職責涵蓋門市促銷 POP、商品介紹影片與社群發文。PPIH 從 2026 年 7 月起讓其試行工作，11 月 19 日正式發表。",
+  "impact": "促銷看板與海報製作時間由約一個月縮短至約一週，促銷物數量隨之增加。公司對外明確標示近藤愛為 AI 角色，店內手寫 POP 目前仍很少使用生成式 AI。",
+  "steps": [],
+  "company": "其他",
+  "scene": "A cheerful mascot figurine beside stacks of colorful paper posters and a small video camera on a wooden shelf",
+  "source": "TechNews 科技新報",
+  "source_url": "https://technews.tw/2026/11/28/don-don-donki-launches-ai-employee-but-keeps-posters-handwritten/",
+  "source_title": "主動標示 AI、手寫 POP 留給店員！唐吉訶德如何靠「近藤愛」加速行銷，又不失招牌「店的味道」？",
+  "date": "2026-11-28",
+  "id": "2026-11-28-7"
+ },
+ {
+  "title": "AI 的溫和語氣多半是刻意設計",
+  "what": "開發者調校模型時，常讓 AI 加入安慰、鼓勵與共感的語句，以提升使用者的舒適感。這種 social 感並非與生俱來，會隨對話內容與互動累積而改變。",
+  "impact": "使用者可以要求 AI 少用情緒化表達，改採客觀、以事實為導向的回應。但在長篇對話中，系統仍可能重新帶入較溫和的語氣，需留意。",
+  "steps": [],
+  "company": "其他",
+  "scene": "A quiet desk with a closed notebook, a single lamp, and a smooth stone beside a glass of water.",
+  "source": "TechNews 科技新報",
+  "source_url": "https://technews.tw/2026/11/28/ai-empathy-not-innate-research-chatbot-compassion-deliberate-design/",
+  "source_title": "AI 會安慰人不是天性，研究指聊天機器人的同理心是刻意設計",
+  "date": "2026-11-28",
+  "id": "2026-11-28-8"
  }
 ]
