@@ -268,7 +268,7 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 
 ## Guides
 - [What to check when buying a used iPhone: an in-person checklist](https://agentmesh.uk/guides/used-iphone-checklist/en/) / [買二手 iPhone 要檢查什麼？當面驗機清單](https://agentmesh.uk/guides/used-iphone-checklist/)
-- [How to check iPhone battery health and when to replace the battery](https://agentmesh.uk/guides/iphone-battery-health/en/) / [iPhone 電池健康度怎麼看？什麼時候該換電池](https://agentmesh.uk/guides/iphone-battery-health/)
+- [How to check iPhone battery health and maximum capacity, and when to replace the battery](https://agentmesh.uk/guides/iphone-battery-health/en/) / [iPhone 電池健康度與最大容量怎麼看？什麼時候該換電池](https://agentmesh.uk/guides/iphone-battery-health/)
 - [iPhone charging slowly? How to check your charger and cable](https://agentmesh.uk/guides/iphone-charging-speed/en/) / [iPhone 充電很慢？怎麼確認充電器和線材夠不夠快](https://agentmesh.uk/guides/iphone-charging-speed/)
 - [Too many iPhone screenshots? Sort bookings, receipts and recipes](https://agentmesh.uk/guides/organize-screenshots/en/) / [iPhone 截圖太多怎麼整理？訂位、收據、食譜一次分好類](https://agentmesh.uk/guides/organize-screenshots/)
 - [How to keep receipts and e-invoices so month-end expenses are easy](https://agentmesh.uk/guides/receipts-for-expenses/en/) / [收據和電子發票怎麼保存，月底報帳不手忙腳亂](https://agentmesh.uk/guides/receipts-for-expenses/)
@@ -299,7 +299,7 @@ Questions and answers in Simplified Chinese, Japanese, Korean, Spanish, French a
 - [iPhone shows No Service or SOS? Fix cellular problems](https://agentmesh.uk/guides/iphone-no-cellular/en/) / [iPhone 顯示「沒有服務」或「SOS」？訊號問題排除](https://agentmesh.uk/guides/iphone-no-cellular/)
 - [Scan documents with iPhone: in Notes or Files](https://agentmesh.uk/guides/scan-documents-iphone/en/) / [用 iPhone 掃描文件：備忘錄和檔案 App 都可以](https://agentmesh.uk/guides/scan-documents-iphone/)
 - [Find old screenshots in iPhone Photos: search by text and date](https://agentmesh.uk/guides/find-old-screenshots/en/) / [在 iPhone「照片」裡找以前的截圖：用文字和日期搜尋](https://agentmesh.uk/guides/find-old-screenshots/)
-- [How to add tickets and boarding passes to Apple Wallet](https://agentmesh.uk/guides/wallet-passes/en/) / [怎麼把票券、登機證加到 Apple 錢包？](https://agentmesh.uk/guides/wallet-passes/)
+- [How to add tickets, boarding passes and rewards cards to Apple Wallet](https://agentmesh.uk/guides/wallet-passes/en/) / [怎麼把票券、登機證、會員卡加到 Apple 錢包？](https://agentmesh.uk/guides/wallet-passes/)
 - [Hanging a picture straight with the iPhone level](https://agentmesh.uk/guides/iphone-level-hang-picture/en/) / [掛畫怕掛歪？用 iPhone「測距儀」的水平儀](https://agentmesh.uk/guides/iphone-level-hang-picture/)
 - [Track your period in the iPhone Health app](https://agentmesh.uk/guides/health-cycle-tracking/en/) / [用 iPhone「健康」App 記錄經期：經期追蹤怎麼開](https://agentmesh.uk/guides/health-cycle-tracking/)
 - [Identify a plant from a photo with iPhone Visual Look Up](https://agentmesh.uk/guides/identify-plants-visual-look-up/en/) / [拍照就能查植物名字？iPhone「圖像查詢」怎麼用](https://agentmesh.uk/guides/identify-plants-visual-look-up/)
