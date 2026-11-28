@@ -66,5 +66,43 @@
   "source_title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
   "date": "2026-11-28",
   "id": "2026-11-28-2"
+ },
+ {
+  "title": "Android 測試 AI 自製小工具功能",
+  "what": "Android 的「Create My Widget」功能讓使用者描述需求，由 AI 生成對應的小工具，目前屬於測試版。此功能於今年 I/O 大會宣布，是 Gemini Intelligence 系列功能的一部分，製作過程約需二十秒。",
+  "impact": "目前僅陸續在 Pixel 手機上推出，多數工具其實是 Gemini 的提示捷徑，且套用固定範本，無法即時顯示如公車到站時間等資訊，較像一體適用的模板而非可自由客製的應用程式。",
+  "steps": [],
+  "company": "Google",
+  "scene": "A row of smartphones on a wooden desk beside a potted plant and a soft morning light through a window.",
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+  "source_title": "Android’s DIY widgets are a bit of vibe-coding fun",
+  "date": "2026-11-28",
+  "id": "2026-11-28-3"
+ },
+ {
+  "title": "多州檢察長阻止聊天資料出售",
+  "what": "多個州的檢察長聯手阻止一家目前處於第 11 章破產程序的公司出售使用者聊天資料。檢察長團體指控該公司打算拍賣超過 2,100 萬個美國帳號的私人聊天紀錄，其中逾 210 萬個屬於未成年人。首位潛在買家成立時間很短，於 2026 年 11 月 13 日才設立，且未列出母公司或投資人。",
+  "impact": "檢察長認為拍賣計畫未保障使用者權益，買方無需遵守既有隱私政策，使用者也無法刪除自身資料，對資料用途亦無明確限制。目前爭議仍在進行中。",
+  "steps": [],
+  "company": "其他",
+  "scene": "A stack of sealed paper folders on a wooden table beside a closed laptop, soft morning light through a window.",
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+  "source_title": "42 state AGs are trying to stop from selling users’ chats",
+  "date": "2026-11-28",
+  "id": "2026-11-28-4"
+ },
+ {
+  "title": "南韓公平會對蘋果啟動程序 認為宣傳 AI 功能有誤導之嫌",
+  "what": "南韓公平交易委員會已對蘋果正式啟動程序，認為其宣傳 Apple Intelligence 功能時可能誤導消費者。案件起因是首爾 YMCA 於 2025 年 3 月提出申訴，指蘋果在功能延後推出後仍持續行銷 iPhone 16。調查人員認為蘋果隱瞞或淡化部分功能的推出時程與可用語言資訊，違反標示及廣告法。",
+  "impact": "若最終認定違法，蘋果可能被下令改正並禁止類似行為，同時面臨罰鍰；外媒估計罰款約在 2,100 萬至 4,800 萬美元之間，但委員會尚未公布確切數字。一般用戶需留意功能實際推出時程與可用語言，目前委員會尚未作出最終決定。",
+  "steps": [],
+  "company": "Apple",
+  "source": "9to5Mac",
+  "source_url": "https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads/",
+  "source_title": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads [U]",
+  "date": "2026-11-28",
+  "id": "2026-11-28-5"
  }
 ]
