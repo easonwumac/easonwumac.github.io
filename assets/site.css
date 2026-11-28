@@ -76,7 +76,7 @@ h1, h2, h3 { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "
 .hero p { font-size: 1.2rem; color: var(--muted); margin: 0 0 32px; max-width: 30em; }
 .hero .cta { display: flex; gap: 14px; flex-wrap: wrap; }
 .fan { position: relative; height: 520px; }
-.fan img { position: absolute; width: 228px; border-radius: 34px; box-shadow: var(--shadow); background: var(--surface); }
+.fan img { position: absolute; width: 228px; height: auto; border-radius: 34px; box-shadow: var(--shadow); background: var(--surface); }
 .fan img:nth-child(1) { left: 4%; top: 64px; transform: rotate(-6deg); }
 .fan img:nth-child(2) { left: 32%; top: 0; z-index: 2; }
 .fan img:nth-child(3) { left: 60%; top: 64px; transform: rotate(6deg); }
@@ -94,7 +94,7 @@ h1, h2, h3 { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "
   text-decoration: none; transition: transform .35s cubic-bezier(.2, .8, .2, 1), box-shadow .35s ease; }
 .card:hover { transform: scale(1.015); box-shadow: var(--lift-hover); }
 .card .peek { height: 230px; background: var(--tint); display: flex; justify-content: center; align-items: flex-start; overflow: hidden; padding-top: 30px; }
-.card .peek img { width: 60%; border-radius: 22px 22px 0 0; box-shadow: 0 -8px 30px -12px rgb(0 0 0 / .25); }
+.card .peek img { width: 60%; height: auto; border-radius: 22px 22px 0 0; box-shadow: 0 -8px 30px -12px rgb(0 0 0 / .25); }
 .card .meta { display: grid; grid-template-columns: 52px 1fr; gap: 2px 14px; padding: 18px 22px 24px; align-items: center; }
 .card .meta img { grid-row: span 2; width: 52px; height: 52px; border-radius: 12px; }
 .card h3 { margin: 0; font-size: 1.1rem; line-height: 1.3; letter-spacing: -.015em; }
