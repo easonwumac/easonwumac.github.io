@@ -264,3 +264,19 @@ h1, h2, h3 { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "
 .hl-group h3 { font-size: 1.08rem; margin: 0 0 4px; }
 .hl-group .highlights { columns: 1; }
 .features + .highlights, .features + .hl-groups { margin-top: 32px; }
+
+/* App Store-style lists: the App directory on the home page and at /directory/ (user 2026-11-28: 「參考 app store 的宣傳方式」) */
+.store-list { list-style: none; margin: 0; padding: 8px 28px; display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 36px;
+  background: var(--surface); border-radius: var(--radius); }
+.store-row { display: flex; align-items: center; gap: 14px; padding: 16px 0; border-bottom: 1px solid var(--line); min-width: 0; }
+.sr-main { display: flex; align-items: center; gap: 14px; flex: 1; min-width: 0; text-decoration: none; }
+.sr-main img, .sr-main i { width: 64px; height: 64px; border-radius: 15px; flex: none; outline: 1px solid rgb(127 127 127 / .18); outline-offset: -1px; background: var(--sunk); display: block; }
+.sr-main span { display: grid; gap: 3px; min-width: 0; }
+.sr-main b { font-size: 1rem; font-weight: 600; letter-spacing: -.01em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sr-main small { font-size: .84rem; line-height: 1.35; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.sr-main:hover b { color: var(--accent); }
+.get { flex: none; min-width: 72px; text-align: center; padding: 5px 16px; border-radius: 999px; background: var(--sunk); color: var(--accent);
+  font-weight: 700; font-size: .9rem; text-decoration: none; transition: background .2s ease; }
+.get:hover { background: color-mix(in srgb, var(--accent) 16%, var(--sunk)); }
+@media (max-width: 900px) { .store-list { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .store-list { grid-template-columns: 1fr; padding: 4px 18px; } .sr-main img, .sr-main i { width: 56px; height: 56px; border-radius: 13px; } }
